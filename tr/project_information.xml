@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- EN -->
+<!-- NOTE: This is pure XML (not interpreted as a resource file) so you can't use the "\uxxxx" notation for Unicode
+            characters. The file is UTF-8 encoded, so you can just use the appropriate characters. Backslash "\" is not
+            used as an escape character. Only the following characters need to be escaped within the text: &amp; &gt; &lt;
+-->
+<Information xmlns="http://www.interactive-scape.com/wls_project_information">
+    <Title>PROJE HAKKINDA</Title>
+    <SectionList>
+        <Section>
+            <Name>Verlust der Nacht</Name>
+            <Title>"Verlust der Nacht" Araştırma Grubu</Title>
+            <PageList>
+                <Page>
+                    <Text>Işıkla çağdaşlık, güvenlik ve zenginlik gibi pozitif olguları ilişkilendiririz. Ne yazık ki çağdaş aydınlatmanın sayısız yararlarının yanında olumsuz yan etkileri de bulunmaktadır. Gece ve gündüz ritmi olarak ışığın tüm canlılar üzerinde fiziksel ve psikolojik açıdan etkileri olduğunu biliyoruz. Ancak yapay aydınlatmanın, karada ve suda yaşayan bağımsız gruplar, özellikle insanlara yönelik etkilerini henüz tam olarak bilmiyoruz. </Text>
+                </Page>
+                <Page>
+                    <Text>Yapay aydınlatmasız bir yaşamı bugün hayal etmemiz olanaksız, ama ya sonuçları? "Verlust der Nacht" bu sonuçların çevre, kültür, sosyo-ekonomik ve insan sağlığı üzerindeki etkilerini araştırmakla birlikte, gecenin giderek aydınlanmasının nedenlerini de incelemektedir. Çalışmalarımız yapay ışığın büyük yararlarından ödün vermeden, onun olumsuz etkilerini azaltarak, iyileştirilmiş aydınlatma kavramları ve yenilenebilir teknolojiler geliştirilmesine yardımcı olacaktır.</Text>
+                </Page>
+                <Page>
+                    <Text>Araştırma grubu finansal olarak Federal Almanya Eğitim ve Araştırma Bakanlığı (BMBF) “Sürdürülebilir Kalkınma için Araştırma” (FONA) çerçeve programı kapsamında ve Berlin Ekonomi, Teknoloji ve Araştırma Senatosu tarafından desteklenmektedir.</Text>
+                </Page>
+                <Page>
+                    <Text>Araştırma grubu, aşağıdaki kurum ve kuruluşlardan doğa, sosyal ve gökbilimciler ile mühendislerden oluşmaktadır:</Text>
+                    <Image>wls_project_info_logos_</Image>
+                </Page>
+            </PageList>
+        </Section>
+        <Section>
+            <Name>GLOBE at Night</Name>
+            <Title>Gece Gökyüzü</Title>
+            <PageList>
+                <Page>
+                    <Text>Günümüzde şehirler o kadar aydınlık ki binlerce yıldızı artık göremiyoruz. Bir bölgedeki ışıkkirliliğinin ölçütü ne kadar yıldızın görülebilir olduğudur. 2006’dan bu yana dünya çapında binlerce insan yıldızları saymış, Gece Gökyüzü (www.GLOBEatNight.org) bu veriyi toplayıp, parlaklık haritası üzerinde görselleştirmiştir. Işıkkirliliği haritaları bu şekilde hazırlanırlar.</Text>
+                </Page>
+                <Page>
+                    <Text>Işıkkirliliğinin ölçümüne yardımcı olun! Her veri ışıkkirliliğinin haritalanmasına yardımcı olur. Aynı bölgeden birçok veri daha hassas bilgiye ulaşmamızı, değişik bölgelerden gelen verilerse ışıkkirliliği haritalarının kapsamının genişletilmesini sağlar.İster şehir merkezinde olun, ister kırsal bölgede, tüm ölçümler yararlı olacaktır! Uygulama dünya çapında ve internete bağlı olmadığınızda da çalışabildiği için, nerede olursanız olun ışıkkirliliği haritalarının çıkarılmasına yardımcı olabilirsiniz.</Text>
+                </Page>
+                <Page>
+                    <Text>Yıllara göre ölçümlerin karşılaştırılması, değişimi belirler. Bu nedenle aynı bölgede sıkça ölçüm yapılması çok yararlıdır. Örneğin hemen evinizin dışında… Toplanmasına yardımcı olduğunuz verilerle ışıkkirliliğini izleyebiliriz. Üstelik bu veriler, ışıkkirliliğinin etkilerini anlamak amacıyla yapılacak başka araştırmalarda da örneğin bölgenin ekonomik gelişimi, yabani hayvanların dağılımı ve hatta bazı hastalıkların belirlenmesinde kullanılabilir.</Text>
+                </Page>
+            </PageList>
+        </Section>
+        <Section>
+            <Name>Işıkkirliliği</Name>
+            <Title>Işıkkirliliği</Title>
+            <SectionList>
+                <Section>
+                    <Name>Işıkkirliliği nedir?</Name>
+                    <Title>Işıkkirliliği nedir?</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Ampülün bulunmasından bu yana gecelerimiz giderek daha aydınlık olmaktadır. Elektrik tüketiminin %19’u aydınlatma amacıyla olup, bu miktar 1900 milyon ton korbondioksite denk gelir. Başlıca aydınlatma kaynakları sokak lambaları, bina ve reklam panolarıdır. Sadece sokak lambaları dünya genelinde 114 TWh elektrik tüketmekte olup, bu lambaların bazıları amaçsızca gökyüzünü aydınlatır. Işıkkirliliğinin önlenmesi aynı zamanda enerji ve para tasarrufu anlamına gelmektedir.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Işıkkirliliği sadece enerji tüketmekle kalmaz, aynı zamanda birçok canlıya zarar verir. Canlılar üzerindeki bu zararlı etkilerin göstergeleri artmaktadır. Sonuç olarak özellikle yerleşim yerleri ve ekolojik olarak önem taşıyan bölgelerde önlemler alınmalıdır. Bu önlemler ışıkları söndürmek anlamına gelmemekte; ancak ışığı kullanma amaçlarımızı ve kullanma biçimimizi sorgulamak biçiminde gerçekleşecektir. Lambaların sadece istenen bölgeyi aydınlatması, verimli dalgaboylarındaki ışık kaynaklarının kullanılması ve geniş katılım sorunun etkilerini azaltacaktır.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Gökbilim</Name>
+                    <Title>Gökbilim</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Yıldızlar Çok eski zamanlardan bu yana insanoğlunun gelişimine katkıda bulunmuşlardır: Birçok kültürde   tanrılaştırılmışlar ve doğumları mitlerle efsanelere konu olmuştur. Pratikteyse yıldızlar yön bulmamızın ve zamanı ölçmemizin temelini oluşturmuşlardır. Gelişmiş toplumlardaysa, onların güzelliğinden ve büyük bir evrenin küçücük bir parçası olduğumuzu hatırlatmasından hoşlanılır. Günümüzde insanların %70’i gece gökyüzü çok parlak olduğu için ne yazık ki Samanyolu’nu görememektedir.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Gökbilimciler için ışıkkirliliği büyük bir sorun oluşturur: 1913’de bile Berlin gözlemevi, şehir üzerindeki gece gökyüzünün parlaklaşmasıyla beraber Potsdam’a taşınmak zorunda kalmıştır. Günümüzdeyse karanlık gökyüzü bulabilmek amacıyla gökbilimcilerin çok daha uzaklara, örneğin Şili’ye gitmeleri gerekiyor. Amatör gökbilimcilerse bu konuda daha şanssızlar...Yaşlılar, çocukluklarında sahip oldukları yıldızlı gökyüzünü özlüyorlar; çocuklar yıldızların pırıl pırıl parladığı gökyüzünü hiç göremiyorlar... </Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Kronobiyoloji/Sağlık</Name>
+                    <Title>Kronobiyoloji/Sağlık</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Vücudumuzun birçok temel işlevi, ritmik gece gündüz değişimini izler. Bunlara uyku, hormonların salgılanması, vücut sıcaklığının günlük değişimi ve kalp atışlarımız dahildir. Vücut ritmi, vücut saatimiz tarafından kontrol edilir ve insanlarda olduğu gibi, tüm memelilerde ortabeynin bir parçası olan hipotalamus’da bulunur. Vücudumuzdaki tüm hücrelerin gece gündüz değişimiyle uyumundan hipotalamus sorumludur.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Vücut saatimize gece veya gündüz olduğunu ışık şöyler: Karanlıkta Melatonin hormonu salgılanır ve bu hormon bizi yorgun kılarak, vücudumuzu dinlenmeye geçirir. Kalp atışlarımız ve nefesimiz yavaşlar,  vücut sıcaklığımız düşer. Ancak yapay ışık, özellikle LED’lerin donuk beyaz ışığı ve bilgisayar ekranlarından dolayı vücudumuz yanlış sinyaller alır, Melatonin salgılanamaz; vücut ritmimiz bozulur ve sonuçta olması gerektiği gibi uzun ve gürültülü uyuyamayız.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Yeterli Melatonin salgılanamadığında uykusuzluk başlar. Melatonin aynı zamanda patojenlere karşı antioksidan olarak kanser hücreleriyle savaştığı için, uykusuzlukla birlikte bağışıklık sistemimiz zayıflar. Şeker ve obezite hastalıklarıyla ilgili bağlantılar olduğundan da şüphe edilmektedir. Sonuçta karanlıkta uyumak bir lüks değil, sağlıklı yaşamın en temel parçasıdır.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Çevrebilim</Name>
+                    <Title>Çevrebilim</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Birçok canlı Ay’ın ve yıldızların ışığını yön belirlemede kullanır; ancak yapay ışık, doğal gece ışığını dramatik bir şekilde gölgelemektedir: Milyonlarca kuş ışıklandırılmış binalara çarparak yaşamını yitirmekte, yavru deniz kaplumbağları yumurtadan çıktıklarında denizdeki yakamozlara değil, sahildeki aydınlatmalara yönelerek kuruyup, yok olmakta, polenlerin taşınması ve beslenme zincirinde önemli yere sahip olan sayısız böcek, lambalarda yitip gitmektedir.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Hayvanlar sadece doğadaki yerlerine, yaşam bölgeleri ve besin zincirine göre evrilmemişlerdir: aynı zamanda gece veya gündüz aktif olmalarına göre de sınıflandırılırlar. Yapay ışık, gündüzcü canlıların aktiflik süresini uzatırken, gececiler ışıktan saklanırlar.  Tüm omurgalıların %30’u, omurgasızların %60’ı gece aktif olup, ışıkkirliliğiyle birlikte gece yaşam alanlarını kaybetmektedirler. Bu gelişmenin biyoçeşitlilik üzerindeki etkileri henüz öngörülememektedir.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Mevsimlere göre günışığının değişimi, canlılar için çok önemli bir tetik mekanizmasıdır: Günler kısalırken bitkiler yapraklarını döker, hayvanlarsa yağ depolar ya da göçe hazırlanırlar. Eğer günler yapay ışıkla uzatılırsa canlılar kışa sağlıklı hazırlanamazlar ve bu durum ölümcül olabilir.  </Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Kültürel Tarih</Name>
+                    <Title>Kültürel Tarih</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Yapay aydınlatma gelişmenin ve zenginliğin bir göstergesidir. 1880’lerde ampülün bulunmasıyla birlikte Berlin gibi şehirler kasıtlı olarak bunu kentsel modernliğin simgesi olarak kullandılar. Şehirler giderek aydınlanırken, karanlık azgelişmişliğin, fakirliğin ve tehlikenin sembolü oldu. Politik olarak da gösterilerde gücün bir simgesi olarak yapay aydınlatma kullanıldı (Örneğin Nazi döneminde yapılan Nüremberg gösterileri)</Text>
+                        </Page>
+                        <Page>
+                            <Text>Aynı zamanda gecenin gereksiz aydınlatılmasına karşı eleştiriler de vardı. Özellikle 1910’larda ve 1920’lerde ortaya çıkan Neon tabelalar, manzarada ahlaki çöküşün simgesi olarak göze çarpmakta, pratikte trafiği de etkilemekteydi. Benzer tepkiler ilk aydınlatma yasasının çıkarılmasına neden oldu.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Toplum</Name>
+                    <Title>Toplum</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Yapay aydınlatma nedeniyle 24 saatlik bir çevrede yaşamaktayız. Işığı verimliliğin arttırılması, yaşam kalitesinin yükseltilmesi için kullanmaktayız: çalışmak, eğlence ve seyahat artık mevsimlere ve saate bağımlı değil; Ancak bu durum bizi doğal gece-gündüz dengemizden kopararak, yeterli bir şekilde dinlenmemizi engellemekte olup, sağlığımıza zararlıdır.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Sokak lambaları sıkça güvenlikle ilişkilendirilir. Işıkları söndürmek, karanlık korkumuzu açığa çıkarır. Fazla aydınlatmanın suç oranını düşürdüğü hayli tartışmalı bir düşüncedir. Işıkla-suç arasında az sayıda yapılmış araştırmalar bir ilişki olabileceğini öne sürse de büyük şehirler arasındaki önemli suç oranı farkları, aydınlatmadan ileri gelmemektedir. Hatta bazı durumlarda ışığın gözlerimizi kamaştıracak kadar fazla olması, görmemizi olumsuz olarak etkiler.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Yapay aydınlatmanın bir maliyeti vardır: Kurulum, işletme, bakım doğrudan maliyeti oluşturur; sağlık ve çevre üzerindeki olumsuz etkileri de dolaylı maliyeti oluşturur. Bu nedenle ışık gelişigüzel kullanılmamalıdır. Etkili ve sürdürülebilir bir aydınlatma için yer seçimi, aydınlatma süresi ve şiddeti, kullanılacak dalgaboyu gereksinime göre planlanmalıdır.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Aydınlatma Teknolojisi</Name>
+                    <Title>Aydınlatma Teknolojisi</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Bugün tümü değişik renklerde çeşitli ışık kaynaklarımız bulunmaktadır. Sokak aydınlatması için cıva buharlı donuk beyaz, sarı sodyum lambaları, ve beyaz LED teknolojisi kullanılır. Işığın rengi algılarımızı, ruh halimizi ve vücut saatimizi etkilemektedir. Bitki ve hayvanlar da değişik renklere değişik tepkiler verirler. Bu nedenle aydınlatma, çevreye göre uyarlanmalıdır.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Doğru lambalar seçerek, istenilen bölgeyi aydınlatırken, diğer bölgelerin karanlık kalmasını sağlayabiliriz. Örneğin sokak lambaları yürüdüğümüz yeri aydınlatırken, doğal çevreyi ve yatak odalarımızın pencerelerini karanlık bırakmalıdır. Benzer şekilde bina aydınlatmaları gökyüzüne ve binayı çevreleyen tüm alanlara ışık saçmamalıdır. Aydınlatmanın akıllıca yapılması, estetik olduğu kadar, enerjiden ve paradan tasarruf sağlarken, insan ve doğa için daha yararlıdır.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Birçok yerleşim bölgesinde geceboyu aydınlatmanın gereği bulunmamaktadır. Gerçekten bazı toplumlarda geceyarısından sonra ışıklar kısılmakta veya söndürülmektedir. LED lambalarla hareket algılayıcı otomatlar kullanarak sağlayacağımız çözümlerle, gereksinim duyduğumuz anda enerjiyi tüketirken, aynı zamanda güzel gecelerimizi de korumuş oluruz. </Text>
+                        </Page>
+                    </PageList>
+                </Section>
+            </SectionList>
+        </Section>
+        <Section>
+            <Name>Amatör gökbilimciler için notlar</Name>
+            <Title>Amatör gökbilimciler için notlar</Title>
+            <PageList>
+                <Page>
+                    <Text>Bu uygulama sizi ışık üzerine dünya çapında bir araştırmanın parçası yapacak. Bu etkileyici, ama önce güvenlik! Lütfen ölçümleriniz için güvenli bir yer seçin. Bir yıldızı ararken hareket etmeyin, birşeylere takılıp tökezleyebilirsiniz. Caddelerden ve uçurum kenarlarından uzak durun. Çocuğunuzun bu uygulamayı yalnız kullanıp kullanamayacağı kararı size kalmış, ama biz ölçümleri birlikte almanızı öneririz; hem böylesi daha eğlenceli!  </Text>
+                </Page>
+                <Page>
+                    <Text>Karanlığa uyum sağlamak için gözlerimiz 30 dakikalık bir süreye gereksinim duyar. Bulunduğunuz yerdeki ışık şiddetine gözlerinizin alışabilmesi için, kendinize zaman tanıyın. Işık kaynağının altında durmayın; arkanızda kalmasını sağlayın. Olanaklı olduğu sürece uygulamayı gece modunda kullanın; böylelikle gözleriniz kamaşmamış olur.</Text>
+                </Page>
+                <Page>
+                    <Text>Gözlemlediğiniz her yıldızla, ölçümleriniz daha tutarlı olacaktır. Bu nedenle aynı yerde değişik gün ve saatlerde yapacağınız ölçümler çok yararlıdır. Ayrıca her gözlem haritaya ayrı bir nokta olarak kaydedildiği için şehir, kırsal alan veya tatil bölgesi olmasına bakılmaksızın tüm topladığınız veriler yapay ışımanın boyutu ve değişimi konusunda araştırmacılara ve tüm dünyaya yardımcı olacaktır.</Text>
+                </Page>
+            </PageList>
+
+
+        </Section>
+        <Section>
+            <Name>About</Name>
+            <Title>About</Title>
+            <SectionList>
+                <Section>
+                    <Name>Etiketler</Name>
+                    <Title>Etiketler</Title>
+                    <PageList>
+                        <Page>
+                            <Text><![CDATA[
+<p><b>Telif Hakkı:</b>
+Forschungsverbund Berlin e.V.
+Rudower Chaussee 17
+12489 Berlin
+Tel.: 030 63 92 - 33 30
+E-Posta: info@fv-berlin.de</p>
+
+<p><b>Geliştiriciler:</b>
+interactive scape GmbH
+Köpenicker Str. 48/49
+10179 Berlin
+Tel.: +49 (0)30 69 80 94-15
+E-posta: info@interactive-scape.com</p>
+
+<p>David Wasser, Yalçı Ata
+Cosalux GmbH
+Christian-Pleß-Straße 11
+63069 Offenbach am Main
+Tel.: 069 860072260</p>
+
+<p>verlustdernacht@igb-berlin.de
+globeatnight@noao.edu</p>
+
+<p>Türkçe çeviri Nail Köker tarafından yapılmıştır, isikkirliligi.org</p>
+
+<p>- “Sky Map” açık kaynak kodu ile geliştirilmiştir <i>http://code.google.com/p/stardroid</i>
+- 'android-wheel' kullanır <i>http://code.google.com/p/android-wheel</i>
+- Uses Apache Commons Math (Apache License, Version 2.0, <i>http://www.apache.org/licenses/</i>:
+Copyright 2001-2014 The Apache Software Foundation
+This product includes software developed at
+The Apache Software Foundation (<i>http://www.apache.org/</i>).
+</p>
+
+<p>Sürüm: %version%</p>
+]]></Text>
+                        </Page>
+                        <Page>
+                            <Image>wls_project_info_about_logo_en_</Image>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Destekleyenler</Name>
+                    <Title>Destekleyenler</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Bu uygulama Federal Almanya Eğitim ve Araştırma Bakanlığı (BMBF) “Sürdürülebilir Kalkınma için Araştırma” (FONA) çerçeve programı finansal desteği ile geliştirilmiştir. Proje No: 033L038A. Proje danışmanlığı: Jülich Proje Yönetimi / Çevre, Sürdürülebilirlik ve İklim Koruma.</Text>
+                            <Image>wls_sponsorship_logo_en_</Image>
+                        </Page>
+                    </PageList>
+                </Section>
+            </SectionList>
+        </Section>
+    </SectionList>
+</Information>

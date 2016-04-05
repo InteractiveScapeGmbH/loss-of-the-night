@@ -1,0 +1,23 @@
+﻿"Contribuir a un projecte mundial de ciència ciutadana". (The Guardian)
+"Averigua exactament quan de greu és la contaminació lumínica". (Chandra Clarke, citizensciencecenter.com)
+"L'aplicació és molt fàcil de fer servir, i fins i tot amb l'ús es pot aprendre les diferents constel·lacions" (Nicholas Fordes, plos.org)
+
+L'aplicació Pèrdua de la Nit converteix els vostres ulls en un mesurador de llum, permetent-lo convertir-se en un científic-ciutadà i avaluar quan de brillant és el cel nocturne allí on resideixi.
+
+En moltes parts del món, el cel nocturn brilla per la contaminació de llum artificial d'un enllumenat mal dissenyat. Aquesta brillantor de cel desllueix les estrelles en el cel, canviant de forma dramàtica l'entorn natural de la nit. Els científics estan convençuts que la contaminació lumínica té un gran impacte en els ecosistemes nocturns, però pel moment es disposa de molt poca informació de quan de brillant és el cel actualment a tot el món, o com aquesta brillantor va canviant en el temps.
+
+Podeu ajudar-nos monitoritzant la brillantor del cel amb aquesta aplicació. Està basada en Google Sky Map i permet realitzar mesures amb un mesurador de llum molt sensible, estable i ben conegut: els seus ulls!. Tot el que heu de fer és cercar unes estrelles concretes en el cel i dir-nos si les podeu veure o no. L'ús de Pèrdua de la Nit és divertit i educatiu, a més de generar una important informació científica que ens permetrà protegir el nostre entorn en el futur.
+
+Després de realitzar la seva mesura, les dades són enviades anònimament al projecte GLOBE at Night (http://www.GLOBEatNight.org), on les podrà veure en un mapa i comparar amb observacions procedents de tot el món. Comptar estrelles és una gran experiència i una activitat familiar, a més de tenir l'oportunitat de conèixer el nom d'estrelles i constel·lacions. Els estudiants poden utilitzar l'aplicació per mesurar la brillantor del cel i la visibilitat de les estrelles pels seus propis projectes científics i al mateix temps formar part d'una xarxa global de ciència ciutadana.
+
+La informació més important pel projecte procedeix dels llocs brillants on no es poden veure moltes estrelles, però també es pot mesurar en llocs on encara es veu la Via Làctia. Si ets afortunat de viure en un lloc així, dóna’l a conèixer a tot el món!
+
+Els satèl·lits miren al terra, no al cel. Per a comparar la brillantor del cel amb la del terra, pots ajudar a la teva comunitat a seleccionar les làmpades per il·luminar el terra i no el cel. Esperem que en el futur les ciutats estalviïn energia i diners il·luminant adequadament els carrers, no enlluernant les finestres de les cases i tornem a tenir un cel ple d'estrelles.
+
+Podeu trobar molta més informació, inclosos detalls dels resultats preliminars,  a http://lossofthenight.blogspot.com
+
+És benvingut a contactar amb els investigadors en contaminació lumínica del projecte Verlust der Nacht que han dissenyat aquesta aplicació i conèixer els seus projectes a  (http://www.verlustdernacht.de). L'aplicació també ofereix informació bàsica sobre la història, importància i conseqüències de la llum artificial a la nit.
+
+Aquest projecte ha estat esponsoritzat pel Ministeri Federal d'Educació i Recerca (Alemanya).
+
+CATALÀ. La traducció ha estat realitzada per Salvador J. Ribas, Parc Astronòmic Montsec.

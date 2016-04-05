@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Please add  translation_description="" attributes to Strings to assist the translators. -->
+<string name="app_name" translation_description="Application Title">Loss of the Night</string>
+<string name="ecliptic">Ekliptika</string>
+<string name="zenith">ZENIT</string>
+<string name="nadir">NADIR</string>
+<string name="north">SEVER</string>
+<string name="east">VÝCHOD</string>
+<string name="west">ZÁPAD</string>
+<string name="south">JIH</string>
+<string name="sun">Slunce</string>
+<string name="moon">Měsíc</string>
+<string name="mercury">Merkur</string>
+<string name="venus">Venuše</string>
+<string name="earth">Země</string>
+<string name="mars">Mars</string>
+<string name="jupiter">Jupiter</string>
+<string name="saturn">Saturn</string>
+<string name="uranus">Uran</string>
+<string name="neptune">Neptun</string>
+<string name="pluto">Pluto</string>
+<string name="andromeda" translation_description="Name of the Andromeda constellation">Andromeda</string>
+<string name="aquarius" translation_description="Name of the Aquarius constellation">Vodnář</string>
+<string name="aquila" translation_description="Name of the Aquila constellation">Orel</string>
+<string name="aries" translation_description="Name of the Aries constellation">Beran</string>
+<string name="auriga" translation_description="Name of the Auriga constellation">Vozka</string>
+<string name="bootes" translation_description="Name of the Bootes constellation">Pastýř</string>
+<string name="cancer" translation_description="Name of the Cancer constellation">Rak</string>
+<string name="canis_major" translation_description="Name of the Canis Major constellation">Velký pes</string>
+<string name="capricornus" translation_description="Name of the Capricornus constellation">Kozoroh</string>
+<string name="carina" translation_description="Name of the Carina constellation">Lodní kýl</string>
+<string name="cassiopeia" translation_description="Name of the Cassiopeia constellation">Kasiopeja</string>
+<string name="centaurus" translation_description="Name of the Centaurus constellation">Kentaur</string>
+<string name="cetus" translation_description="Name of the Cetus constellation">Velryba</string>
+<string name="crux" translation_description="Name of the Crux constellation">Jižní kříž</string>
+<string name="cygnus" translation_description="Name of the Cygnus constellation">Labuť</string>
+<string name="draco" translation_description="Name of the Draco constellation">Drak</string>
+<string name="eridanus" translation_description="Name of the Eridanus constellation">Eridanus</string>
+<string name="gemini" translation_description="Name of the Gemini constellation">Blíženci</string>
+<string name="grus" translation_description="Name of the Grus constellation">Jeřáb</string>
+<string name="hercules" translation_description="Name of the Hercules constellation">Herkules</string>
+<string name="hydrus" translation_description="Name of the Hydrus constellation">Malý vodní had</string>
+<string name="leo" translation_description="Name of the Leo constellation">Lev</string>
+<string name="libra" translation_description="Name of the Libra constellation">Váhy</string>
+<string name="lupus" translation_description="Name of the Lupus constellation">Vlk</string>
+<string name="lyra" translation_description="Name of the Lyra constellation">Lyra</string>
+<string name="ophiuchus" translation_description="Name of the Ophiuchus constellation">Hadonoš</string>
+<string name="orion" translation_description="Name of the Orion constellation">Orion</string>
+<string name="pavo" translation_description="Name of the Pavo constellation">Páv</string>
+<string name="pegasus" translation_description="Name of the Pegasus constellation">Pegas</string>
+<string name="perseus" translation_description="Name of the Perseus constellation">Perseus</string>
+<string name="phoenix" translation_description="Name of the Phoenix constellation">Fénix</string>
+<string name="pisces" translation_description="Name of the Pisces constellation">Ryby</string>
+<string name="piscis_austrinus" translation_description="Name of the Piscis Austrinus constellation">Jižní ryby</string>
+<string name="puppis" translation_description="Name of the Puppis constellation">Lodní kýl</string>
+<string name="sagittarius" translation_description="Name of the Sagittarius constellation">Střelec</string>
+<string name="scorpius" translation_description="Name of the Scorpius constellation">Štír</string>
+<string name="taurus" translation_description="Name of the Taurus constellation">Býk</string>
+<string name="tucana" translation_description="Name of the Tucana constellation">Tukan</string>
+<string name="ursa_major" translation_description="Name of the Ursa Major constellation">Velká medvědice</string>
+<string name="ursa_minor" translation_description="Name of the Ursa Minor constellation">Malá medvědice</string>
+<string name="vela" translation_description="Name of the Vela constellation">Plachty</string>
+<string name="virgo" translation_description="Name of the Virgo constellation">Panna</string>
+<string name="capricorn" translation_description="Name of the Capricorn constellation">Kozoroh</string>
+<string name="southern_cross" translation_description="Name of the Southern Cross constellation">Jižní kříž</string>
+<string name="scorpio" translation_description="Name of the Scorpio constellation">Štír</string>
+<string name="little_dipper" translation_description="Name of the Little Dipper constellation">Malý vůz</string>
+<string name="little_bear" translation_description="Name of the Little Bear constellation">Malá medvědice</string>
+<string name="big_dipper" translation_description="Name of the Big Dipper constellation">Velký vůz</string>
+<string name="great_bear" translation_description="Name of the Great Bear constellation">Velká medvědice</string>
+<string name="plough" translation_description="Name of the Plough constellation">Velký vůz</string>
+<string name="sirius" translation_description="Name of the Star Sirius">Sírius</string>
+<string name="canopus" translation_description="Name of the Star Canopus">Canopus</string>
+<string name="arcturus" translation_description="Name of the Star Arcturus">Arktur</string>
+<string name="rigel_kentaurus_a" translation_description="Name of the Star Rigel Kentaurus A">Rigel Kentaurus A</string>
+<string name="vega" translation_description="Name of the Star Vega">Vega</string>
+<string name="rigel" translation_description="Name of the Star Rigel">Rigel</string>
+<string name="procyon" translation_description="Name of the Star Procyon">Procyon</string>
+<string name="betelgeuse" translation_description="Name of the Star Betelgeuse">Betelgeuse</string>
+<string name="achernar" translation_description="Name of the Star Achernar">Achernar</string>
+<string name="hadar" translation_description="Name of the Star Hadar">Hadar</string>
+<string name="capella" translation_description="Name of the Star Capella">Capella</string>
+<string name="altair" translation_description="Name of the Star Altair">Altair</string>
+<string name="acrux" translation_description="Name of the Star Acrux">Acrux</string>
+<string name="aldebaran" translation_description="Name of the Star Aldebaran">Aldebaran</string>
+<string name="spica" translation_description="Name of the Star Spica">Spica</string>
+<string name="antares" translation_description="Name of the Star Antares">Antares</string>
+<string name="pollux" translation_description="Name of the Star Pollux">Pollux</string>
+<string name="fomalhaut" translation_description="Name of the Star Fomalhaut">Fomalhaut</string>
+<string name="deneb" translation_description="Name of the Star Deneb">Deneb</string>
+<string name="regulus" translation_description="Name of the Star Regulus">Regulus</string>
+<string name="adhara" translation_description="Name of the Star Adhara">Adhara</string>
+<string name="shaula" translation_description="Name of the Star Shaula">Shaula</string>
+<string name="alnath" translation_description="Name of the Star Alnath">Alnath</string>
+<string name="alnilam" translation_description="Name of the Star Alnilam">Alnilam</string>
+<string name="alnair" translation_description="Name of the Star Alnair">Alnair</string>
+<string name="alioth" translation_description="Name of the Star Alioth">Alioth</string>
+<string name="mirphak" translation_description="Name of the Star Mirphak">Mirphak</string>
+<string name="kaus_australis" translation_description="Name of the Star Kaus Australis">Kaus Australis</string>
+<string name="dubhe" translation_description="Name of the Star Dubhe">Dubhe</string>
+<string name="alkaid" translation_description="Name of the Star Alkaid">Alkaid</string>
+<string name="alhena" translation_description="Name of the Star Alhena">Alhena</string>
+<string name="castor" translation_description="Name of the Star Castor">Castor</string>
+<string name="polaris" translation_description="Name of the Star Polaris">Polárka</string>
+<string name="alphard" translation_description="Name of the Star Alphard">Alphard</string>
+<string name="hamal" translation_description="Name of the Star Hamal">Hamal</string>
+<string name="algieba" translation_description="Name of the Star Algieba">Algieba</string>
+<string name="diphda" translation_description="Name of the Star Diphda">Deneb Kaitos</string>
+<string name="nunki" translation_description="Name of the Star Nunki">Nunki</string>
+<string name="mirach" translation_description="Name of the Star Mirach">Mirach</string>
+<string name="alpheratz" translation_description="Name of the Star Alpheratz">Alpheratz</string>
+<string name="saiph" translation_description="Name of the Star Saiph">Saiph</string>
+<string name="kochab" translation_description="Name of the Star Kochab">Kochab</string>
+<string name="rasalhague" translation_description="Name of the Star Rasalhague">Rasalhague</string>
+<string name="algol" translation_description="Name of the Star Algol">Algol</string>
+<string name="denebola" translation_description="Name of the Star Denebola">Denebola</string>
+<string name="alphekka" translation_description="Name of the Star Alphekka">Alphekka</string>
+<string name="etamin" translation_description="Name of the Star Etamin">Etamin</string>
+<string name="kaus" translation_description="Name of the Star Kaus">Kaus</string>
+<string name="shedir" translation_description="Name of the Star Shedir">Shedir</string>
+<string name="caph" translation_description="Name of the Star Caph">Caph</string>
+<string name="izar" translation_description="Name of the Star Izar">Izar</string>
+<string name="merak" translation_description="Name of the Star Merak">Merak</string>
+<string name="enif" translation_description="Name of the Star Enif">Enif</string>
+<string name="ankaa" translation_description="Name of the Star Ankaa">Ankaa</string>
+<string name="phad" translation_description="Name of the Star Phad">Phad</string>
+<string name="alderamin" translation_description="Name of the Star Alderamin">Alderamin</string>
+<string name="scheat" translation_description="Name of the Star Scheat">Scheat</string>
+<string name="markab" translation_description="Name of the Star Markab">Markab</string>
+<string name="menkar" translation_description="Name of the Star Menkar">Menkar</string>
+<string name="arneb" translation_description="Name of the Star Arneb">Arneb</string>
+<string name="unukalhai" translation_description="Name of the Star Unukalhai">Unukalhai</string>
+<string name="algenib" translation_description="Name of the Star Algenib">Algenib</string>
+<string name="vindemiatrix" translation_description="Name of the Star Vindemiatrix">Vindemiatrix</string>
+<string name="alcyone" translation_description="Name of the Star Alcyone">Alcyone</string>
+<string name="dog_star" translation_description="Name of the Dog Star (Sirius)">Psí hvězda</string>
+<string name="north_star" translation_description="Name of the North Star">Severka</string>
+<string name="pole_star" translation_description="Name of the (North) Pole Star">Polárka</string>
+
+<!-- PRIVACY DIALOG STUFF -->
+<string name="wls_dialog_privacy_title">SMLUVNÍ UŽIVATELSKÉ PODMÍNKY</string>
+<string name="wls_dialog_privacy_text">Aby byla Vaše měření použitelná, je třeba znát polohu a čas meření. Z tohoto důvodu potřebuje aplikace přístup k vaší GPS, aby zjistila vaší přesnou polohu při pozorování.</string>
+<string name="wls_dialog_privacy_policy_text">Přijetím souhlasíte se zásadami použití osobních údajů a s uživatelskými podmínkami. \n\n„Loss of the Night“\n
+Smluvní uživatelské podmínky\n
+1 Úvod
+Děkujeme za používání aplikace „Loss of the Night“. Pomocí ní se stáváte aktivním účastníkem celosvětového výzkumu zaměřeného na zmapovaní a pochopenní dopadů umělého osvětlení během nočních hodín. Zároveň Vás aplikace informuje o světelném znečištění. Tyto informace jsou poskytovány interdisciplinární výzkumnou sítí „Loss of the Night“, sídlící v Německu. Ta sleduje a analyzuje dopady nočního osvětlení na přírodu, zdraví a společnost. Více informací o těchto tématech můžete najít v informační části této aplikce a na stránce www.verlustdernacht.de/about-us.html.
+Všechny shromážděné údaje jsou elektronicky a anonymně odesílány do databáze Globe at Night (www.GLOBEatNight.org). Zde jsou využívány k vytvoření celosvětové mapy jasu oblohy. Cílem těchto občanských vědeckých projektů je globální zmapování jasu noční oblohy a jeho změn v čase. Měření jsou sbírána již od roku 2006, ale sběr dat prostřednictvím této aplikace začal až v roce 2013.
+Aplikaci „Loss of the Night“ vytvořilo sdružení Forschungsverbund Berlin e.V., Rudower Chaussee 17, 12489 Berlín, Německo. Abyste mohli aplikaci „Loss of the Night“ používat, přečtěte si pozorně následující uživatelské podmínky a vyjádřete s nimi svůj souhlas. Pokud s úplným zněním podmínek nesouhlasíte, aplikace nepoužívejte.\n\n
+2 Použití aplikace „Loss of the Night“\n
+Minimální nároky: Tato aplikace vyžaduje zařízeni používající systém Android verze 4.0 a vyšší. Požadované rozlišení je mdpi a vyšší.
+Poplatky třetím stranám: Měřeni jsou přenášena jako e-mail do databáze Globe at Night. Z tohoto důvodu mohou být vyžadovány poplatky třetím stranám, např. poskytovateli mobilních služeb. Za veškeré tyto poplatky je zodpovědný majitel mobilního zařízení.
+Aktualizace: Občasně mohou být nezbytné aktualizace kvůli aplikaci záplat, nových funkcí, doplňků nebo nových verzí aplikace.
+Neplnoleté osoby: Přijetím smluvních podmínek potvrzujete, že je vám 18 let a více. Pro osoby mladší 18-ti let je nutný souhlas obou rodičů.\n
+Venkovní použití: Aplikáce je navrhnuta pro venkovní použití během nočních hodin. Před použitím aplikace v noci musíte dokonale znát místo pozorování, abyste se vyhnuli případnému nebezpečí. Nebezpečí může představovat např.: zakopnutí, doprava, zvířata, počasí či kriminalita (tento výčet není úplný). Během používání aplikace musí být přítomna další dospělá osoba sledující změny případných nebezpečných faktorů a varující uživatele v případě hrozícího nebezpečí.\n\n
+3 Autorizace aplikace\n
+3.1 Přesná poloha (GPS a podle sítě)\n
+Umožňuje aplikaci zjistit vaši přesnou pozici pomocí systému GPS nebo pomocí síťových lokalizačních služeb, jako jsou vysílače mobilního operátora nebo Wi-Fi. Tyto lokalizační sluby ve vašem zařízení musí být zapnuté a povolené pro tuto aplikaci. Aplikace je využívá ke zjištění vaší polohy, což může vést ke zvýšené spotřebě energie.\n
+3.2 Plný přístup do sítě\n
+Umožňuje aplikaci navazovat síťová spojení a využívat vlastní síťové protokoly. Prohlížeč a jiné aplikace poskytují prostředky na posílání dat přes internet, takže povolení pro tento typ komunikace není vyžadováno.\n
+3.3 Zjištění stavu a totožnosti zařízení\n
+Umožňuje aplikaci přístup k funkcím telefonu. Toto povolení umožňuje zjistit telefonní číslo a ID zařízení, zda probíhá hovor a vzdálené číslo aktivního hovoru.\n
+3.4 Identifikace\n
+Při prvním spuštění aplikace bude vytvořeno anonymní uživatelské ID, které je přenášeno společně s měřeními. Nejsou přenášeny žádné osobní údaje, pokud nepovolíte přenos vašeho uživatelského jména a e-mailové adresy.\n
+3.5 Modifikace nebo smazání obsahu USB uložiště nebo SD karty\n
+Umožňuje aplikaci zápis do USB uložiště a zápis na SD kartu.\n
+3.6 Změna nastavení systému\n
+Umožňuje aplikaci změnu systémových nastavení. Škodlivé aplikace mohou poškodit konfiguraci vašeho systému.\n\n
+4 Soukromí\n
+Pro měření a vytváření map jasu oblohy je nutné znát vaši polohu. Bez povolení pro přenos informací o vaší poloze se nedají tato měření použít.
+Žádné další osobní údaje nejsou pro měření potřebné. Ovšem věk, nebo zrakové vady mohou schopnost odhadu jasu oblohy ovlivnit. Z toho důvodu jsou tyto informace při analýze měření užitečné. Pokud uživatel souhlasí s použitím těchto údajů, budou uloženy při každém měření. Pokud uživatel s použitím těchto údajů nesouhlasí, měření budou ukládána s náhodně vygenerovaným anonymním ID. 
+Pokud ve vašich měřeních objevíme zajímavé údaje, byli bychom rádi, kdybychom vás mohli kontaktovat e-mailem. E-mailová adresa ani žádný jiný osobní údaj nebudou poskytnuty třetím stranám ani použity k obchodním účelům.\n\n
+5 Záruka\n
+Tato aplikace je k dispozici zdarma. Shromážďěné údaje budou součástí mezinárodního občanského vědeckého projektu GLOBEatNight (www.globeatnight.org) a budou k dispozici anonymně na internetu. Bez záruky: NEJVYŠŠÍ MOŽNÝ STUPEŇ POVOLENÝ ZÁKONEM: TENTO SOFTWARE JE POSKYTNUT "TAK JAK JE" A JEHO POUŽÍVÁNÍ JE NA VLASTNÍ NEBEZPEČÍ BEZ JAKÝCHKOLIV ZÁRUK.
+</string>
+<string name="wls_dialog_privacy_positive">Souhlasím</string>
+<string name="wls_dialog_privacy_negative">Nesouhlasím</string>
+
+<!-- iOS does not allow apps to close themselves therefore a \'Decline\' button is not feasible. -->
+
+<!-- This button is only active once the checkbox below has been selected. -->
+
+<!-- GPS DIALOG STUFF -->
+<string name="wls_dialog_gps_disabled_title">GPS</string>
+<string name="wls_dialog_gps_disabled_text">Vaše GPS není aktivní. Prosím zapněte ji v nastavení vašeho telefonu.</string>
+<string name="wls_dialog_gps_disabled_positive">Demo</string>
+<string name="wls_dialog_gps_disabled_negative">Jít do "Nastavení"</string>
+
+<!-- PROGRESS BAR DIALOG STUFF -->
+<string name="wls_dialog_gps_waiting_title">GPS</string>
+<string name="wls_dialog_gps_waiting_message">Určování vaší současné pozice. \nViditelné satelity:: %1$d\nPřesnost: %2$s</string>
+
+<!-- iOS does not provide a means for determining the number of GPS satellites -->
+
+<!-- therefore the message needs to be adapted accordingly -->
+<string name="wls_dialog_gps_waiting_cancel">Ukončit</string>
+
+<!-- MAGNETIC FIELD TOO STRONG DIALOG -->
+<string name="wls_dialog_magnetic_field_title">MAGNETICKÉ POLE</string>
+<string name="wls_dialog_magnetic_field_text">Okolní magnetické pole je příliš silné a narušuje měření.</string>
+<string name="wls_dialog_magnetic_field_negative">Ukončit</string>
+<string name="wls_dialog_magnetic_field_positive">Demo</string>
+
+<!-- SYSTEM TIME INCORRECT DIALOG -->
+<string name="wls_dialog_system_time_title">SYSTÉMOVÝ ČAS</string>
+<string name="wls_dialog_system_time_text">Současný systémový čas se výrazně liší od času z GPS. Upravte prosím systémový čas.</string>
+<string name="wls_dialog_system_time_negative">Jít do "Nastavení"</string>
+<string name="wls_dialog_system_time_positive">Demo</string>
+
+<!-- CALIBRATE COMPASS DIALOG -->
+<string name="wls_dialog_calibrate_compass_title">KALIBRACE KOMPASU</string>
+<string name="wls_dialog_calibrate_compass_text">Přesnost kompasu je příliš malá. Ke zkalibrování kompasu opisujte mobilem tvar čísla 8. Pozorování hvězd začne automaticky, jakmile bude dosaženo potřebné přesnosti.</string>
+<string name="wls_dialog_calibrate_compass_negative">Ukončit</string>
+<string name="wls_dialog_calibrate_compass_positive">Demo</string>
+
+<!-- SKY MAP ACTIVITY STUFF -->
+<string name="wls_sky_map_button_invisible">Neviditelná či nejistá</string>
+<string name="wls_sky_map_button_search_again">Hledat znovu</string>
+<string name="wls_sky_map_button_visible">Hvězda je viditelná</string>
+<string name="wls_sky_map_button_start_measurement">Začít pozorovat hvězdy</string>
+<string name="wls_sky_map_toast_initializing">Lokalizace všech hvězd &gt; 45 stupňů nad horizontem...</string>
+<string name="wls_sky_map_toast_press_back_twice">Pro ukončení zmáčkněte znovu ZPĚT</string>
+<string name="wls_sky_map_toast_no_more_stars_to_choose">Žádné další hvězdy k výběru!</string>
+<string name="wls_sky_map_toast_choose_star_with_magnitude">Vybrat hvězdu s magnitudou %s</string>
+<string name="wls_sky_map_toast_please_find_next_star">Prosím najděte další hvězdu</string>
+
+<!-- STAR NOT VISIBLE DIALOG STUFF -->
+<string name="wls_star_not_visible_title">HVĚZDA NENÍ VIDITELNÁ</string>
+<string name="wls_star_not_visible_message">Vybrali jste možnost "Neviditelná či nejistá". Řekněte nám více o příčinách.</string>
+<string name="wls_star_not_visible_object">Nějaký objekt brání výhledu</string>
+<string name="wls_star_not_visible_weather">Mraky nebo mlha brání výhledu</string>
+<string name="wls_star_not_visible_invisible">Hvězda není viditelná</string>
+<string name="wls_star_not_visible_barely_visible">Viditelná pouze bočním viděním</string>
+<string name="wls_star_not_visible_unsure">Nejsem si jist, zda tam je, či není</string>
+<string name="wls_star_not_visible_button_submit">Odeslat</string>
+<string name="wls_star_visible_button_back">Zpět</string>
+
+<!-- STAR VISIBLE DIALOG STUFF -->
+<string name="wls_star_visible_title">HVĚZDA JE VIDITELNÁ</string>
+<string name="wls_star_visible_barely_visible">HVězda je obtížně viditelná</string>
+<string name="wls_star_visible_visible">Hvězda je zřetelně viditelná</string>
+<string name="wls_star_visible_button_submit">Odeslat</string>
+
+<!-- MEASURE MORE STARS DIALOGS -->
+<string name="wls_dialog_8stars_title">8 hvězd hotovo!</string>
+<string name="wls_dialog_8stars_message" formatted="false">S 8 hvězdami má vaše měření jasu oblohy statistickou nejistotu zhruba 23%. Chcete nyní pozorování ukončit, nebo zkusit další tři hvězdy, abyste snížili nejistotu na zhruba 20%?</string>
+<string name="wls_dialog_8stars_button_option">Již nezobrazovat</string>
+<string name="wls_dialog_8stars_button_negative">Ukončit</string>
+<string name="wls_dialog_8stars_button_positive">3 další hvězdy</string>
+<string name="wls_dialog_11stars_title">11 hvězd hotovo!</string>
+<string name="wls_dialog_11stars_message" formatted="false">S 11 hvězdami má vaše měření jasu oblohy statistickou nejistotu zhruba 20%. Chcete nyní pozorování ukončit, nebo zkusit další tři hvězdy, abyste snížili nejistotu na zhruba 17%?</string>
+<string name="wls_dialog_11stars_button_negative">Ukončit</string>
+<string name="wls_dialog_11stars_button_positive">3 další hvězdy</string>
+<string name="wls_dialog_14stars_title">14 hvězd hotovo!</string>
+<string name="wls_dialog_14stars_message" formatted="false">Se 14 hvězdami má vaše měření jasu oblohy statistickou nejistotu zhruba 17%. Chcete nyní pozorování ukončit, nebo zkusit další tři hvězdy, abyste snížili nejistotu na zhruba 14%?</string>
+<string name="wls_dialog_14stars_button_negative">Ukončit</string>
+<string name="wls_dialog_14stars_button_positive">3 další hvězdy</string>
+<string name="wls_dialog_17stars_title">17 hvězd hotovo!</string>
+<string name="wls_dialog_17stars_message" formatted="false">Se 17 hvězdami má vaše měření jasu oblohy statistickou nejistotu zhruba 14%. Chcete nyní pozorování ukončit, nebo chcete dále pokračovat, abyste nejistotu snížili? Pokud budete pokračovat, můžete pozorování kdykoliv ukončit návratem do hlavního menu.</string>
+<string name="wls_dialog_17stars_button_negative">Ukončit</string>
+<string name="wls_dialog_17stars_button_positive">Pokračovat</string>
+
+<!-- CUSTOM DIALOG STUFF -->
+<string name="wls_custom_dialog_positive">Souhlasím</string>
+<string name="wls_custom_dialog_negative">Nesouhlasím</string>
+<string name="wls_custom_dialog_neutral">Neutrální</string>
+
+<!-- TOO BRIGHT ENVIRONMENT DIALOG STUFF -->
+<string name="wls_dialog_too_bright_title">Není dostatečná tma</string>
+<string name="wls_dialog_too_bright_text_short">Buď je stále soumrak, nebo je na obloze Měsíc, není tedy ideální čas na měření.</string>
+<string name="wls_dialog_too_bright_text_long">Buď je stále soumrak, nebo je na obloze Měsíc, není tedy ideální čas na měření. Nejbližší vhodný pozorovací čas je %1$s.</string>
+
+<!-- Identical to the above string however mind the different formatting characters required for iOS -->
+<string name="wls_dialog_too_bright_positive">Přesto měřit</string>
+<string name="wls_dialog_too_bright_neutral">Přidat datum do mého kalendáře</string>
+<string name="wls_dialog_too_bright_negative">Ukončit měření</string>
+
+<!-- TOO BRIGHT ENVIRONMENT DIALOG ADD TO CALENDAR IOS STUFF -->
+
+<!-- on iOS it is not possible to send the user to the calendar app -->
+
+<!-- therefore we implement our own interface for inserting a calendar event -->
+<string name="wls_dialog_too_bright_add_to_calendar_button_negative">Ne</string>
+<string name="wls_dialog_too_bright_add_to_calendar_button_positive">Ano</string>
+<string name="wls_dialog_too_bright_add_to_calendar_button_ok">Ok</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text">Do You want to add %@ to Your Calendar and set an Alarm for this Event?</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text_success">Úspěšně přidáno do kalendáře.</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text_failed">Přidávání do kalendáře selhalo.</string>
+<string name="wls_dialog_too_bright_add_to_calendar_title">Přidat událost do kalendáře.</string>
+<string name="wls_dialog_too_bright_add_to_calendar_success_title">Úspěšně přidáno</string>
+<string name="wls_dialog_too_bright_add_to_calendar_failed_title">Přidávání selhalo</string>
+<string name="wls_dialog_too_bright_add_to_calendar_no_access_title">Aplikace nemá přístup ke kalendáři!</string>
+<string name="wls_dialog_too_bright_add_to_calendar_no_access_text">Aplikace nemá přístup ke kalendáři! Povolte přístup v nastavení telefonu</string>
+
+<!-- START MENU ACTIVITY STUFF -->
+<string name="wls_start_menu_title">HLAVNÍ MENU</string>
+<string name="wls_start_menu_item_projectinfos">Informace o projektu</string>
+<string name="wls_start_menu_item_me">Uživatelská data</string>
+<string name="wls_start_menu_item_demo">Návod</string>
+<string name="wls_start_menu_item_start_observation">Začít pozorování hvězd</string>
+<string name="wls_start_menu_item_news">Novinky</string>
+<string name="wls_start_menu_item_sqm">Odeslat data z SQM</string>
+<string name="wls_start_menu_item_to_nightmode">Noční mód</string>
+<string name="wls_start_menu_item_to_daymode">Denní mód</string>
+<string name="wls_start_menu_item_feedback">Feedback</string>
+<string name="wls_start_menu_item_quit">Ukončit</string>
+<string name="wls_start_menu_item_close_menu">Zavřít menu</string>
+
+<!-- INTRO ACTIVITY STUFF -->
+<string name="wls_info_title">INFORMACE</string>
+<string name="wls_info_headline">Světelné znečištění nám nejen brání v pohledu na hvězdy, ale představuje také plýtvání penězi a energií a ohrožuje přírodu. Je navíc vážné podezření, že neuvážené svícení může ohrožovat lidské zdraví.</string>
+<string name="wls_info_text">Použitím této aplikace pomůžete vědcům porozumět vlivu osvětlení ve svém okolí. Ať už jste uprostřed velkoměsta či daleko od umělého osvětlení, vaše měření budou cenná pro výykumník z celého světa!\n\nTato aplikace byla vyvinuta s finanční podporou programu "Výzkum pro udržitelný rozvoj" Spolkového ministerstva pro vědu a vzdělávání pod kódem 033L038A.\nPoradcem projektu byl Project Management Jülich / Životní prostředí a udržitelný rozvoj, ochrana klimatu.</string>
+<string name="wls_info_button_more_information_text">Více informací</string>
+<string name="wls_info_button_next_text">Další</string>
+<string name="wls_info_checkbox_text">Již nezobrazovat</string>
+
+<!-- USAGE ACTIVITY STUFF -->
+<string name="wls_usage_title">VYUŽITÍ</string>
+<string name="wls_usage_headline">Schopnost člověka spatřit hvězdy závisí na jeho zraku a věku. Pokud se zaregistujete a poskytnete nám tyto informce (vaše osobní data nebudou zvěřejněna), budou výsledky vašeho měření mnohem hodnotnější. Tento projekt vytváří svobodná data: všechny výsledky měření hvězd budou veřejně dostupné online pod anonymním ID.</string>
+<string name="wls_usage_text">Pokud se chcete zaregistrovat později, či vůbec, vítáme vás jako hosta.</string>
+<string name="wls_usage_button_register_now_text">Zaregistrovat</string>
+<string name="wls_usage_button_continue_as_guest_text">Pokračovat jako host</string>
+<string name="wls_usage_checkbox_text">Již nezobrazovat</string>
+
+<!-- ME ACTIVITY STUFF -->
+<string name="wls_me_title">UŽIVATELSKÁ DATA</string>
+<string name="wls_me_additional_title">MOJE MĚŘENÍ</string>
+<string name="wls_me_text">Na této obrazovce můžete prohlížet svá předchozí měření, či zobrazit a měnit uživatelské informace.</string>
+<string name="wls_me_button_my_measurements">Moje měření</string>
+<string name="wls_me_button_user_information">Uživatelské informace</string>
+<string name="wls_me_button_settings">Nastavení</string>
+
+<!-- USER DATA ACTIVITY STUFF -->
+<string name="wls_user_data_title">UŽIVATELSKÉ INFORMACE</string>
+<string name="wls_user_data_headline">Prosíme o poskytnutí následujících údajů:</string>
+<string name="wls_user_data_item_age">Věk</string>
+<string name="wls_user_data_item_no_drawback">Žádné vady zraku</string>
+<string name="wls_user_data_item_glasses">Brýle</string>
+<string name="wls_user_data_item_lenses">Kontaktní čočky</string>
+<string name="wls_user_data_item_laser">Laserová operace očí</string>
+<string name="wls_user_data_item_experience">Zkušenosti s pozorováním hvězd</string>
+<string name="wls_user_data_item_experience_none">Žádné nebo malé zkušenosti</string>
+<string name="wls_user_data_item_experience_some">Poznám několik hvězd a souhvězdí</string>
+<string name="wls_user_data_item_experience_amateur">Amatérský astronom</string>
+<string name="wls_user_data_button_save">Uložit</string>
+<string name="wls_user_data_text">Váš e-mail nebude zveřejněn ani použit pro inzerci.</string>
+<string name="wls_user_data_name">Jméno uživatele:</string>
+<string name="wls_user_data_email">E-mail:</string>
+<string name="wls_user_data_button_text">Uložit</string>
+<string name="wls_user_data_email_not_ok">Neplatný email!</string>
+<string name="wls_user_data_username_not_ok_whitespace">Uživatelské jméno obsahuje mezeru</string>
+<string name="wls_user_data_username_not_ok_empty">Uživatelské jméno není vyplněno</string>
+<string name="wls_user_data_edittext_hint">volitelné</string>
+
+<!-- BAD CONDITIONS DIALOG STUFF -->
+<string name="wls_dialog_bad_conditions_title">Prosím, zkuste jinou lokalitu</string>
+<string name="wls_dialog_bad_conditions_text">Zdá se, že z Vašeho místa nelze vidět hvězdy. Prosím najděte vhodnější lokalitu a zkuste to znova.</string>
+<string name="wls_dialog_bad_conditions_button_ok">OK</string>
+
+<!-- NO MORE STARS DIALOG STUFF -->
+
+<!-- Dialog displayed once no more stars are eligible for observation -->
+<string name="wls_dialog_no_more_stars_title">Žádná hvězda nenalezena</string>
+<string name="wls_dialog_no_more_stars_text">Nenalezena žádná hvězda k pozorování</string>
+<string name="wls_dialog_no_more_stars_button_ok">OK</string>
+
+<!-- FINISHED DIALOG STUFF -->
+<string name="wls_dialog_measurement_finished_title">Děkujeme za Vaše měření!</string>
+<string name="wls_dialog_measurement_finished_text">Vaše měření určují hodnotu mezní magnitudy viditelné pouhým okem  %1$.1f, a měření byla konzistentní v rozsahu přibližně %2$.1f (nižší hodnoty jsou lepší). Zkuste to znovu další noc a uvidíte, jestli jsou výsledky stejné!\n\nDnes můžete na nebi vidět zhruba %3$d hvězd.\n\nNaším cílem je zjistit, jak se mění jas oblohy v čase, zkuste tedy prosím v budoucnu udělat ještě další měření v této lokalitě.</string>
+
+<!-- Identical to the above string however mind the different formatting characters required for iOS -->
+<string name="wls_dialog_measurement_finished_button_ok">OK</string>
+
+<!-- ME MY MEASURES ACTIVITY STUFF -->
+<string name="wls_me_my_measures_subtitle">Moje měření</string>
+<string name="wls_me_my_measures_no_history_subtitle">Žádná historie</string>
+<string name="wls_me_my_measures_list_delete_history">Smazat historii</string>
+<string name="wls_me_my_measures_list_visible">viditelná</string>
+<string name="wls_me_my_measures_list_not_visible">nenalezena kvůli</string>
+<string name="wls_me_my_measures_list_unnamed">Nepojmenováno</string>
+<string name="wls_me_my_sqm_transfers_subtitle">Moje SQM měření</string>
+<string name="wls_me_my_sqm_transfers_sqm_value">SQM hodnota:</string>
+
+<!-- VISIBILITY REASONS -->
+<string name="wls_visiblity_not_found_reason_obstruction">překážce</string>
+<string name="wls_visiblity_not_found_reason_weather">počasí</string>
+<string name="wls_visiblity_not_found_reason_unsure">nejistá</string>
+<string name="wls_visiblity_not_found_reason_not_visible">neviditelná</string>
+<string name="wls_visiblity_not_found_reason_barely_visible">boční vidění</string>
+<string name="wls_visiblity_found_reason_barely_visible">obtížně viditelná</string>
+<string name="wls_visiblity_found_reason_found">nalezena</string>
+
+<!-- ME MY MEASURES LIST VIEW STUFF -->
+<string name="wls_me_my_measures_list_date">Datum</string>
+<string name="wls_me_my_measures_list_number_of_stars_measured">Počet pozorovaných hvězd:</string>
+<string name="wls_me_my_measures_list_limiting_magnitude">Limitní magnituda:</string>
+<string name="wls_me_my_measures_list_sqm_value">SQM</string>
+<string name="wls_me_my_measures_list_star_name">Jméno hvězdy:</string>
+<string name="wls_me_my_measures_list_star_ra">RA:</string>
+<string name="wls_me_my_measures_list_star_dec">DE:</string>
+<string name="wls_me_my_measures_list_star_mag">Mag:</string>
+<string name="wls_me_my_measures_list_transmission_status">Stav odesílání:</string>
+<string name="wls_me_my_measures_list_transmission_status_pending">čekám</string>
+<string name="wls_me_my_measures_list_transmission_status_sent">Úspěšně odesláno</string>
+<string name="wls_me_my_measures_list_measured_stars">Hvězdy</string>
+<string name="wls_me_my_measures_list_gpsposition">GPS pozice</string>
+<string name="wls_me_my_measures_list_gps_lat">Zeměpisná šířka:</string>
+<string name="wls_me_my_measures_list_gps_lon">Zeměpisná délka:</string>
+<string name="wls_me_my_measures_list_time">Čas</string>
+
+<!-- DELETE HISTORY DIALOG STUFF -->
+<string name="wls_dialog_delete_title">Smazat historii</string>
+<string name="wls_dialog_delete_text">Opravdu chcete smazat historii?</string>
+<string name="wls_dialog_delete_negative">Ne</string>
+<string name="wls_dialog_delete_positive">Ano</string>
+
+<!-- WEATHER CONDITIONS ACTIVITY STUFF -->
+<string name="wls_weather_conditions_title">POVĚTRNOSTNÍ PODMÍNKY</string>
+<string name="wls_weather_conditions_text">Prosím vyberte popis, který nejlépe odpovídá aktuálnímu počasí.</string>
+<string name="wls_weather_conditions_button_continue">Pokračovat</string>
+<string name="wls_weather_conditions_button_cancel">Ukončit</string>
+
+<!-- WEATHER CONDITIONS SPINNER STUFF -->
+<string name="wls_weather_conditions_clear">Jasno</string>
+<string name="wls_weather_conditions_partly_cloudy">Částečně zataženo</string>
+<string name="wls_weather_conditions_cloudy">Zataženo</string>
+<string name="wls_weather_conditions_rain">Déšť</string>
+<string name="wls_weather_conditions_fog">Mlha/smog/opar</string>
+<string name="wls_weather_conditions_snow">Sníh na zemi</string>
+
+<!-- NEWS ACTIVITY STUFF -->
+<string name="wls_news_title">NOVINKY</string>
+<string name="wls_news_failed">Nelze získat žádné novinky.</string>
+<string name="wls_news_no_network">Síť není dostupná. Zkuste to prosím později.</string>
+
+<!-- PROJECT INFO ACTIVITY STUFF -->
+<string name="wls_project_info_main_title">INFORMACE O PROJEKTU</string>
+
+<!-- DO YOU HAVE AN SQM DIALOG -->
+<string name="wls_dialog_have_sqm_title">Máte SQM?</string>
+<string name="wls_dialog_have_sqm_message">Sky Quality Meter (SQM) je zařízení k měření jasu noční oblohy.\n\nPokud máte SQM, můžete použít tuto stránku k zaslání dat na náš server.</string>
+<string name="wls_dialog_have_sqm_button_negative">Ukončit</string>
+<string name="wls_dialog_have_sqm_button_positive">Pokračovat</string>
+
+<!-- SUBMIT SQM ACTIVITY STUFF -->
+<string name="wls_submit_sqm_title">ODESLAT DATA Z SQM</string>
+<string name="wls_submit_sqm_text">Sky Quality Meter (SQM) je zařízení k měření jasu noční oblohy.\n\nPokud máte SQM, můžete použít tuto stránku k zaslání dat na náš server.</string>
+<string name="wls_submit_sqm_button_text">Odeslat</string>
+<string name="wls_submit_sqm_decimal">.</string>
+<string name="wls_dialog_submit_sqm_title">Odeslat SQM</string>
+<string name="wls_dialog_submit_sqm_text">Děkujeme, data budou odeslána.</string>
+<string name="wls_dialog_submit_sqm_button_text">OK</string>
+
+<!-- SQM value is input using a numberpad keyboard on iOS-->
+
+<!-- which do not have an explicit close button  -->
+
+<!-- therefore we need our own -->
+
+<!-- CANCEL MEASUREMENT DIALOG STUFF -->
+<string name="wls_dialog_cancel_measurement_title">Ukončit měření</string>
+<string name="wls_dialog_cancel_measurement_text">Chystáte se ukončit měření dříve, než jste napozorovali dostatek hvězd pro užitečný soubor dat. Jste si jisti?</string>
+<string name="wls_dialog_cancel_measurement_button_quit">Ukončit</string>
+<string name="wls_dialog_cancel_measurement_button_continue_measuring">Pokračovat</string>
+
+<!-- DIALOG STUFF FOR "ACTIVE MEASUREMENT" -->
+<string name="wls_dialog_active_measurement_title">Nedokončené měření</string>
+<string name="wls_dialog_active_measurement_message">Nedokončili jste současné měření. Můžete pokračovat v měření, či ukončit tuto aplikaci.</string>
+<string name="wls_dialog_active_measurement_continue_measuring">Pokračovat v měření</string>
+<string name="wls_dialog_active_measurement_quit_app">Ukončit</string>
+
+<!-- PROGRESS BAR DIALOG STUFF -->
+<string name="wls_dialog_progress_bar_title">GPS</string>
+<string name="wls_dialog_progress_bar_message">Určování vaší současné pozice.\nViditelné satelity: %1$d\nPřesnost %2$s</string>
+<string name="wls_dialog_progress_bar_cancel">Ukončit</string>
+
+<!-- CANCELED GPS FIX DIALOG STUFF -->
+<string name="wls_dialog_gps_fix_canceled_title">GPS hledání přerušeno</string>
+<string name="wls_dialog_gps_fix_canceled_message">Vaše měření nemůže být řádně zpracováno bez přesné lokalizace.\n\nPokud chcete hledání hvězd pouze vyzkoušet , můžte použít Demo mód.</string>
+<string name="wls_dialog_gps_fix_canceled_positive_button">Demo</string>
+<string name="wls_dialog_gps_fix_canceled_negative_button">Ukončit měření</string>
+
+<!-- ADD TO CALENDAR DIALOG -->
+<string name="wls_dialog_add_to_calendar_title">Pozorování hvězd</string>
+<string name="wls_dialog_add_to_calendar_message">Nyní je ideální čas pro měření jasnosti hvězd</string>
+
+<!-- SETTINGS -->
+<string name="wls_settings_show_starnames">Ukázat jména hvězd</string>
+<string name="wls_settings_show_constellations">Ukázat souhvězdí</string>
+<string name="wls_settings_stars_big_font">Zvětšit velikost písma u hvězd a souhvězdí</string>
+<string name="wls_settings_stars_dim">Ztlumit pozorování hvězd</string>
+<string name="wls_settings_show_information">Při startu zobrazit Informace</string>
+<string name="wls_settings_show_usage">Při startu zobrazovat Využití</string>
+<string name="wls_settings_button_save">Uložit</string>
+
+<!-- GENERAL STUFF -->
+<string name="wls_general_link_to_igb">www.igb-berlin.de</string>
+<string name="wls_general_not_implemented_yet">Zatím neimplementováno!</string>
+
+<!-- RSS FEED LINK -->
+<string name="wls_rss_feed_link">http://lossofthenight.blogspot.com/feeds/posts/default?alt=rss</string>
+
+<!-- FEEDBACK STUFF -->
+<string name="wls_feedback_title">FEEDBACK</string>
+<string name="wls_feedback_send_email">Pošlete nám své ohlasy a dotazy na e-mail</string>
+<string name="wls_feedback_rate_us">Ohodnotit tuto aplikaci</string>
+<string name="wls_feedback_email_chooser_title">Poslat email</string>
+<string name="wls_feedback_email_address">vdn-app@igb-berlin.de</string>
+<string name="wls_feedback_email_subject">Feedback for Loss of the Night</string>
+<string name="wls_feedback_email_text"></string>
+
+<!-- EMAIL COULD NOT BE SENT DIALOG ON IOS -->
+</resources>

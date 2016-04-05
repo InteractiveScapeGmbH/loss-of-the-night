@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Please add  translation_description="" attributes to Strings to assist the translators. -->
+<string name="app_name" translation_description="Application Title">Verlust der Nacht</string>
+<string name="ecliptic">Ekliptik</string>
+<string name="zenith">ZENIT</string>
+<string name="nadir">NADIR</string>
+<string name="north">NORDEN</string>
+<string name="east">OSTEN</string>
+<string name="west">WESTEN</string>
+<string name="south">SÜDEN</string>
+<string name="sun">Sonne</string>
+<string name="moon">Mond</string>
+<string name="mercury">Merkur</string>
+<string name="venus">Venus</string>
+<string name="earth">Erde</string>
+<string name="mars">Mars</string>
+<string name="jupiter">Jupiter</string>
+<string name="saturn">Saturn</string>
+<string name="uranus">Uranus</string>
+<string name="neptune">Neptun</string>
+<string name="pluto">Pluto</string>
+<string name="andromeda" translation_description="Name of the Andromeda constellation">Andromeda</string>
+<string name="aquarius" translation_description="Name of the Aquarius constellation">Wassermann</string>
+<string name="aquila" translation_description="Name of the Aquila constellation">Adler</string>
+<string name="aries" translation_description="Name of the Aries constellation">Widder</string>
+<string name="auriga" translation_description="Name of the Auriga constellation">Auriga</string>
+<string name="bootes" translation_description="Name of the Bootes constellation">Bärenhüter</string>
+<string name="cancer" translation_description="Name of the Cancer constellation">Krebs</string>
+<string name="canis_major" translation_description="Name of the Canis Major constellation">Großer Hund</string>
+<string name="capricornus" translation_description="Name of the Capricornus constellation">Steinbock</string>
+<string name="carina" translation_description="Name of the Carina constellation">Carina</string>
+<string name="cassiopeia" translation_description="Name of the Cassiopeia constellation">Kassiopeia</string>
+<string name="centaurus" translation_description="Name of the Centaurus constellation">Zentaur</string>
+<string name="cetus" translation_description="Name of the Cetus constellation">Cetus</string>
+<string name="crux" translation_description="Name of the Crux constellation">Crux</string>
+<string name="cygnus" translation_description="Name of the Cygnus constellation">Schwan</string>
+<string name="draco" translation_description="Name of the Draco constellation">Drache</string>
+<string name="eridanus" translation_description="Name of the Eridanus constellation">Eridanus</string>
+<string name="gemini" translation_description="Name of the Gemini constellation">Zwillinge</string>
+<string name="grus" translation_description="Name of the Grus constellation">Kranich</string>
+<string name="hercules" translation_description="Name of the Hercules constellation">Herkules</string>
+<string name="hydrus" translation_description="Name of the Hydrus constellation">Hydrus</string>
+<string name="leo" translation_description="Name of the Leo constellation">Löwe</string>
+<string name="libra" translation_description="Name of the Libra constellation">Waage</string>
+<string name="lupus" translation_description="Name of the Lupus constellation">Wolf</string>
+<string name="lyra" translation_description="Name of the Lyra constellation">Leier</string>
+<string name="ophiuchus" translation_description="Name of the Ophiuchus constellation">Schlangenträger</string>
+<string name="orion" translation_description="Name of the Orion constellation">Orion</string>
+<string name="pavo" translation_description="Name of the Pavo constellation">Pfau</string>
+<string name="pegasus" translation_description="Name of the Pegasus constellation">Pegasus</string>
+<string name="perseus" translation_description="Name of the Perseus constellation">Perseus</string>
+<string name="phoenix" translation_description="Name of the Phoenix constellation">Phoenix</string>
+<string name="pisces" translation_description="Name of the Pisces constellation">Fische</string>
+<string name="piscis_austrinus" translation_description="Name of the Piscis Austrinus constellation">Piscis Austrinus</string>
+<string name="puppis" translation_description="Name of the Puppis constellation">Puppis</string>
+<string name="sagittarius" translation_description="Name of the Sagittarius constellation">Schütze</string>
+<string name="scorpius" translation_description="Name of the Scorpius constellation">Skorpion</string>
+<string name="taurus" translation_description="Name of the Taurus constellation">Stier</string>
+<string name="tucana" translation_description="Name of the Tucana constellation">Tucana</string>
+<string name="ursa_major" translation_description="Name of the Ursa Major constellation">Großer Wagen</string>
+<string name="ursa_minor" translation_description="Name of the Ursa Minor constellation">Kleiner Bär</string>
+<string name="vela" translation_description="Name of the Vela constellation">Vela</string>
+<string name="virgo" translation_description="Name of the Virgo constellation">Jungfrau</string>
+<string name="capricorn" translation_description="Name of the Capricorn constellation">Steinbock</string>
+<string name="southern_cross" translation_description="Name of the Southern Cross constellation">Kreuz des Südens</string>
+<string name="scorpio" translation_description="Name of the Scorpio constellation">Skorpion</string>
+<string name="little_dipper" translation_description="Name of the Little Dipper constellation">Kleiner Wagen</string>
+<string name="little_bear" translation_description="Name of the Little Bear constellation">Kleiner Bär</string>
+<string name="big_dipper" translation_description="Name of the Big Dipper constellation">Großer Bär</string>
+<string name="great_bear" translation_description="Name of the Great Bear constellation">Großer Bär</string>
+<string name="plough" translation_description="Name of the Plough constellation">Großer Wagen</string>
+<string name="sirius" translation_description="Name of the Star Sirius">Sirius</string>
+<string name="canopus" translation_description="Name of the Star Canopus">Canopus</string>
+<string name="arcturus" translation_description="Name of the Star Arcturus">Arktur</string>
+<string name="rigel_kentaurus_a" translation_description="Name of the Star Rigel Kentaurus A">Rigel Kentaurus A</string>
+<string name="vega" translation_description="Name of the Star Vega">Vega</string>
+<string name="rigel" translation_description="Name of the Star Rigel">Rigel</string>
+<string name="procyon" translation_description="Name of the Star Procyon">Prokyon</string>
+<string name="betelgeuse" translation_description="Name of the Star Betelgeuse">Beteigeuze</string>
+<string name="achernar" translation_description="Name of the Star Achernar">Achernar</string>
+<string name="hadar" translation_description="Name of the Star Hadar">Hadar</string>
+<string name="capella" translation_description="Name of the Star Capella">Capella</string>
+<string name="altair" translation_description="Name of the Star Altair">Altair</string>
+<string name="acrux" translation_description="Name of the Star Acrux">Acrux</string>
+<string name="aldebaran" translation_description="Name of the Star Aldebaran">Aldebaran</string>
+<string name="spica" translation_description="Name of the Star Spica">Spica</string>
+<string name="antares" translation_description="Name of the Star Antares">Antares</string>
+<string name="pollux" translation_description="Name of the Star Pollux">Pollux</string>
+<string name="fomalhaut" translation_description="Name of the Star Fomalhaut">Fomalhaut</string>
+<string name="deneb" translation_description="Name of the Star Deneb">Deneb</string>
+<string name="regulus" translation_description="Name of the Star Regulus">Regulus</string>
+<string name="adhara" translation_description="Name of the Star Adhara">Adhara</string>
+<string name="shaula" translation_description="Name of the Star Shaula">Shaula</string>
+<string name="alnath" translation_description="Name of the Star Alnath">Etamin</string>
+<string name="alnilam" translation_description="Name of the Star Alnilam">Alnilam</string>
+<string name="alnair" translation_description="Name of the Star Alnair">Alnair</string>
+<string name="alioth" translation_description="Name of the Star Alioth">Alioth</string>
+<string name="mirphak" translation_description="Name of the Star Mirphak">Mirfak</string>
+<string name="kaus_australis" translation_description="Name of the Star Kaus Australis">Kaus Australis</string>
+<string name="dubhe" translation_description="Name of the Star Dubhe">Dubhe</string>
+<string name="alkaid" translation_description="Name of the Star Alkaid">Alkaid</string>
+<string name="alhena" translation_description="Name of the Star Alhena">Alhena</string>
+<string name="castor" translation_description="Name of the Star Castor">Castor</string>
+<string name="polaris" translation_description="Name of the Star Polaris">Polaris</string>
+<string name="alphard" translation_description="Name of the Star Alphard">Alphard</string>
+<string name="hamal" translation_description="Name of the Star Hamal">Hamal</string>
+<string name="algieba" translation_description="Name of the Star Algieba">Algieba</string>
+<string name="diphda" translation_description="Name of the Star Diphda">Deneb Kaitos</string>
+<string name="nunki" translation_description="Name of the Star Nunki">Nunki</string>
+<string name="mirach" translation_description="Name of the Star Mirach">Mirach</string>
+<string name="alpheratz" translation_description="Name of the Star Alpheratz">Alpheratz</string>
+<string name="saiph" translation_description="Name of the Star Saiph">Saiph</string>
+<string name="kochab" translation_description="Name of the Star Kochab">Kochab</string>
+<string name="rasalhague" translation_description="Name of the Star Rasalhague">Rasalhague</string>
+<string name="algol" translation_description="Name of the Star Algol">Algol</string>
+<string name="denebola" translation_description="Name of the Star Denebola">Denebola</string>
+<string name="alphekka" translation_description="Name of the Star Alphekka">Alphekka</string>
+<string name="etamin" translation_description="Name of the Star Etamin">Etamin</string>
+<string name="kaus" translation_description="Name of the Star Kaus">Kaus</string>
+<string name="shedir" translation_description="Name of the Star Shedir">Schedir</string>
+<string name="caph" translation_description="Name of the Star Caph">Caph</string>
+<string name="izar" translation_description="Name of the Star Izar">Izar</string>
+<string name="merak" translation_description="Name of the Star Merak">Merak</string>
+<string name="enif" translation_description="Name of the Star Enif">Enif</string>
+<string name="ankaa" translation_description="Name of the Star Ankaa">Ankaa</string>
+<string name="phad" translation_description="Name of the Star Phad">Phad</string>
+<string name="alderamin" translation_description="Name of the Star Alderamin">Alderamin</string>
+<string name="scheat" translation_description="Name of the Star Scheat">Scheat</string>
+<string name="markab" translation_description="Name of the Star Markab">Markab</string>
+<string name="menkar" translation_description="Name of the Star Menkar">Menkar</string>
+<string name="arneb" translation_description="Name of the Star Arneb">Arneb</string>
+<string name="unukalhai" translation_description="Name of the Star Unukalhai">Unuk</string>
+<string name="algenib" translation_description="Name of the Star Algenib">Algenib</string>
+<string name="vindemiatrix" translation_description="Name of the Star Vindemiatrix">Vindemiatrix</string>
+<string name="alcyone" translation_description="Name of the Star Alcyone">Alkyone</string>
+<string name="dog_star" translation_description="Name of the Dog Star (Sirius)">Hundsstern</string>
+<string name="north_star" translation_description="Name of the North Star">Nordstern</string>
+<string name="pole_star" translation_description="Name of the (North) Pole Star">Polarstern</string>
+
+<!-- PRIVACY DIALOG STUFF -->
+<string name="wls_dialog_privacy_title">NUTZUNGSBEDINGUNGEN UND DATENSCHUTZ</string>
+<string name="wls_dialog_privacy_text">Wissenschaftler brauchen Ihre Position und die Zeit Ihrer Messung um die Daten zu interpretieren. Deshalb erfasst diese App Ihre exakte Position über das GPS Ihres Smart-Phones und übermittelt sie an Globe at Night.</string>
+<string name="wls_dialog_privacy_policy_text">Drücken Sie Annehmen um die Nutzungsbedingungen  und Datenschutzvereinbarungen zu bestätigen.\n\n„Verlust der Nacht“ Nutzungsbedingungen\n
+1 Einführung \n
+Vielen Dank, dass Sie die „Verlust der Nacht“ App benutzen und uns helfen, das Ausmaß der nächtlichen Beleuchtung zu erfassen. Die App soll Informationen zum Thema Lichtverschmutzung vermitteln. Diese werden zur Verfügung gestellt von dem interdisziplinären Forschungsverbund „Verlust der Nacht“, der die Auswirkungen von nächtlicher Licht auf Natur, Gesundheit und Gesellschaft untersucht. Nähere Informationen über den Verbund finden sich im Info-Teil der App und unter www.verlustdernacht.de.
+Die erfassten Daten werden anonym per Email an eine Datenbank von Globe at Night (www.GLOBEatNight.org) gesendet. Dort werden die Meßwerte in einer weltweite Karte zur Erfassung der Himmelshelligkeit („Helligkeitskarte“) erfasst. Ziel dieses Citizen Science Projektes ist es, die nächtliche Erleuchtung unseres Himmels weltweit zu erfassen und ihre Veränderung über die Zeit zu dokumentieren. Messungen für das Projekt liegen seit 2006 vor, die App-basierte Messung begann 2013.
+Die „Verlust der Nacht“ App wird kostenlos vom Forschungsverbund Berlin e.V. zur Verfügung gestellt, mit Sitz in der Rudower Chaussee 17, 12489 Berlin, Deutschland. Zur Nutzung der „Verlust der Nacht“ App ist es erforderlich, dass Sie den folgenden Nutzungsbedingungen zustimmen. Bitte lesen Sie die Bedingungen sorgfältig durch. Falls Sie die Nutzungsbedingungen nicht vollständig akzeptieren, dürfen Sie die „Verlust der Nacht“ App nicht verwenden.\n\n
+2 Ihre Nutzung der „Verlust der Nacht“ App\n
+Grundlegende Nutzungsanforderungen: Die App kann ab Android-Version 4.0 genutzt werden, läuft aber möglicherweise bereits ab 2.1. Als Auflösung wird mdli oder höher benötigt. Die Erfüllung dieser Systemanforderungen liegt in Ihrer Verantwortung. 
+Drittanbieter-Gebühren: Die Messdaten werden per Email an die Datenbank von Globe at Night versendet. Dabei können Zugriffs- oder Datengebühren bei Drittanbietern anfallen, zum Beispiel bei Ihrem Internetanbieter oder Mobilfunkanbieter. Solche Gebühren liegen in Ihrer Verantwortung.
+Updates: Von Zeit zu Zeit kann die Installation von kostenlosen Updates erforderlich sein. Hierzu gehören Fehlerbehebungen, Patches, erweiterte Funktionen, fehlende Plug-ins und neue Versionen.
+Altersbestimmungen: Mit Akzeptieren dieser Nutzungsbedingungen bestätigen Sie, über 18 Jahre zu sein. Bei Minderjährigen ist die Zustimmung beider Elternteile notwendig.\n\n
+3 Berechtigungen der App\n
+3.1 Genauer Standort (GPS- und netzwerkbasiert)\n
+Ermöglicht der App, Ihre genaue Position anhand von GPS-Daten oder über Netzwerkstandortquellen wie Sendemasten oder WLAN zu ermitteln. Diese Standortdienste müssen auf Ihrem Gerät verfügbar und aktiviert sein, damit die App sie verwenden kann. Apps können Ihren Standort anhand dieser Daten ermitteln und verbrauchen eventuell zusätzliche Akkuleistung.\n
+3.2 Voller Netzwerkzugriff\n
+Ermöglicht der App die die Möglichkeit, die News herunterzuladen und Messdaten über das Internet zu versenden.\n
+3.3 Telefonstatus und Identität abrufen\n
+Ermöglicht der App, auf die Telefonfunktionen des Geräts zuzugreifen. Die Berechtigung erlaubt der App, die Telefonnummer und Geräte-IDs zu erfassen, festzustellen, ob gerade ein Gespräch geführt wird, und die Rufnummer verbundener Anrufer zu lesen. Somit wird die App bei eingehenden Anrufen minimiert, um ein Gespräch zu ermöglichen.\n
+3.4 Identität\n
+Die App generiert beim ersten Start eine anonyme Nutzer-ID, die mit den Messdaten übertragen wird. Dabei werden keine persönlichen Daten übertragen. Nur im Falle einer freiwilligen Registrierung werden Ihr Nutzername und Ihre Emailadresse übertragen.\n
+3.5 Speicher\n
+Inhalt Ihres USB Speichers ändern oder löschen. Inhalt Ihrer SD-Karte ändern oder löschen.\n
+Ermöglicht der App das Schreiben in den USB-Speicher und auf die SD-Karte\n
+3.6 System-Tools\n
+Ruhezustand des Tablets / Telefons deaktivieren\n
+Ermöglicht der App, den Ruhezustand des Tablets zu deaktivieren. Ermöglicht der App, den Ruhezustand des Telefons zu deaktivieren.\n
+Systemeinstellungen ändern\n
+Ermöglicht der App, die Einstellungsdaten des Systems zu ändern. Schädliche Apps können so die Systemkonfiguration beschädigen.\n\n
+4 Datenschutz\n
+Für die Durchführung der Messung ist die Übermittlung der Standortkoordinaten  notwendig, da diese zur Erstellung der Helligkeitskarten benötigt werden. Ohne die Zustimmung zur Übermittlung dieser Daten können die Messwerte nicht verwendet werden.
+Weitere personenbezogene  Daten sind für die Messungen und die Erstellung der Helligkeitsdaten nicht notwendig. Zum jetzigen Zeitpunkt ist jedoch noch nicht bekannt, ob Alter und Sehhilfen (Brille, Kontaktlinse, Laserbehandlung) einen Einfluss auf die Beurteilung der Helligkeit haben. Daher sind diese Angaben für die Auswertung der Messwerte von Interesse. Stimmt der Nutzer der Übertragung dieser Daten zu, werden diese anonym zusammen mit dem Messdatensatz gespeichert. Stimmt der Nutzer dieser Übertragung nicht zu, werden die Meßdaten nur mit zufällig generierten, anonymen ID-Nummer abgespeichert.
+Zur Rückfrage bei besonders auffälligen oder interessanten Messwerten ist die Angabe einer Emailadresse hilfreich. Diese wird nicht zu Werbezwecken verwendet und nicht an Dritte weitergegeben.\n\n
+5 Haftungsausschluss\n
+Wir stellen diese App kostenlos zur Verfügung. Die erhobenen Messdaten Daten fließen in ein internationales Citizien Science Forschungsprogramm. Sowohl Ihre Haftung als auch die Haftung des  Forschungsverbund Berlin e.V. für Vorsatz, grobe Fahrlässigkeit und Produkthaftung richtet sich nach den gesetzlichen Vorschriften. 
+        
+    </string>
+<string name="wls_dialog_privacy_positive">Annehmen</string>
+<string name="wls_dialog_privacy_negative">Ablehnen</string>
+
+<!-- iOS does not allow apps to close themselves therefore a 'Decline' button is not feasible. -->
+
+<!-- This button is only active once the checkbox below has been selected. -->
+
+<!-- GPS DIALOG STUFF -->
+<string name="wls_dialog_gps_disabled_title">GPS</string>
+<string name="wls_dialog_gps_disabled_text">Ihr GPS ist nicht aktiviert. Bitte aktivieren Sie es in Ihren Einstellungen.</string>
+<string name="wls_dialog_gps_disabled_positive">Demo</string>
+<string name="wls_dialog_gps_disabled_negative">Gehe zu "Einstellungen"</string>
+
+<!-- PROGRESS BAR DIALOG STUFF -->
+<string name="wls_dialog_gps_waiting_title">GPS</string>
+<string name="wls_dialog_gps_waiting_message">Aktuelle Position wird bestimmt. \nSichtbare Satelliten: %1$d\nGenauigkeit: %2$s</string>
+
+<!-- iOS does not provide a means for determining the number of GPS satellites -->
+
+<!-- therefore the message needs to be adapted accordingly -->
+<string name="wls_dialog_gps_waiting_cancel">Abbrechen</string>
+
+<!-- MAGNETIC FIELD TOO STRONG DIALOG -->
+<string name="wls_dialog_magnetic_field_title">Magnetfeld</string>
+<string name="wls_dialog_magnetic_field_text">Das umgebende Magnetfeld ist zu stark und beeinträchtigt die Messung.</string>
+<string name="wls_dialog_magnetic_field_negative">Messung abbrechen</string>
+<string name="wls_dialog_magnetic_field_positive">Demo</string>
+
+<!-- SYSTEM TIME INCORRECT DIALOG -->
+<string name="wls_dialog_system_time_title">SYSTEMZEIT</string>
+<string name="wls_dialog_system_time_text">Die aktuelle Systemzeit weicht zu stark von der GPS-Zeit ab. Bitte korrigieren Sie die Systemzeit.</string>
+<string name="wls_dialog_system_time_negative">Gehe zu "Einstellungen"</string>
+<string name="wls_dialog_system_time_positive">Demo</string>
+
+<!-- CALIBRATE COMPASS DIALOG -->
+<string name="wls_dialog_calibrate_compass_title">KOMPASS KALIBRIEREN</string>
+<string name="wls_dialog_calibrate_compass_text">Die Genauigkeit des Kompass ist zu gering. Um den Kompass zu kalibrieren bewegen Sie das Handy in Form einer 8. Die Sternenbeobachtung beginnt automatisch sobald eine ausreichende Genauigkeit erreicht wird.</string>
+<string name="wls_dialog_calibrate_compass_negative">Abbrechen</string>
+<string name="wls_dialog_calibrate_compass_positive">Demo</string>
+
+<!-- SKY MAP ACTIVITY STUFF -->
+<string name="wls_sky_map_button_invisible">Nicht sichtbar/unsicher</string>
+<string name="wls_sky_map_button_search_again">Suchen wiederholen</string>
+<string name="wls_sky_map_button_visible">Stern sichtbar</string>
+<string name="wls_sky_map_button_start_measurement">Sternbeobachtung beginnen</string>
+<string name="wls_sky_map_toast_initializing">Suche Sterne > 45 Grad über dem Horizont...</string>
+<string name="wls_sky_map_toast_press_back_twice">Zum Verlassen nochmals ZURÜCK drücken</string>
+<string name="wls_sky_map_toast_no_more_stars_to_choose">Keine weiteren Sterne auswählbar!</string>
+<string name="wls_sky_map_toast_choose_star_with_magnitude">Wähle Stern der Größe %s</string>
+<string name="wls_sky_map_toast_please_find_next_star">Bitte suchen Sie den nächsten Stern</string>
+
+<!-- STAR NOT VISIBLE DIALOG STUFF -->
+<string name="wls_star_not_visible_title">STERN NICHT SICHTBAR</string>
+<string name="wls_star_not_visible_message">Sie haben die Option "Nicht sichtbar/unsicher" gewählt. Bitte geben Sie den grund dafür an.</string>
+<string name="wls_star_not_visible_object">Es ist ein Objekt im Weg</string>
+<string name="wls_star_not_visible_weather">Es sind Wolken oder Nebel im Weg</string>
+<string name="wls_star_not_visible_invisible">Der Stern ist nicht sichtbar</string>
+<string name="wls_star_not_visible_barely_visible">Nur sichtbar durch indirektes Sehen</string>
+<string name="wls_star_not_visible_unsure">Ich bin mir nicht sicher, ob der Stern sichtbar ist</string>
+<string name="wls_star_not_visible_button_submit">Absenden</string>
+<string name="wls_star_visible_button_back">Zurück</string>
+
+<!-- STAR VISIBLE DIALOG STUFF -->
+<string name="wls_star_visible_title">STERN SICHTBAR</string>
+<string name="wls_star_visible_barely_visible">Der Stern ist kaum sichtbar</string>
+<string name="wls_star_visible_visible">Der Stern ist deutlich sichtbar</string>
+<string name="wls_star_visible_button_submit">Absenden</string>
+
+<!-- MEASURE MORE STARS DIALOGS -->
+<string name="wls_dialog_8stars_title">8 Sterne erreicht!</string>
+<string name="wls_dialog_8stars_message" formatted="false">Nach 8 Sternen liegt die statistische Unsicherheit Ihrer Messung der Himmelshelligkeit bei ungefähr 23%. Wollen Sie nun aufhören, oder wollen Sie 3 weitere Sterne messen, um die Unsicherheit auf ungefähr 20% zu reduzieren?</string>
+<string name="wls_dialog_8stars_button_option">Nicht wieder anzeigen</string>
+<string name="wls_dialog_8stars_button_negative">Beenden</string>
+<string name="wls_dialog_8stars_button_positive">3 weitere Sterne</string>
+<string name="wls_dialog_11stars_title">11 Sterne erreicht!</string>
+<string name="wls_dialog_11stars_message" formatted="false">Nach 11 Sternen liegt die statistische Unsicherheit Ihrer Messung der Himmelshelligkeit bei ungefähr 20%. Wollen Sie nun aufhören, oder wollen Sie 3 weitere Sterne messen, um die Unsicherheit auf ungefähr 17% zu reduzieren?</string>
+<string name="wls_dialog_11stars_button_negative">Beenden</string>
+<string name="wls_dialog_11stars_button_positive">3 weitere Sterne</string>
+<string name="wls_dialog_14stars_title">14 Sterne erreicht!</string>
+<string name="wls_dialog_14stars_message" formatted="false">Nach 14 Sternen liegt die statistische Unsicherheit Ihrer Messung der Himmelshelligkeit bei ungefähr 17%. Wollen Sie nun aufhören, oder wollen Sie 3 weitere Sterne messen, um die Unsicherheit auf ungefähr 14% zu reduzieren?</string>
+<string name="wls_dialog_14stars_button_negative">Beenden</string>
+<string name="wls_dialog_14stars_button_positive">3 weitere Sterne</string>
+<string name="wls_dialog_17stars_title">17 Sterne erreicht!</string>
+<string name="wls_dialog_17stars_message" formatted="false">Nach 17 Sternen liegt die statistische Unsicherheit Ihrer Messung der Himmelshelligkeit bei ungefähr 14%. Wollen Sie nun aufhören, oder wollen Sie 3 weitere Sterne messen, um die Unsicherheit weiter zu reduzieren?</string>
+<string name="wls_dialog_17stars_button_negative">Beenden</string>
+<string name="wls_dialog_17stars_button_positive">Weiter</string>
+
+<!-- CUSTOM DIALOG STUFF -->
+<string name="wls_custom_dialog_positive">Annehmen</string>
+<string name="wls_custom_dialog_negative">Ablehnen</string>
+<string name="wls_custom_dialog_neutral">Neutral</string>
+
+<!-- TOO BRIGHT ENVIRONMENT DIALOG STUFF -->
+<string name="wls_dialog_too_bright_title">Nicht dunkel genug</string>
+<string name="wls_dialog_too_bright_text_short">Es ist entweder noch Dämmerung oder der Mond ist am Himmel, deshalb ist jetzt keine gute Zeit für Messungen.</string>
+<string name="wls_dialog_too_bright_text_long">Es ist entweder noch Dämmerung oder der Mond ist am Himmel, deshalb ist jetzt keine gute Zeit für Messungen. Der nächstmögliche Messzeitpunkt ist %1$s.</string>
+
+<!-- Identical to the above string however mind the different formatting characters required for iOS -->
+<string name="wls_dialog_too_bright_positive">Trotzdem messen</string>
+<string name="wls_dialog_too_bright_neutral">Messzeitpunkt in meinen Kalender einfügen</string>
+<string name="wls_dialog_too_bright_negative">Messung abbrechen</string>
+
+<!-- TOO BRIGHT ENVIRONMENT DIALOG ADD TO CALENDAR IOS STUFF -->
+
+<!-- on iOS it is not possible to send the user to the calendar app -->
+
+<!-- therefore we implement our own interface for inserting a calendar event -->
+<string name="wls_dialog_too_bright_add_to_calendar_button_negative">Nein</string>
+<string name="wls_dialog_too_bright_add_to_calendar_button_positive">Ja</string>
+<string name="wls_dialog_too_bright_add_to_calendar_button_ok">OK</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text">Möchten Sie %@ in Ihren Kalendar eintragen und eine Erinnerung erhalten?</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text_success">Event wurde dem Kalender hinzugefügt.</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text_failed">Event konnte nicht in den Kalender eingetragen werden.</string>
+<string name="wls_dialog_too_bright_add_to_calendar_title">Event in den Kalender eintragen.</string>
+<string name="wls_dialog_too_bright_add_to_calendar_success_title">Event wurde dem Kalender hinzugefügt.</string>
+<string name="wls_dialog_too_bright_add_to_calendar_failed_title">Event konnte nicht in den Kalender eingetragen werden.</string>
+<string name="wls_dialog_too_bright_add_to_calendar_no_access_title">Kein Zugriff auf den Kalender.</string>
+<string name="wls_dialog_too_bright_add_to_calendar_no_access_text">Kein Zugriff auf den Kalender! Verändern Sie Ihre Einstellungen um Zugriff auf den Kalender zu gewähren.</string>
+
+<!-- START MENU ACTIVITY STUFF -->
+<string name="wls_start_menu_title">HAUPTMENÜ</string>
+<string name="wls_start_menu_item_projectinfos">Projektinformation</string>
+<string name="wls_start_menu_item_me">Nutzerdaten</string>
+<string name="wls_start_menu_item_demo">Handbuch</string>
+<string name="wls_start_menu_item_start_observation">Sternbeobachtung starten</string>
+<string name="wls_start_menu_item_news">Neuigkeiten</string>
+<string name="wls_start_menu_item_sqm">SQM Daten übermitteln</string>
+<string name="wls_start_menu_item_to_nightmode">Nachtmodus</string>
+<string name="wls_start_menu_item_to_daymode">Tagmodus</string>
+<string name="wls_start_menu_item_feedback">Anmerkungen</string>
+<string name="wls_start_menu_item_quit">Beenden</string>
+<string name="wls_start_menu_item_close_menu">Menü schließen</string>
+
+<!-- INTRO ACTIVITY STUFF -->
+<string name="wls_info_title">INFORMATION</string>
+<string name="wls_info_headline">Lichtverschmutzung verdeckt nicht nur die Sterne. Ungünstige Beleuchtung verschwendet Geld und Energie und gefährdet viele Tiere. Es gibt sogar Hinweise, dass Lichtverschmutzung die Gesundheit belasten kann.</string>
+<string name="wls_info_text">Mit dieser App können Sie uns helfen, den Licht-Fußabdruck Ihrer Umgebung zu messen. Egal ob in der Stadtmitte oder weit entfernt von künstlichem Licht, Forscher aus der ganzen Welt warten auf Ihren Beitrag zur Erfassung der Lichtverschmutzung.\n\nDiese App wurde vom Bundesministerium für Bildung und Forschung (BMBF) im Rahmenprogramm "Forschung für nachhaltige Entwicklungen" (FONA) unter dem Förderkennzeichen 033L038A gefördert.\nProjektbegleitung: Projektträger Jülich / Geschäftsbereich Nachhaltigkeit und Klima.</string>
+<string name="wls_info_button_more_information_text">Mehr Information</string>
+<string name="wls_info_button_next_text">Weiter</string>
+<string name="wls_info_checkbox_text">Nicht wieder anzeigen</string>
+
+<!-- USAGE ACTIVITY STUFF -->
+<string name="wls_usage_title">BENUTZUNG</string>
+<string name="wls_usage_headline">Die Fähigkeit, Sterne zu erkennen, verändert sich mit der Sehkraft und dem Alter. Mit der Registrierung senden Sie uns diese Informationen unter in Verbindung mit einem Nutzernamen und Ihrer Emailadresse. Falls Sie sich nicht registrieren möchten werden Ihre Messungen mit einer anonymen Nutzer-ID, aber ohne Namen oder andere persönliche Daten übertragen. Ihre Messungen fließen in ein Citizen Science Projekt und werden anonym online gestellt.</string>
+<string name="wls_usage_text">Falls Sie sich nicht registrieren oder diese App nur testen möchten, können Sie gerne als Gast weitermachen.</string>
+<string name="wls_usage_button_register_now_text">Jetzt registrieren</string>
+<string name="wls_usage_button_continue_as_guest_text">Weitermachen als Gast</string>
+<string name="wls_usage_checkbox_text">Meldung nicht wieder anzeigen.</string>
+
+<!-- ME ACTIVITY STUFF -->
+<string name="wls_me_title">NUTZERDATEN</string>
+<string name="wls_me_additional_title">MEINE MESSUNGEN</string>
+<string name="wls_me_text">Hier können Sie Ihre vorherigen Messungen und Nutzerinformationen sehen und verändern.</string>
+<string name="wls_me_button_my_measurements">Meine Messungen</string>
+<string name="wls_me_button_user_information">Nutzerinformationen</string>
+<string name="wls_me_button_settings">Einstellungen</string>
+
+<!-- USER DATA ACTIVITY STUFF -->
+<string name="wls_user_data_title">NUTZER INFORMATION</string>
+<string name="wls_user_data_headline">Bitte geben Sie uns die folgenden Informationen:</string>
+<string name="wls_user_data_item_age">Alter</string>
+<string name="wls_user_data_item_no_drawback">Keine Einschränkungen\nder Sehkraft</string>
+<string name="wls_user_data_item_glasses">Brille</string>
+<string name="wls_user_data_item_lenses">Kontaktlinsen</string>
+<string name="wls_user_data_item_laser">Laser-Augenbehandlung</string>
+<string name="wls_user_data_item_experience">Erfahrung mit Sternbeobachtungen</string>
+<string name="wls_user_data_item_experience_none">Wenig oder keine Erfahrung</string>
+<string name="wls_user_data_item_experience_some">Ich kenne einige Sterne und Sternzeichen</string>
+<string name="wls_user_data_item_experience_amateur">Hobby-Astronom</string>
+<string name="wls_user_data_button_save">Speichern</string>
+<string name="wls_user_data_text">Wir werden ihre E-Mail-Adresse nicht für Werbezwecke verwenden und keinerlei private Daten an Dritte weitergeben.</string>
+<string name="wls_user_data_name">Username:</string>
+<string name="wls_user_data_email">E-Mail:</string>
+<string name="wls_user_data_button_text">Speichern</string>
+<string name="wls_user_data_email_not_ok">Keine gültige Emailadresse!</string>
+<string name="wls_user_data_username_not_ok_whitespace">Nutzername beinhaltet Leerzeichen</string>
+<string name="wls_user_data_username_not_ok_empty">Nutzername ist leer</string>
+<string name="wls_user_data_edittext_hint">optional</string>
+
+<!-- BAD CONDITIONS DIALOG STUFF -->
+<string name="wls_dialog_bad_conditions_title">Bitte versuchen Sie einen anderen Ort</string>
+<string name="wls_dialog_bad_conditions_text">Es sieht so aus als kann man von Ihrem Ort keine Sterne sehen. Bitte finden Sie einen geeigneteren Ort und versuchen Sie es nochmal.</string>
+<string name="wls_dialog_bad_conditions_button_ok">OK</string>
+
+<!-- NO MORE STARS DIALOG STUFF -->
+
+<!-- Dialog displayed once no more stars are eligible for observation -->
+<string name="wls_dialog_no_more_stars_title">Keine Sterne gefunden.</string>
+<string name="wls_dialog_no_more_stars_text">Keine Sterne passend für Beobachtung gefunden.</string>
+<string name="wls_dialog_no_more_stars_button_ok">OK</string>
+
+<!-- FINISHED DIALOG STUFF -->
+<string name="wls_dialog_measurement_finished_title">Vielen Dank für Ihre Messungen!</string>
+<string name="wls_dialog_measurement_finished_text">Ihre Beobachtungen ergaben eine Grenzgröße mit bloßem Auge von %1$.1f, und Ihre Messungen waren gleichmäßig über einen Bereich von ungefähr %2$.1f (niedrige Werte sind besser). Versuchen Sie es noch einmal in einer anderen Nacht um herauszufinden, ob der Messwert gleich bleibt.\n\nHeute Nacht können Sie ungefähr %3$d Sterne am Himmel sehen.\n\nUnser Ziel ist es zu verfolgen, wie sich das Himmelsleuchten mit der Zeit verändert, deshalb versuchen Sie bitte eine weitere Messung an diesem Ort zu einer anderen Zeit.</string>
+
+<!-- Identical to the above string however mind the different formatting characters required for iOS -->
+<string name="wls_dialog_measurement_finished_button_ok">OK</string>
+
+<!-- ME MY MEASURES ACTIVITY STUFF -->
+<string name="wls_me_my_measures_subtitle">Meine Messungen</string>
+<string name="wls_me_my_measures_no_history_subtitle">Kein Verlauf</string>
+<string name="wls_me_my_measures_list_delete_history">Verlauf löschen</string>
+<string name="wls_me_my_measures_list_visible">sichtbar</string>
+<string name="wls_me_my_measures_list_not_visible">nicht gefunden aufgrund von</string>
+<string name="wls_me_my_measures_list_unnamed">unbenannt</string>
+<string name="wls_me_my_sqm_transfers_subtitle">Meine SQM Messungen</string>
+<string name="wls_me_my_sqm_transfers_sqm_value">SQM Wert</string>
+
+<!-- VISIBILITY REASONS -->
+<string name="wls_visiblity_not_found_reason_obstruction">Hindernis</string>
+<string name="wls_visiblity_not_found_reason_weather">Wetter</string>
+<string name="wls_visiblity_not_found_reason_unsure">unsicher</string>
+<string name="wls_visiblity_not_found_reason_not_visible">nicht sichtbar</string>
+<string name="wls_visiblity_not_found_reason_barely_visible">indirektes Sehen</string>
+<string name="wls_visiblity_found_reason_barely_visible">kaum sichtbar</string>
+<string name="wls_visiblity_found_reason_found">gefunden</string>
+
+<!-- ME MY MEASURES LIST VIEW STUFF -->
+<string name="wls_me_my_measures_list_date">Datum</string>
+<string name="wls_me_my_measures_list_number_of_stars_measured">Anzahl beobachteter Sterne:</string>
+<string name="wls_me_my_measures_list_limiting_magnitude">Grenzgröße</string>
+<string name="wls_me_my_measures_list_sqm_value">SQM:</string>
+<string name="wls_me_my_measures_list_star_name">Sternname:</string>
+<string name="wls_me_my_measures_list_star_ra">Re:</string>
+<string name="wls_me_my_measures_list_star_dec">De:</string>
+<string name="wls_me_my_measures_list_star_mag">Mag:</string>
+<string name="wls_me_my_measures_list_transmission_status">Übertragungsstatus</string>
+<string name="wls_me_my_measures_list_transmission_status_pending">in Warteschlange</string>
+<string name="wls_me_my_measures_list_transmission_status_sent">erfolgreich gesendet</string>
+<string name="wls_me_my_measures_list_measured_stars">Sterne</string>
+<string name="wls_me_my_measures_list_gpsposition">GPS Position</string>
+<string name="wls_me_my_measures_list_gps_lat">Breite</string>
+<string name="wls_me_my_measures_list_gps_lon">Länge</string>
+<string name="wls_me_my_measures_list_time">Zeit</string>
+
+<!-- DELETE HISTORY DIALOG STUFF -->
+<string name="wls_dialog_delete_title">Verlauf löschen</string>
+<string name="wls_dialog_delete_text">Möchten Sie wirklich den Verlauf löschen?</string>
+<string name="wls_dialog_delete_negative">Nein</string>
+<string name="wls_dialog_delete_positive">Ja</string>
+
+<!-- WEATHER CONDITIONS ACTIVITY STUFF -->
+<string name="wls_weather_conditions_title">WETTER KONDITIONEN</string>
+<string name="wls_weather_conditions_text">Bitte geben Sie die aktuellen Wetterkonditionen an.</string>
+<string name="wls_weather_conditions_button_continue">Weiter</string>
+<string name="wls_weather_conditions_button_cancel">Abbrechen</string>
+
+<!-- WEATHER CONDITIONS SPINNER STUFF -->
+<string name="wls_weather_conditions_clear">Klar</string>
+<string name="wls_weather_conditions_partly_cloudy">Teilweise bewölkt</string>
+<string name="wls_weather_conditions_cloudy">Bewölkt</string>
+<string name="wls_weather_conditions_rain">Regen</string>
+<string name="wls_weather_conditions_fog">Nebel</string>
+<string name="wls_weather_conditions_snow">Schnee am Boden</string>
+
+<!-- NEWS ACTIVITY STUFF -->
+<string name="wls_news_title">NEUIGKEITEN</string>
+<string name="wls_news_failed">Nachricht konnte nicht abgerufen werden.</string>
+<string name="wls_news_no_network">Kein Netzwerk verfügbar. Versuchen Sie es später erneut.</string>
+
+<!-- PROJECT INFO ACTIVITY STUFF -->
+<string name="wls_project_info_main_title">PROJEKTINFORMATION</string>
+
+<!-- DO YOU HAVE AN SQM DIALOG -->
+<string name="wls_dialog_have_sqm_title">Haben Sie ein SQM</string>
+<string name="wls_dialog_have_sqm_message">Das "Sky Quality Meter" (SQM) ist ein Gerät, mit dem Sie die Helligkeit des Nachthimmels messen können.\n\nWenn Sie ein SQM besitzen, können Sie auf dieser Seite seine Daten an unseren Server senden.</string>
+<string name="wls_dialog_have_sqm_button_negative">Abbrechen</string>
+<string name="wls_dialog_have_sqm_button_positive">Weiter</string>
+
+<!-- SUBMIT SQM ACTIVITY STUFF -->
+<string name="wls_submit_sqm_title">SQM DATEN ÜBERMITTELN</string>
+<string name="wls_submit_sqm_text">Das "Sky Quality Meter" (SQM) ist ein Gerät, mit dem Sie die Helligkeit des Nachthimmels messen können.\n\nWenn Sie ein SQM besitzen, können Sie auf dieser Seite seine Daten an unseren Server senden.</string>
+<string name="wls_submit_sqm_button_text">Absenden</string>
+<string name="wls_submit_sqm_decimal">,</string>
+<string name="wls_dialog_submit_sqm_title">SQM übermitteln</string>
+<string name="wls_dialog_submit_sqm_text">Vielen Dank. Die Daten werden übermittelt.</string>
+<string name="wls_dialog_submit_sqm_button_text">OK</string>
+
+<!-- SQM value is input using a numberpad keyboard on iOS-->
+
+<!-- which do not have an explicit close button  -->
+
+<!-- therefore we need our own -->
+
+<!-- CANCEL MEASUREMENT DIALOG STUFF -->
+<string name="wls_dialog_cancel_measurement_title">Messung abbrechen</string>
+<string name="wls_dialog_cancel_measurement_text">Sie wollen die Messung abbrechen bevor genug Sterne für einen nutzbaren Datensatz beobachtet wurden. Sind Sie sicher?</string>
+<string name="wls_dialog_cancel_measurement_button_quit">Beenden</string>
+<string name="wls_dialog_cancel_measurement_button_continue_measuring">Weiter beobachten</string>
+
+<!-- DIALOG STUFF FOR "ACTIVE MEASUREMENT" -->
+<string name="wls_dialog_active_measurement_title">Nicht beendete Messung</string>
+<string name="wls_dialog_active_measurement_message">Sie haben die momentane Messung noch nicht beendet. Sie können mit der Messung fortfahren oder die Anwendung beenden.</string>
+<string name="wls_dialog_active_measurement_continue_measuring">Fortfahren</string>
+<string name="wls_dialog_active_measurement_quit_app">Beenden</string>
+
+<!-- PROGRESS BAR DIALOG STUFF -->
+<string name="wls_dialog_progress_bar_title">GPS</string>
+<string name="wls_dialog_progress_bar_message">Momentane Position wird bestimmt.\nSichtbare Satelliten %1$d\nGenauigkeit: %2$s</string>
+<string name="wls_dialog_progress_bar_cancel">Abbrechen</string>
+
+<!-- CANCELED GPS FIX DIALOG STUFF -->
+<string name="wls_dialog_gps_fix_canceled_title">GPS-Suche abgebrochen</string>
+<string name="wls_dialog_gps_fix_canceled_message">Ohne Ihren genauen Standort können Ihre Messungen nicht ausgewertet werden.\n\nWenn Sie die Suche nach Sternen ausprobieren möchten, können Sie einen Demomodus starten.</string>
+<string name="wls_dialog_gps_fix_canceled_positive_button">Demo</string>
+<string name="wls_dialog_gps_fix_canceled_negative_button">Messung abbrechen</string>
+
+<!-- ADD TO CALENDAR DIALOG -->
+<string name="wls_dialog_add_to_calendar_title">Sternenbeobachtung</string>
+<string name="wls_dialog_add_to_calendar_message">Jetzt ist die ideale Zeit, um die Himmelshelligkeit mit der Verlust der Nacht App zu messen.</string>
+
+<!-- SETTINGS -->
+<string name="wls_settings_show_starnames">Sternennamen anzeigen</string>
+<string name="wls_settings_show_constellations">Sternzeichen anzeigen</string>
+<string name="wls_settings_stars_big_font">Schriftgröße für Sterne und Sternzeichen vergrößern</string>
+<string name="wls_settings_stars_dim">Beobachtung schwacher Sterne</string>
+<string name="wls_settings_show_information">Informationsseite beim Start anzeigen</string>
+<string name="wls_settings_show_usage">Registrierung beim Start anzeigen</string>
+<string name="wls_settings_button_save">Speichern</string>
+
+<!-- GENERAL STUFF -->
+<string name="wls_general_link_to_igb">www.igb-berlin.de</string>
+<string name="wls_general_not_implemented_yet">Noch nicht implementiert!</string>
+
+<!-- RSS FEED LINK -->
+<string name="wls_rss_feed_link">http://lossofthenight.blogspot.com/feeds/posts/default?alt=rss</string>
+
+<!-- FEEDBACK STUFF -->
+<string name="wls_feedback_title">Anmerkungen</string>
+<string name="wls_feedback_send_email">Anmerkungen oder Fragen als Email schicken</string>
+<string name="wls_feedback_rate_us">Bewerten Sie diese App</string>
+<string name="wls_feedback_email_chooser_title">Email abschicken</string>
+<string name="wls_feedback_email_address">vdn-app@igb-berlin.de</string>
+<string name="wls_feedback_email_subject">Anmerkungen für Verlust der Nacht</string>
+<string name="wls_feedback_email_text"></string>
+
+<!-- EMAIL COULD NOT BE SENT DIALOG ON IOS -->
+</resources>

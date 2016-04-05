@@ -1,0 +1,23 @@
+﻿"Prispejte do celosvetového občianskeho vedeckého projektu". (The Guardian)
+"Zistite presne, aké zlé je svetelné znečistenie" (Chandra Clarke, citizensciencecenter.com)
+"Používanie aplikácie už nemôže byť jednoduchšie a popri tom sa môžete naučiť rozoznávať jednotlivé súhvezdia" (Nicholas Fordes, plos.org)
+
+Aplikácia "Loss of the Night" zmení vaše oči na jasomery, dáva Vám možnosť stať sa občianskym vedcom a hlásiť, aká svetlá je obloha v mieste, kde žijete!
+
+V mnohých častiach sveta je nočná obloha presvetlená neužitočným umelým svetlom z nevhodne navrhnutého pouličného osvetlenia. Jas oblohy prežaruje hviezdy  a zásadne mení prirodzené nočné prostredie. Vedci sa obávajú, že svetelné znečistenie môže mať veľký dopad na nočné ekosystémy, avšak majú nedostatok informácií, aká svetlá je nočná obloha v jednotlivých častiach sveta, alebo ako sa jas nočnej oblohy v priebehu času mení.
+
+Práve používaním tejto aplikácie môžete pomôcť sledovať jas oblohy! Aplikácia je založená na Google Sky Map a umožnuje Vám robiť merania pomocou veľmi citlivého, stabilného a preštudovaného jasomeru: Vašich očí. Všetko, čo je potrebné urobiť, je pozrieť sa na určité hviezdy na oblohe a oznámiť nám, či ich vidíte, alebo nie. Používanie aplikácie Loss of the Night prináša zábavu aj poučenie a pri tom produkuje dôležité vedecké údaje, ktoré môžu v budúcnosti prispieť k ochrane životného prostredia.
+
+Po Vašom meraní budú dáta anonymne odoslané do projektu GLOBE at Night (http://www.GLOBEatNight.org), kde ich môžete videť na mape a porovnať s inými pozorovaniami z celého sveta. Počítanie hviezd je skvelý zážitok aj rodinná aktivita, pri ktorej zrazu môžete zistiť, že bez námahy poznáte mená jednotlivých hviezd a súhvezdí. Študenti majú možnosť používať aplikáciu na meranie jasu oblohy a viditeľnosti hviezd pre vlastné výskumné projekty a zároveň sa stať súčasťou globálnej občianskej vedeckej siete.
+
+Najhodnotnejšie informácie pre tento projekt prichádzajú z presvetlených miest, kde nie je vidieť veľa hviezd, ale samozrejme sú vítané aj výsledky z oblastí, kde je stále vidieť Mliečnu cestu. Ak máte šťastie, že ste na takomto mieste, podeľte sa s touto radosťou s ostatnými!
+
+Družice sledujú zemský povrch, ale nie oblohu. Porovnávaním jasu oblohy s jasom zeme, pomôžete spoločnosti zistiť, aké pouličné svietidlá treba navrhovať, aby osvetľovali naše ulice namiesto oblohy a tak snáď budú v budúcnosti mestá šetriť energiu, peniaze a popri tom mať správne osvetlené ulice a cesty, zároveň aj tmavé spálne a opäť raz nebo plné hviezd.
+
+Veľa ďalších informácií, vrátane podrobností a predbežných výsledkov sú k dispozícií na stránkach blogu projektu: http://lossofthenight.blogspot.com
+
+Neváhajte a spojte sa s výskumníkmi svetelného znečistenia a tvorcami tejto aplikácie z Verlust der Nach a zistite viac o ich ďalších projektoch a aktivitách (http://www.verlustdernacht.de). Aplikácia tiež prináša základné informácie o histórii, dôležitosti a následkoch nočného umelého osvetlenia.
+
+Tento projekt bol sponzorovaný Spolkovým ministerstvom vedy a školstva (Nemecko).
+
+Do slovenčiny preložili Martin Makuch, Michal Bronček, Slovenský zväz astronómov

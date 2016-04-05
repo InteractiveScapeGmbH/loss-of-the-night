@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- EN -->
+<!-- NOTE: This is pure XML (not interpreted as a resource file) so you can't use the "\uxxxx" notation for Unicode
+            characters. The file is UTF-8 encoded, so you can just use the appropriate characters. Backslash "\" is not
+            used as an escape character. Only the following characters need to be escaped within the text: &amp; &gt; &lt;
+-->
+<Information xmlns="http://www.interactive-scape.com/wls_project_information">
+    <Title>PROJECT INFORMATION</Title>
+    <SectionList>
+        <Section>
+            <Name>Verlust der Nacht</Name>
+            <Title>Research Network "Verlust der Nacht"</Title>
+            <PageList>
+                <Page>
+                    <Text>We associate light with positive concepts such as security, prosperity, and modernity. Yet while providing inestimable benefits, modern lighting also has its down side. We know that light, primarily through the natural rhythm of light and darkness, influences the behavior and physiology of almost all living things. But how and why individual communities on water and land, particularly human beings, react to artificial light is largely unknown.</Text>
+                </Page>
+                <Page>
+                    <Text>Life without artificial light would be hard to imagine today, but what are the consequences? "Verlust der Nacht" investigates not only the ecological, cultural and socioeconomic effects and the effects on human health, but also the reasons for the increasing illumination at night. This will help develop improved lighting concepts and sustainable technologies to minimize the negative effects of artificial light, but without sacrificing any of the major benefits.</Text>
+                </Page>
+                <Page>
+                    <Text>The research network is financially supported by the Federal Ministry for Research and Education (BMBF) framework programme "Research for Sustainable Development" (FONA) and the city of Berlin, Senat Department for Economics, Technology and Research.</Text>
+                </Page>
+                <Page>
+                    <Text>The research network consists of social and natural scientists, astronomers and engineers from the following institutions and organizations:</Text>
+                    <Image>wls_project_info_logos_</Image>
+                </Page>
+            </PageList>
+        </Section>
+        <Section>
+            <Name>Globe at Night</Name>
+            <Title>Globe at Night</Title>
+            <PageList>
+                <Page>
+                    <Text>Twinkle twinkle little star - tell me where you are! Cities are so bright that thousands of stars are no longer visible. Specifying how many stars are visible in one place is an indicator of light pollution. Since 2006, thousands of people worldwide have counted the stars. Globe at Night (www.GlobeatNight.org) collects this data and illustrates them in brightness maps. That's how we can map light pollution.</Text>
+                </Page>
+                <Page>
+                    <Text>Help measure light pollution! Every new bit of data helps map light pollution. Many measurements from one spot make the data more accurate and a new location helps expand the brightness map. Whether in the city center or in a remote area, it all counts! Since the app works worldwide and offline too, you can map light pollution wherever you are, even on holiday!</Text>
+                </Page>
+                <Page>
+                    <Text>By comparing data from different years we can detect change. That's why it is really helpful to measure frequently at one location. For example, outside your home. Using data you help collect we can continue to track light pollution. This data can then be used in future studies to understand the effects of night time lighting on, for instance, the economic activity of a region, the distribution of animals, and even the occurrence of certain diseases.</Text>
+                </Page>
+            </PageList>
+        </Section>
+        <Section>
+            <Name>Light pollution</Name>
+            <Title>Light pollution</Title>
+            <SectionList>
+                <Section>
+                    <Name>What is light pollution?</Name>
+                    <Title>What is light pollution?</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Since the introduction of electric light our nights are getting brighter. Lighting accounts for 19% of electricity consumption, equivalent to 1900 million tons of CO2. The main sources of light are the lighting of streets, buildings, and outdoor advertising. Street lighting alone consumes 114 TWh per year worldwide. Some of this light remains unused, shining up aimlessly into the sky. A reduction of this light pollution would save energy and money.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Light pollution does not only consume energy, but can harm many living organisms. Even indications of health problems are increasing. Countermeasures should therefore be taken particularly in residential and ecologically important areas. These do not entail turning off all light, but instead involve rethinking and reshaping our use of light. “Full cut-off” lamps, on-demand lighting controls, and utilizing the correct light spectrum could be a major contribution in minimizing the problem.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Astronomy</Name>
+                    <Title>Astronomy</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Since prehistoric times stars have accompanied humans in their development: in many cultures they have been likened to deities and their birth are the thing of myth and legend. More practically, stars have formed our foundation for navigation and the measurement of time. Modern societies enjoy the beauty of the stars and, through them, are reminded that we are just a small part of the universe. But for more than 70% of the world population, the night sky is now too bright to see the Milky Way.</Text>
+                        </Page>
+                        <Page>
+                            <Text>For astronomers sky glow is a major problem. As early as 1913 the Berlin Observatory was forced to relocate to Potsdam, as night sky above the capital was too bright. Today astronomers must travel to even more remote areas such as Tenerife and Chile to find the remaining dark sky. Many amateur astronomers cannot afford this luxury. Also many older people miss the starry sky from their childhood, while most children today are never able to enjoy the amazing sight of a real night sky.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Chronobiology/Health</Name>
+                    <Title>Chronobiology/Health</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Various basic processes in our body follow the rhythmic changes of light and darkness. These include the sleep-wake rhythm, several hormone productions, and the daily course of body temperature and heart rate. This body rhythm is controlled by an internal clock, which in mammals like humans can be found in the hypothalamus, part of the midbrain. It synchronizes all the cells of our body with the day-night rhythm.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Light tells our inner clock whether it is day or night. In darkness, the hormone Melatonin is produced. It makes people tired and puts our bodies to rest - heartbeat and breathing slow down, and our body temperature drops. But artificial light suppresses the melatonin production. In particular, the cold white light of LEDs and computer monitors keep us awake - our internal clock gets wrong cues and we find our internal rhythm disrupted so we might not be able to sleep long or soundly enough.</Text>
+                        </Page>
+                        <Page>
+                            <Text>If not enough melatonin is produced it can lead to insomnia. It might also significantly weaken the immune system as melatonin activates the defense against pathogens as an antioxidant and fights cancer cells. There are also suspected connections between diabetes and obesity. Thus, sleeping in darkness is far from a luxury, rather it is an essential part of a healthy life.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Ecology</Name>
+                    <Title>Ecology</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Many animals use the light of the moon and stars for orientation, but artificial light can outshines this natural night light - with very real consequences. Millions of birds die from collisions with lighted structures. Freshly hatched turtles do not migrate into the shimmering sea, but towards artificial illumination inland where they dry out and die. The countless number of insects that die in lamps means the ecosystem misses out on their vital contribution as pollinators or food source.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Animals evolved to occupy not only their spatial niche, but also to the time of the day that they are active: many are either diurnal or nocturnal. While artificial illumination might extend the activity period of diurnal animals, many nocturnal animals avoid the light. 30% of all vertebrate species and 60% of invertebrates are nocturnal. With light pollution they lose their night habitat, a development that as yet has unforeseen consequences for biodiversity.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Changes in day length are important triggers in the change of seasons. As the days become shorter, plants shed their leaves while animals put on fat reserves or prepare their migration. If the day is extended by artificial light, organisms are ill prepared for the winter - a disadvantage which can be fatal.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Cultural History</Name>
+                    <Title>Cultural History</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Artificial light indicates progress and prosperity. Following the introduction of electric light in the 1880s, cities like Berlin deliberately flaunted their urban modernity. As cities grew ever brighter, darkness became associated with underdevelopment, poverty, and danger.  Politically, illumination was also increasingly used for demonstrations of power (eg, at the Nuremberg Rally during the Third Reich).</Text>
+                        </Page>
+                        <Page>
+                            <Text>But there were also voices critical of over-illuminating the night. Particularly controversial were neon signs which started to appear in the 1910s and 20's. Seen as an eyesore in the landscape, such lights also spurred fears of moral depravity and, more practically, their effect on traffic.  Similar opposition lead to the first lighting legislation.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Society</Name>
+                    <Title>Society</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Because of artificial lighting we now live in a 24-hour society. We associate light with increased productivity and improved life quality as now work, leisure and travel are no longer dependent on the season or time. But this entails a certain detachment from our natural life-cycle of day and night with fixed periods of rest. There is growing evidence that this has negative effects on our health.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Street lighting is often associated with security. The idea of turning off such lights awakens our fear of the dark. Whether increased illumination actually reduces crime remains highly controversial. Few studies show correlation between lighting and crime, and the very large differences in crime rate between different cities are not due to lighting. In some cases, increasing light levels can actually make you see worse, if the lights are glaring.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Artificial light generates costs. Direct costs include installation, operation, and maintenance. Indirect costs arise through health and environmental effects. Therefore, light should not be used indiscriminately. The location, operating time, light intensity, and the spectrum of the lamp should all be considered and adjusted to fit the actual requirements. This allows light to be used in an efficient and sustainable way.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Lighting Technology</Name>
+                    <Title>Lighting Technology</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Today we have various light sources, all with a different "light color." For street lighting, cold white mercury vapor lamps, yellow sodium lamps, and white LEDs are being used. The "color" of the light influences our perception and mood as well as our internal clock. Animals and plants react differently to colors. Lighting, therefore, should be adjusted to the environment.</Text>
+                        </Page>
+                        <Page>
+                            <Text>With the right lamps we can illuminate the area we need to while keeping other areas dark. A road should be illuminated in a way that road and footpath are evenly lit, but that it does not shine in our bedroom windows or illuminate natural areas nearby. Similarly, an illuminated building does not need to light up the sky and the whole area surrounding it. Clever lighting is aesthetic, saves energy and money, and is more useful for people and nature.</Text>
+                        </Page>
+                        <Page>
+                            <Text>In many residential areas, light is not needed throughout the entire night. In fact, some communities dim or turn off their lighting after midnight. Using motion detectors, LED lamps can provide very flexible lighting that can come on when needed- preserving the beautiful night.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+            </SectionList>
+        </Section>
+        <Section>
+            <Name>Tips for stargazers</Name>
+            <Title>Tips for stargazers</Title>
+            <PageList>
+                <Page>
+                    <Text>This app makes you a part of the worldwide research on light. That’s exciting, but safety first! For your measurements, please choose a safe location. Don’t move around while searching for a star, so you won’t trip over something. Stay away from streets and edges. Decide yourself whether your children can use the app on their own, but it’s more fun to observe the stars together! Here is some advice how to make your measurements even better.</Text>
+                </Page>
+                <Page>
+                    <Text>Human eyes need about 30 minutes to adjust to darkness. Allow yourself enough time to get used to the light intensity at your location. Don’t position yourself directly underneath a light source, try to keep them in your back. This way, you can measure the brightness of the sky, not the brightness of the light source. Whenever possible, use the app in the night mode, so your eyes can adjust to the darkness and you will not be blinded.</Text>
+                </Page>
+                <Page>
+                    <Text>With each star you observe you will increase the accuracy of your measurement. Therefore it’s good to measure the same location at different times and days. Also, each location adds a new point to our world map. It doesn’t matter if you’re in a big city or in the country, if you’re at home or on holiday. Each measurement helps researchers and interested people in the entire world to understand the extent and change of artificial illumination.</Text>
+                </Page>
+            </PageList>
+
+        </Section>
+        <Section>
+            <Name>About</Name>
+            <Title>About</Title>
+            <SectionList>
+                <Section>
+                    <Name>Imprint</Name>
+                    <Title>Imprint</Title>
+                    <PageList>
+                        <Page>
+                            <Text><![CDATA[
+<p><b>Copyright:</b>
+Forschungsverbund Berlin e.V.
+Rudower Chaussee 17
+12489 Berlin
+Tel.: 030 63 92 - 33 30
+E-Mail: info@fv-berlin.de</p>
+
+<p><b>Developers:</b>
+interactive scape GmbH
+Köpenicker Str. 48/49
+10179 Berlin
+Tel.: +49 (0)30 69 80 94-15
+E-mail: info@interactive-scape.com</p>
+
+<p>David Wasser, Yalçı Ata
+Cosalux GmbH
+Christian-Pleß-Straße 11
+63069 Offenbach am Main
+Tel.: 069 860072260</p>
+
+<p>verlustdernacht@igb-berlin.de
+globeatnight@noao.edu</p>
+
+<p>English translation provided by Christopher Kyba</p>
+
+<p>- Based on code from the Sky Map open source project <i>http://code.google.com/p/stardroid</i>
+- Uses 'android-wheel' <i>http://code.google.com/p/android-wheel</i>
+- Uses Apache Commons Math (Apache License, Version 2.0, <i>http://www.apache.org/licenses/</i>:
+Copyright 2001-2014 The Apache Software Foundation
+This product includes software developed at
+The Apache Software Foundation (<i>http://www.apache.org/</i>).</p>
+
+<p>Version: %version%</p>
+]]></Text>
+                        </Page>
+                        <Page>
+                            <Image>wls_project_info_about_logo_en_</Image>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Sponsorship</Name>
+                    <Title>Sponsorship</Title>
+                    <PageList>
+                        <Page>
+                            <Text>This app has been developed with the financial support of the Federal Ministry for Research and Education (BMBF) framework programme "Research for Sustainable Development" (FONA) with the support code 033L038A. The project has been advised by Project Management Jülich /Environment and Sustainability, Climate Protection</Text>
+                            <Image>wls_sponsorship_logo_en_</Image>
+                        </Page>
+                    </PageList>
+                </Section>
+            </SectionList>
+        </Section>
+    </SectionList>
+</Information>

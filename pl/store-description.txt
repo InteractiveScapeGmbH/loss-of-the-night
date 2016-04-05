@@ -1,0 +1,32 @@
+﻿“ Weź udział w obywatelskim projekcie naukowym o światowym zasięgu.” (The Guardian)
+“ Dowiedz się jak duże jest zanieczyszczenie światłem.” (Chandra Clarke, citizensciencecenter.com)
+“Ciężko znaleźć prostszą w obsłudze aplikację. Przy okazji możesz nauczyć się rozpoznawać gwiazdozbiory.” (Nicolas Fordes, plos.org)
+
+Weź udział w międzynarodowym, obywatelskim projekcie naukowym, który pozwoli Ci zmierzyć widoczność gwiazd i zanieczyszczenie światłem. Pomóż stworzyć bazę danych do przyszłych badań medycznych, środowiskowych i społecznych, przez poinformowanie naukowców, jakie gwiazdy widzisz na swoim niebie.
+
+W wielu zakątkach świata, niebo rozświetla zbędne sztuczne światło, uciekające ze słabo zaprojektowanych lamp ulicznych. To zanieczyszczenie niszczy piękno gwiazd i natuarlne środowisko.
+
+Zanieczyszczenie światłem to nie tylko problem astronomów. Naukowcy na całym świecie badają, jak zanieczyszczenie światłem wpływa na zdrowie, społeczeństwo i środowisko. Ta aplikacja, która jest modyfikacją aplikacji Google Sky Map, pozwoli Ci zmierzyć widoczność gwiazd, bez użycia kosztownego sprzętu. Po prostu popatrz na niebo, znajdź konkretną gwiazdę i powiedz nam, czy ją widzisz czy nie!
+
+Używanie aplikacji Loss of the Night jest przyjemne, pouczające, promuje naukę obywatelską, oraz stanowi aktywny wkład w ochronę środowiska.
+
+Obserwowanie gwiazd przybliża Cię do kosmosu, szczególnie w miejscach wolnych od zanieczyszczenia światłem. Dzięki mapie GLOBE at Night, dowiesz się, jak wiele gwiazd możesz zobaczyć i porównasz to z innymi miejscami na świecie. Dowiedz się więcej na temat gwiazd i gwiazdozbiorów oraz znajdź miejsca, gdzie ciągle można dostrzec Drogę Mleczną. Jeśli jesteś szczęściarzem i żyjesz w takim miejscu, powiedz o tym innym! Liczenie gwiazd to wspaniała zabawa dla całej rodziny!
+
+Większość zanieczyszczenia światłem spowodowana jest przez źle zaprojektowane lampy lub nadmierne oświetlenie. Znajdując obszary z dobrze zaprojektowanym oświetleniem, pomożesz innym lokalnym społecznościom nauczyć się co działa dobrze, a co źle. To sprawi, że nasze sypialnie pozostaną ciemniejsze, a niebo będzie pełne gwiazd. Dodatkowo, dobre oświetlenie pozwala zaoszczędzić energię i pieniądze!  
+
+Weź aktywny udział w nauce! Aplikacja Loss of the Night, pozwala uczniom mierzyć zanieczyszczenie światłem i widoczność gwiazd, w ramach własnych projektów badawczych, a przy okazji brać udział w wielkim, międzynarodowym projekcie. Pomiary wysyłane są anonimowo do bazy danych GLOBE at Night (www.GLOBEatNight.org), obywatelskiego projektu badawczego, który monitoruje zanieczyszczenie światłem od 2006 roku. GLOBE at Night tworzy mapy zanieczyszczenia światłem i widoczności gwiazd, które naukowcy używają w celu określenia zależności pomiędzy zanieczyszczeniem światłem a zdrowiem, bioróżnorodnością, jakością życia i wieloma innymi czynnikami.
+
+Aplikacja dostarcza również podstawowych informacji na temat historii, znaczenia i konsekwencji nocnego, sztucznego oświetlenia.
+
+Po dokonaniu obserwacji, możesz użyć tej tablki, aby przeliczyć magnitudę najsłabiej świecącej gwiazdy, którą zaobserwowałeś, na ilość gwiazd, którą widać na Twoim niebie:
+
+
+magnituda: gwiazdy na niebie
+0-1: 2-8
+1-2: 8-25
+2-3: 25-100
+3-4: 100-250
+4-5: 250-800
+5: tysiące
+
+Aplikacja została wyprodukowana przez projekt Verlust der Nacht. Dowiedz się więcej na temat projektu na www.verlustdernacht.de i skontaktuj się z nami przez blog projektu: http://lossofthenight.blogspot.com

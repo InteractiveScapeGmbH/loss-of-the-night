@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PL -->
+<!-- NOTE: This is pure XML (not interpreted as a resource file) so you can't use the "\uxxxx" notation for Unicode
+
+            characters. The file is UTF-8 encoded, so you can just use the appropriate characters. Backslash "\" is not
+
+            used as an escape character. Only the following characters need to be escaped within the text: &amp; &gt; &lt;
+
+-->
+<Information xmlns="http://www.interactive-scape.com/wls_project_information">
+  <Title>INFORMACJE O PROJEKCIE</Title>
+  <SectionList>
+    <Section>
+      <Name>Verlust der Nacht</Name>
+      <Title>Sieć badań naukowych "Verlust der Nacht" ("Utrata Nocy")</Title>
+      <PageList>
+        <Page>
+          <Text>Światło od zawsze kojarzyło nam sie z czymś pozytywnym: bezpieczeństwem, bogactwem, nowoczesnością. Mimo tego, że dzięki światłu możemy czerpać wiele korzyści, współczesne oświetlenie ma też swoje negatywne strony. Wiemy, że światło, regulując naturalny rytm dnia i nocy, wpływa na zachowanie i fizjologię prawie wszystkich żyjących organizmów. Ciągle w dużej mierze nie znamy wpływu sztucznego światła na ludzi.</Text>
+        </Page>
+        <Page>
+          <Text>W dzisiejszych czasach, trudno jest wyobrazić sobie życie bez sztucznego oświetlenia. Lecz jakie są tego konsekwencje? "Verlust der Nacht" bada nie tylko ekologiczne, kulturowe, zdrowotne i socjoekonomiczne skutki zanieczyszczenia światłem, ale stara się również znaleźć odpowiedź, dlaczego noce stają się coraz jaśniejsze. Dzięki tym badaniom, w przyszłości będzie można rozwinąć nowoczesne koncepcje oświetleniowe oraz zrównoważone technologie, co pozwoli zminimalizować negatywny efekt sztucznego oświetlenia, bez potrzeby poświęcenia korzyści jakie ono niesie.</Text>
+        </Page>
+        <Page>
+          <Text>Sieć badań naukowych jest finansowo wspierana przez niemieckie Ministerstwo Edukacji i Badań Naukowych (BMBF) w ramach programu "Badania naukowe dla zrównoważonego rozwoju" (FONA) oraz miasto Berlin i Senacki Wydział Ekonomii, Technologii i Badań Naukowych.</Text>
+        </Page>
+        <Page>
+          <Text>Sieć naukowców zajmujących się tym tematem, tworzą socjolodzy, biolodzy, astronomowie i inżynierowie z następujących instytucji i organizacji:</Text>
+          <Image>wls_project_info_logos_</Image>
+        </Page>
+      </PageList>
+    </Section>
+    <Section>
+      <Name>GLOBE at Night</Name>
+      <Title>GLOBE at Night</Title>
+      <PageList>
+        <Page>
+          <Text>Miasta są tak jasne, że tysiące gwiazd stało się dla nas niewidocznych. Wskaźnikiem zanieczyszczenia światłem jest określenie, ile gwiazd można zobaczyć w danym miejscu. Od 2006, tysiące ludzi na całym świecie liczy gwiazdy. Globe at Night (www.GLOBEatNight.org) zbiera te dane i prezentuje je w postaci map jasności nieba. Jest to jeden ze sposobów, w jaki można stworzyć mapy zanieczyszczenia światłem.</Text>
+        </Page>
+        <Page>
+          <Text>Pomóż zmierzyć zanieczyszczenie światłem! Twoje dane umożliwią stworzenie unikatowej mapy. Wiele pomiarów zrobionych w jednym miejscu, pomaga polepszyć jakość mapy, natomiast pomiary wykonywane w nowych miejscach, pozwalają na poszerzenie jej zasięgu. Niezależnie od tego, czy jesteś w centrum miasta, czy na wsi, każdy pomiar się liczy! Dzięki temu, że aplikacja działa na całym świecie, również gdy nie masz połaczenia z siecią, możesz tworzyć mapę zanieczyszczenia światłem gdziekolwiek jesteś, nawet na wakacjach!</Text>
+        </Page>
+        <Page>
+          <Text>Porównując dane z różnych lat, jesteśmy w stanie wyśledzić zmiany jakości nocnego nieba. Dlatego tak ważne są pomiary wykonywane wielokrotnie w jednym miejscu np. w Twoim ogródku. W przyszłości, takie dane mogą być użyte do badań, pomagających zrozumieć wpływ nocnego oświetlenia na np. aktywność ekonomiczną w regionie, rozmieszczenie dzikich zwierząt lub nawet, występowanie niektórych chorób.  </Text>
+        </Page>
+      </PageList>
+    </Section>
+    <Section>
+      <Name>Zanieczyszczenie światłem</Name>
+      <Title>Zanieczyszczenie światłem</Title>
+      <SectionList>
+        <Section>
+          <Name>Co to jest zanieczyszczenie światłem?</Name>
+          <Title>Co to jest zanieczyszczenie światłem?</Title>
+          <PageList>
+            <Page>
+              <Text>Od momentu, kiedy wynaleziono pierwszą żarówkę, nasze noce zaczęły stawać się coraz jaśniejsze. Oświetlenie pochłania 19% całkowitego zużycia energii, co odpowiada 1900 milionom ton CO2. Głównymi źródłami światła są latarnie uliczne, budynki i reklamy. Oświetlenie ulic pochłania rocznie 114 kWh w skali całego świata. Część z tych latarni świeci bezużytecznie w niebo, ponieważ nikt z nich nie korzysta. Zmniejszenie tego typu zanieczyszczenia światłem, zaoszczędziłoby dużo pieniędzy i energii. </Text>
+            </Page>
+            <Page>
+              <Text>Zanieczyszczenie światłem nie tylko pochłania duże ilości energii, ale też szkodzi żywym organizmom. Prawdopodobnie, zjawisko to jest odpowiedzialne za wzrastającą ilość problemów zdrowotnych w społeczeństwie. W związku z tym, w miejscach ekologicznie i mieszkaniowo ważnych, należy podjąć środki zapobiegawcze. Nie ma potrzeby wyłączania wszystkich latarni w mieście, zamiast tego, możemy zmienić nasze myślenie na temat użycia świateł. Istnieje kilka sposobów na to, żeby zminimalizować problem zanieczyszczenia światłem: instalacja lamp, które nie emitują światła do góry, używanie światła o odpowiednim spektrum, możliwość włączania i wyłaczania światła wtedy, gdy zachodzi taka potrzeba.</Text>
+            </Page>
+          </PageList>
+        </Section>
+        <Section>
+          <Name>Astronomia</Name>
+          <Title>Astronomia</Title>
+          <PageList>
+            <Page>
+              <Text>Od czasów starożytnych, gwiazdy towarzyszyły ludziom w ich rozwoju. W wielu kultrurach gwiazdy są powiązane z bóstwami, a ich narodziny są źródłem wielu mitów i legend. Z praktycznego punktu widzenia, gwiazdy stanowiły podstawę nawigacji i pomiarów. Jako współczesne społeczeństwo, cieszymy się widokiem gwiazd, które przypominają nam, jak niewielką częścią wszechświata jesteśmy. Niestety, ponad 70% społeczeństwa, z powodu zbyt jasnych nocy, nie może zobaczyć Drogi Mlecznej.</Text>
+            </Page>
+            <Page>
+              <Text>Łuna stanowi dla astronomów bardzo duży problem. Już w 1913 roku Obserwatorium Berlińskie było zmuszone przenieść się do Poczdamu, ponieważ łuna nad miastem była zbyt jasna. Dzisiejsi astronomowie muszą podróżować do jeszcze bardziej odległych miejsc, takich jak Teneryfa czy Chile, gdzie mogą znaleźć ciemne niebo. Wielu astronomów amatorów nie może pozwolić sobie na taki luksus. Trzeba pamiętać też o starszych osobach, które tęsknią za widokiem rozgwieżdżonego nieba, które zapamiętali z dzieciństwa. Niestety, wiele z dzisiejszych dzieci nigdy nie będzie miało szansy podziwiać uroków prawdziwie ciemnej nocy.</Text>
+            </Page>
+          </PageList>
+        </Section>
+        <Section>
+          <Name>Chronobiologia/Zdrowie</Name>
+          <Title>Chronobiologia/Zdrowie</Title>
+          <PageList>
+            <Page>
+              <Text>Wiele podstawowych procesów w naszym ciele, regulowanych jest rytmem dnia i nocy. Zalicza się do nich: rytm aktywności i snu, produkcja wielu chormonów oraz dobowe zmiany temperatury ciała i tempa bicia serca. Rytm naszego ciała regulowany jest przez wewnętrzny zegar, który u ssaków zlokalizowany jest w podwzgórzu, które stanowi część międzymózgowia. Zegar ten, odpowiedzialny jest za synchronizowanie wszystkich komórek ciała z rytmem dnia i nocy.</Text>
+            </Page>
+            <Page>
+              <Text>Dzięki światłu, nasz wewnętrzny zegar wie, czy aktualnie jest dzień czy noc. Melatonina jest chormonem, który produkowany jest wyłącznie w ciemności. Dzięki niej, ludzie zaczynają czuć się zmęczeni, a ich organizm przygotowuje się do opoczynku - oddech i rytm serca zwalniają, temperatura ciała powoli spada. Sztuczne światło hamuje produkcje melatoniny. Światło emitowane przez m.in ekrany komputerów i zimne światło ledowe sprawiają, że nie możemy zasnąć - nasz wewnętrzny zegar odbiera mylące sygnały, które rozregulowują nasz dobowy rytm. </Text>
+            </Page>
+            <Page>
+              <Text>Jeśli nasz organizm produkuje niewystarczające ilości melatoniny, możemy mieć problemy z bezsennością. Ponieważ melatonina aktywuje obronę organizmu przed patogenami, jej niedobory mogą znacząco osłabić nasz układ odpornościowy oraz zdolność walki z komórkami rakowymi. Istnieją też powiązania między produkją melatoniny, a cukrzycą i otyłością. Tak więc, spanie w ciemności to nie tylko zachcianka, ale też ważna część zdrowego trybu życia.</Text>
+            </Page>
+          </PageList>
+        </Section>
+        <Section>
+          <Name>Ekologia</Name>
+          <Title>Ekologia</Title>
+          <PageList>
+            <Page>
+              <Text>Wiele zwierząt wykorzystuje Księżyc i gwiazdy jako punkty odniesienia, służyce im do nawigacji. Niestety, sztuczne oświetlenie może przyćmić te naturalne źródła nocnego światła, co może mieć poważne konsekwencje. Miliony ptaków giną w kolizjach z jasno oświetlonymi budynkami. Świeżo wyklute żółwie nie migrują w kierunku odbijającego światło morza, lecz w kierunku oświetlonego lądu, gdzie wysychają i giną. Niezliczona ilość owadów, które są ważnym elementem pożywienia i spełniają znaczącą rolę jako zapylacze, ginie w pobliżu źródeł światła. </Text>
+            </Page>
+            <Page>
+              <Text>Zwierzęta ewoluowały nie tylko względem konkretnych siedlisk, które zajmują, ale też względem konkretnych pór dnia, kiedy są aktywne: wiele zwierząt to zwierzęta nocne lub dzienne. W momencie, gdy sztuczne oświetlenie może wydłużyć aktywność zwierząt dziennych, to wiele zwierząt nocnych unika światła. 30% wszystkich kręgowców i 60% wszystkich bezkręgowców to zwierzęta nocne. Wskutek zanieczyszczenie światłem, tracą swoje siedliska, co może mieć trudne do przewidzenia konsekwencje dla bioróżnorodności. </Text>
+            </Page>
+            <Page>
+              <Text>Zmiany długości dnia, to ważny element następujących po sobie sezonów. Kiedy dni stają się krótsze, rośliny gubią liście, a zwierzęta gromadzą zapasy tłuszczu, lub przygotowują się do migracji. Jeśli dni są wydłużane przez sztuczne światło, zwierzęta i rośliny nie przygotują się odpowiednio do zimy, co może mieć dla nich śmiertelne konsekwencje.</Text>
+            </Page>
+          </PageList>
+        </Section>
+        <Section>
+          <Name>Historia kultury</Name>
+          <Title>Historia kultury</Title>
+          <PageList>
+            <Page>
+              <Text>Sztuczne światło jest wskaźnikiem postępu i dobrobytu. Od momentu wprowadzenia energii elektrycznej w 1880 roku, miasta takie jak Berlin, zaczęły epatować nowoczesnością. W momencie gdy miasta stawały się coraz jaśniejsze, ciemność zaczęła być kojarzona z zacofaniem, biedą i niebezpieczeństwem. Z politycznego punktu widzenia, oświetlenie zaczęło być uznawane jako dowód siły.</Text>
+            </Page>
+            <Page>
+              <Text>W przeszłości, co jakiś czas można było ułyszeć głosy krytyki, w związku ze zbyt rozświetlonymi nocami. Chodziło głównie o pojawiające w latach 20. neonowe szyldy, które według wielu szpeciły krajobraz, wzbudzały obawę o poprawność moralną i wpływ na ruch uliczny. Podobne obawy, doprowadziły do wprowadzenia pierwszych regulacji prawnych odnośnie oświetlenia.</Text>
+            </Page>
+
+                    </PageList>
+        </Section>
+        <Section>
+          <Name>Społeczeństwo</Name>
+          <Title>Społeczeństwo</Title>
+          <PageList>
+            <Page>
+              <Text>Dzięki sztucznemu oświetleniu, żyjemy w społeczeństwie aktywnym 24 godziny na dobę. Światło kojarzy nam się ze wzrostem wydajności i polepszeniem warunków życia. Nie musimy już uzależniać naszej pracy, przyjemności i podróży od obecności naturalnego światła. Pociąga to za sobą pewne oderwanie się od naturalnego cuklu życia - gdzie dzień i noc wyznaczają nam rytm aktywności i odpoczynku. Coraz więcej dowodów potwierdza, że ma to negatywne konsekwencje zdrowotne. </Text>
+            </Page>
+            <Page>
+              <Text>Uliczne oświetlenie często kojarzone jest z bezpieczeństwem, dlatego pomysł, żeby wyłączać tego typu światło, wzbudza w nas strach. To, czy wzrost oświetlenia redukuje przestępczość, jest sprawą mocno kontrowersyjną. Kilka badań naukowych podjęło temat zależności pomiędzy oświetleniem a przestępczością i wykazało, że istniejące duże różnice we wskaźnikach przestępczości między miastami, nie wynikają z różnic w oświetleniu. W niektórych przypadkach, jeśli światło nas razi, to nasza zdolność widzenia może ulec pogorszeniu.</Text>
+            </Page>
+            <Page>
+              <Text>Sztuczne oświetlenie generuje koszty. Bezpośrednie koszty związane są z montażem, fukcjonowaniem i naprawami. Pośrednie koszty wynikają ze skutków środowiskowych i zdrowotnych. Zatem, nie powinniśmy używać światła bez żadnych ograniczeń. Lokalizacja, czas pracy, intensywność i spektrum światła, powinny być dopasowane do naszych aktualnych potrzeb. To pozwoli na wydajne i zrównoważone użycie światła.</Text>
+            </Page>
+          </PageList>
+        </Section>
+        <Section>
+          <Name>Technologie oświetleniowe</Name>
+          <Title>Technologie oświetleniowe</Title>
+          <PageList>
+            <Page>
+              <Text>Na rynku dostępnych jest wiele rodzajów źródeł światła, każde o innym "kolorze". Przy oświetleniu ulic, używa się wysokociśnieniowych lamp rtęciowych, dających zimne, białe światło; lamp sodowych, dających żółte światło oraz lamp LED, które cechuje białe światło. "Kolor" światła wpływa nie tylko na nasze samopoczucie i wewnętrzny zegar ale też na percepcję. Zwierzęta i rośliny w różny sposób reagują na kolory. W związku z tym, oświetlenie powinno być dostosowane do środowiska.</Text>
+            </Page>
+            <Page>
+              <Text>Dzięki użyciu odpowiednich lamp, możemy precyzyjnie oświetlić obszar na którym nam zależy, przy czym reszta terenu pozostaje w ciemności. Drogi i chodniki powinny być równomiernie oświetlone, ale w taki sposób, żeby niepotrzebne światło nie wpadało nam nocą do mieszkań, ani nie oświetlało okolicznych terenów naturalnych. Analogicznie, nie ma potrzeby, żeby oświetlenie budynków obejmowało niebo i otaczającą przestrzeń. Mądre oświetlenie jest estetyczne, oszczędne i pożyteczne dla ludzi i środowiska. </Text>
+            </Page>
+            <Page>
+              <Text>W przypadku wielu dzielnic mieszkaniowych, światło nie jest potrzebne przez całą noc. W rzeczywistości, wiele lokalnych społeczności przygasza, bądź całkowicie wyłacza oświetlenie po północy. Dzięki użyciu detektorów ruchu, lampy LED stają się bardzo pożytecznym i elastycznym narzędziem w ochronie piękna naturalnie ciemnej nocy.  </Text>
+            </Page>
+          </PageList>
+        </Section>
+      </SectionList>
+    </Section>
+    <Section>
+      <Name>Wskazówki dla astronomów</Name>
+      <Title>Wskazówki dla astronomów</Title>
+      <PageList>
+        <Page>
+          <Text>Dzięki tej aplikacji stajesz się częścią projektu badawczego o światowym zasięgu. To wspaniała wiadomość, lecz pamiętaj - bezpieczeństwo musi być na pierwszym miejscu! Wybierz bezpieczną lokalizację do wykonywania pomiarów. Nie przemieszczaj się w poszukiwniu gwiazdy, ponieważ możesz się o coś potknąć. Nie zbliżaj się do ulic i krawędzi. Oceń, czy Twoje dzieci mogą używać aplikacji na własną rękę. Wspólne obserwacje gwiazd są dużo fajniejsze! Tutaj znajdziesz kilka rad, jak sprawić, żeby obserwacje były jeszcze ciekawsze. </Text>
+        </Page>
+        <Page>
+          <Text>Nasze oczy potrzebują około 30 minut, żeby przystosować się do ciemności. Pozwól swojemu wzrokowi odpowiednio przystosować się do ciemności, jaka panuje w Twojej lokalizacji. Nie ustawiaj się bezpośrednio pod źródłem światła, staraj się mieć światło za swoimi plecami. Dzięki temu, zmierzysz jasność nieba a nie źródła światła. Jeśli jest to możliwe, użyj nocnego trybu aplikacji, dzięki czemu nie oślepi Cię światło telefonu.</Text>
+        </Page>
+        <Page>
+          <Text>Z każdą nową obserwacją, zwiększysz dokładność swoich pomiarów. W związku z tym, dobrze jest wykonać pomiary w tym samym miejscu, w inne dni i o różnych porach. Dodatkowo, każda nowa lokalizacja to nowy punkt na naszej mapie. Nie ma znaczenia czy jesteś w mieście, czy na wsi, w domu lub na wakacjach. Każdy pomiar, pomaga naukowcom z całego świata i osobom zainteresowanym tematem, poznać zasięg i zrozumieć zmiany sztucznego oświetlenia na świecie.</Text>
+        </Page>
+      </PageList>
+    </Section>
+    <Section>
+      <Name>Na temat</Name>
+      <Title>Na temat</Title>
+      <SectionList>
+        <Section>
+          <Name>Stopka</Name>
+          <Title>Stopka</Title>
+          <PageList>
+            <Page>
+              <Text><![CDATA[
+<p><b>Copyright:</b>
+Forschungsverbund Berlin e.V.
+Rudower Chaussee 17
+12489 Berlin
+Tel.: 030 63 92 - 33 30
+E-Mail: info@fv-berlin.de</p>
+
+<p><b>Developer:</b>
+interactive scape GmbH
+Köpenicker Str. 48/49
+10179 Berlin
+Tel.: +49 (0)30 69 80 94-15
+E-mail: info@interactive-scape.com</p>
+
+<p>David Wasser, Yalçı Ata
+Cosalux GmbH
+Christian-Pleß-Straße 11
+63069 Offenbach am Main
+Tel.: 069 860072260</p>
+
+<p>verlustdernacht@igb-berlin.de
+globeatnight@noao.edu</p>
+
+<p>Polskie tłumaczenie dzięki uprzejmości Anny Mularczyk</p>
+
+<p>- Based on code from the Sky Map open source project <i>http://code.google.com/p/stardroid</i>
+- Uses 'android-wheel' <i>http://code.google.com/p/android-wheel</i>
+- Uses Apache Commons Math (Apache License, Version 2.0, <i>http://www.apache.org/licenses/</i>:
+Copyright 2001-2014 The Apache Software Foundation
+This product includes software developed at
+The Apache Software Foundation (<i>http://www.apache.org/</i>).
+</p>
+
+<p>Version: %version%</p>
+]]></Text>
+            </Page>
+            <Page>
+              <Image>wls_project_info_about_logo_en_</Image>
+            </Page>
+          </PageList>
+        </Section>
+        <Section>
+          <Name>Patronat</Name>
+          <Title>Patronat</Title>
+          <PageList>
+            <Page>
+              <Text>Ta aplikacja została stworzona przy finansowym wsparciu Ministerstwa Edukacji i Badań Naukowych (BMBF), w ramach programu "Badania naukowe dla zrównoważonego rozwoju" (FONA) o kodzie 033L038A. Projekt został zatwierdzony przez Project Management Jülich / Environment and Sustainability, Climate Protection.</Text>
+              <Image>wls_sponsorship_logo_en_</Image>
+            </Page>
+          </PageList>
+        </Section>
+      </SectionList>
+    </Section>
+  </SectionList>
+</Information>

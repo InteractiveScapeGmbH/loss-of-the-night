@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Please add  translation_description="" attributes to Strings to assist the translators. -->
+<string name="app_name" translation_description="Application Title">Loss of the Night</string>
+<string name="ecliptic">Tutulum Düzlemi</string>
+<string name="zenith">BAŞUCU</string>
+<string name="nadir">AYAKUCU</string>
+<string name="north">KUZEY</string>
+<string name="east">DOĞU</string>
+<string name="west">BATI</string>
+<string name="south">GÜNEY</string>
+<string name="sun">Güneş</string>
+<string name="moon">Ay</string>
+<string name="mercury">Merkür</string>
+<string name="venus">Venüs</string>
+<string name="earth">Yer</string>
+<string name="mars">Mars</string>
+<string name="jupiter">Jüpiter</string>
+<string name="saturn">Satürn</string>
+<string name="uranus">Uranüs</string>
+<string name="neptune">Neptün</string>
+<string name="pluto">Plüton</string>
+<string name="andromeda" translation_description="Name of the Andromeda constellation">Andromeda</string>
+<string name="aquarius" translation_description="Name of the Aquarius constellation">Kova</string>
+<string name="aquila" translation_description="Name of the Aquila constellation">Kartal</string>
+<string name="aries" translation_description="Name of the Aries constellation">Koç</string>
+<string name="auriga" translation_description="Name of the Auriga constellation">Arabacı</string>
+<string name="bootes" translation_description="Name of the Bootes constellation">Çoban</string>
+<string name="cancer" translation_description="Name of the Cancer constellation">Yengeç</string>
+<string name="canis_major" translation_description="Name of the Canis Major constellation">Büyükköpek</string>
+<string name="capricornus" translation_description="Name of the Capricornus constellation">Oğlak</string>
+<string name="carina" translation_description="Name of the Carina constellation">Karina</string>
+<string name="cassiopeia" translation_description="Name of the Cassiopeia constellation">Kraliçe</string>
+<string name="centaurus" translation_description="Name of the Centaurus constellation">Erboğa</string>
+<string name="cetus" translation_description="Name of the Cetus constellation">Balina</string>
+<string name="crux" translation_description="Name of the Crux constellation">Güneyhaçı</string>
+<string name="cygnus" translation_description="Name of the Cygnus constellation">Kuğu</string>
+<string name="draco" translation_description="Name of the Draco constellation">Ejderha</string>
+<string name="eridanus" translation_description="Name of the Eridanus constellation">Irmak</string>
+<string name="gemini" translation_description="Name of the Gemini constellation">İkizler</string>
+<string name="grus" translation_description="Name of the Grus constellation">Turna</string>
+<string name="hercules" translation_description="Name of the Hercules constellation">Herkül</string>
+<string name="hydrus" translation_description="Name of the Hydrus constellation">Küçüksuyılanı</string>
+<string name="leo" translation_description="Name of the Leo constellation">Aslan</string>
+<string name="libra" translation_description="Name of the Libra constellation">Terazi</string>
+<string name="lupus" translation_description="Name of the Lupus constellation">Kurt</string>
+<string name="lyra" translation_description="Name of the Lyra constellation">Çalgı</string>
+<string name="ophiuchus" translation_description="Name of the Ophiuchus constellation">Yılancı</string>
+<string name="orion" translation_description="Name of the Orion constellation">Avcı</string>
+<string name="pavo" translation_description="Name of the Pavo constellation">Tavuskuşu</string>
+<string name="pegasus" translation_description="Name of the Pegasus constellation">Kanatlıat</string>
+<string name="perseus" translation_description="Name of the Perseus constellation">Kahraman</string>
+<string name="phoenix" translation_description="Name of the Phoenix constellation">Anka</string>
+<string name="pisces" translation_description="Name of the Pisces constellation">Balık</string>
+<string name="piscis_austrinus" translation_description="Name of the Piscis Austrinus constellation">Güneybalığı</string>
+<string name="puppis" translation_description="Name of the Puppis constellation">Pupa</string>
+<string name="sagittarius" translation_description="Name of the Sagittarius constellation">Yay</string>
+<string name="scorpius" translation_description="Name of the Scorpius constellation">Akrep</string>
+<string name="taurus" translation_description="Name of the Taurus constellation">Boğa</string>
+<string name="tucana" translation_description="Name of the Tucana constellation">Tukan</string>
+<string name="ursa_major" translation_description="Name of the Ursa Major constellation">Büyükayı</string>
+<string name="ursa_minor" translation_description="Name of the Ursa Minor constellation">Küçükayı</string>
+<string name="vela" translation_description="Name of the Vela constellation">Yelken</string>
+<string name="virgo" translation_description="Name of the Virgo constellation">Başak</string>
+<string name="capricorn" translation_description="Name of the Capricorn constellation">Oğlak</string>
+<string name="southern_cross" translation_description="Name of the Southern Cross constellation">Güneyhaçı</string>
+<string name="scorpio" translation_description="Name of the Scorpio constellation">Akrep</string>
+<string name="little_dipper" translation_description="Name of the Little Dipper constellation">Küçükayı</string>
+<string name="little_bear" translation_description="Name of the Little Bear constellation">Küçükayı</string>
+<string name="big_dipper" translation_description="Name of the Big Dipper constellation">Büyükayı</string>
+<string name="great_bear" translation_description="Name of the Great Bear constellation">Büyükayı</string>
+<string name="plough" translation_description="Name of the Plough constellation">Büyükayı</string>
+<string name="sirius" translation_description="Name of the Star Sirius">Akyıldız</string>
+<string name="canopus" translation_description="Name of the Star Canopus">Kanopus</string>
+<string name="arcturus" translation_description="Name of the Star Arcturus">Arkturus</string>
+<string name="rigel_kentaurus_a" translation_description="Name of the Star Rigel Kentaurus A">Rigil Kentarus A</string>
+<string name="vega" translation_description="Name of the Star Vega">Vega</string>
+<string name="rigel" translation_description="Name of the Star Rigel">Rigel</string>
+<string name="procyon" translation_description="Name of the Star Procyon">Öncü</string>
+<string name="betelgeuse" translation_description="Name of the Star Betelgeuse">İkizlerevi</string>
+<string name="achernar" translation_description="Name of the Star Achernar">Ağız</string>
+<string name="hadar" translation_description="Name of the Star Hadar">Hadar</string>
+<string name="capella" translation_description="Name of the Star Capella">Kapella</string>
+<string name="altair" translation_description="Name of the Star Altair">Uçucu</string>
+<string name="acrux" translation_description="Name of the Star Acrux">Akruks</string>
+<string name="aldebaran" translation_description="Name of the Star Aldebaran">Aldebaran</string>
+<string name="spica" translation_description="Name of the Star Spica">Başakçı</string>
+<string name="antares" translation_description="Name of the Star Antares">Antares</string>
+<string name="pollux" translation_description="Name of the Star Pollux">Pollüks</string>
+<string name="fomalhaut" translation_description="Name of the Star Fomalhaut">Balıkağzı</string>
+<string name="deneb" translation_description="Name of the Star Deneb">Denep</string>
+<string name="regulus" translation_description="Name of the Star Regulus">Regulus</string>
+<string name="adhara" translation_description="Name of the Star Adhara">Adhara</string>
+<string name="shaula" translation_description="Name of the Star Shaula">Shaula</string>
+<string name="alnath" translation_description="Name of the Star Alnath">Alnath</string>
+<string name="alnilam" translation_description="Name of the Star Alnilam">Alnilam</string>
+<string name="alnair" translation_description="Name of the Star Alnair">Alnair</string>
+<string name="alioth" translation_description="Name of the Star Alioth">Alioth</string>
+<string name="mirphak" translation_description="Name of the Star Mirphak">Mirfak</string>
+<string name="kaus_australis" translation_description="Name of the Star Kaus Australis">Kaus Australis</string>
+<string name="dubhe" translation_description="Name of the Star Dubhe">Duphe</string>
+<string name="alkaid" translation_description="Name of the Star Alkaid">Alkaid</string>
+<string name="alhena" translation_description="Name of the Star Alhena">Alhena</string>
+<string name="castor" translation_description="Name of the Star Castor">Kastor</string>
+<string name="polaris" translation_description="Name of the Star Polaris">Kutup Yıldızı</string>
+<string name="alphard" translation_description="Name of the Star Alphard">Alfard</string>
+<string name="hamal" translation_description="Name of the Star Hamal">Hamal</string>
+<string name="algieba" translation_description="Name of the Star Algieba">Algieba</string>
+<string name="diphda" translation_description="Name of the Star Diphda">Difda</string>
+<string name="nunki" translation_description="Name of the Star Nunki">Nunki</string>
+<string name="mirach" translation_description="Name of the Star Mirach">Miraç</string>
+<string name="alpheratz" translation_description="Name of the Star Alpheratz">Alferaz</string>
+<string name="saiph" translation_description="Name of the Star Saiph">Saif</string>
+<string name="kochab" translation_description="Name of the Star Kochab">Koçab</string>
+<string name="rasalhague" translation_description="Name of the Star Rasalhague">Rasalhok</string>
+<string name="algol" translation_description="Name of the Star Algol">Algol</string>
+<string name="denebola" translation_description="Name of the Star Denebola">Denebola</string>
+<string name="alphekka" translation_description="Name of the Star Alphekka">Alfeka</string>
+<string name="etamin" translation_description="Name of the Star Etamin">Etamin</string>
+<string name="kaus" translation_description="Name of the Star Kaus">Kaus</string>
+<string name="shedir" translation_description="Name of the Star Shedir">Sedir</string>
+<string name="caph" translation_description="Name of the Star Caph">Caf</string>
+<string name="izar" translation_description="Name of the Star Izar">İzar</string>
+<string name="merak" translation_description="Name of the Star Merak">Merak</string>
+<string name="enif" translation_description="Name of the Star Enif">Enif</string>
+<string name="ankaa" translation_description="Name of the Star Ankaa">Anka</string>
+<string name="phad" translation_description="Name of the Star Phad">Fad</string>
+<string name="alderamin" translation_description="Name of the Star Alderamin">Alderamin</string>
+<string name="scheat" translation_description="Name of the Star Scheat">Scheat</string>
+<string name="markab" translation_description="Name of the Star Markab">Markab</string>
+<string name="menkar" translation_description="Name of the Star Menkar">Menkar</string>
+<string name="arneb" translation_description="Name of the Star Arneb">Arneb</string>
+<string name="unukalhai" translation_description="Name of the Star Unukalhai">Unukalhai</string>
+<string name="algenib" translation_description="Name of the Star Algenib">Algenib</string>
+<string name="vindemiatrix" translation_description="Name of the Star Vindemiatrix">Vindemiatrix</string>
+<string name="alcyone" translation_description="Name of the Star Alcyone">Alcyone</string>
+<string name="dog_star" translation_description="Name of the Dog Star (Sirius)">Akyıldız</string>
+<string name="north_star" translation_description="Name of the North Star">Kutup Yıldızı</string>
+<string name="pole_star" translation_description="Name of the (North) Pole Star">Kutup Yıldızı</string>
+
+<!-- PRIVACY DIALOG STUFF -->
+<string name="wls_dialog_privacy_title">GİZLİLİK ŞARTLARI VE KURALLAR</string>
+<string name="wls_dialog_privacy_text">Biliminsanları göndereceğiniz verileri işleyebilmek amacıyla ölçüm aldığınız konumu ve zamanı bilmek zorundalar. Bu uygulama gözlem yapılan noktanın konum bilgilerini veritabanına göndermek için GPS’inizi kullanır.</string>
+<string name="wls_dialog_privacy_policy_text">Onay tuşuna basınca gizlilik şartlarını ve kurallarını kabul etmiş olursunuz\n\n„Loss of the Night“\n
+Gizlilik Şartları ve Kullanım Koşulları\n
+1 Giriş\n
+“Loss of the Night” uygulamasını kullandığınız için teşekkür ederiz. Bu uygulamayla dünya çapında bir araştırmanın aktif üyesisiniz. Araştırma, yapay aydınlatmanın haritalanması ve gece’ye etkileri üzerinedir. Ek olarak bu uygulama, disiplinlerarası Almanya merkezli bir  araştırma topluluğu olan “Loss of the Night” aracılığıyla size ışıkkirliliği konusunda bilgilendirir. Bu topluluk gecenin aydınlatılmasının doğa, sağlık ve toplum üzerindeki sonuçlarını inceler. Detaylı bilgiye uygulamanın açıklama kısmından veya www.verlustdernacht.de/about-us.html adresinden ulaşabilirsiniz.
+Tüm toplanan veriler isimsiz ve elektronik olarak Gece Gökyüzü veritabanına gönderilir (www.GLOBEatNight.org). Burada dünyaçapında gökyüzü parlaklık haritası oluşturulmak üzere işlenir. Bu bilim projesinin amacı gökyüzü parlaklığının haritalanması ve zamana göre değişiminin belirlenmesidir. Ölçümler 2006’dan bu yana toplanmaktadır, ancak uygulama 2013’de yaşama geçirilmiştir.  
+“Loss of the Night” uygulaması the Forschungsverbund Berlin e.V., Rudower Chaussee 17, 12489 Berlin, Almanya tarafından sağlanmaktadır. “Loss of the Night” uygulamasını kullanmak için aşağıdaki kural ve koşulları dikkatlice okuyup kabul etmeniz gerekmektedir. Kurallar ve kaşulları kabul etmeyen kullanıcılar bu uygulamayı kullanamazlar.\n\n
+2 „Loss of the Night“ Uygulamasının Kullanımı\n
+Temel gereksinimler: Uygulama Android 4.0 veya üstü işletim sistemleri içindir. Çözünürlük mdpi veya üstü olarak ayarlanmalıdır. 
+Servis sağlayıcı ücretleri: Ölçümler Gece Gökyüzü veritabanına internet üzerinden e-posta ile gönderilir. Eğer internet bağlantınız Mobil servis sağlayıcınıza ücret ödemenizi gerektiriyorsa, bu ücretlerden akıllı telefon kullanıcısı sorumludur. 
+Güncellemeler: Zaman zaman uygulama için yamalar, yeni fonksiyonlar, eklentiler veya yeni sürüm nedenleriyle güncellemeler gerekli olabilir.
+Reşit olmayan kullanıcılar: Kurallar ve koşulları kabul ettiğinizde 18 yaş ve üzeri olduğunuzu da onaylarsınız. Reşit olmayan kullanıcılar için ebeveynlerinin ikisinin de onayları gerekmektedir.\n
+Açıkhavada kullanım: Uygulama gece açıkhavada kullanılmak üzere tasarlanmıştır. Uygulamayı kullanacağınız yerde hava kararmadan olası tehlikelere karşı keşif yapmalı, bu önlemi uygulamayı kullanmaya başlamadan önce gece tekrarlamalısınız. Olası tehlikeler tökezleme, trafik, hayvanlar, kötü hava koşulları, adi suçlar ve burada örnek olarak verilmeyen herhangi bir tehlike olabilir. Uygulama kullanılırken bir ikinci kişinin olası tehlikeleri gözlemleyerek, tehlikelere karşı kullanıcıyı gözlemi durdurarak uyarması gerekmektedir.\n\n
+3 Onaylar\n
+3.1 Hassas konum bilgisi (GPS ve ağ-tabanlı)\n
+Uygulama küresel konum belirleme sistemini (GPS) veya baz istasyonu, Wi-Fi gibi ağ-tabanlı kaynakları kullanabilmelidir. Cihazınızın konum belirleme hizmetleri açık ve uygulama tarafından erişilebilir olmalıdır. Uygulama ölçüm yerini belirlerken pil kullanımınız artabilir. \n
+3.2 Tam ağ erişimi\n
+Uygulamanın ağ soketleri oluşturması ve özel protokoller kullanması izni. Tarayıcının ve diğer uygulamaların İnternet’e veri göndermesi için izin verilmesi, bu izin İnternet’e veri göndermek için değildir.\n
+3.3 Telefon durumu ve kimlik bilgisi okuma\n Uygulamanın cihazın telefon özelliklerine erişmesi izni. Bu izin cihaz kimliği ve telefon numarasını belirler, telefon görüşmesi yapılıp yapılmadığını anlamak için gereklidir.\n
+3.4 Kimlik bilgisi\n
+Uygulama çalıştırıldığında, ölçümlerin gönderilebilmesi için genel bir kullanıcı kodu oluşturur. Herhangi bir kişisel kimlik bilgisi siz izin vermedikçe gönderilmez. İsterseniz genel kullanıcı adı yerine isminiz ve e-posta adresinizin kullanımına izin verebilirsiniz.\n
+3.5 USB depolama birimindeki bilgileri değiştirme ve silme, SD kart üzerindeki bilgileri değiştirme veya silme izni.\n
+USB depolama birimine yazma izni, SD karta yazma izni.\n
+3.6 Sistem ayarları izni\n
+Uygulamanın sistem ayarlarını değiştirme izni: Zararlı yazılımlar cihazın sistem ayarlarını bozabilir.\n\n
+4 Gizlilik\n
+Ölçümler ve parlaklığın harita üzerine işlenmesi için hassas konum bilginiz gereklidir. Konum bilgisinin gönderilmesine izin vermezseniz, ölçümleriniz kullanılamaz.
+Ölçümler için başka herhangi bir kişisel bilgi gerekli değildir. Ancak yaş veya görsel bozukluklar gök parlaklığının belirlenmesine etki edebilirler. Bu nedenle, bu bilgiler ölçümlerin değerlendirilmesine yardımcı olurlar. Eğer kullanıcı bu bilgileri göndermeği onaylarsa, bunlar her veri ile birlikte kaydedilir. Eğer kullanıcı bu bilgileri göndermeği onaylamazsa, ölçümler rastgele oluşturulmuş anonim bir kullanıcı koduyla saklanır.
+Ölçümlerinizde özel bir durum gözlemlediğimizde  sizinle e-posta yoluyla bağlantıya geçmek isteriz. E-postanız veya kişisel bilgileriniz reklam veya başka amaçlarla kullanılmayacaktır.\n\n
+5 Yasal uyarı ve garanti\n
+Bu uygulama ücretsizdir. Toplanan ölçümler uluslararası sivil bir bilimsel araştırmanın, Gece Gökyüzü (www.globeatnight.org) projesinin parçası olarak İnternet üzerinden anonim kullanıma açık olacaktır. YASALAR TARAFINDAN İZİN VERDİĞİ ÖLÇÜDE: YAZILIM, “OLDUĞU GİBİ” TEMİN EDİLİR, KİŞİSEL KULLANIM RİSKİ KULLANICININ KENDİ KARARIDIR. HERHANGİ BİR GARANTİSİ YOKTUR.
+</string>
+<string name="wls_dialog_privacy_positive">Onayla</string>
+<string name="wls_dialog_privacy_negative">Reddet</string>
+
+<!-- iOS does not allow apps to close themselves therefore a 'Decline' button is not feasible. -->
+
+<!-- This button is only active once the checkbox below has been selected. -->
+
+<!-- GPS DIALOG STUFF -->
+<string name="wls_dialog_gps_disabled_title">GPS</string>
+<string name="wls_dialog_gps_disabled_text">GPS kapalı: Devam etmek için lütfen telefon kontrolleri ile aktif duruma getirin.</string>
+<string name="wls_dialog_gps_disabled_positive">Demo</string>
+<string name="wls_dialog_gps_disabled_negative">”Ayarlar”a git</string>
+
+<!-- PROGRESS BAR DIALOG STUFF -->
+<string name="wls_dialog_gps_waiting_title">GPS</string>
+<string name="wls_dialog_gps_waiting_message">Konumunuz belirleniyor.\nErişilebilir uydular: %1$d\nHassaslık: %2$s</string>
+
+<!-- iOS does not provide a means for determining the number of GPS satellites -->
+
+<!-- therefore the message needs to be adapted accordingly -->
+<string name="wls_dialog_gps_waiting_cancel">İptal</string>
+
+<!-- MAGNETIC FIELD TOO STRONG DIALOG -->
+<string name="wls_dialog_magnetic_field_title">MANYETİK ALAN</string>
+<string name="wls_dialog_magnetic_field_text">Çevredeki manyetik alan çok güçlü ve ölçümü etkiliyor.</string>
+<string name="wls_dialog_magnetic_field_negative">İptal</string>
+<string name="wls_dialog_magnetic_field_positive">Demo</string>
+
+<!-- SYSTEM TIME INCORRECT DIALOG -->
+<string name="wls_dialog_system_time_title">SİSTEM ZAMANI</string>
+<string name="wls_dialog_system_time_text">Sistem zamanıyla GPS zamanı arasında büyük fark var, lütfen sistem zamanını düzeltin.</string>
+<string name="wls_dialog_system_time_negative">”Ayarlar”a git</string>
+<string name="wls_dialog_system_time_positive">Demo</string>
+
+<!-- CALIBRATE COMPASS DIALOG -->
+<string name="wls_dialog_calibrate_compass_title">PUSULA KALİBRASYONU</string>
+<string name="wls_dialog_calibrate_compass_text">Pusula hassaslığı çok düşük. Kalibrasyon için mobil cihazınızı 8 şeklinde hareket ettirin. Yıldız gözlemi yeterli hassaslık sağlandığında otomatik olarak başlayacaktır.</string>
+<string name="wls_dialog_calibrate_compass_negative">İptal</string>
+<string name="wls_dialog_calibrate_compass_positive">Demo</string>
+
+<!-- SKY MAP ACTIVITY STUFF -->
+<string name="wls_sky_map_button_invisible">Görünür veya emin değil</string>
+<string name="wls_sky_map_button_search_again">Yeniden ara</string>
+<string name="wls_sky_map_button_visible">Yıldız görünür</string>
+<string name="wls_sky_map_button_start_measurement">Yıldız gözlemini başlat</string>
+<string name="wls_sky_map_toast_initializing">Tüm yıldızlar belirleniyor &gt; Ufkun 45 derece üzerindeki...</string>
+<string name="wls_sky_map_toast_press_back_twice">Çıkış için GERİ düğmesine bir daha basın</string>
+<string name="wls_sky_map_toast_no_more_stars_to_choose">Seçilecek başka yıldız kalmadı!</string>
+<string name="wls_sky_map_toast_choose_star_with_magnitude">Parlaklığı %s olan bir yıldız seçin</string>
+<string name="wls_sky_map_toast_please_find_next_star">Lütfen sıradaki yıldızı bulun</string>
+
+<!-- STAR NOT VISIBLE DIALOG STUFF -->
+<string name="wls_star_not_visible_title">YILDIZ GÖRÜNÜR DEĞİL</string>
+<string name="wls_star_not_visible_message">“Görünür veya emin değil” seçeneğini seçtiniz. Lütfen bize nedeni hakkında daha fazla bilgi verin.</string>
+<string name="wls_star_not_visible_object">Arada bir obje var</string>
+<string name="wls_star_not_visible_weather">Bulut veya sis görüntüyü engelliyor</string>
+<string name="wls_star_not_visible_invisible">Yıldız görünür değil</string>
+<string name="wls_star_not_visible_barely_visible">Başka yönde</string>
+<string name="wls_star_not_visible_unsure">Orada olup olmadığına emin değilim</string>
+<string name="wls_star_not_visible_button_submit">Tamam</string>
+<string name="wls_star_visible_button_back">Geri</string>
+
+<!-- STAR VISIBLE DIALOG STUFF -->
+<string name="wls_star_visible_title">YILDIZ GÖRÜNÜR</string>
+<string name="wls_star_visible_barely_visible">Yıldız belirli belirsiz gözüküyor</string>
+<string name="wls_star_visible_visible">Yıldız açıkça gözüküyor</string>
+<string name="wls_star_visible_button_submit">Tamam</string>
+
+<!-- MEASURE MORE STARS DIALOGS -->
+<string name="wls_dialog_8stars_title">8 yıldız tamamlandı!</string>
+<string name="wls_dialog_8stars_message" formatted="false">8 yıldızla gök parlaklığı ölçümünüz istatistiksel olarak %23 belirsizlik içermektedir. Gözlemi şu anda bitirmek istermisiniz? (3 yıldız daha gözlemleyerek belirsizliği %20’ye düşürebilirsiniz)</string>
+<string name="wls_dialog_8stars_button_option">Bir daha gösterme</string>
+<string name="wls_dialog_8stars_button_negative">Bitir</string>
+<string name="wls_dialog_8stars_button_positive">3 yıldız daha</string>
+<string name="wls_dialog_11stars_title">11 yıldız tamamlandı!</string>
+<string name="wls_dialog_11stars_message" formatted="false">11 yıldızla gök parlaklığı ölçümünüz istatistiksel olarak %20 belirsizlik içermektedir. Gözlemi şu anda bitirmek istermisiniz? (3 yıldız daha gözlemleyerek belirsizliği %17’ye düşürebilirsiniz)</string>
+<string name="wls_dialog_11stars_button_negative">Bitir</string>
+<string name="wls_dialog_11stars_button_positive">3 yıldız daha</string>
+<string name="wls_dialog_14stars_title">14 yıldız tamamlandı!</string>
+<string name="wls_dialog_14stars_message" formatted="false">14 yıldızla gök parlaklığı ölçümünüz istatistiksel olarak %17 belirsizlik içermektedir. Gözlemi şu anda bitirmek istermisiniz? (3 yıldız daha gözlemleyerek belirsizliği %14’ye düşürebilirsiniz)</string>
+<string name="wls_dialog_14stars_button_negative">Bitir</string>
+<string name="wls_dialog_14stars_button_positive">3 yıldız daha</string>
+<string name="wls_dialog_17stars_title">17 yıldız tamamlandı!</string>
+<string name="wls_dialog_17stars_message" formatted="false">17 yıldızla gök parlaklığı ölçümünüz istatistiksel olarak %14 belirsizlik içermektedir. Gözlemi şu anda bitirmek istermisiniz? (Devam ederek belirsizliği daha fazla düşürebilirsiniz)</string>
+<string name="wls_dialog_17stars_button_negative">Bitir</string>
+<string name="wls_dialog_17stars_button_positive">Devam</string>
+
+<!-- CUSTOM DIALOG STUFF -->
+<string name="wls_custom_dialog_positive">Kabul</string>
+<string name="wls_custom_dialog_negative">Reddet</string>
+<string name="wls_custom_dialog_neutral">Çekimser</string>
+
+<!-- TOO BRIGHT ENVIRONMENT DIALOG STUFF -->
+<string name="wls_dialog_too_bright_title">Yeterince karanlık değil.</string>
+<string name="wls_dialog_too_bright_text_short">Hala alacakaranlık veya Ay var. Ölçüm almak için uygun bir zaman değil.</string>
+<string name="wls_dialog_too_bright_text_long">Hala alacakaranlık veya Ay var. Ölçüm almak için uygun bir zaman değil. Bir sonraki olası gözlem zamanı %1$s.</string>
+
+<!-- Identical to the above string however mind the different formatting characters required for iOS -->
+<string name="wls_dialog_too_bright_positive">Ölçüme devam</string>
+<string name="wls_dialog_too_bright_neutral">Tarihi takvimime kaydet</string>
+<string name="wls_dialog_too_bright_negative">Ölçümü iptal et</string>
+
+<!-- TOO BRIGHT ENVIRONMENT DIALOG ADD TO CALENDAR IOS STUFF -->
+
+<!-- on iOS it is not possible to send the user to the calendar app -->
+
+<!-- therefore we implement our own interface for inserting a calendar event -->
+<string name="wls_dialog_too_bright_add_to_calendar_button_negative">Hayır</string>
+<string name="wls_dialog_too_bright_add_to_calendar_button_positive">Evet</string>
+<string name="wls_dialog_too_bright_add_to_calendar_button_ok">Tamam</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text">%@ Etkinliğini sesli uyarı ile takvime kaydetmek istiyor musunuz?</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text_success">Başarılı bir şekilde takvime eklendi</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text_failed">Takvime eklenemedi</string>
+<string name="wls_dialog_too_bright_add_to_calendar_title">Takvime kaydet</string>
+<string name="wls_dialog_too_bright_add_to_calendar_success_title">Takvime ekleme başarılı</string>
+<string name="wls_dialog_too_bright_add_to_calendar_failed_title">Takvime ekleme başarısız</string>
+<string name="wls_dialog_too_bright_add_to_calendar_no_access_title">Takvime ulaşılamıyor</string>
+<string name="wls_dialog_too_bright_add_to_calendar_no_access_text">Takvime ulaşılamıyor! Telefon ayarlarından izin verin.</string>
+
+<!-- START MENU ACTIVITY STUFF -->
+<string name="wls_start_menu_title">ANA MENÜ</string>
+<string name="wls_start_menu_item_projectinfos">Proje hakkında</string>
+<string name="wls_start_menu_item_me">Kullanıcı bilgileri</string>
+<string name="wls_start_menu_item_demo">Eğitim</string>
+<string name="wls_start_menu_item_start_observation">Yıldız gözlemini başlat</string>
+<string name="wls_start_menu_item_news">Haberler</string>
+<string name="wls_start_menu_item_sqm">SQM’den veri gönder</string>
+<string name="wls_start_menu_item_to_nightmode">Gece modu</string>
+<string name="wls_start_menu_item_to_daymode">Gündüz modu</string>
+<string name="wls_start_menu_item_feedback">Geribildirim</string>
+<string name="wls_start_menu_item_quit">Çıkış</string>
+<string name="wls_start_menu_item_close_menu">Menüyü kapat</string>
+
+<!-- INTRO ACTIVITY STUFF -->
+<string name="wls_info_title">BİLGİ</string>
+<string name="wls_info_headline">Işıkkirliliği sadece yıldızları görmemizi engellemekle kalmaz, aynı zamanda para ve enerji kaynaklarını tüketip, vahşi yaşamı tehdit eder. Hatta insan sağlığına olumsuz etkileri tartışılmaktadır.</string>
+<string name="wls_info_text">Bu uygulamayı kullanarak, araştırmacıların bölgenizdeki ışığı anlamasına yardımcı olacaksınız. İster bir metropolün ortasında, ister yapay aydınlatmalardan uzak bir bölgede olun, dünyanın dört bir köşesindeki biliminsanları değerli ölçüm verilerinizi beklemektedirler!\n\nBu uygulama Federal Almanya Eğitim ve Araştırma Bakanlığı (BMBF) “Sürdürülebilir Kalkınma için Araştırma” (FONA) çerçeve programı finansal desteği ile geliştirilmiştir. Proje No: 033L038A.\n Proje danışmanlığı: Jülich Proje Yönetimi / Çevre, Sürdürülebilirlik ve İklim Koruma.</string>
+<string name="wls_info_button_more_information_text">Detaylı bilgi</string>
+<string name="wls_info_button_next_text">Sonraki</string>
+<string name="wls_info_checkbox_text">Bir daha gösterme</string>
+
+<!-- USAGE ACTIVITY STUFF -->
+<string name="wls_usage_title">KULLANIM</string>
+<string name="wls_usage_headline">İnsanların yıldızları görme netliği yaşa ve görme yeteneklerine göre değişir. Bu bilgileri de ekleyerek ölçüm verilerinizi daha değerli bir hale getirebilirsiniz (Kişisel bilgileriniz paylaşılmayacaktır). Bu projenin verileri herkesin kullanımına açıktır. Tüm yıldız gözlemi ölçüm sonuçları İnternet üzerinden anonim kullanıcı kodlarıyla paylaşılacaktır.</string>
+<string name="wls_usage_text">Eğer daha sonra kaydolmaya veya hiç kaydolmamaya karar verirseniz, yine de misafir olarak uygulamayı kullanabilirsiniz.</string>
+<string name="wls_usage_button_register_now_text">Şimdi kaydol</string>
+<string name="wls_usage_button_continue_as_guest_text">Misafir olarak devam et</string>
+<string name="wls_usage_checkbox_text">Bir daha gösterme</string>
+
+<!-- ME ACTIVITY STUFF -->
+<string name="wls_me_title">KULLANICI BİLGİLERİ</string>
+<string name="wls_me_additional_title">ÖLÇÜMLERİM</string>
+<string name="wls_me_text">Bu ekranda önceki ölçümlerinizi ve kişisel bilgilerinizi görebilir, kullanıcı bilgilerinizi güncelleyebilirsiniz.</string>
+<string name="wls_me_button_my_measurements">Ölçümlerim</string>
+<string name="wls_me_button_user_information">Kullanıcı bilgileri</string>
+<string name="wls_me_button_settings">Ayarlar</string>
+
+<!-- USER DATA ACTIVITY STUFF -->
+<string name="wls_user_data_title">KULLANICI BİLGİLERİ</string>
+<string name="wls_user_data_headline">Lütfen aşağıdaki bilgileri doldurun:</string>
+<string name="wls_user_data_item_age">Yaş</string>
+<string name="wls_user_data_item_no_drawback">Görme bozukluğu yok</string>
+<string name="wls_user_data_item_glasses">Gözlük kullanıyorum</string>
+<string name="wls_user_data_item_lenses">Lens kullanıyorum</string>
+<string name="wls_user_data_item_laser">Lazerli göz ameliyatı geçirdim</string>
+<string name="wls_user_data_item_experience">Yıldız gözlemi deneyimi</string>
+<string name="wls_user_data_item_experience_none">Az veya hiç yok</string>
+<string name="wls_user_data_item_experience_some">Birkaç yıldızı ve takımyıldızı bilirim</string>
+<string name="wls_user_data_item_experience_amateur">Amatör gökbilimciyim</string>
+<string name="wls_user_data_button_save">Kaydet</string>
+<string name="wls_user_data_text">E-Postanız paylaşılmayacak.</string>
+<string name="wls_user_data_name">Kullanıcı adı:</string>
+<string name="wls_user_data_email">E-Posta:</string>
+<string name="wls_user_data_button_text">Kaydet</string>
+<string name="wls_user_data_email_not_ok">E-Posta geçersiz!!</string>
+<string name="wls_user_data_username_not_ok_whitespace">Kullanıcı adı boşluk içeriyor</string>
+<string name="wls_user_data_username_not_ok_empty">Kullanıcı adı girilmeli</string>
+<string name="wls_user_data_edittext_hint">Opsiyonel</string>
+
+<!-- BAD CONDITIONS DIALOG STUFF -->
+<string name="wls_dialog_bad_conditions_title">Lütfen başka bir konum deneyin</string>
+<string name="wls_dialog_bad_conditions_text">Bölgenizden yıldızları görmenin olanaklı olmadığı anlaşılıyor. Lütfen daha uygun bir yerden yeniden deneyin.</string>
+<string name="wls_dialog_bad_conditions_button_ok">Tamam</string>
+
+<!-- NO MORE STARS DIALOG STUFF -->
+
+<!-- Dialog displayed once no more stars are eligible for observation -->
+<string name="wls_dialog_no_more_stars_title">Yıldız bulunamadı</string>
+<string name="wls_dialog_no_more_stars_text">Gözlem için yıldız bulunamadı.</string>
+<string name="wls_dialog_no_more_stars_button_ok">Tamam</string>
+
+<!-- FINISHED DIALOG STUFF -->
+<string name="wls_dialog_measurement_finished_title">Ölçüm için teşekkürler!</string>
+<string name="wls_dialog_measurement_finished_text">Gözleminiz çıplak gözle görülebilir kadir sınırı ölçütüyle (NELM) %1$.1f, sonucunu verdi. Tutarlılık aralığı: %2$.1f (küçük değerler tercih edilir). Başka bir gece yeniden deneyip, aynı sonucu alıp alamayacağınızı kontrol edin.\n\n Bu gece gökyüzünde %3$d yıldız görebilirsiniz.\n\n Amacımız gök parlaklığının zamana göre değişimini izlemek; bu nedenle lütfen başka bir gece bu noktadan yeniden bir ölçüm alın.</string>
+
+<!-- Identical to the above string however mind the different formatting characters required for iOS -->
+<string name="wls_dialog_measurement_finished_button_ok">Tamam</string>
+
+<!-- ME MY MEASURES ACTIVITY STUFF -->
+<string name="wls_me_my_measures_subtitle">Ölçümlerim</string>
+<string name="wls_me_my_measures_no_history_subtitle">Kayıt yok</string>
+<string name="wls_me_my_measures_list_delete_history">Kayıtları temizle</string>
+<string name="wls_me_my_measures_list_visible">görünen</string>
+<string name="wls_me_my_measures_list_not_visible">bulunamadı:</string>
+<string name="wls_me_my_measures_list_unnamed">İsimsiz</string>
+<string name="wls_me_my_sqm_transfers_subtitle">SQM Ölçümlerim</string>
+<string name="wls_me_my_sqm_transfers_sqm_value">SQM değeri:</string>
+
+<!-- VISIBILITY REASONS -->
+<string name="wls_visiblity_not_found_reason_obstruction">engel</string>
+<string name="wls_visiblity_not_found_reason_weather">hava koşulları</string>
+<string name="wls_visiblity_not_found_reason_unsure">emin değil</string>
+<string name="wls_visiblity_not_found_reason_not_visible">görünür değil</string>
+<string name="wls_visiblity_not_found_reason_barely_visible">başka yönde</string>
+<string name="wls_visiblity_found_reason_barely_visible">zorlukla görünüyor</string>
+<string name="wls_visiblity_found_reason_found">bulundu</string>
+
+<!-- ME MY MEASURES LIST VIEW STUFF -->
+<string name="wls_me_my_measures_list_date">Tarih</string>
+<string name="wls_me_my_measures_list_number_of_stars_measured">Gözlemlenen yıldız sayısı:</string>
+<string name="wls_me_my_measures_list_limiting_magnitude">Görülebilir kadir:</string>
+<string name="wls_me_my_measures_list_sqm_value">SQM:</string>
+<string name="wls_me_my_measures_list_star_name">Yıldız:</string>
+<string name="wls_me_my_measures_list_star_ra">SA:</string>
+<string name="wls_me_my_measures_list_star_dec">DA:</string>
+<string name="wls_me_my_measures_list_star_mag">(m)</string>
+<string name="wls_me_my_measures_list_transmission_status">Aktarım durumu:</string>
+<string name="wls_me_my_measures_list_transmission_status_pending">bekliyor</string>
+<string name="wls_me_my_measures_list_transmission_status_sent">başarıyla gönderildi</string>
+<string name="wls_me_my_measures_list_measured_stars">Yıldızlar</string>
+<string name="wls_me_my_measures_list_gpsposition">GPS konumu</string>
+<string name="wls_me_my_measures_list_gps_lat">Enlem</string>
+<string name="wls_me_my_measures_list_gps_lon">Boylam</string>
+<string name="wls_me_my_measures_list_time">Zaman</string>
+
+<!-- DELETE HISTORY DIALOG STUFF -->
+<string name="wls_dialog_delete_title">Kayıtları sil</string>
+<string name="wls_dialog_delete_text">Gerçekten kayıtları silmek istiyor musunuz?</string>
+<string name="wls_dialog_delete_negative">Hayır</string>
+<string name="wls_dialog_delete_positive">Evet</string>
+
+<!-- WEATHER CONDITIONS ACTIVITY STUFF -->
+<string name="wls_weather_conditions_title">HAVA KOŞULLARI</string>
+<string name="wls_weather_conditions_text">Lütfen şu andaki hava koşullarını en iyi açıklayan seçeneği seçiniz. </string>
+<string name="wls_weather_conditions_button_continue">Devam</string>
+<string name="wls_weather_conditions_button_cancel">İptal</string>
+
+<!-- WEATHER CONDITIONS SPINNER STUFF -->
+<string name="wls_weather_conditions_clear">Açık</string>
+<string name="wls_weather_conditions_partly_cloudy">Parçalı bulutlu</string>
+<string name="wls_weather_conditions_cloudy">Bulutlu</string>
+<string name="wls_weather_conditions_rain">Yağmurlu</string>
+<string name="wls_weather_conditions_fog">Sisli/Dumanlı/Nemli</string>
+<string name="wls_weather_conditions_snow">Yerde kar var</string>
+
+<!-- NEWS ACTIVITY STUFF -->
+<string name="wls_news_title">HABERLER</string>
+<string name="wls_news_failed">Herhangi bir haber alınamadı.</string>
+<string name="wls_news_no_network">Ağ ulaşılabilir değil. Daha sonra yeniden deneyin.</string>
+
+<!-- PROJECT INFO ACTIVITY STUFF -->
+<string name="wls_project_info_main_title">PROJE BİLGİSİ</string>
+
+<!-- DO YOU HAVE AN SQM DIALOG -->
+<string name="wls_dialog_have_sqm_title">SQM Cihazınız var mı?</string>
+<string name="wls_dialog_have_sqm_message">Gökyüzü parlaklık ölçer (SQM) cihazı gök parlaklığını ölçmede kullanılan bir cihazdır.\n\nEğer bir SQM cihazınız varsa, verilerini sunucumuza göndermek için bu sayfayı kullanabilirsiniz.</string>
+<string name="wls_dialog_have_sqm_button_negative">İptal</string>
+<string name="wls_dialog_have_sqm_button_positive">Devam</string>
+
+<!-- SUBMIT SQM ACTIVITY STUFF -->
+<string name="wls_submit_sqm_title">SQM’den VERİ YÜKLE</string>
+<string name="wls_submit_sqm_text">Gökyüzü parlaklık ölçer (SQM) cihazı gök parlaklığını ölçmede kullanılan bir cihazdır.\n\nEğer bir SQM cihazınız varsa, verilerini sunucumuza göndermek için bu sayfayı kullanabilirsiniz.</string>
+<string name="wls_submit_sqm_button_text">Yükle</string>
+<string name="wls_submit_sqm_decimal">.</string>
+<string name="wls_dialog_submit_sqm_title">SQM versi yükle</string>
+<string name="wls_dialog_submit_sqm_text">Veri gönderilecek, teşekkürler.</string>
+<string name="wls_dialog_submit_sqm_button_text">Tamam</string>
+
+<!-- SQM value is input using a numberpad keyboard on iOS-->
+
+<!-- which do not have an explicit close button  -->
+
+<!-- therefore we need our own -->
+
+<!-- CANCEL MEASUREMENT DIALOG STUFF -->
+<string name="wls_dialog_cancel_measurement_title">Ölçümü iptal et</string>
+<string name="wls_dialog_cancel_measurement_text">Yeterli sayıda yıldız gözlemlemeden önce ölçümü iptal etmek istediğinize emin misiniz?</string>
+<string name="wls_dialog_cancel_measurement_button_quit">Çıkış</string>
+<string name="wls_dialog_cancel_measurement_button_continue_measuring">Ölçüme devam et</string>
+
+<!-- DIALOG STUFF FOR "ACTIVE MEASUREMENT" -->
+<string name="wls_dialog_active_measurement_title">Ölçüm tamamlanamadı</string>
+<string name="wls_dialog_active_measurement_message">Ölçümü tamamlamadınız: devam edebilir veya uygulamadan çıkabilirsiniz. </string>
+<string name="wls_dialog_active_measurement_continue_measuring">Ölçüme devam et</string>
+<string name="wls_dialog_active_measurement_quit_app">Çıkış</string>
+
+<!-- PROGRESS BAR DIALOG STUFF -->
+<string name="wls_dialog_progress_bar_title">GPS</string>
+<string name="wls_dialog_progress_bar_message">Konumunuz belirleniyor.\nErişilebilir uydular: %1$d\nHassaslık: %2$s</string>
+<string name="wls_dialog_progress_bar_cancel">İptal</string>
+
+<!-- CANCELED GPS FIX DIALOG STUFF -->
+<string name="wls_dialog_gps_fix_canceled_title">GPS’le konum belirleme iptal edildi</string>
+<string name="wls_dialog_gps_fix_canceled_message">Hassas konum belirlenmeden, ölçümünüz gerektiği gibi değerlendirilemez.\n\nEğer sadece yıldız bulmak istiyorsanız, Demo modunu kullanabilirsiniz.</string>
+<string name="wls_dialog_gps_fix_canceled_positive_button">Demo</string>
+<string name="wls_dialog_gps_fix_canceled_negative_button">Ölçümü iptal et</string>
+
+<!-- ADD TO CALENDAR DIALOG -->
+<string name="wls_dialog_add_to_calendar_title">Gözleme başla</string>
+<string name="wls_dialog_add_to_calendar_message">Yıldız parlaklığını ölçmek için uygun bir zaman.</string>
+
+<!-- SETTINGS -->
+<string name="wls_settings_show_starnames">Yıldızları göster</string>
+<string name="wls_settings_show_constellations">Takımyıldızları göster</string>
+<string name="wls_settings_stars_big_font">Yıldız ve takımyıldız isimlerini büyüt</string>
+<string name="wls_settings_stars_dim">Sönük yıldız gözlemi</string>
+<string name="wls_settings_show_information">Başlangıçta bilgi ekranını göster</string>
+<string name="wls_settings_show_usage">Başlangıçta kullanım ekranını göster</string>
+<string name="wls_settings_button_save">Kaydet</string>
+
+<!-- GENERAL STUFF -->
+<string name="wls_general_link_to_igb">www.igb-berlin.de</string>
+<string name="wls_general_not_implemented_yet">Henüz tamamlanmadı!</string>
+
+<!-- RSS FEED LINK -->
+<string name="wls_rss_feed_link">http://lossofthenight.blogspot.com/feeds/posts/default?alt=rss</string>
+
+<!-- FEEDBACK STUFF -->
+<string name="wls_feedback_title">GERİBİLDİRİM</string>
+<string name="wls_feedback_send_email">Geribildirim ve soruları e-posta ile gönder</string>
+<string name="wls_feedback_rate_us">Uygulamayı değerlendirin</string>
+<string name="wls_feedback_email_chooser_title">E-posta’yı gönder</string>
+<string name="wls_feedback_email_address">vdn-app@igb-berlin.de</string>
+<string name="wls_feedback_email_subject">Loss of the Night için geribildirim</string>
+<string name="wls_feedback_email_text"></string>
+
+<!-- EMAIL COULD NOT BE SENT DIALOG ON IOS -->
+</resources>

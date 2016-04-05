@@ -1,0 +1,21 @@
+﻿"Die Funktionsweise ist denkbar einfach" (Bild der Wissenschaft)
+"Sterne zählen für die Forschung" (Frankfurter Rundschau)
+"Contribute to a world-wide citizen science project" (The Guardian)
+
+
+Werden Sie Teil eines weltweiten Citizen Science Projekts und kartieren Sie Lichtverschmutzung und die Sichtbarkeit der Sterne. Helfen Sie bei der Erstellung einer Datenbank, um den Einfluss von Lichtverschmutzung auf Gesundheit, Umwelt und Gesellschaft zu untersuchen, indem Sie angeben, welche Sterne Sie an einem Ort sehen können.
+
+In den meisten Gebieten der Welt leuchtet der nächtliche Himmel durch fehlgeleitetes Licht von Straßenlaternen und Gebäudebeleuchtungen. Diese Lichtverschmutzung überstrahlt die Schönheit der Sterne und macht die Nächte allgemein heller.
+
+Aber Lichtverschmutzung ist nicht nur ein Problem für die Astronomie. Wissenschaftler auf der ganzen Welt erforschen die Auswirkung von Lichtverschmutzung auf Gesundheit, Gesellschaft und Natur. Auf Grundlage von Google Sky Map bietet diese App eine Möglichkeit, Himmelshelligkeit und die Sichtbarkeit von Sternen ohne teure Geräte zu messen. Suchen Sie einfach nach bestimmten Sternen und geben Sie an, welche davon Sie sehen können.
+
+Die Verlust der Nacht App hat viele Vorteile: sie ist eine Mischung aus Spaß, Lernen, Citizen Science und ein aktiver Beitrag zum Umweltschutz. Warum?
+
+Der Anblick der Sterne verbindet uns mit dem Universum, besonders an Orten ohne Lichtverschmutzung. Finden Sie heraus, welche Sterne an Ihrem Standort sichtbar sind und vergleichen Sie die Himmelhelligkeit mit anderen Orten auf der GLOBE at Night Weltkarte. So entdecken Sie Sterne und Sternbilder und können herausfinden, an welchen Orten man noch die Milchstraße sehen kann. Vielleicht leben Sie ja sogar selbst an einem solchen Ort? Wo auch immer Sie sind, Sternezählen ist ein tolles Erlebnis für Sie und Ihre Familie.
+
+Ändern Sie etwas! Der Großteil der Lichtverschmutzung entsteht durch schlechtes Lampendesign, aber auch durch Orte mit zuviel Licht. Orte mit gutem Lichtdesign sind Beispiele für eine intelligente Nutzung für Licht. So bleiben unsere Schlafzimmer dunkel und unser Himmel voller Sterne. Gutes Design spart außerdem Energie und Geld!
+
+Werden Sie ein Teil internationaler Forschungsprojekte! Die Verlust der Nacht App kann für Schüler genutzt werden, um Lichtverschmutzung, Himmelhelligkeit und die Sichtbarkeit der Sterne zu messen. So können eigene Projekte durchgeführt werden, und die Schüler werden gleichzeitig Teil eines weltweiten Citizen Science Projektes. Alle Messungen werden anonym an die Datenbank von GLOBE at Night (www.GLOBEatNight.org) geschickt, einem Citizen Science Projekt, das seit 2006 Lichtverschmutzung kartiert. Wissenschaftler nutzen diese Daten, um Zusammenhänge zwischen Lichtverschmutzung und Gesundheit, Biodiversität, Lebensqualität und vielen anderen Faktoren herzustellen.
+Sie sind auch eingeladen, mit den Wissenschaftler von Verlust der Nacht in Kontakt zu treten, die diese App entwickelt haben und mehr über ihre interdisziplinäre Forschung zu erfahren (www.verlustdernacht.de). Die App gibt zudem Informationen über die Geschichte, Bedeutung und Konsequenzen von künstlichem Licht bei Nacht.
+
+Gefördert vom Bundesministerium für Bildung und Forschung (BMBF)

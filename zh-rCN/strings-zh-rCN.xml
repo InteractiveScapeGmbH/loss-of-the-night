@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Please add  translation_description="" attributes to Strings to assist the translators. -->
+<string name="app_name" translation_description="Application Title">找星星</string>
+<string name="ecliptic">黄道</string>
+<string name="zenith">天顶</string>
+<string name="nadir">天底</string>
+<string name="north">北</string>
+<string name="east">东</string>
+<string name="west">西</string>
+<string name="south">南</string>
+<string name="sun">太阳</string>
+<string name="moon">月球</string>
+<string name="mercury">水星</string>
+<string name="venus">金星</string>
+<string name="earth">地球</string>
+<string name="mars">火星</string>
+<string name="jupiter">木星</string>
+<string name="saturn">土星</string>
+<string name="uranus">天王星</string>
+<string name="neptune">海王星</string>
+<string name="pluto">冥王星</string>
+<string name="andromeda" translation_description="Name of the Andromeda constellation">仙女座</string>
+<string name="aquarius" translation_description="Name of the Aquarius constellation">水瓶座</string>
+<string name="aquila" translation_description="Name of the Aquila constellation">天鹰座</string>
+<string name="aries" translation_description="Name of the Aries constellation">白羊座</string>
+<string name="auriga" translation_description="Name of the Auriga constellation">御夫座</string>
+<string name="bootes" translation_description="Name of the Bootes constellation">牧夫座</string>
+<string name="cancer" translation_description="Name of the Cancer constellation">巨蟹座</string>
+<string name="canis_major" translation_description="Name of the Canis Major constellation">大犬座</string>
+<string name="capricornus" translation_description="Name of the Capricornus constellation">摩羯座</string>
+<string name="carina" translation_description="Name of the Carina constellation">船底座</string>
+<string name="cassiopeia" translation_description="Name of the Cassiopeia constellation">仙后座</string>
+<string name="centaurus" translation_description="Name of the Centaurus constellation">半人马座</string>
+<string name="cetus" translation_description="Name of the Cetus constellation">鲸鱼座</string>
+<string name="crux" translation_description="Name of the Crux constellation">南十字座</string>
+<string name="cygnus" translation_description="Name of the Cygnus constellation">天鹅座</string>
+<string name="draco" translation_description="Name of the Draco constellation">天龙座</string>
+<string name="eridanus" translation_description="Name of the Eridanus constellation">波江座</string>
+<string name="gemini" translation_description="Name of the Gemini constellation">双子座</string>
+<string name="grus" translation_description="Name of the Grus constellation">天鹤座</string>
+<string name="hercules" translation_description="Name of the Hercules constellation">武仙座（北河三）</string>
+<string name="hydrus" translation_description="Name of the Hydrus constellation">水蛇座</string>
+<string name="leo" translation_description="Name of the Leo constellation">狮子座</string>
+<string name="libra" translation_description="Name of the Libra constellation">天秤座</string>
+<string name="lupus" translation_description="Name of the Lupus constellation">豺狼座</string>
+<string name="lyra" translation_description="Name of the Lyra constellation">天琴座</string>
+<string name="ophiuchus" translation_description="Name of the Ophiuchus constellation">蛇夫座</string>
+<string name="orion" translation_description="Name of the Orion constellation">猎户座</string>
+<string name="pavo" translation_description="Name of the Pavo constellation">孔雀座</string>
+<string name="pegasus" translation_description="Name of the Pegasus constellation">飞马座</string>
+<string name="perseus" translation_description="Name of the Perseus constellation">英仙座</string>
+<string name="phoenix" translation_description="Name of the Phoenix constellation">凤凰座</string>
+<string name="pisces" translation_description="Name of the Pisces constellation">双鱼座</string>
+<string name="piscis_austrinus" translation_description="Name of the Piscis Austrinus constellation">南鱼座</string>
+<string name="puppis" translation_description="Name of the Puppis constellation">船尾座</string>
+<string name="sagittarius" translation_description="Name of the Sagittarius constellation">人马座</string>
+<string name="scorpius" translation_description="Name of the Scorpius constellation">天蝎座</string>
+<string name="taurus" translation_description="Name of the Taurus constellation">金牛座</string>
+<string name="tucana" translation_description="Name of the Tucana constellation">杜鹃座</string>
+<string name="ursa_major" translation_description="Name of the Ursa Major constellation">大熊座</string>
+<string name="ursa_minor" translation_description="Name of the Ursa Minor constellation">小熊座</string>
+<string name="vela" translation_description="Name of the Vela constellation">船帆座</string>
+<string name="virgo" translation_description="Name of the Virgo constellation">室女座</string>
+<string name="capricorn" translation_description="Name of the Capricorn constellation">摩羯座</string>
+<string name="southern_cross" translation_description="Name of the Southern Cross constellation">南十字座</string>
+<string name="scorpio" translation_description="Name of the Scorpio constellation">天蝎座</string>
+<string name="little_dipper" translation_description="Name of the Little Dipper constellation">小熊座</string>
+<string name="little_bear" translation_description="Name of the Little Bear constellation">小熊座</string>
+<string name="big_dipper" translation_description="Name of the Big Dipper constellation">大熊座（北斗七星）</string>
+<string name="great_bear" translation_description="Name of the Great Bear constellation">大熊座</string>
+<string name="plough" translation_description="Name of the Plough constellation">大熊座</string>
+<string name="sirius" translation_description="Name of the Star Sirius">天狼星</string>
+<string name="canopus" translation_description="Name of the Star Canopus">老人星（船底座 α）</string>
+<string name="arcturus" translation_description="Name of the Star Arcturus">大角星（牧夫座 α）</string>
+<string name="rigel_kentaurus_a" translation_description="Name of the Star Rigel Kentaurus A">南门二（半人马座 α）</string>
+<string name="vega" translation_description="Name of the Star Vega">织女星</string>
+<string name="rigel" translation_description="Name of the Star Rigel">参宿七（猎户座 β）</string>
+<string name="procyon" translation_description="Name of the Star Procyon">南河三（小犬座 α）</string>
+<string name="betelgeuse" translation_description="Name of the Star Betelgeuse">参宿四（猎户座 α）</string>
+<string name="achernar" translation_description="Name of the Star Achernar">水委一（波江座 a）</string>
+<string name="hadar" translation_description="Name of the Star Hadar">马腹一（半人马座 β）</string>
+<string name="capella" translation_description="Name of the Star Capella">五车二（御夫座 α）</string>
+<string name="altair" translation_description="Name of the Star Altair">河鼓二（天鹰座 α）</string>
+<string name="acrux" translation_description="Name of the Star Acrux">十字架二（南十字座 α）</string>
+<string name="aldebaran" translation_description="Name of the Star Aldebaran">毕宿五（金牛座 α）</string>
+<string name="spica" translation_description="Name of the Star Spica">角宿一（室女座 α）</string>
+<string name="antares" translation_description="Name of the Star Antares">心宿二（天蝎座 α）</string>
+<string name="pollux" translation_description="Name of the Star Pollux">北河三（双子座 β）</string>
+<string name="fomalhaut" translation_description="Name of the Star Fomalhaut">北落师门（南鱼座 α）</string>
+<string name="deneb" translation_description="Name of the Star Deneb">天津四</string>
+<string name="regulus" translation_description="Name of the Star Regulus">轩辕十四（狮子座 α）</string>
+<string name="adhara" translation_description="Name of the Star Adhara">弧矢七（大犬座 ε）</string>
+<string name="shaula" translation_description="Name of the Star Shaula">尾宿八（天蝎座 λ）</string>
+<string name="alnath" translation_description="Name of the Star Alnath">娄宿三</string>
+<string name="alnilam" translation_description="Name of the Star Alnilam">参宿二（猎户座 ε）</string>
+<string name="alnair" translation_description="Name of the Star Alnair">鹤一（天鹤座 α）</string>
+<string name="alioth" translation_description="Name of the Star Alioth">玉衡（大熊座 ε）</string>
+<string name="mirphak" translation_description="Name of the Star Mirphak">天船三（英仙座 α）</string>
+<string name="kaus_australis" translation_description="Name of the Star Kaus Australis">箕宿三（人马座 ε）</string>
+<string name="dubhe" translation_description="Name of the Star Dubhe">天枢（大熊座 α）</string>
+<string name="alkaid" translation_description="Name of the Star Alkaid">摇光（大熊座 η）</string>
+<string name="alhena" translation_description="Name of the Star Alhena">井宿三（双子座 γ）</string>
+<string name="castor" translation_description="Name of the Star Castor">北河二（双子座 α）</string>
+<string name="polaris" translation_description="Name of the Star Polaris">北极星</string>
+<string name="alphard" translation_description="Name of the Star Alphard">星宿一（长蛇座 α）</string>
+<string name="hamal" translation_description="Name of the Star Hamal">娄宿三（白羊座 α）</string>
+<string name="algieba" translation_description="Name of the Star Algieba">轩辕十二（狮子座 γ）</string>
+<string name="diphda" translation_description="Name of the Star Diphda">土司空（鲸鱼座 β）</string>
+<string name="nunki" translation_description="Name of the Star Nunki">斗宿四（射手座 s）</string>
+<string name="mirach" translation_description="Name of the Star Mirach">奎宿九（仙女座 β）</string>
+<string name="alpheratz" translation_description="Name of the Star Alpheratz">壁宿二（猎犬座 α）</string>
+<string name="saiph" translation_description="Name of the Star Saiph">参宿六（猎户座 κ）</string>
+<string name="kochab" translation_description="Name of the Star Kochab">北极二（小熊座 β）</string>
+<string name="rasalhague" translation_description="Name of the Star Rasalhague">侯（蛇夫座 α）</string>
+<string name="algol" translation_description="Name of the Star Algol">大陵五（英仙座 β）</string>
+<string name="denebola" translation_description="Name of the Star Denebola">五帝座一（狮子座 β）</string>
+<string name="alphekka" translation_description="Name of the Star Alphekka">贯索四（北冕座 α）</string>
+<string name="etamin" translation_description="Name of the Star Etamin">天棓四（天龙座 γ）</string>
+<string name="kaus" translation_description="Name of the Star Kaus">箕宿三（射手座 e）</string>
+<string name="shedir" translation_description="Name of the Star Shedir">王良四（仙后座 α）</string>
+<string name="caph" translation_description="Name of the Star Caph">王良一（仙后座 β）</string>
+<string name="izar" translation_description="Name of the Star Izar">梗河一（牧夫座 ε）</string>
+<string name="merak" translation_description="Name of the Star Merak">天璇（大熊座 β）</string>
+<string name="enif" translation_description="Name of the Star Enif">危宿三（飞马座 ε）</string>
+<string name="ankaa" translation_description="Name of the Star Ankaa">火鸟六（凤凰座 α）</string>
+<string name="phad" translation_description="Name of the Star Phad">天玑（大熊座 γ）</string>
+<string name="alderamin" translation_description="Name of the Star Alderamin">天钩五（仙王座 α）</string>
+<string name="scheat" translation_description="Name of the Star Scheat">室宿二（天马座 β）</string>
+<string name="markab" translation_description="Name of the Star Markab">室宿一（飞马座 α）</string>
+<string name="menkar" translation_description="Name of the Star Menkar">天囷一（鲸鱼座 α）</string>
+<string name="arneb" translation_description="Name of the Star Arneb">厕一（天兔座 α）</string>
+<string name="unukalhai" translation_description="Name of the Star Unukalhai">蜀（天市右垣，巨蛇座 α）</string>
+<string name="algenib" translation_description="Name of the Star Algenib">壁宿一（人马座 γ）</string>
+<string name="vindemiatrix" translation_description="Name of the Star Vindemiatrix">东次将，太微左垣四（室女座 ε）</string>
+<string name="alcyone" translation_description="Name of the Star Alcyone">昴宿六（金牛座 η）</string>
+<string name="dog_star" translation_description="Name of the Dog Star (Sirius)">天狼星</string>
+<string name="north_star" translation_description="Name of the North Star">北极星</string>
+<string name="pole_star" translation_description="Name of the (North) Pole Star">北极星</string>
+
+<!-- PRIVACY DIALOG STUFF -->
+<string name="wls_dialog_privacy_title">使用条款和隐私政策</string>
+<string name="wls_dialog_privacy_text">科学家为了解释测量需要知道你的位置和观测时间。因此，这个程序需要访问您观察的GPS的确切位置。</string>
+<string name="wls_dialog_privacy_policy_text">按接受按钮意味着您同意我们的隐私政策和服务条款。
+      
+1 引言\n
+非常感谢您使用„Loss of the Night“程序. 有了这个程序，你是一个积极的全球研究的一部分，勾画光污染地图和理解夜间人造光的影响。此外，该应用程序将通知您有关光污染的信息。跨学科研究网络所提供的信息由总部位于德国的 “Loss of the Night”提供.该项目研究夜间照明带来的自然，健康和社会影响。有关这些主题，你可以在www.verlustdernacht.de /about-us.html了解这个应用程序的更多信息。
+所有收集到的数据将被匿名发送电子地球夜间到数据库（www.GLOBEatNight.org） 。在这里，它会被用来编制夜间天空亮度的世界地图。公民科学项目的目标是编制全球范围的天空夜间照明及其随时间变化。自2006年以来测量已经开始收集，但基于应用程序的研究开始于2013年
+
+该应用程序“Loss of the Night” 由柏林研究会（ 17 Rudower CHAUSSEE ， 12489柏林，德国）提供。要使用应用程序“Loss of the Night” 你需要仔细阅读下列条款和条件，并接受他们。如果你不完全接受他们，您不允许使用这个程序。\n\n
+2 使用 „Loss of the Night“ 程序\n
+基本要求：该应用程序可以运行在Android 4.0或更高版本的设备上，有可能在Android 2.1或更高版本。所要求的分辨率是MDPI或更高的。
+第三方费用：测量发送电子邮件到地球在夜间数据库。对于这一点，费用由第三方，例如互联网或移动服务提供商可能适用。任何这样的收费是智能手机用户的责任。
+更新： Infrequently ，软件更新可能是必要的补丁，新的功能，插件或新的软件版本。
+未成年人：接受这些条款和条件时，确认你是18岁或以上。对未成年人，父母双方同意是必要的。\n
+室外使用：应用程序设计是晚上在户外使用。在夜间使用的应用程序之前，您必须检查预定可使用面积在白天，以确保有没有潜在的危险，并重新审视夜间潜在危险的区域。潜在的危险可能包括，但不限于，跳闸，交通，动物，恶劣天气，和犯罪。第二个的成人陪伴在旁边持续使用程序，为了看任何新的危险，在使用应用程序的发展，并提醒用户停止​​使用应用程序的情况下，存在潜在的危险。\n\n
+3 应用程序授权\n
+3.1 精确定位（ GPS和基于网络的）\n
+允许应用程序使用全球定位系统（GPS ）或网络位置源，例如手机塔和Wi-Fi ，让您的精确位置。必须打开这些位置服务，并提供使用它们的应用程序到您的设备。应用程序可以使用这个来确定你在哪里，并可能消耗额外的电池电量。\n
+3.2 全面网络接入\n
+允许应用程序创建网络套接字，并使用自定义的网络协议。浏览器和其他应用程序提供了手段，将数据发送到互联网上，因此不需要此权限将数据发送到互联网。\n
+3.3 读取手机状态和身份\n
+允许应用程序访问设备的手机功能。此权限允许应用程序以确定手机的号码和设备ID ，是否正处于通话状态，并通过调用远程连接数。\n
+3.4 身份\n
+当第一次启动时，应用程序将生成一个匿名用户ID的传输与测量。除非你允许我们发送您的用户名和电子邮件地址，否则没有个人数据将被传输。\n
+3.5 修改或删除您的USB存储的内容，修改或删除的内容你的SD卡\n
+允许应用程序写入到USB storage.允许应用程序写入到SD卡\n
+3.6 读取手机状态和身份\n
+允许应用程序访问设备的手机功能。此权限允许应用程序以确定手机的号码和设备ID ，是否正处于通话状态，并通过调用远程连接数。\n
+3.7 修改系统设置s\n
+允许应用程序修改系统设置数据。恶意应用可能会破坏您的系统配置.\n\n
+4 隐私条款\n
+对于测量和编制亮度地图，需要您的精确位置。如果没有您的允许发送你的位置，你的测量不能使用。不需要进一步的个人信息是进行必要的测量。然而，年龄或视觉障碍可以影响能力评估天空亮度。因此，这些信息是有帮助的测量分析。如果用户同意提交这些数据，他们将被匿名存储与每个数据集。如果用户不同意提交该信息，测量信息将存储，并分配一个随机生成的匿名ID号。如果我们发现您的测量奇特的东西，我们可能想通过电子邮件与您联系。无论是电子邮件地址，也没有任何个人信息将被分配给第三方，也不用于营销目的。\n\n
+5 免责声明\n
+这个程序是免费提供的。所收集的测量将一部分国际科学项目GLOBEatNight citizien的（ www.globeatnight.org ）的，将可在互联网上匿名。无担保法：将软件许可的最大范围内，是“AS IS” 使用的风险由您自行承担，不作任何保证.
+</string>
+<string name="wls_dialog_privacy_positive">接受</string>
+<string name="wls_dialog_privacy_negative">拒绝</string>
+
+<!-- iOS does not allow apps to close themselves therefore a 'Decline' button is not feasible. -->
+
+<!-- This button is only active once the checkbox below has been selected. -->
+
+<!-- GPS DIALOG STUFF -->
+<string name="wls_dialog_gps_disabled_title">GPS</string>
+<string name="wls_dialog_gps_disabled_text">GPS禁用，请在手机设置里启用GPS。</string>
+<string name="wls_dialog_gps_disabled_positive">演示</string>
+<string name="wls_dialog_gps_disabled_negative">进入“设置”</string>
+
+<!-- PROGRESS BAR DIALOG STUFF -->
+<string name="wls_dialog_gps_waiting_title">GPS</string>
+<string name="wls_dialog_gps_waiting_message">确认当前位置。\n卫星可见: %1$d\n精度: %2$s</string>
+
+<!-- iOS does not provide a means for determining the number of GPS satellites -->
+
+<!-- therefore the message needs to be adapted accordingly -->
+<string name="wls_dialog_gps_waiting_cancel">取消</string>
+
+<!-- MAGNETIC FIELD TOO STRONG DIALOG -->
+<string name="wls_dialog_magnetic_field_title">磁场</string>
+<string name="wls_dialog_magnetic_field_text">周围的磁场太强，干扰测量。</string>
+<string name="wls_dialog_magnetic_field_negative">取消</string>
+<string name="wls_dialog_magnetic_field_positive">演示</string>
+
+<!-- SYSTEM TIME INCORRECT DIALOG -->
+<string name="wls_dialog_system_time_title">系统时间</string>
+<string name="wls_dialog_system_time_text">当前系统时间与GPS时间不同，请更改系统时间。</string>
+<string name="wls_dialog_system_time_negative">进入“设置”</string>
+<string name="wls_dialog_system_time_positive">演示</string>
+
+<!-- CALIBRATE COMPASS DIALOG -->
+<string name="wls_dialog_calibrate_compass_title">校正罗盘</string>
+<string name="wls_dialog_calibrate_compass_text">罗盘的精度太低，把手机中按数字8的形式转动，要校准罗盘。一旦精度达到，观测将自动开始。</string>
+<string name="wls_dialog_calibrate_compass_negative">取消</string>
+<string name="wls_dialog_calibrate_compass_positive">演示</string>
+
+<!-- SKY MAP ACTIVITY STUFF -->
+<string name="wls_sky_map_button_invisible">星光不可见</string>
+<string name="wls_sky_map_button_search_again">重新搜索</string>
+<string name="wls_sky_map_button_visible">星光可见</string>
+<string name="wls_sky_map_button_start_measurement">开始观测星星</string>
+<string name="wls_sky_map_toast_initializing">定位水平面45度角以上的所有星星...</string>
+<string name="wls_sky_map_toast_press_back_twice">按返回键退出</string>
+<string name="wls_sky_map_toast_no_more_stars_to_choose">没有更多星星选择</string>
+<string name="wls_sky_map_toast_choose_star_with_magnitude">选取星光亮度 %s</string>
+<string name="wls_sky_map_toast_please_find_next_star">请寻找下一个星星</string>
+
+<!-- STAR NOT VISIBLE DIALOG STUFF -->
+<string name="wls_star_not_visible_title">星光不可见</string>
+<string name="wls_star_not_visible_message">你选择了\'不可见\'，请确认原因。</string>
+<string name="wls_star_not_visible_object">中间有物体阻挡</string>
+<string name="wls_star_not_visible_weather">云或雾挡住了视线</string>
+<string name="wls_star_not_visible_invisible">星星不可见</string>
+<string name="wls_star_not_visible_barely_visible">仅侧视可见</string>
+<string name="wls_star_not_visible_unsure">不确定星星是否出现</string>
+<string name="wls_star_not_visible_button_submit">提交</string>
+<string name="wls_star_visible_button_back">后退</string>
+
+<!-- STAR VISIBLE DIALOG STUFF -->
+<string name="wls_star_visible_title">星星可见</string>
+<string name="wls_star_visible_barely_visible">星星基本不可见</string>
+<string name="wls_star_visible_visible">星星非常清晰</string>
+<string name="wls_star_visible_button_submit">提交</string>
+
+<!-- MEASURE MORE STARS DIALOGS -->
+<string name="wls_dialog_8stars_title">观测达到8颗星</string>
+<string name="wls_dialog_8stars_message" formatted="false">观测8颗星，你的天空亮度测量的不确定性约为23％。你现在想退出，或者你愿意再观测3个星星来降低不确定性，以达到约20％吗？</string>
+<string name="wls_dialog_8stars_button_option">不再展示</string>
+<string name="wls_dialog_8stars_button_negative">退出</string>
+<string name="wls_dialog_8stars_button_positive">再观测3颗星</string>
+<string name="wls_dialog_11stars_title">观测达到11颗星</string>
+<string name="wls_dialog_11stars_message" formatted="false">观测11颗星，你的天空亮度测量的不确定性约为20％。你现在想退出，或者你愿意再观测3个星星来降低不确定性，以达到约17％吗？</string>
+<string name="wls_dialog_11stars_button_negative">退出</string>
+<string name="wls_dialog_11stars_button_positive">再观测3颗星</string>
+<string name="wls_dialog_14stars_title">观测达到14颗星</string>
+<string name="wls_dialog_14stars_message" formatted="false">观测14颗星，你的天空亮度测量的不确定性约为17％。你现在想退出，或者你愿意再观测3个星星来降低不确定性，以达到约14％吗？</string>
+<string name="wls_dialog_14stars_button_negative">退出</string>
+<string name="wls_dialog_14stars_button_positive">再观测3颗星</string>
+<string name="wls_dialog_17stars_title">观测达到17颗星</string>
+<string name="wls_dialog_17stars_message" formatted="false">观测17颗星，你的天空亮度测量的不确定性约为14％。你想现在退出，或者继续观测？如果继续，你可以在主界面随时退出</string>
+<string name="wls_dialog_17stars_button_negative">退出</string>
+<string name="wls_dialog_17stars_button_positive">继续</string>
+
+<!-- CUSTOM DIALOG STUFF -->
+<string name="wls_custom_dialog_positive">接受</string>
+<string name="wls_custom_dialog_negative">拒绝</string>
+<string name="wls_custom_dialog_neutral">无所谓</string>
+
+<!-- TOO BRIGHT ENVIRONMENT DIALOG STUFF -->
+<string name="wls_dialog_too_bright_title">暗度不够</string>
+<string name="wls_dialog_too_bright_text_short">有灯光或者月亮干扰，这不是一个理想的观测时间。</string>
+<string name="wls_dialog_too_bright_text_long">有灯光或者月亮干扰，这不是一个理想的观测时间。下一个观测日期为%1$s</string>
+
+<!-- Identical to the above string however mind the different formatting characters required for iOS -->
+<string name="wls_dialog_too_bright_positive">继续观测</string>
+<string name="wls_dialog_too_bright_neutral">添加日期到我的日历</string>
+<string name="wls_dialog_too_bright_negative">取消观测</string>
+
+<!-- TOO BRIGHT ENVIRONMENT DIALOG ADD TO CALENDAR IOS STUFF -->
+
+<!-- on iOS it is not possible to send the user to the calendar app -->
+
+<!-- therefore we implement our own interface for inserting a calendar event -->
+<string name="wls_dialog_too_bright_add_to_calendar_button_negative">否</string>
+<string name="wls_dialog_too_bright_add_to_calendar_button_positive">是</string>
+<string name="wls_dialog_too_bright_add_to_calendar_button_ok">OK</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text">是否要添加％@到你的日历中，并为这个事件设置闹铃？</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text_success">成功添加到日历中</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text_failed">未能添加到日历中</string>
+<string name="wls_dialog_too_bright_add_to_calendar_title">将事件添加到日历中</string>
+<string name="wls_dialog_too_bright_add_to_calendar_success_title">成功添加到日历中</string>
+<string name="wls_dialog_too_bright_add_to_calendar_failed_title">未能添加到日历中</string>
+<string name="wls_dialog_too_bright_add_to_calendar_no_access_title">不能更改日历</string>
+<string name="wls_dialog_too_bright_add_to_calendar_no_access_text">不能更改日历，需要修改手机个人设定</string>
+
+<!-- START MENU ACTIVITY STUFF -->
+<string name="wls_start_menu_title">主选项</string>
+<string name="wls_start_menu_item_projectinfos">项目信息</string>
+<string name="wls_start_menu_item_me">客户数据</string>
+<string name="wls_start_menu_item_demo">教程</string>
+<string name="wls_start_menu_item_start_observation">开始观测星星</string>
+<string name="wls_start_menu_item_news">新闻</string>
+<string name="wls_start_menu_item_sqm">从SQM提交数据</string>
+<string name="wls_start_menu_item_to_nightmode">夜间模式</string>
+<string name="wls_start_menu_item_to_daymode">白天模式</string>
+<string name="wls_start_menu_item_feedback">反馈信息</string>
+<string name="wls_start_menu_item_quit">退出</string>
+<string name="wls_start_menu_item_close_menu">关闭菜单</string>
+
+<!-- INTRO ACTIVITY STUFF -->
+<string name="wls_info_title">信息</string>
+<string name="wls_info_headline">光污染不仅影响我们观察星星，而且浪费资金和能源，并危害野生动物。有研究表明甚至会影响人类健康。</string>
+<string name="wls_info_text">利用本app应用，你能帮助科学家研究你所在地区的光污染情况。无论您身处大城市或远离人工光源，来自世界各地的研究人员正在期待您的宝贵数据！\n\nThis app has been developed with the financial support of the Federal Ministry for Research and Education (BMBF) framework programme "Research for Sustainable Development" (FONA) with the support code 033L038A.\nThe project has been advised by Project Management Jülich / Environment and Sustainability, Climate Protection.</string>
+<string name="wls_info_button_more_information_text">更多信息</string>
+<string name="wls_info_button_next_text">下一步</string>
+<string name="wls_info_checkbox_text">取消再次显示</string>
+
+<!-- USAGE ACTIVITY STUFF -->
+<string name="wls_usage_title">使用USE</string>
+<string name="wls_usage_headline">人眼观察星星的能力取决于视力和年龄。注册时，你可以提供用户名和email地址，以使数据更有效。或者匿名注册。本研究为公共科学数据项目，所以会在互联网上公开。</string>
+<string name="wls_usage_text">如果你选择不注册，仍然可以访客身份使用。</string>
+<string name="wls_usage_button_register_now_text">注册</string>
+<string name="wls_usage_button_continue_as_guest_text">访客身份</string>
+<string name="wls_usage_checkbox_text">不再显示</string>
+
+<!-- ME ACTIVITY STUFF -->
+<string name="wls_me_title">用户信息</string>
+<string name="wls_me_additional_title">我的观测</string>
+<string name="wls_me_text">这里你可以看到你之前的观测和你的信息，并可以修改。</string>
+<string name="wls_me_button_my_measurements">我的观测</string>
+<string name="wls_me_button_user_information">用户信息</string>
+<string name="wls_me_button_settings">设置</string>
+
+<!-- USER DATA ACTIVITY STUFF -->
+<string name="wls_user_data_title">用户信息</string>
+<string name="wls_user_data_headline">请提供以下信息：</string>
+<string name="wls_user_data_item_age">年龄</string>
+<string name="wls_user_data_item_no_drawback">视力正常</string>
+<string name="wls_user_data_item_glasses">使用眼镜</string>
+<string name="wls_user_data_item_lenses">使用隐形眼镜</string>
+<string name="wls_user_data_item_laser">做过激光校正手术</string>
+<string name="wls_user_data_item_experience">星星观测经验</string>
+<string name="wls_user_data_item_experience_none">无</string>
+<string name="wls_user_data_item_experience_some">很少</string>
+<string name="wls_user_data_item_experience_amateur">很多经验</string>
+<string name="wls_user_data_button_save">保存</string>
+<string name="wls_user_data_text">你的email信息会保密。</string>
+<string name="wls_user_data_name">用户名：</string>
+<string name="wls_user_data_email">邮箱：</string>
+<string name="wls_user_data_button_text">保存</string>
+<string name="wls_user_data_email_not_ok">邮箱无效</string>
+<string name="wls_user_data_username_not_ok_whitespace">用户名含空白</string>
+<string name="wls_user_data_username_not_ok_empty">用户名空白</string>
+<string name="wls_user_data_edittext_hint">其他选项</string>
+
+<!-- BAD CONDITIONS DIALOG STUFF -->
+<string name="wls_dialog_bad_conditions_title">请尝试其他地方</string>
+<string name="wls_dialog_bad_conditions_text">看起来在你所处地方不能观测到星星，请再其他地方使用。</string>
+<string name="wls_dialog_bad_conditions_button_ok">确认</string>
+
+<!-- NO MORE STARS DIALOG STUFF -->
+
+<!-- Dialog displayed once no more stars are eligible for observation -->
+<string name="wls_dialog_no_more_stars_title">未发现星星</string>
+<string name="wls_dialog_no_more_stars_text">未发现可观测星星</string>
+<string name="wls_dialog_no_more_stars_button_ok">OK</string>
+
+<!-- FINISHED DIALOG STUFF -->
+<string name="wls_dialog_measurement_finished_title">谢谢你的观测！</string>
+<string name="wls_dialog_measurement_finished_text">你的观测显示的对肉眼限制亮度为％1$.1F大小，你的观测是在％$.1F范围内是一致的（数值越小越好）。再其他晚上观测看一次，看是否得到相同的结果！\n\n今晚您观测到天空的％3$ D星。\n\n我们的目标是监测随时间而改变的夜空亮度，所以请尽量将来再做一次测量。</string>
+
+<!-- Identical to the above string however mind the different formatting characters required for iOS -->
+<string name="wls_dialog_measurement_finished_button_ok">OK</string>
+
+<!-- ME MY MEASURES ACTIVITY STUFF -->
+<string name="wls_me_my_measures_subtitle">我的观测</string>
+<string name="wls_me_my_measures_no_history_subtitle">无历史</string>
+<string name="wls_me_my_measures_list_delete_history">删除历史</string>
+<string name="wls_me_my_measures_list_visible">可见</string>
+<string name="wls_me_my_measures_list_not_visible">没有观测到由于</string>
+<string name="wls_me_my_measures_list_unnamed">未命名</string>
+<string name="wls_me_my_sqm_transfers_subtitle">我的SQM观测</string>
+<string name="wls_me_my_sqm_transfers_sqm_value">SQM值：</string>
+
+<!-- VISIBILITY REASONS -->
+<string name="wls_visiblity_not_found_reason_obstruction">受到阻碍</string>
+<string name="wls_visiblity_not_found_reason_weather">天气</string>
+<string name="wls_visiblity_not_found_reason_unsure">不确定</string>
+<string name="wls_visiblity_not_found_reason_not_visible">不可见</string>
+<string name="wls_visiblity_not_found_reason_barely_visible">侧视</string>
+<string name="wls_visiblity_found_reason_barely_visible">几乎不可见</string>
+<string name="wls_visiblity_found_reason_found">找到</string>
+
+<!-- ME MY MEASURES LIST VIEW STUFF -->
+<string name="wls_me_my_measures_list_date">日期</string>
+<string name="wls_me_my_measures_list_number_of_stars_measured">观测星星数量：</string>
+<string name="wls_me_my_measures_list_limiting_magnitude">有限亮度：</string>
+<string name="wls_me_my_measures_list_sqm_value">SQM：</string>
+<string name="wls_me_my_measures_list_star_name">星星名字：</string>
+<string name="wls_me_my_measures_list_star_ra">Ra:</string>
+<string name="wls_me_my_measures_list_star_dec">Dec:</string>
+<string name="wls_me_my_measures_list_star_mag">Mag:</string>
+<string name="wls_me_my_measures_list_transmission_status">传输状态：</string>
+<string name="wls_me_my_measures_list_transmission_status_pending">等待</string>
+<string name="wls_me_my_measures_list_transmission_status_sent">成功发送</string>
+<string name="wls_me_my_measures_list_measured_stars">星星</string>
+<string name="wls_me_my_measures_list_gpsposition">GPS位置</string>
+<string name="wls_me_my_measures_list_gps_lat">纬度</string>
+<string name="wls_me_my_measures_list_gps_lon">经度</string>
+<string name="wls_me_my_measures_list_time">时间</string>
+
+<!-- DELETE HISTORY DIALOG STUFF -->
+<string name="wls_dialog_delete_title">删除历史</string>
+<string name="wls_dialog_delete_text">确认删除？</string>
+<string name="wls_dialog_delete_negative">不</string>
+<string name="wls_dialog_delete_positive">是</string>
+
+<!-- WEATHER CONDITIONS ACTIVITY STUFF -->
+<string name="wls_weather_conditions_title">天气状况</string>
+<string name="wls_weather_conditions_text">请选择天气状况</string>
+<string name="wls_weather_conditions_button_continue">继续</string>
+<string name="wls_weather_conditions_button_cancel">取消</string>
+
+<!-- WEATHER CONDITIONS SPINNER STUFF -->
+<string name="wls_weather_conditions_clear">晴天</string>
+<string name="wls_weather_conditions_partly_cloudy">部分多云</string>
+<string name="wls_weather_conditions_cloudy">多云</string>
+<string name="wls_weather_conditions_rain">雨天</string>
+<string name="wls_weather_conditions_fog">雾霾</string>
+<string name="wls_weather_conditions_snow">地上有积雪</string>
+
+<!-- NEWS ACTIVITY STUFF -->
+<string name="wls_news_title">新闻</string>
+<string name="wls_news_failed">不能获得任何新闻</string>
+<string name="wls_news_no_network">无网络，稍后再试。</string>
+
+<!-- PROJECT INFO ACTIVITY STUFF -->
+<string name="wls_project_info_main_title">项目信息</string>
+
+<!-- DO YOU HAVE AN SQM DIALOG -->
+<string name="wls_dialog_have_sqm_title">你有SQM吗？</string>
+<string name="wls_dialog_have_sqm_message">天空质量计（SQM）是用来衡量的夜空亮度的装置。\n\n如果你有一个SQM，您可以使用此页发送数据到我们的服务器。</string>
+<string name="wls_dialog_have_sqm_button_negative">取消</string>
+<string name="wls_dialog_have_sqm_button_positive">继续</string>
+
+<!-- SUBMIT SQM ACTIVITY STUFF -->
+<string name="wls_submit_sqm_title">从SQM提交数据S</string>
+<string name="wls_submit_sqm_text">天空质量标尺（SQM）是用来观测夜晚亮度的工具，如果你有SQM，你可以在本页提交相关数据。</string>
+<string name="wls_submit_sqm_button_text">提交</string>
+<string name="wls_submit_sqm_decimal">.</string>
+<string name="wls_dialog_submit_sqm_title">提交SQM数据</string>
+<string name="wls_dialog_submit_sqm_text">谢谢，数据会保存。</string>
+<string name="wls_dialog_submit_sqm_button_text">确认</string>
+
+<!-- SQM value is input using a numberpad keyboard on iOS-->
+
+<!-- which do not have an explicit close button  -->
+
+<!-- therefore we need our own -->
+
+<!-- CANCEL MEASUREMENT DIALOG STUFF -->
+<string name="wls_dialog_cancel_measurement_title">取消观测</string>
+<string name="wls_dialog_cancel_measurement_text">星星数量观测不足，确定取消？</string>
+<string name="wls_dialog_cancel_measurement_button_quit">退出</string>
+<string name="wls_dialog_cancel_measurement_button_continue_measuring">继续观测</string>
+
+<!-- DIALOG STUFF FOR "ACTIVE MEASUREMENT" -->
+<string name="wls_dialog_active_measurement_title">未完成的观测</string>
+<string name="wls_dialog_active_measurement_message">观测未完成，你可以继续观测或者退出程序。</string>
+<string name="wls_dialog_active_measurement_continue_measuring">继续观测</string>
+<string name="wls_dialog_active_measurement_quit_app">确认</string>
+
+<!-- PROGRESS BAR DIALOG STUFF -->
+<string name="wls_dialog_progress_bar_title">GPS</string>
+<string name="wls_dialog_progress_bar_message">确定所处位置</string>
+<string name="wls_dialog_progress_bar_cancel">取消</string>
+
+<!-- CANCELED GPS FIX DIALOG STUFF -->
+<string name="wls_dialog_gps_fix_canceled_title">GPS搜索中断</string>
+<string name="wls_dialog_gps_fix_canceled_message">无确定位置，你的观测将无法使用。如果你只是想尝试寻找星星，可以使用展示模式。</string>
+<string name="wls_dialog_gps_fix_canceled_positive_button">展示</string>
+<string name="wls_dialog_gps_fix_canceled_negative_button">取消观测</string>
+
+<!-- ADD TO CALENDAR DIALOG -->
+<string name="wls_dialog_add_to_calendar_title">观测星星</string>
+<string name="wls_dialog_add_to_calendar_message">当前时间非常适合观测星星亮度</string>
+
+<!-- SETTINGS -->
+<string name="wls_settings_show_starnames">显示星星名字</string>
+<string name="wls_settings_show_constellations">显示星座</string>
+<string name="wls_settings_stars_big_font">加大字体大小</string>
+<string name="wls_settings_stars_dim">昏暗星星观测</string>
+<string name="wls_settings_show_information">在启动时显示信息画面</string>
+<string name="wls_settings_show_usage">在启动时显示使用画面</string>
+<string name="wls_settings_button_save">保存</string>
+
+<!-- GENERAL STUFF -->
+<string name="wls_general_link_to_igb">www.igb-berlin.de</string>
+<string name="wls_general_not_implemented_yet">还没完成！</string>
+
+<!-- RSS FEED LINK -->
+<string name="wls_rss_feed_link">http://lossofthenight.blogspot.com/feeds/posts/default?alt=rss</string>
+
+<!-- FEEDBACK STUFF -->
+<string name="wls_feedback_title">反馈信息</string>
+<string name="wls_feedback_send_email">通过email反馈信息</string>
+<string name="wls_feedback_rate_us">点赞</string>
+<string name="wls_feedback_email_chooser_title">发送email</string>
+<string name="wls_feedback_email_address">vdn-app@igb-berlin.de</string>
+<string name="wls_feedback_email_subject"></string>
+<string name="wls_feedback_email_text"></string>
+
+<!-- EMAIL COULD NOT BE SENT DIALOG ON IOS -->
+</resources>

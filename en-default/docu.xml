@@ -1,0 +1,38 @@
+<Information xmlns="http://www.interactive-scape.com/wls_project_information">
+    <Title>TUTORIAL</Title>
+    <SectionList>
+        <Section>
+            <Name>
+                <string name="wls_tutorial_title">HOW TO FIND A STAR</string>
+            </Name>
+            <Title>
+                <string name="wls_tutorial_title">HOW TO FIND A STAR</string>
+            </Title>
+            <PageList>
+                <Page>
+                    <Text>
+                        <string name="wls_tutorial_text_one">When starting the observation, you will see a red circle
+and an arrow tip.
+                        </string>
+                    </Text>
+                    <Image>wls_tutorial_one</Image>
+                    <Text>
+                        <string name="wls_tutorial_text_two">Make sure your are in a safe location on flat ground and
+have plenty of space around you. Hold your phone at arms length, and turn your entire body
+in the direction of the arrow. When it points up, tilt your arm up into the sky. When you
+reach the star, the circle will expand, and the screen will freeze.
+                        </string>
+                    </Text>
+                    <Image>wls_tutorial_two</Image>
+                    <Text>
+                        <string name="wls_tutorial_text_three">Now tell us if you can see the star or not. If most of
+the sky is blocked by trees or buildings, you may need to try using the app in another
+location. If the app is not working properly, we would really like to hear from you! Please
+send a message to christopher.kyba@wew.fu-berlin.de
+                        </string>
+                    </Text>
+                </Page>
+            </PageList>
+        </Section>
+    </SectionList>
+</Information>

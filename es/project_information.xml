@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ES -->
+<!-- NOTE: This is pure XML (not interpreted as a resource file) so you can't use the "\uxxxx" notation for Unicode
+            characters. The file is UTF-8 encoded, so you can just use the appropriate characters. Backslash "\" is not
+            used as an escape character. Only the following characters need to be escaped within the text: &amp; &gt; &lt;
+-->
+<Information xmlns="http://www.interactive-scape.com/wls_project_information">
+    <Title>INFORMACIÓN DEL PROYECTO</Title>
+    <SectionList>
+        <Section>
+            <Name>Pérdida de la Noche</Name>
+            <Title>Red de Investigación "Pérdida de la Noche"</Title>
+            <PageList>
+                <Page>
+                    <Text>Solemos asociar a la luz conceptos positivos, como la seguridad, la prosperidad y modernidad. Sin embargo, al tiempo que proporciona beneficios incalculables, la iluminación moderna también tiene su lado negativo. Sabemos que la luz, sobre todo a través del ritmo natural de luz y oscuridad, influye en el comportamiento y la fisiología de casi todos los seres vivos. Pero, cómo y por qué cada especie, los humanos en particular, reaccionan a la luz artificial es todavía en gran parte desconocida.</Text>
+                </Page>
+                <Page>
+                    <Text>La vida sin luz artificial sería difícil de imaginar hoy en día, pero ¿cuáles son las consecuencias? "Pérdida de la Noche" investiga no sólo los efectos ecológicos, culturales y socioeconómicos y los efectos sobre la salud humana, sino también las razones para el aumento de la iluminación en la noche. Esto ayudará a desarrollar mejores conceptos de iluminación y tecnologías sostenibles para reducir al mínimo los efectos negativos de la luz artificial, pero sin renunciar a ninguna de las principales ventajas.</Text>
+                </Page>
+                <Page>
+                    <Text>La red de investigación está financiada por el Ministerio Federal de Educación e Investigación (BMBF) en el programa marco "Investigación para el Desarrollo Sostenible" (FONA) y por la ciudad de Berlín, Departamento de Economía, Tecnología e Investigación.</Text>
+                </Page>
+                <Page>
+                    <Text>La red de investigación formada por científicos, astrónomos e ingenieros de ámbitos sociales y naturales de las siguientes instituciones y organizaciones:</Text>
+                    <Image>wls_project_info_logos_</Image>
+                </Page>
+            </PageList>
+        </Section>
+        <Section>
+            <Name>GLOBE at Night</Name>
+            <Title>GLOBE at Night</Title>
+            <PageList>
+                <Page>
+                    <Text>Twinkle twinkle little star - tell me where you are! Las ciudades son tan brillante que miles de estrellas ya no son visibles. Especificar el número de estrellas que son visibles en un lugar es un indicador de la contaminación lumínica. Desde 2006, miles de personas de todo el mundo han contado las estrellas. Globe at Night (www.GLOBEatNight.org) recoge estos datos, que se traducen en los mapas de brillo de cielo. Así es como podemos evaluar la contaminación lumínica.</Text>
+                </Page>
+                <Page>
+                    <Text>¡Ayuda a medir la contaminación lumínica! Cada nuevo dato ayuda a evaluar la contaminación lumínica. La obtención de muchos datos desde un lugar permiten que los datos sean más precisos y medidas desde una nueva ubicación ayudan a ampliar los mapas de brillo de cielo. Ya sea en el centro de la ciudad o en un área remota, todo cuenta! Dado que esta aplicación funciona en todo el mundo e incluso sin conexión a Internet permite evaluar la contaminación lumínica esté donde esté, incluso en vacaciones!</Text>
+                </Page>
+                <Page>
+                    <Text>Al comparar los datos de diferentes años podemos detectar los cambios. Es por eso que es muy útil tomar medidas frecuentemente en un mismo lugar. Por ejemplo, fuera de su casa. Utilizando los datos obtenidos nos permite estudiar la evolución de la contaminación lumínica. Estos datos pueden ser utilizados en futuros estudios para entender los efectos de la iluminación en horario nocturno, por ejemplo, la actividad económica de una región, la distribución de las especies animales e incluso la aparición de ciertas enfermedades.</Text>
+                </Page>
+            </PageList>
+        </Section>
+        <Section>
+            <Name>Contaminación Lumínica</Name>
+            <Title>Contaminación Lumínica</Title>
+            <SectionList>
+                <Section>
+                    <Name>¿Qué es la contaminación lumínica?</Name>
+                    <Title>¿Qué es la contaminación lumínica?</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Desde la introducción de la luz eléctrica nuestras noches son cada vez más brillante. La iluminación representa el 19% del consumo de electricidad, lo que equivale a 1900 millones de toneladas de CO2. Las principales fuentes de luz son la iluminación de las calles, los edificios, y la publicidad exterior. Solamente el alumbrado público consume 114 TWh al año en todo el mundo. Parte de esta luz no se utiliza, proyectándose sin rumbo hacia el cielo. Una reducción de la contaminación lumínica permitiría un ahorro de energía y dinero.</Text>
+                        </Page>
+                        <Page>
+                            <Text>La contaminación lumínica no sólo consume energía, sino que puede afectar a muchos organismos vivos. Incluso algunos indicios de problemas de salud están aumentando. Por lo tanto, las medidas deberán obtenerse especialmente en las zonas residenciales y de importancia ecológica. El objectivo no es apagar toda la luz, sino que se trata de repensar y remodelar nuestro uso de la luz. Lámparas sin pérdidas de luz, sistemas de control de iluminación según demanda y la utilización del correcto espectro de luz pueden ser contribuciones importantes para minimizar el problema.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Astronomía</Name>
+                    <Title>Astronomía</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Desde tiempos prehistóricos las estrellas han acompañado a los seres humanos en su evolución: en muchas culturas han sido comparadas con deidades y su origen forma parte de los mitos y leyendas. A la práctica, las estrellas han sido la base para nuestra la navegación marítima y para la medida del tiempo. Las sociedades modernas disfrutan de la belleza de las estrellas y, a través de ellas, se les recuerda que estamos en un pequeño rincón del Universo. Pero para más del 70% de la población mundial, el cielo nocturno es ahora demasiado brillante para ver la Vía Láctea.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Para los astrónomos el brillo del cielo es un problema importante. Por ejemplo ya en 1913, el Observatorio de Berlín se vio obligado a trasladarse a Potsdam, dado que el cielo nocturno sobre la capital era demasiado brillante. Hoy en día los astrónomos deben viajar a las zonas más remotas para encontrar un cielo oscuro. Pero muchos astrónomos aficionados no pueden permitirse este lujo. También muchas personas mayores ven como se pierde el cielo estrellado de su infancia, mientras que la mayoría de los niños de hoy no son capaces de disfrutar de la increíble visión de un cielo nocturno real.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Cronobiología/Salud</Name>
+                    <Title>Cronobiología/Salud</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Varios procesos básicos de nuestro cuerpo siguen los cambios rítmicos de luz y oscuridad. Estos incluyen el ritmo sueño-vigilia, la producción de varias hormonas y el ciclo diario de la temperatura corporal y del ritmo cardíaco. Este ritmo del cuerpo esta controlado por un reloj interno, que en los mamíferos como los humanos se puede encontrar en el hipotálamo, una parte del cerebro medio. Este sincroniza todas las células de nuestro cuerpo con el ritmo día-noche.</Text>
+                        </Page>
+                        <Page>
+                            <Text>La luz le dice a nuestro reloj interno si es de día o de noche. En la oscuridad, se produce la hormona melatonina. Esta hace que una persona se sienta cansada y pone el cuerpo a descansar - el latido del corazón y la respiración se ralentizan, y nuestra temperatura corporal baja. Pero la luz artificial suprime la producción de la melatonina. En particular, la luz blanca fría de los LED y pantallas de ordenador nos mantiene despiertos - nuestro reloj interno recibe señales equivocadas y nuestro ritmo interno se ve perturbado por lo que podríamos no ser capaces de dormir el tiempo necesario o con la profundidad de sueño adecuada.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Si no se produce suficiente melatonina puede producir insomnio. También podría debilitar significativamente el sistema inmunológico puesto que la melatonina activa la defensa frente a agentes patógenos como un antioxidante y lucha contra las células cancerígenas. También se sospecha de conexiones de este hecho con la diabetes y la obesidad. Por lo tanto, dormir en un sitio oscuro está lejos de ser un lujo, sino que es una parte esencial para una vida saludable.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Ecología</Name>
+                    <Title>Ecología</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Muchos animales utilizan la luz de la luna y de las estrellas para orientarse, pero la luz artificial eclipsa la luz natural de la noche - con consecuencias muy evidentes. Millones de aves mueren a causa de colisiones con estructuras iluminadas. Las tortugas recién nacidas no migran hacia la inmensidad del mar, sino hacia la iluminación artificial interior, donde se secan y mueren. La innumerable cantidad de insectos que mueren en las lámparas significa que el ecosistema pierde su papel vital como polinizadores o fuente de alimentación.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Los animales evolucionaron para ocupar no sólo un espacio concreto, sino también la hora del día a la que se encuentran activos: muchos son o bien diurnos o bien nocturnos. Mientras que la iluminación artificial puede extender el período de actividad de los animales diurnos, muchos animales nocturnos deben evitar la luz. Un 30% de todas las especies de vertebrados y un 60% de los invertebrados son nocturnos. Con la contaminación lumínica pierden su hábitat nocturno, un problema con consecuencias todavía imprevistas para la biodiversidad.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Los cambios en la duración del día son elementos claves derivados del cambio de estaciones. A medida que los días se hacen más cortos, las plantas pierden sus hojas mientras que los animales preparan sus reservas de grasa o bien su migración. Si el día se extiende por la luz artificial, los organismos están mal preparados para el invierno - una desventaja que puede resultar fatal.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Elementos Culturales</Name>
+                    <Title>Elementos Culturales</Title>
+                    <PageList>
+                        <Page>
+                            <Text>La luz artificial indica el progreso y la prosperidad. Tras la introducción de la luz eléctrica en la década de 1880, ciudades como Berlín alardearon deliberadamente de la modernidad urbana. A medida que las ciudades son cada vez más luminosas, la oscuridad ha llegado a asociarse con el subdesarrollo, la pobreza, y el peligro. Políticamente, la iluminación también se utiliza cada vez más como una exhibición de poder (por ejemplo, en el Rally de Nuremberg durante el Tercer Reich).</Text>
+                        </Page>
+                        <Page>
+                            <Text>Pero también hubo voces críticas de la sobre-iluminación de la noche. Particularmente polémicas fueron las luces de neón que aparecieron en la década de 1910 y 1920. Visto como una monstruosidad en el paisaje, estas luces también impulsaron los temores de la depravación moral y, de manera más práctica, su efecto sobre el tráfico. Una oposición similar condujo a la primera ley de la iluminación.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Sociedad</Name>
+                    <Title>Sociedad</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Debido a la iluminación artificial ahora vivimos en una sociedad de 24 horas. Asociamos a la luz con una mayor productividad y una mejor calidad de vida ya que ahora el trabajo, el ocio y los viajes ya no dependen de las estaciones o de la hora. Pero esto implica un cierta pérdida de nuestro ciclo de vida natural de día y noche con períodos fijos de descanso. Cada vez hay más evidencias de que esto tiene efectos negativos en nuestra salud.</Text>
+                        </Page>
+                        <Page>
+                            <Text>El alumbrado público es a menudo asociado con la seguridad. La idea de apagar algunas luces despierta el miedo a la oscuridad. El tema de si el aumento de la iluminación reduce la delincuencia sigue siendo muy controvertido. Son pocos los estudios que muestran una correlación entre la iluminación y el crimen, y las grandes diferencias en la tasa de delincuencia entre distintas ciudades no son debidas a la iluminación. En algunos casos, el aumento de los niveles de luz en realidad puede hacer que se vea peor puesto que nos deslumbran.</Text>
+                        </Page>
+                        <Page>
+                            <Text>La luz artificial genera un gasto económico. Los gastos directos incluyen la instalación, operación y mantenimiento. Mientras que los indirectos surgen en el ámbito de la salud y del medio ambiente. Por lo tanto, la luz no se debe utilizar de manera indiscriminada. La ubicación, tiempo de funcionamiento, la intensidad de la luz y el espectro de la luz deben ser considerados y se deben ajustar para adaptarse a las necesidades reales. Esto permite que la luz sea utilizada de una manera eficiente y sostenible.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Tecnología de la Iluminación</Name>
+                    <Title>Tecnología de la Iluminación</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Hoy contamos con varias fuentes de luz, todas con un diferente "color". Para el alumbrado público, las lámparas blancas de vapor de mercurio, las lámparas de sodio de color amarillo, y LEDs blancos están siendo los más utilizados. El "color" de la luz influye en nuestra percepción y el estado de ánimo, así como en nuestro reloj interno. Los animales y plantas reaccionan de manera diferente a los colores. La iluminación, por lo tanto, debe ser la adecuada para el medio ambiente.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Con las lámparas adecuadas podemos iluminar el área que necesitamos manteniendo las otras áreas oscuras. Una calle debe estar iluminada de manera que la calzada y la acera se iluminen de manera uniforme, pero sin iluminar las ventanas de las casas o iluminar los espacios naturales cercanos. Del mismo modo, para iluminar un edificio no es necesario iluminar el cielo y toda la zona que lo rodea. La iluminación inteligente es estética, ahorra energía y dinero, y es más útil para las personas y la naturaleza.</Text>
+                        </Page>
+                        <Page>
+                            <Text>En muchas zonas residenciales, la luz no es necesaria en toda la noche. De hecho, algunas comunidades atenuan o apagan la iluminación después de la medianoche. Utilizando detectores de movimiento, las lámparas LED pueden proporcionar una iluminación muy flexible que puede encenderse cuando sea necesario, preservando la belleza de la noche.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+            </SectionList>
+        </Section>
+        <Section>
+            <Name>Consejos para observadores</Name>
+            <Title>Consejos para observadores</Title>
+            <PageList>
+                <Page>
+                    <Text>Esta aplicación forma parte de una investigación a nivel mundial sobre la luz. Eso es muy interesante, pero la seguridad es lo primero! Para sus medidas, elija por favor un lugar seguro. No se mueva durante la búsqueda de una estrella, para evitar que no se tropiece o impacte con algo. Manténgase alejado de las calles y de desniveles. Decida usted mismo si sus hijos pueden utilizar la aplicación por su cuenta, pero es más divertido observar las estrellas juntos! He aquí algunos consejos de cómo hacer mejor sus medidas.</Text>
+                </Page>
+                <Page>
+                    <Text>Los ojos humanos necesitan unos 30 minutos para adaptarse a la oscuridad. Tome suficiente tiempo para acostumbrarse a la intensidad de la luz en su ubicación. No se coloque directamente debajo de una fuente de luz, es mejor tratar de mantenerla a su espalda. De esta manera, se puede medir el brillo del cielo y no el brillo de la fuente de luz. Siempre que sea posible, utilice la aplicación en el modo noche, para que sus ojos puedan adaptarse a la oscuridad y no quedar deslumbrado.</Text>
+                </Page>
+                <Page>
+                    <Text>Con cada estrella que observe aumentará la precisión de la medición. Por lo tanto lo mejor es medir en el mismo lugar en diferentes momentos y días. Además, cada ubicación añade un nuevo punto a nuestro mapa del mundo. No importa si estás en una gran ciudad o en el campo, si usted está en casa o de vacaciones. Cada medida de ayuda a los investigadores y personas interesadas en la materia del mundo entero, a comprender el alcance y la evolución de la iluminación artificial.</Text>
+                </Page>
+            </PageList>
+
+        </Section>
+        <Section>
+            <Name>Acerca de</Name>
+            <Title>Acerca de</Title>
+            <SectionList>
+                <Section>
+                    <Name>Imprint</Name>
+                    <Title>Imprint</Title>
+                    <PageList>
+                        <Page>
+                            <Text><![CDATA[
+<p><b>Copyright:</b>
+Forschungsverbund Berlin e.V.Rudower Chaussee 1712489 BerlinTel.: 030 63 92 - 33 30E-Mail: info@fv-berlin.de</p>
+<p><b>Desarrollador:</b>
+interactive scape GmbHKöpenicker Str. 48/4910179 BerlinTel.: +49 (0)30 69 80 94-15E-mail: info@interactive-scape.com</p><p>David Wasser, Yalçı Ata
+Cosalux GmbH
+Christian-Pleß-Straße 11
+63069 Offenbach am Main
+Tel.: 069 860072260</p>
+<p>verlustdernacht@igb-berlin.deglobeatnight@noao.edu</p><p>ESPAÑOL. La traducción ha sido realizada por Salvador J. Ribas, Parc Astronòmic Montsec.</p>
+<p>- Basado en código procedente de The Sky Map open source project <i>http://code.google.com/p/stardroid</i>- Uses 'android-wheel' <i>http://code.google.com/p/android-wheel</i>
+- Uses Apache Commons Math (Apache License, Version 2.0, <i>http://www.apache.org/licenses/</i>:
+Copyright 2001-2014 The Apache Software Foundation
+This product includes software developed at
+The Apache Software Foundation (<i>http://www.apache.org/</i>).</p>
+<p>Versión: %version%</p>]]></Text>
+                        </Page>
+                        <Page>
+                            <Image>wls_project_info_about_logo_en_</Image>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Sponsors</Name>
+                    <Title>Sponsors</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Esta aplicación ha sido desarrollada con el apoyo económico del Ministerio Federal de Educación e Investigación (BMBF) en el programa marco "Investigación para el Desarrollo Sostenible" (FONA), con el código de proyecto 033L038A. El proyecto ha sido supervisado por la Dirección de Proyectos Jülich / Medio Ambiente y Sostenibilidad, Protección del Clima</Text>
+                            <Image>wls_sponsorship_logo_en_</Image>
+                        </Page>
+                    </PageList>
+                </Section>
+            </SectionList>
+        </Section>
+    </SectionList>
+</Information>

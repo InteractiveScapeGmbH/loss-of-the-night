@@ -1,0 +1,3 @@
+﻿# at most 100 characters including spaces and commas
+
+bilim,yıldızlar,ışıkkirliliği,gökbilim,takımyıldızlar,gece,karanlık

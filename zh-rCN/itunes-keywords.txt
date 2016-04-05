@@ -1,0 +1,3 @@
+﻿# at most 100 characters including spaces and commas
+
+市民科学，星星，光污染，天文，星座，夜，黑暗

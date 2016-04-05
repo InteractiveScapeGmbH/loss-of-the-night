@@ -1,0 +1,23 @@
+﻿"Contribuir a un proyecto mundial de ciencia ciudadana". (The Guardian)
+"Averigüe exactamente cuánto de grave es la contaminación lumínica". (Chandra Clarke, citizensciencecenter.com)
+"La aplicación es muy fácil de usar, e incluso se puede aprender diferentes constelaciones con su uso." (Nicholas Fordes, plos.org)
+
+La aplicación Pérdida de la Noche convierte sus ojos en un medidor de luz, permitiéndole convertirse en un científico-ciudadano y evaluar cuanto de brillante es el cielo nocturno donde usted reside.
+
+En muchas partes del mundo, el cielo nocturno brilla por la contaminación de luz artificial de un alumbrado mal diseñado. Este brillo del cielo desluce las estrellas en cielo, cambiando de forma dramática el entorno natural de la noche. Los científicos están convencidos que la contaminación lumínica tiene un gran impacto en los ecosistemas nocturnos, pero por el momento se dispone de muy poca información de cuanto brillante es el cielo actualmente en todo el mundo, o como este brillo va cambiando con el tiempo.
+
+Puede ayudarnos monitoreando el brillo de cielo con esta aplicación. Está basada en Google Sky Map y permite realizar medidas con un medidor de luz muy sensible, estable y bien conocido: ¡Sus ojos! Todo lo que debe realizar es buscar unas estrellas concretas en el cielo y decirnos si las puede ver o no. El uso de Pérdida de la Noche  es divertido y educativo, además de generar importante información científica que nos permitirá proteger nuestro entorno en el futuro.
+
+Después de realizar sus medidas, los datos serán enviados anónimamente al proyecto GLOBE at Night (http://www.GLOBEatNight.org), donde los podrá ver en un mapa y comparar con otras observaciones procedentes de todo el mundo. Contar estrellas es una gran experiencia y una actividad familiar, además de tener la oportunidad de conocer el nombre de estrellas y constelaciones. Los estudiantes pueden usar la aplicación para medir el brillo de cielo y la visibilidad de las estrellas para sus propios proyectos científicos y al mismo tiempo ser parte de una red global de ciencia ciudadana.
+
+La información más importante para el proyecto procede de sitios brillantes donde no se pueden ver muchas estrellas, pero también se puede usar en lugares donde todavía se ve la Vía Láctea. ¡Si eres afortunado de estar en un sitio así, dalo a conocer a los demás!
+
+Los satélites miran al suelo, no al cielo. Para comparar el brillo de cielo con el brillo en el suelo, puedes ayudar a tu comunidad a seleccionar las lámparas para iluminar el suelo y no el cielo. Esperamos que en el futuro las ciudades ahorren energía y dinero iluminando apropiadamente las calles, no iluminando las ventanas de las casas y volvamos a tener un cielo repleto de estrellas.
+ 
+Mucha más información, incluyendo detalles de los resultados preliminares, está disponible en http://lossofthenight.blogspot.com
+
+Es bienvenido a ponerse en contacto con los investigadores en contaminación lumínica del proyecto Verlust der Nacht que han diseñado esta aplicación y conocer sobre sus proyectos en (http://www.verlustdernacht.de). La aplicación también ofrece información básica sobre la historia, importancia y consecuencias de la luz artificial en la noche.
+
+Este proyecto ha sido esponsorizado por el Ministerio Federal de Educación e Investigación (Alemania).
+
+ESPAÑOL. La traducción ha sido realizada por Salvador J. Ribas, Parc Astronòmic Montsec.

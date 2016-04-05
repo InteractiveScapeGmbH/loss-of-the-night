@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Please add  translation_description="" attributes to Strings to assist the translators. -->
+<string name="app_name" translation_description="Application Title">فقدان الليل</string>
+<string name="ecliptic">مسار الشمس</string>
+<string name="zenith">سمت الرأس</string>
+<string name="nadir">نظير</string>
+<string name="north">شمال</string>
+<string name="east">شرق</string>
+<string name="west">غرب</string>
+<string name="south">جنوب</string>
+<string name="sun">شمس</string>
+<string name="moon">قمر</string>
+<string name="mercury">عطارد</string>
+<string name="venus">الزهرة</string>
+<string name="earth">الأرض</string>
+<string name="mars">المريخ</string>
+<string name="jupiter">المشتري</string>
+<string name="saturn">زحل</string>
+<string name="uranus">أورانوس</string>
+<string name="neptune">نبتون</string>
+<string name="pluto">بلوتو</string>
+<string name="andromeda" translation_description="Name of the Andromeda constellation">أندروميدا</string>
+<string name="aquarius" translation_description="Name of the Aquarius constellation">الدلو</string>
+<string name="aquila" translation_description="Name of the Aquila constellation">العقاب</string>
+<string name="aries" translation_description="Name of the Aries constellation">الحمل</string>
+<string name="auriga" translation_description="Name of the Auriga constellation">ذو الأعنة</string>
+<string name="bootes" translation_description="Name of the Bootes constellation">العواء</string>
+<string name="cancer" translation_description="Name of the Cancer constellation">السرطان</string>
+<string name="canis_major" translation_description="Name of the Canis Major constellation">الكلب الأكبر</string>
+<string name="capricornus" translation_description="Name of the Capricornus constellation">الجدي</string>
+<string name="carina" translation_description="Name of the Carina constellation">القاعدة</string>
+<string name="cassiopeia" translation_description="Name of the Cassiopeia constellation">ذات الكرسي</string>
+<string name="centaurus" translation_description="Name of the Centaurus constellation">قنظورس</string>
+<string name="cetus" translation_description="Name of the Cetus constellation">قيطس</string>
+<string name="crux" translation_description="Name of the Crux constellation">صليب الجنوب</string>
+<string name="cygnus" translation_description="Name of the Cygnus constellation">كوكبة الدجاجة</string>
+<string name="draco" translation_description="Name of the Draco constellation">التنين</string>
+<string name="eridanus" translation_description="Name of the Eridanus constellation">النهر</string>
+<string name="gemini" translation_description="Name of the Gemini constellation">الجوزاء</string>
+<string name="grus" translation_description="Name of the Grus constellation">الكرْكي</string>
+<string name="hercules" translation_description="Name of the Hercules constellation">هرقل</string>
+<string name="hydrus" translation_description="Name of the Hydrus constellation">حية الماء</string>
+<string name="leo" translation_description="Name of the Leo constellation">الأسد</string>
+<string name="libra" translation_description="Name of the Libra constellation">الميزان</string>
+<string name="lupus" translation_description="Name of the Lupus constellation">السبع</string>
+<string name="lyra" translation_description="Name of the Lyra constellation">القيثارة</string>
+<string name="ophiuchus" translation_description="Name of the Ophiuchus constellation">الحواء</string>
+<string name="orion" translation_description="Name of the Orion constellation">الجبار</string>
+<string name="pavo" translation_description="Name of the Pavo constellation">الطاووس</string>
+<string name="pegasus" translation_description="Name of the Pegasus constellation">الفرس الأعظم</string>
+<string name="perseus" translation_description="Name of the Perseus constellation">حامل رأس الغول</string>
+<string name="phoenix" translation_description="Name of the Phoenix constellation">العنقاء</string>
+<string name="pisces" translation_description="Name of the Pisces constellation">الحوت</string>
+<string name="piscis_austrinus" translation_description="Name of the Piscis Austrinus constellation">الحوت الجنوبي</string>
+<string name="puppis" translation_description="Name of the Puppis constellation">الكوثل</string>
+<string name="sagittarius" translation_description="Name of the Sagittarius constellation">القوس</string>
+<string name="scorpius" translation_description="Name of the Scorpius constellation">العقرب</string>
+<string name="taurus" translation_description="Name of the Taurus constellation">الثور</string>
+<string name="tucana" translation_description="Name of the Tucana constellation">الطوقان</string>
+<string name="ursa_major" translation_description="Name of the Ursa Major constellation">الدب الأكبر</string>
+<string name="ursa_minor" translation_description="Name of the Ursa Minor constellation">الدب الأصغر</string>
+<string name="vela" translation_description="Name of the Vela constellation">الشراع</string>
+<string name="virgo" translation_description="Name of the Virgo constellation">العذراء</string>
+<string name="capricorn" translation_description="Name of the Capricorn constellation">الجدي</string>
+<string name="southern_cross" translation_description="Name of the Southern Cross constellation">الصليب الجنوبي</string>
+<string name="scorpio" translation_description="Name of the Scorpio constellation">العقرب</string>
+<string name="little_dipper" translation_description="Name of the Little Dipper constellation">الدب الأصغر</string>
+<string name="little_bear" translation_description="Name of the Little Bear constellation">الدب الأصغر</string>
+<string name="big_dipper" translation_description="Name of the Big Dipper constellation">الدب الأكبر</string>
+<string name="great_bear" translation_description="Name of the Great Bear constellation">الدب الأكبر</string>
+<string name="plough" translation_description="Name of the Plough constellation">المحراث</string>
+<string name="sirius" translation_description="Name of the Star Sirius">الشعرى اليمانية</string>
+<string name="canopus" translation_description="Name of the Star Canopus">سهيل</string>
+<string name="arcturus" translation_description="Name of the Star Arcturus">السماك الرامح</string>
+<string name="rigel_kentaurus_a" translation_description="Name of the Star Rigel Kentaurus A">رجل القنطور</string>
+<string name="vega" translation_description="Name of the Star Vega">النسر الواقع</string>
+<string name="rigel" translation_description="Name of the Star Rigel">رجل الجبار</string>
+<string name="procyon" translation_description="Name of the Star Procyon">الشعرى الشامية</string>
+<string name="betelgeuse" translation_description="Name of the Star Betelgeuse">منكب الجوزاء</string>
+<string name="achernar" translation_description="Name of the Star Achernar">آخر النهار</string>
+<string name="hadar" translation_description="Name of the Star Hadar">حضار</string>
+<string name="capella" translation_description="Name of the Star Capella">العيوق</string>
+<string name="altair" translation_description="Name of the Star Altair">النسر الظائر</string>
+<string name="acrux" translation_description="Name of the Star Acrux">Acrux</string>
+<string name="aldebaran" translation_description="Name of the Star Aldebaran">الدبران</string>
+<string name="spica" translation_description="Name of the Star Spica">السماك الأعزل</string>
+<string name="antares" translation_description="Name of the Star Antares">قلب العقرب</string>
+<string name="pollux" translation_description="Name of the Star Pollux">رأس التوأم المؤخر</string>
+<string name="fomalhaut" translation_description="Name of the Star Fomalhaut">فم الحوت</string>
+<string name="deneb" translation_description="Name of the Star Deneb">ذنب الدجاجة</string>
+<string name="regulus" translation_description="Name of the Star Regulus">المليك</string>
+<string name="adhara" translation_description="Name of the Star Adhara">العذارى</string>
+<string name="shaula" translation_description="Name of the Star Shaula">الشولة</string>
+<string name="alnath" translation_description="Name of the Star Alnath">Alnath</string>
+<string name="alnilam" translation_description="Name of the Star Alnilam">النظام</string>
+<string name="alnair" translation_description="Name of the Star Alnair">النير</string>
+<string name="alioth" translation_description="Name of the Star Alioth">الإلية</string>
+<string name="mirphak" translation_description="Name of the Star Mirphak">المرفق</string>
+<string name="kaus_australis" translation_description="Name of the Star Kaus Australis">القوس الجنوبي</string>
+<string name="dubhe" translation_description="Name of the Star Dubhe">الدبة</string>
+<string name="alkaid" translation_description="Name of the Star Alkaid">القائد</string>
+<string name="alhena" translation_description="Name of the Star Alhena">Alhena</string>
+<string name="castor" translation_description="Name of the Star Castor">رأس التوأم المتقدم</string>
+<string name="polaris" translation_description="Name of the Star Polaris">نجم الشمال</string>
+<string name="alphard" translation_description="Name of the Star Alphard">الفرد</string>
+<string name="hamal" translation_description="Name of the Star Hamal">الشيال</string>
+<string name="algieba" translation_description="Name of the Star Algieba">جبهة الأسد</string>
+<string name="diphda" translation_description="Name of the Star Diphda">الضفدع الأول</string>
+<string name="nunki" translation_description="Name of the Star Nunki">Nunki</string>
+<string name="mirach" translation_description="Name of the Star Mirach">جنب المسلسلة</string>
+<string name="alpheratz" translation_description="Name of the Star Alpheratz">سرة الفرس</string>
+<string name="saiph" translation_description="Name of the Star Saiph">سيف</string>
+<string name="kochab" translation_description="Name of the Star Kochab">نحم الكوكب</string>
+<string name="rasalhague" translation_description="Name of the Star Rasalhague">رأس الحواء</string>
+<string name="algol" translation_description="Name of the Star Algol">رأس الغول</string>
+<string name="denebola" translation_description="Name of the Star Denebola">ذيل الأسد</string>
+<string name="alphekka" translation_description="Name of the Star Alphekka">نير الفكة</string>
+<string name="etamin" translation_description="Name of the Star Etamin">غاما التنين</string>
+<string name="kaus" translation_description="Name of the Star Kaus">قوس</string>
+<string name="shedir" translation_description="Name of the Star Shedir">صدر ذات الكرسي</string>
+<string name="caph" translation_description="Name of the Star Caph">الكف</string>
+<string name="izar" translation_description="Name of the Star Izar">الإزار</string>
+<string name="merak" translation_description="Name of the Star Merak">المراق</string>
+<string name="enif" translation_description="Name of the Star Enif">الأنف</string>
+<string name="ankaa" translation_description="Name of the Star Ankaa">العنقاء</string>
+<string name="phad" translation_description="Name of the Star Phad">الفخذه</string>
+<string name="alderamin" translation_description="Name of the Star Alderamin">الذراع الأيمن</string>
+<string name="scheat" translation_description="Name of the Star Scheat">الساعد</string>
+<string name="markab" translation_description="Name of the Star Markab">منكب الفرس</string>
+<string name="menkar" translation_description="Name of the Star Menkar">المنخر</string>
+<string name="arneb" translation_description="Name of the Star Arneb">الأرنب</string>
+<string name="unukalhai" translation_description="Name of the Star Unukalhai">عنق الحية</string>
+<string name="algenib" translation_description="Name of the Star Algenib">الجنب</string>
+<string name="vindemiatrix" translation_description="Name of the Star Vindemiatrix">Vindemiatrix</string>
+<string name="alcyone" translation_description="Name of the Star Alcyone">السيوني</string>
+<string name="dog_star" translation_description="Name of the Dog Star (Sirius)">الشعرى اليمانية</string>
+<string name="north_star" translation_description="Name of the North Star">نجم القطب</string>
+<string name="pole_star" translation_description="Name of the (North) Pole Star">نجم القطب</string>
+
+<!-- PRIVACY DIALOG STUFF -->
+<string name="wls_dialog_privacy_title">اتفاقية الإستخدام والشروط</string>
+<string name="wls_dialog_privacy_text">العلماء يريدون أن يعرفوا كلاً من موقعك و الوقت الذي تأخذ به القياسات حتى يدققون قياساتك. لهذا يحتاج التطبيق لوصول إلى الGPS الخاص بك لإرسال المكان الدقيق اللذي قمت بأخذ القياسات منه.</string>
+<string name="wls_dialog_privacy_policy_text">عندما تضغط موافق فأنت توافق على اتفاقية الإستخدام وسياسة الخصوصية الخاصة بتطبيق .\n\n„فقدان الليل“\n
+اتفاقية الإستخدام وسياسة الخصوصية\n
+1مقدمة\n
+شكرا جزيلاً لأستخدامك برنامج  „الليل المفقود“. باستخدامك لهذا التطبيق أنت أصبحت عضواً فعالاً في شبكة باحثين عالمين لفهم وصنع خريطة لأثر الضوء الصناعي ليلاً، بالإضافة لذلك سيعلمك هذا التطبيق عن مخاطر التلوث الضوئي. هذه المعلومات قدمت من قبل شبكة  ”الليل المفقود“ متعددة تخصصات الباحثين والتي تقع في ألمانيا، وهي تدرس أثر الإضاءة الليلية على الطبيعة و الصحة والمجتمع. المزيد من المعلومات عن هذا الموضوع تجدها في قسم "حول" في هذا التطبيق و على الموقع الإلكتروني www.verlustdernacht.de/about-us.html.
+المعلومات التي يتم تجميعها ترسل بهوية مجهولة إلى قاعدة بيانات الأرض ليلاً Globe at Night (www.GLOBEatNight.org). حيث تستخدم لصنع خريطة لسطوع السماء ليلاً حول العالم. هدف هذه التجربة العلمية المدنية هي لصنع خريطة لسطوع السماء ليلاً للكرة الأرضية مراقبة التغيرات مع الوقت، القياسات كانت تجمع منذ 2006 ، وبدأ هذا البحث باستخدام هذا التطبيق في 2013.
+هذا التطبيق  ”الليل المفقود“ مقدم من قبل Forschungsverbund Berlin e.V., Rudower Chaussee 17, 12489 ، 12489 برلين ، المانيا. لتستخدم تطبيق   ”الليل المفقود“ تحتاج لقراءة هذه الشروط والحالات بتأن وعليك أن توافق عليها حتى تستخدم التطبيق. إذا لم توافق عليها كلها فلن يكون بمقدورك استخدام التطبيق. \n\n
+2 استخدام تطبيق „ الليل المفقود“ \n
+المتطلبات الأساسية: هذا التطبيق يمكنه أن يعمل على أجهزة تعمل على آندرويد 4.0 أو اصدار أعلى ، كما يعمل أيضاً على آندرويد 2.1 والنسخ الأعلى. كما يتطلب دقة عرض mdpi أو أعلى
+رسوم الطرف الثالث: القياسات ترسل باستخدام بريد الكتروني لقاعدة بيانات الأرض ليلاً ، فالبرنامج يستخدم الإنترنت، فأي رسوم من قبل طرف ثالث يتحمل مسؤوليتها مستخدم الجهاز الذكي.
+التحديثات:  من حين لآخر قد يلزم اجراء تحديث للبرنامج لأغراض الإصلاح أو ميزات جديدة أو لعيوب معينة أو لتحديث نسخة البرنامج.
+الأشخاص تحت السن القانونية: عندما توافق على هذه الشروط فأنت تؤكد أن عمرك فوق ال18 سنة. لمن هم تحت ال18 تلزم موافقة الأبوين.\n
+الإستخدام الخارجي: هذا التطبيق مصمم للإستخدام خارج المنشآت ليلاً، قبل الإستعمال عليك أن تتفحص مكان الإستخدام نهاراً للتأكد من خلوه من أي مخاطر محتمله، وعليك أن تعيد فحصه ليلاً أيضا للتأكد من خلوه من أي مخاطر محتملة. المخاطر المحتملة قد تحتوي (وربما أكثر من هذه المخاطر) التعثر أو الرحكة المرورية أو الحيوانات أو الطقس السيء أو الجرائم. يجب وجود شخص بالغ آخر أثناء استخدام التطبيق حتى يراقب حدوث أي خطر أثناء استخدام التطبيق، وينبه المستخدم في حالة وجود أي خطر.\n\n
+3 صلاحيات التطبيق
+3.1 تفصيل الموقع (عن طريق نظام المواقع العالمي GPS  والشبكة) \n
+السماح للتطبيق لمعرفة موقعك بالتفصيل باستخدام نظام المواقع العالمي ال GPS أو من الشبكة مثل شبكة الهاتف أو شبكة Wi-Fi. هذه الخدمات يجب أن يتم تفعيها ومتوفرة في جهازك وقابلة للإستخدام. التطبيقات قد تستخدم هذه الأدوات لمعرفة موقعك وهذا سيستهلك المزيد من طاقة البطارية.\n
+3.2 الوصول الكامل للشبكة 
+السماح الكامل للتطبيق  بإنشاء وصلات شبكات مقبس (sockets) واستخدام بروتوكولات انترنت اعتيادية. المتصفح والتطبيقات الأخرى توفر وسائل لإرسال البيانات للإنترنت، لذلك فهذه الصلاحية غير متطلبة لإرسال البيانات للإنترنت\n
+3.3 معرفة حالة الهاتف وهويته
+تسمح للتطبيق بالوصول إلى خصائص الهاتف المتعلقة بالجهاز. هذه الصلاحية تمنح التطبيق إمكانية الوصول إلى رقم الهاتف و هوية الجهاز device IDs ، سواء أكان هنالك مكالمة هاتفية والرقم البعيد مشغول بمكالمة.
+3.4 الهوية
+عند بدء الإستخدام سيقوم التطبيق بإصدار هوية مجهولة (anonymous user-ID) والتي تنقل من خلالها القياسات. لا يتم نقل أي معلومات شخصية إلا إذا سمحت لنا بنقل اسم المستخدم الخاص بك وبريدك الإلكتروني. \n
+3.5 تعديل أو حذف محتويات وحدة تخزين الUSB الخاصة لك أو تعديل أو حذف محتويات من كرت الذاكرة الخاص بك. \n
+السماح للتطبيق بالكتابة على وحدة تخزين الUSB. السماح للتطبيق بالكتاابة على كرت الذاكرة\n
+3.6 تعديل إعدادات النظام
+السماح للتطبيق بتعديل اعدادت البيانات لللنظام/أنظمة . التطبيقات المشبوهة قد تقوم بتخريب اعدادات نظامك.\n\n
+4 الخصوصية\n
+لغرض القياس و لغرض وضع مقدار سطوع السماء ليلاً على الخارطة ، نحن نحتاج لمعرفة مكانك الدقيق. بدون السماح لنا بمعرفة موقعك فإن قياساتك ستكون بلا فائدة
+لا نحتاج أي معلومات شخصية أخرى، لكن  العمر و درجة البصر يمكن أن تحسن من امكانية تقييم مدى سطوع السماء ليلاً، لذلك هذه المعلومات مفيدة لتحليل القياسات، إذا وافق المستخدم على ارسال هذه المعلومات سيتم حفظها بصورة مجهولة مع كل حزمة بيانات، إذا لم يوافق المستخدم على ارسال هذه المعلومات سيتم حفظ القياسات بهوية مجهولة تنشئ تلقائياً وعشوائيا.
+إذا لاحظنا أي شيء غريب من قياساتك سيتم التواصل معك عبر البريد الإلكتروني. لن يتم مشاركة بريدك الإلكتروني أو أي معلومات شخصية مع طرف ثالث ولن تستخدم لأغراض التسويق.\n\n
+5الغاء الكفالة
+هذا التطبيق مجاني. القياسات التي يتم تجميعها ستكون جزءاً من المشروع المدني العلمي العالمي الأرض ليلاً GLOBEatNight (www.globeatnight.org) وستكون متوفرة بهوية مجهولة لأي شخص عبر الإنترنت. لا يوجد هنالك ضمانات: لأقصى حد يسمح به القانون : هذا البرنامج مقدم “ASو” يستخدم على مسؤوليتك الصرفة من دون أي ضمانات مهما كانت.
+</string>
+<string name="wls_dialog_privacy_positive">موافق</string>
+<string name="wls_dialog_privacy_negative">غير موافق</string>
+
+<!-- iOS does not allow apps to close themselves therefore a \'Decline\' button is not feasible. -->
+
+<!-- This button is only active once the checkbox below has been selected. -->
+
+<!-- GPS DIALOG STUFF -->
+<string name="wls_dialog_gps_disabled_title">نظام تحديد المواقع العالمي GPS</string>
+<string name="wls_dialog_gps_disabled_text">خاصية ال جي بي اس غير فعالة لديك ، الرجاء تفعيله من الإعدادات للإستمرار</string>
+<string name="wls_dialog_gps_disabled_positive">عرض توضيحي</string>
+<string name="wls_dialog_gps_disabled_negative">الذهاب للإعدادات</string>
+
+<!-- PROGRESS BAR DIALOG STUFF -->
+<string name="wls_dialog_gps_waiting_title">جي بي اس</string>
+<string name="wls_dialog_gps_waiting_message">جاري تحديد موقعك الحالي \nالأقمار الصناعية المتاحة: %1$d\nالدقة: %2$s</string>
+
+<!-- iOS does not provide a means for determining the number of GPS satellites -->
+
+<!-- therefore the message needs to be adapted accordingly -->
+<string name="wls_dialog_gps_waiting_cancel">الغاء</string>
+
+<!-- MAGNETIC FIELD TOO STRONG DIALOG -->
+<string name="wls_dialog_magnetic_field_title">حل مغناطيسي</string>
+<string name="wls_dialog_magnetic_field_text">الحقل المغناطيسي الموجود قوي  ضارب مع القرآت</string>
+<string name="wls_dialog_magnetic_field_negative">الغاء</string>
+<string name="wls_dialog_magnetic_field_positive">عرض توضيحي</string>
+
+<!-- SYSTEM TIME INCORRECT DIALOG -->
+<string name="wls_dialog_system_time_title">التوقيت</string>
+<string name="wls_dialog_system_time_text">الوقت المضبوط عليه النظام حالياً يختلف بشكل كبير عن توقيت ال جي بي اس . الرجاء تصحيح توقيت النظام</string>
+<string name="wls_dialog_system_time_negative">اذهب للإعدادات</string>
+<string name="wls_dialog_system_time_positive">عرض توضيحي</string>
+
+<!-- CALIBRATE COMPASS DIALOG -->
+<string name="wls_dialog_calibrate_compass_title">معيرة البوصلة</string>
+<string name="wls_dialog_calibrate_compass_text">إن دقة البوصلة منخفضة جداً ، لمعايرة البوصلة حرك جهازك على شكل رقم 8 (كما يكتب باللغة الإنجليزية). سيتم البدء بالقرآت حين الوصول للدقة الكافية</string>
+<string name="wls_dialog_calibrate_compass_negative">الغاء</string>
+<string name="wls_dialog_calibrate_compass_positive">عرض توضيحي</string>
+
+<!-- SKY MAP ACTIVITY STUFF -->
+<string name="wls_sky_map_button_invisible">غير مرئي أو غير متأكد</string>
+<string name="wls_sky_map_button_search_again">البحث مرة أخرى</string>
+<string name="wls_sky_map_button_visible">النجم مرئي</string>
+<string name="wls_sky_map_button_start_measurement">البدء برصد النجوم</string>
+<string name="wls_sky_map_toast_initializing">تحديد جميع النجوم  &gt; فوق الأفق ب45 درجة...</string>
+<string name="wls_sky_map_toast_press_back_twice">اضغط تراجع مرة أخرى للخروج من التطبيق</string>
+<string name="wls_sky_map_toast_no_more_stars_to_choose">لا يوجد المزيد من النجوم لتختار منها</string>
+<string name="wls_sky_map_toast_choose_star_with_magnitude">اختر نجما له حجم %s</string>
+<string name="wls_sky_map_toast_please_find_next_star">الرجاء البحث عن النجم التالي</string>
+
+<!-- STAR NOT VISIBLE DIALOG STUFF -->
+<string name="wls_star_not_visible_title">النجم غير مرئي</string>
+<string name="wls_star_not_visible_message">لقد اخترت خيار "غير مرئي أو لست واثقاً" ، رجاءاً أخبرنا عن السبب</string>
+<string name="wls_star_not_visible_object">هنالك جسم يحجب الرؤية</string>
+<string name="wls_star_not_visible_weather">الغيوم أو الضباب تحجب الرئية</string>
+<string name="wls_star_not_visible_invisible">النجم غير مرئي</string>
+<string name="wls_star_not_visible_barely_visible">واضح فقط من خلال النظر الجانبي</string>
+<string name="wls_star_not_visible_unsure">أنا غير متأكد إذا كان هناك أم لم يكن</string>
+<string name="wls_star_not_visible_button_submit">ارسال</string>
+<string name="wls_star_visible_button_back">عودة</string>
+
+<!-- STAR VISIBLE DIALOG STUFF -->
+<string name="wls_star_visible_title">النجم واضح</string>
+<string name="wls_star_visible_barely_visible">النجم واضح بصعوبة</string>
+<string name="wls_star_visible_visible">النجم واضح وضوح تام</string>
+<string name="wls_star_visible_button_submit">ارسال</string>
+
+<!-- MEASURE MORE STARS DIALOGS -->
+<string name="wls_dialog_8stars_title">تم قياس 8 نجوم</string>
+<string name="wls_dialog_8stars_message" formatted="false">بعد اتمامك لرصد 8 نجوم فإن قياسك لسطوع السماء لديه درجة ارتياب تقدر ب 23%، هل تحب أن ترصد 3 نجوم جديدة لتقليل نسبة الإرتياب ل20%</string>
+<string name="wls_dialog_8stars_button_option">لا تظهر مرة أخرى</string>
+<string name="wls_dialog_8stars_button_negative">خروج</string>
+<string name="wls_dialog_8stars_button_positive">نعم ، 3 نجوم أخرى</string>
+<string name="wls_dialog_11stars_title">تم قياس 11 نجماً</string>
+<string name="wls_dialog_11stars_message" formatted="false">بعد اتمامك لرصد ل11 نجماً فإن قياسك لسطوع السماء لديه درجة ارتياب تقدر ب 20% هل تحب أن ترصد 3 نجوم أخرى لتقليل نسبة الإرتياب ل17%</string>
+<string name="wls_dialog_11stars_button_negative">خروج</string>
+<string name="wls_dialog_11stars_button_positive">نعم ، 3 نجوم أخرى</string>
+<string name="wls_dialog_14stars_title">تم قياس 14 نجماً</string>
+<string name="wls_dialog_14stars_message" formatted="false">بعد اتمامك لرصد ل14 نجماً فإن قياسك لسطوع السماء لديه درجة ارتياب تقدر ب 17% هل تحب أن تنهي الآن أم ترصد 3 نجوم أخرى لتقليل نسبة الإرتياب ل 14%</string>
+<string name="wls_dialog_14stars_button_negative">خروج</string>
+<string name="wls_dialog_14stars_button_positive">حسناً ، 3 نجوم أخرى</string>
+<string name="wls_dialog_17stars_title">م قي17 14 نجماً</string>
+<string name="wls_dialog_17stars_message" formatted="false">بعد اتمامك لرصد ل 17 نجماً فإن قياسك لسطوع السماء لديه درجة ارتياب تقدر ب 14% هل تحب أن تنهي الآن أم تحب الإستمرار بتقليل نسبة الإرتياب؟ إن أكملت بإمكانك الخروج في أي وقت.</string>
+<string name="wls_dialog_17stars_button_negative">خروج</string>
+<string name="wls_dialog_17stars_button_positive">استمرار</string>
+
+<!-- CUSTOM DIALOG STUFF -->
+<string name="wls_custom_dialog_positive">موافق</string>
+<string name="wls_custom_dialog_negative">غير موافق</string>
+<string name="wls_custom_dialog_neutral">محايد</string>
+
+<!-- TOO BRIGHT ENVIRONMENT DIALOG STUFF -->
+<string name="wls_dialog_too_bright_title">غير مظلمة كفاية</string>
+<string name="wls_dialog_too_bright_text_short">إما أننا في وقت الغسق أو أن القمر في السماء، هذا ليس بوقت مناسب للقياس</string>
+<string name="wls_dialog_too_bright_text_long">إما أننا في وقت الغسق أو أن القمر في السماء، هذا ليس بوقت مناسب للقياس. الوقت المناسب القادم للقياس سيكون في %1$s</string>
+
+<!-- Identical to the above string however mind the different formatting characters required for iOS -->
+<string name="wls_dialog_too_bright_positive">القياس على أي حال</string>
+<string name="wls_dialog_too_bright_neutral">أضف التاريخ لروزنامتي</string>
+<string name="wls_dialog_too_bright_negative">الغاء القياس</string>
+
+<!-- TOO BRIGHT ENVIRONMENT DIALOG ADD TO CALENDAR IOS STUFF -->
+
+<!-- on iOS it is not possible to send the user to the calendar app -->
+
+<!-- therefore we implement our own interface for inserting a calendar event -->
+<string name="wls_dialog_too_bright_add_to_calendar_button_negative">لا</string>
+<string name="wls_dialog_too_bright_add_to_calendar_button_positive">نعم</string>
+<string name="wls_dialog_too_bright_add_to_calendar_button_ok">موافق</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text">هل تريد اضافة %@ إلى رزنامتك ووضع تنبيه لهذا الحدث؟</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text_success">تمت الإضافة بنجاح</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text_failed">فشلت عملية الإضافة للرزنامة</string>
+<string name="wls_dialog_too_bright_add_to_calendar_title">إضافة الحدث للرزنامة</string>
+<string name="wls_dialog_too_bright_add_to_calendar_success_title">إضافة الحدث للرزنامة نجحت</string>
+<string name="wls_dialog_too_bright_add_to_calendar_failed_title">إضافة الحدث للرزنامة فشلت</string>
+<string name="wls_dialog_too_bright_add_to_calendar_no_access_title">لا يمكننا الولوج للرزنامة</string>
+<string name="wls_dialog_too_bright_add_to_calendar_no_access_text">ا يمكننا الولوج للرزنامة، نتمنى أن تعطينا إذا بالولوج إلى الرزنامة من خلال إعدادات الهاتف</string>
+
+<!-- START MENU ACTIVITY STUFF -->
+<string name="wls_start_menu_title">القائمة الرئيسية</string>
+<string name="wls_start_menu_item_projectinfos">معلومات المشروع</string>
+<string name="wls_start_menu_item_me">بيانات المستخدم</string>
+<string name="wls_start_menu_item_demo">جولة ارشادية</string>
+<string name="wls_start_menu_item_start_observation">البدء برصد النجوم</string>
+<string name="wls_start_menu_item_news">أخبار</string>
+<string name="wls_start_menu_item_sqm">ارسال البيانات عبر SQM </string>
+<string name="wls_start_menu_item_to_nightmode">النمط الليلي</string>
+<string name="wls_start_menu_item_to_daymode">النمط النهاري</string>
+<string name="wls_start_menu_item_feedback">تغذية راجعة</string>
+<string name="wls_start_menu_item_quit">انهاء</string>
+<string name="wls_start_menu_item_close_menu">إغلاق القائمة</string>
+
+<!-- INTRO ACTIVITY STUFF -->
+<string name="wls_info_title">معلومات</string>
+<string name="wls_info_headline">التلوث الضوئي لايخفي النجوم الجميلة وحسب، لكنه مضيعة للمال والمصادر الطبيعية ، كما أن هنالك دلائل تشير لخطر هذا التلوث على صحة الإنسان</string>
+<string name="wls_info_text">باستخدام هذا التطبيق ستساعد العلماء لفهم أكثر عن البصمة الضوئية لمنطقتك.  سواء كنت في منتصف مدينة كبيرة أو بعيداً عن أضواء المدينة ، العلماء حول العالم ينتظرون البيانات القيمة التي ستساهم بها. \n\n هذا التطبيق حصل على الدعم المالي من الوزارة الفيدرالية للأبحاث والتعليم (BMBF) "الأبحاث من أجل التنمية المستدامة" (FONA) صاحب رمز المساعدة  033L038A .  \n  تم النصح بالمشروع من قبل  Jülich لأدارة المشاريع / لحمايبة المناخ واستدامة البيئة</string>
+<string name="wls_info_button_more_information_text">المزيد من المعلومات</string>
+<string name="wls_info_button_next_text">التالي</string>
+<string name="wls_info_checkbox_text">لا تظهره مرة أخرى</string>
+
+<!-- USAGE ACTIVITY STUFF -->
+<string name="wls_usage_title">استخدم</string>
+<string name="wls_usage_headline">قدرة الناس على الإبصار تختلف حسب العمر وقدراتهم البصرية ، إذا كنت مستخدما مسجلاً بإمكانك أن تقدم هذه المعلومات مع اسم المستخدم وبريدك الإلكتروني وهذا يجعل البيانات قيمة أكثر للباحثين . غير ذلك سيتم ارسال البيانات على هوية مجهول ، بدون اي اسمك أو أي معلومات شخصية أخرى. هذا مشروع علمي مدني فبالتالي البيانات التي ترسلها كمجهول ستكون متاحة للجميع على شبكة الإنترنت</string>
+<string name="wls_usage_text">إذا كنت تفضل أن تسجل لاحقاً أو لاتسجل على الإطلاق ، فأهلاً بك كضيف.</string>
+<string name="wls_usage_button_register_now_text">سجل الآن</string>
+<string name="wls_usage_button_continue_as_guest_text">أكمل كضيف</string>
+<string name="wls_usage_checkbox_text">لا تظهر مرة أخرى</string>
+
+<!-- ME ACTIVITY STUFF -->
+<string name="wls_me_title">معلومات المستخدم</string>
+<string name="wls_me_additional_title">قياساتي</string>
+<string name="wls_me_text">في هذه الشاشة بإمكانك مشاهدة قياساتك السابقة ، مشاهدة بيانات المستخدم الخاصة بك ، وبإمكانك تغيرها</string>
+<string name="wls_me_button_my_measurements">قياساتي</string>
+<string name="wls_me_button_user_information">معلومات المستخدم</string>
+<string name="wls_me_button_settings">اعدادات</string>
+
+<!-- USER DATA ACTIVITY STUFF -->
+<string name="wls_user_data_title">معلومات المستخدم</string>
+<string name="wls_user_data_headline">الرجاء تزويدنا بالمعلومات التالية :</string>
+<string name="wls_user_data_item_age">العمر</string>
+<string name="wls_user_data_item_no_drawback">لا مشاكل بالبصر</string>
+<string name="wls_user_data_item_glasses">نظارات</string>
+<string name="wls_user_data_item_lenses">عدسات لاصقة</string>
+<string name="wls_user_data_item_laser">عملية ليزك / ليزر في العين</string>
+<string name="wls_user_data_item_experience">الخبرة في رصد النجوم</string>
+<string name="wls_user_data_item_experience_none">قليلة أو غير خبير</string>
+<string name="wls_user_data_item_experience_some">أعرف عدداً من النجوم و الكوكبات الفلكية</string>
+<string name="wls_user_data_item_experience_amateur">هاوٍ فلكي</string>
+<string name="wls_user_data_button_save">حفظ</string>
+<string name="wls_user_data_text">بريدك الإلكتروني لن ينشر علنياً أو يستخدم لأغراض الدعاية .</string>
+<string name="wls_user_data_name">اسم المستخدم:</string>
+<string name="wls_user_data_email">البريد الإلكتروني:</string>
+<string name="wls_user_data_button_text">حفظ</string>
+<string name="wls_user_data_email_not_ok">البريد الإلكتروني خطأ!</string>
+<string name="wls_user_data_username_not_ok_whitespace">اسم المستخدم يحتوي فراغات</string>
+<string name="wls_user_data_username_not_ok_empty">حقل اسم المستخدم فارغ</string>
+<string name="wls_user_data_edittext_hint">اختياري</string>
+
+<!-- BAD CONDITIONS DIALOG STUFF -->
+<string name="wls_dialog_bad_conditions_title">الرجاء التجربة في موقع آخر</string>
+<string name="wls_dialog_bad_conditions_text">يبدوا أنه من غير الممكن رؤية النجوم من موقعك ، رجاءا ابحث عن مكان آخر ملائم أكثر وجرب مرة أخرى</string>
+<string name="wls_dialog_bad_conditions_button_ok">حسناً</string>
+
+<!-- NO MORE STARS DIALOG STUFF -->
+
+<!-- Dialog displayed once no more stars are eligible for observation -->
+<string name="wls_dialog_no_more_stars_title">لم يتم العثور على أي نجوم</string>
+<string name="wls_dialog_no_more_stars_text">لم يتم العثور على نجوم قابلة للرصد</string>
+<string name="wls_dialog_no_more_stars_button_ok">حسناً</string>
+
+<!-- FINISHED DIALOG STUFF -->
+<string name="wls_dialog_measurement_finished_title">شكراً لرصدك</string>
+<string name="wls_dialog_measurement_finished_text">رصدك بالعين المجرد أعطاك قيمة محدودة قيمتها %1$.1 ، و رصدك كان ثابتاً على مدى حوالي %2$.1 (كلما كانت القيم أصغر كان أفضل) . حاول مرة أخرى في ليلة أخرى، وانظر إن كنت ستحصل على نفس النتائج!\n\nالليلة بإمكانك رؤية حوالي %3$d نجم في السماء.\n\nهدفنا هو قياس مدى تغير لمعان السماء مع الزمن، لذلك رجاءاً حاول القيام برصد آخر لهذا الموقع في المستقبل</string>
+
+<!-- Identical to the above string however mind the different formatting characters required for iOS -->
+<string name="wls_dialog_measurement_finished_button_ok">حسناً</string>
+
+<!-- ME MY MEASURES ACTIVITY STUFF -->
+<string name="wls_me_my_measures_subtitle">قياساتي</string>
+<string name="wls_me_my_measures_no_history_subtitle">لا يوجد قيسات سابقة</string>
+<string name="wls_me_my_measures_list_delete_history">محو جميع القياسات السابقة</string>
+<string name="wls_me_my_measures_list_visible">مرئي</string>
+<string name="wls_me_my_measures_list_not_visible">لم أعثر عليه بسبب :</string>
+<string name="wls_me_my_measures_list_unnamed">غير مسمى</string>
+<string name="wls_me_my_sqm_transfers_subtitle">قياسات SQM الخاصة بي</string>
+<string name="wls_me_my_sqm_transfers_sqm_value">قيم SQM:</string>
+
+<!-- VISIBILITY REASONS -->
+<string name="wls_visiblity_not_found_reason_obstruction">عائق</string>
+<string name="wls_visiblity_not_found_reason_weather">الجو</string>
+<string name="wls_visiblity_not_found_reason_unsure">عدم التأكد</string>
+<string name="wls_visiblity_not_found_reason_not_visible">غير مرئي</string>
+<string name="wls_visiblity_not_found_reason_barely_visible">رؤية مشوشة</string>
+<string name="wls_visiblity_found_reason_barely_visible">مرئي بصورة قليلة جداً</string>
+<string name="wls_visiblity_found_reason_found">تم ايجاده</string>
+
+<!-- ME MY MEASURES LIST VIEW STUFF -->
+<string name="wls_me_my_measures_list_date">Date</string>
+<string name="wls_me_my_measures_list_number_of_stars_measured">عدد النجوم التي تم رصدها</string>
+<string name="wls_me_my_measures_list_limiting_magnitude">حد اللمعان</string>
+<string name="wls_me_my_measures_list_sqm_value">SQM:</string>
+<string name="wls_me_my_measures_list_star_name">اسم النجم:</string>
+<string name="wls_me_my_measures_list_star_ra">Ra:</string>
+<string name="wls_me_my_measures_list_star_dec">Dec:</string>
+<string name="wls_me_my_measures_list_star_mag">Mag:</string>
+<string name="wls_me_my_measures_list_transmission_status">حالة الإرسال</string>
+<string name="wls_me_my_measures_list_transmission_status_pending">ينتظر</string>
+<string name="wls_me_my_measures_list_transmission_status_sent">تم الإرسال بنجاح</string>
+<string name="wls_me_my_measures_list_measured_stars">نجوم</string>
+<string name="wls_me_my_measures_list_gpsposition">موضع الجي بي اس</string>
+<string name="wls_me_my_measures_list_gps_lat">عرض</string>
+<string name="wls_me_my_measures_list_gps_lon">طول</string>
+<string name="wls_me_my_measures_list_time">الوقت</string>
+
+<!-- DELETE HISTORY DIALOG STUFF -->
+<string name="wls_dialog_delete_title">حذف سجل الإستخدام</string>
+<string name="wls_dialog_delete_text">هل أنت واثق من أنك تريد حذف سجل الإستخدام</string>
+<string name="wls_dialog_delete_negative">لا</string>
+<string name="wls_dialog_delete_positive">نعم</string>
+
+<!-- WEATHER CONDITIONS ACTIVITY STUFF -->
+<string name="wls_weather_conditions_title">حالة الطقس</string>
+<string name="wls_weather_conditions_text">الرجاء اختار حالة الطقس الحالية في موقعك.</string>
+<string name="wls_weather_conditions_button_continue">استمرار</string>
+<string name="wls_weather_conditions_button_cancel">الغاء</string>
+
+<!-- WEATHER CONDITIONS SPINNER STUFF -->
+<string name="wls_weather_conditions_clear">صاف</string>
+<string name="wls_weather_conditions_partly_cloudy">غائم جزئي</string>
+<string name="wls_weather_conditions_cloudy">غائم</string>
+<string name="wls_weather_conditions_rain">ماطر</string>
+<string name="wls_weather_conditions_fog">دخان / غيم / ضباب</string>
+<string name="wls_weather_conditions_snow">ثلج على الأرض</string>
+
+<!-- NEWS ACTIVITY STUFF -->
+<string name="wls_news_title">أخبار</string>
+<string name="wls_news_failed">لا يمكننا استجلاب أية أخبار.</string>
+<string name="wls_news_no_network">لا يوجد هنالك اتصال بالشبكة . يرجى المحاولة لاحقا.</string>
+
+<!-- PROJECT INFO ACTIVITY STUFF -->
+<string name="wls_project_info_main_title">معلومات المشروع</string>
+
+<!-- DO YOU HAVE AN SQM DIALOG -->
+<string name="wls_dialog_have_sqm_title">هل يوجد لديك أي SQM (جهاز قياس جودة السماء(</string>
+<string name="wls_dialog_have_sqm_message">جهاز قياس جودة السماء (SQM) هو جهاز يستخدم لقياس لمعان السماء ليلاً .\n\n إذا كان يوجد لديك جهاز قياس جودة السماء بإمكانك استخدام هذه الصفحة لإرسال البيانات لمخدماتنا</string>
+<string name="wls_dialog_have_sqm_button_negative">إلغاء</string>
+<string name="wls_dialog_have_sqm_button_positive">استمرار</string>
+
+<!-- SUBMIT SQM ACTIVITY STUFF -->
+<string name="wls_submit_sqm_title">ارسال البيانات من SQM</string>
+<string name="wls_submit_sqm_text">جهاز قياس جودة السماء (SQM)  هو جهاز يستخدم لقياس اضاءة السماء في الليل . \n\n إذا كنت تمتلك واحداً فبإمكانك أن ترسل لنا البيانات من إلى مخدماتنا عبر هذه الصفحة.</string>
+<string name="wls_submit_sqm_button_text">ارسال</string>
+<string name="wls_submit_sqm_decimal">.</string>
+<string name="wls_dialog_submit_sqm_title">ارسال SQM</string>
+<string name="wls_dialog_submit_sqm_text">شكراً لك ، سيتم ارسال البيانات.</string>
+<string name="wls_dialog_submit_sqm_button_text">حسناً</string>
+
+<!-- SQM value is input using a numberpad keyboard on iOS-->
+
+<!-- which do not have an explicit close button  -->
+
+<!-- therefore we need our own -->
+
+<!-- CANCEL MEASUREMENT DIALOG STUFF -->
+<string name="wls_dialog_cancel_measurement_title">الغاء القياس</string>
+<string name="wls_dialog_cancel_measurement_text">أنت على وشك الغاء القياس قبل أن تستكمل الحد الأدنى من رصد النجوم ، هل أنت واثق من ذلك؟</string>
+<string name="wls_dialog_cancel_measurement_button_quit">انهاء</string>
+<string name="wls_dialog_cancel_measurement_button_continue_measuring">استكمال القياس</string>
+
+<!-- DIALOG STUFF FOR "ACTIVE MEASUREMENT" -->
+<string name="wls_dialog_active_measurement_title">قياسات لم يتم اكمالها</string>
+<string name="wls_dialog_active_measurement_message">أنت لم تقم باكمال الرصد ، بإكمالك اتمام الرصد أو إغلق التطبيق</string>
+<string name="wls_dialog_active_measurement_continue_measuring">استكمال الرصد</string>
+<string name="wls_dialog_active_measurement_quit_app">انهاء</string>
+
+<!-- PROGRESS BAR DIALOG STUFF -->
+<string name="wls_dialog_progress_bar_title">GPS نظام تحديد المواقع العالمي</string>
+<string name="wls_dialog_progress_bar_message">يجري تحديد موقعك الحالي</string>
+<string name="wls_dialog_progress_bar_cancel">الغاء</string>
+
+<!-- CANCELED GPS FIX DIALOG STUFF -->
+<string name="wls_dialog_gps_fix_canceled_title">تمت مقاطعة عمل ال GPS</string>
+<string name="wls_dialog_gps_fix_canceled_message">قياساتك لن تكون ذات قيمة مالم نعرف موقعك الحالي . .\n\n إذا كنت تريد البحث عن نجوم ، رجاءا استخدم نمط "التجربة"</string>
+<string name="wls_dialog_gps_fix_canceled_positive_button">تجربة</string>
+<string name="wls_dialog_gps_fix_canceled_negative_button">الغاء القياسات</string>
+
+<!-- ADD TO CALENDAR DIALOG -->
+<string name="wls_dialog_add_to_calendar_title">رصد النجوم</string>
+<string name="wls_dialog_add_to_calendar_message">هذا هو أفضل وقت لرصد لمعان النجوم</string>
+
+<!-- SETTINGS -->
+<string name="wls_settings_show_starnames">إظهار أسماء النجوم</string>
+<string name="wls_settings_show_constellations">إظهار الكوكبات</string>
+<string name="wls_settings_stars_big_font">زيادة حجم الخط للنجوم والكوكبات</string>
+<string name="wls_settings_stars_dim">رصد النجوم الخافتة</string>
+<string name="wls_settings_show_information">إظهار شاشة المعلومات عند بدء التشغيل</string>
+<string name="wls_settings_show_usage">إظهار شاشة استهلاك البيانات عند البدء</string>
+<string name="wls_settings_button_save">حفظ</string>
+
+<!-- GENERAL STUFF -->
+<string name="wls_general_link_to_igb">www.igb-berlin.de</string>
+<string name="wls_general_not_implemented_yet">لم ينفذ حتى الآن!</string>
+
+<!-- RSS FEED LINK -->
+<string name="wls_rss_feed_link">http://lossofthenight.blogspot.com/feeds/posts/default?alt=rss</string>
+
+<!-- FEEDBACK STUFF -->
+<string name="wls_feedback_title">تغذية راجعة</string>
+<string name="wls_feedback_send_email">ارسال تغذية راحعة أو سؤال عن طريق البريد الإلكتروني</string>
+<string name="wls_feedback_rate_us">قيّم هذا التطبيق</string>
+<string name="wls_feedback_email_chooser_title">ارسال بريد الكتروني</string>
+<string name="wls_feedback_email_address">vdn-app@igb-berlin.de</string>
+<string name="wls_feedback_email_subject">تغذية راجعة بخصوص تطبيق اختفاء الليل</string>
+<string name="wls_feedback_email_text"></string>
+
+<!-- EMAIL COULD NOT BE SENT DIALOG ON IOS -->
+</resources>

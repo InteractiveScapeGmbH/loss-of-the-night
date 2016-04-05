@@ -1,0 +1,21 @@
+ï»¿"Contribute to a world-wide citizen science project." (The Guardian)
+"Find out exactly how bad the light pollution is." (Chandra Clarke, citizensciencecenter.com)
+"The app couldn't be easier to use, and you can even learn different constellations along the way." (Nicholas Fordes, plos.org)
+
+The Loss of the Night app turns your eyes into a light meter, allowing you to become a citizen scientist and report how bright the night sky is where you live!
+
+In many parts of the world, the night sky shines with wasted artificial light from poorly designed street lamps. Skyglow outshines the stars in the skies, and dramatically changes the natural nighttime environment. Scientists are concerned that light pollution might have a big impact on nocturnal ecosystems, but they have very little information about how bright the actually sky is worldwide, or how skyglow is changing over the years.
+
+You can help monitor skyglow using this app! It's based on Google's Sky Map, and lets you make measurements with a very sensitive, stable, and well understood light meter: your eyes! All you need to do is look for certain stars in the sky, and tell us whether you can see them or not. Using the Loss of the Night app is both fun and educational, and it also generates important scientific information that might help to protect the environment in the future.
+
+After you've finished your measurement, your data will be anonymously sent to the GLOBE at Night project. You can see it on a map, check how accurate your measurment was, track changes over time, and compare it to other observations from around the world at http://www.myskyatnight.com.
+
+Counting stars is a great experience and family activity, and you might find that you learn the names of stars and constellations without even trying. Students can use the app to measure skyglow and star visibility for their own science projects, and at the same time be part of a global citizen science network. The most important information for this project comes from brightly lit places where you can't see many stars, but you're welcome to use it in places where you can still see the Milky Way. If you’re lucky enough to be in such a place, let others know!
+
+Satellites look at the ground, not the sky. By comparing the skyglow to the ground brightness, you will help communities learn what types of lamps light the streets instead of the sky. Hopefully in the future, cities will save energy and money, while having appropriately lit streets, dark bedrooms, and a sky once again full of stars.
+
+Lots more information, including details of preliminary results, is available on the project blog: http://lossofthenight.blogspot.com
+
+You are welcome to get into contact with the light pollution researchers from Verlust der Nacht that built this app, and learn about their other projects (http://www.verlustdernacht.de). The app also provides some basic information on the history, importance, and consequences of artificial light at night.
+
+This project was sponsored by the Federal Ministry of Education and Research (Germany).

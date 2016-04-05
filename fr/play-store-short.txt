@@ -1,0 +1,3 @@
+﻿# at most 80 characters including spaces
+
+Compter les étoiles pour la science et aider à mesurer la pollution lumineuse!

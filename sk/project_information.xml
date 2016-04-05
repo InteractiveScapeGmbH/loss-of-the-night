@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- EN -->
+<!-- NOTE: This is pure XML (not interpreted as a resource file) so you can't use the "\uxxxx" notation for Unicode
+            characters. The file is UTF-8 encoded, so you can just use the appropriate characters. Backslash "\" is not
+            used as an escape character. Only the following characters need to be escaped within the text: &amp; &gt; &lt;
+-->
+<Information xmlns="http://www.interactive-scape.com/wls_project_information">
+    <Title>INFORMÁCIE O PROJEKTE</Title>
+    <SectionList>
+        <Section>
+            <Name>Verlust der Nacht</Name>
+            <Title>Výskumná sieť "Verlust der Nacht"</Title>
+            <PageList>
+                <Page>
+					<Text>Svetlo sa v nás spája s pozitívnymi pojmami ako bezpečnosť, prosperita a vyspelosť. Avšak popri neoceniteľných výhodách, moderné osvetlenie má aj svoju negatívnu stránku. Vieme, že svetlo, predovšetkým prostredníctvom striedania svetla a tmy, ovplyvňuje správanie a psychiku takmer každého živého organizmu. Avšak ako a prečo reagujú jednotlivé spoločenstvá vo vode a na zemi, obzvlášť ľudia, na umelé svetlo, je zatiaľ z veľkej časti neznáme.</Text>
+                </Page>
+                <Page>
+                    <Text>V súčasnej dobe si život bez umelého osvetlenia nevieme predstaviť. Aké sú však dôsledky? "Verlust der Nacht" zisťuje nielen ekologické, kultúrne a socioekonomické dopady na ľudské zdravie, ale rovnako aj dôvody pre nárast nočného osvetlenia. To pomôže vyvinúť vyspelejšie koncepty osvetlenia a udržateľných technológií tak, aby sa minimalizovali negatívne vplyvy umelého osvetlenia, avšak bez obetovania jeho prínosov.</Text>
+                </Page>
+                <Page>
+                    <Text>Výskumná sieť je finančne podporovaná rámcovým programom "Výskum pre udržateľný rozvoj" (FONA) Spolkového ministerstva vedy a školstva (BMBF) a mestom Berlín, Odborom pre ekonomiku, technológiu a výskum.</Text>
+                </Page>
+                <Page>
+                    <Text>Výskumná sieť pozostáva z odborníkov spoločenských a prírodných vied, astronómov a inžinierov z týchto inštitúcií a organizácií:</Text>
+                    <Image>wls_project_info_logos_</Image>
+                </Page>
+            </PageList>
+        </Section>
+        <Section>
+            <Name>GLOBE at Night</Name>
+            <Title>GLOBE at Night</Title>
+            <PageList>
+                <Page>
+                    <Text>Trblietaj, trblietaj sa hviezdička a povedz mi, kdeže si! Mestá sú také osvetlené, že tisíce hviezd už nie sú viditeľné. Určenie počtu viditeľných hviezd na jednom mieste indikuje stav svetelného znečistenia. Od roku 2006, tisícky ľudí na celom svete počítajú hviezdy. Globe at Night (www.GLOBEatNight.org) zbiera tieto údaje a zobrazuje ich na svetelnej mape. Takto mapujeme svetelné znečistenie.</Text>
+                </Page>
+                <Page>
+                    <Text>Pomôžte merať svetelné znečistenie. Každé nové pozorovanie pomáha mapovať svetelné znečistenie. Viac meraní z jedného miesta spresňuje existujúce údaje a nové miesta rozširujú meranie svetelného znečistenia. Či už v centre mesta, alebo na vzdialenom mieste, všetky údaje sú užitočné. Keďže aplikácia funguje celosvetovo a taktiež aj v "offline" prostredí, môžete mapovať svetelné znečistenie kdekoľvek ste, aj na dovolenke!</Text>
+                </Page>
+                <Page>
+                    <Text>Porovnávaním údajov z priebehu rokov môžeme vysledovať zmenu. Z tohto dôvodu je skutočne užitočné opakované meranie z jedného miesta. Napríklad pred Vašim domom. Používaním Vami zaslaných údajov dlhodobo sledujeme svetelné znečistenie. Tieto údaje môžu v budúcnosti poslúžiť štúdiám o pochopení dôsledkov nočného svietenia, napríklad o ekonomickej aktivite regiónu, výskytu zvierat a dokonca aj štúdiám o výskyte určitých chorôb. </Text>
+                </Page>
+            </PageList>
+        </Section>
+        <Section>
+            <Name>Svetelné znečistenie</Name>
+            <Title>Svetelné znečistenie</Title>
+            <SectionList>
+                <Section>
+                    <Name>Čo je svetelné znečistenie?</Name>
+                    <Title>Čo je svetelné znečistenie?</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Od objavu elektrického osvetlenia sa naše noci stávajú svetlejšími. Osvetlenie spotrebuje 19% celkovej spotreby elektriny, čo predstavuje ročne 1900 miliónov ton CO2. Hlavnými zdrojmi svetla sú pouličné osvetlenia, osvetlenia budov a vonkajšia reklama. Len pouličné osvetlenie spotrebuje ročne celosvetovo 114 TWh. Časť svetla ostáva nevyužitá, svietiac bezdôvodne na oblohu. Obmedzenie tohto svetelného znečistenia by ušetrilo energiu a peniaze.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Svetelné znečistenie nielen plytvá energiou, ale môže tiež uškodiť mnohým živým organizmom. Pribúdajú dokonca aj informácie o zdravotných problémoch. Preto by mali byť prijaté protiopatrenia, obzvlášť v sídelných a ekologicky významných oblastiach. To samozrejme neznamená vypnúť všetko osvetlenie, ale radšej sa znovu zamyslieť nad tým, ako svetlo využívame, prípadne vhodne modifikovať využitie nočného osvetlenia. K minimalizácii tohto problému by výrazne prispeli „úplne clonené“ svietidlá, ovládanie svetiel na požiadanie či využívanie správneho spektrálneho osvetlenia. . </Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Astronómia</Name>
+                    <Title>Astronómia</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Hviezdy sprevádzali ľudstvo v jeho vývoji od prehistorických čias: v mnohých kultúrach boli spojené s božstvami a ich zrod je súčasťou mýtov a legiend. Z praktického hľadiska boli hviezdy základom navigácie a merania času. Súčasná spoločnosť obdivuje krásu hviezd a tým sa nám neustále pripomína, že sme iba malou časťou vesmíru. Ale pre viac ako 70% svetovej populácie je nočná obloha príliš svetlá na to, aby videli Mliečnu cestu.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Pre astronómov je prežiarená obloha vážny problém. Už v roku 1913 bola Berlínska hvezdáreň prinútená k presunu do Postupimi, lebo obloha nad hlavným mestom bola príliš svetlá. Dnes musia astronómovia cestovať na ešte odľahlejšie miesta, ako Tenerife (Kanárske ostrovy) alebo Čile, aby našli zvyšky tmavej oblohy. Mnohí amatérski astronómovia si takýto luxus tmavej oblohy nemôžu dovoliť. Mnohým starším ľuďom chýba hviezdna obloha z ich detstva, zatiaľ čo mnohé dnešné deti nikdy nemali príležitosť užiť si úžasný pohľad na skutočnú nočnú oblohu.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Chronobiológia/Zdravie</Name>
+                    <Title>Chronobiológia/Zdravie</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Rôzne základné procesy v našom tele sa správajú podľa rytmickej zmeny svetla a tmy. To zahŕňa rytmus spánku a vstávania, tvorbu hormónov, denné zmeny telesnej teploty a tepu srdca. Tento telesný rytmus je riadený vnútornými hodinami, ktorý sa u cicavcoch (teda aj človeka) nachádza v hypotalame, časti stredného mozgu. Ten synchronizuje všetky bunky v našom tele s rytmom dňa a noci. </Text>
+                        </Page>
+                        <Page>
+                            <Text>Svetlo hovorí vnútorným hodinám, či je deň alebo noc. V tme sa produkuje hormón melatonín. U človeka spôsobuje únavu a pripravuje naše telo k oddychu - tep srdca a dych sa spomaľuje,  klesá telesná teplota. Umelé osvetlenie však tvorbu melatonínu potláča. Konkrétne studené biele svetlo LED diód a svetlo počítačových monitorov nás udržujú v bdení - naše vnútorné hodiny dostávajú mylné vstupné signály a tým sa náš vnútorný rytmus narúša, čo v konečnom dôsledku znamená, že nedokážeme spať dostatočne dlho alebo dostatočne kvalitne. </Text>
+                        </Page>
+                        <Page>
+                            <Text>Ak sa neprodukuje dostatočné množstvo melatonínu, môže to viesť až k nespavosti. To môže významne oslabiť aj imunitný systém, keďže melatonín aktivuje ochranu proti patogénom a ako antioxidant bojuje proti rakovinovým bunkám. Rovnako existuje podozrenie na spojitosť s cukrovkou a obezitou. Preto by sme spánok v tme nemali brať ako luxus, ale radšej ako základnú časť správnej životosprávy. </Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Ekológia</Name>
+                    <Title>Ekológia</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Mnohé zvieratá využívajú svetlo Mesiaca a hviezd na orientáciu, ale umelé osvetlenie môže presvetliť toto prirodzené svetlo - s veľmi vážnymi následkami. Milióny vtákov zahynie z dôvodu kolízie s osvetlenými stavbami. Čerstvo vyliahnuté morské korytnačky nemigrujú do trblietavého mora, ale smerom k umelým svetlám na pevnine, kde vyschnú a umierajú. Nevyčísliteľné množstvo hmyzu, ktoré zomiera  vo svietidlách je následne postrádané v ekosystéme ako opeľovači, či zdroj potravy. </Text>
+                        </Page>
+                        <Page>
+                            <Text>Zvieratá nemajú len svoje teritórium na ktorom žijú, ale aj časť dňa, kedy sú aktívne: mnohé sú denné, mnohé nočné. Umelé osvetlenie môže predĺžiť obdobie aktivity denných živočíchov, avšak nočné zvieratá sa svetla stránia. 30% stavovcov a 60% bezstavovcov patrí medzi nočné živočíchy. S umelým osvetlením strácajú svoje prirodzené nočné prostredie, čo prináša  nepredvídateľné následky pre biodiverzitu. </Text>
+                        </Page>
+                        <Page>
+                            <Text>Zmeny dĺžky dňa sú dôležitým indikátorom zmeny ročných období. Ako sa dni skracujú, rastliny zhadzujú lístie, zvieratá si tvoria tukové rezervy, alebo sa pripravujú na sťahovanie. Ak sa deň prostredníctvom umelého osvetlenia predĺži, organizmy sú nedostatočne pripravené na zimu - to je nevýhoda, ktorá môže byť pre ne smrteľná. </Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Kultúra a história</Name>
+                    <Title>Kultúra a história</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Umelé osvetlenie vyjadruje pokrok a prosperitu. Zavedením elektrického osvetlenia v roku 1880, mestá ako Berlín vystavovali na obdiv svoju mestskú modernosť. Ako sa mestá stávali svetlejšie, tma sa spojila s nedostatočným rozvojom, chudobou a nebezpečenstvom. V politike sa osvetlenie tiež využívalo ako demonštrácia sily (napr. Norimberská rely počas obdobia Tretej ríše).</Text>
+                        </Page>
+                        <Page>
+                            <Text>Už vtedy sa však objavili aj kritické hlasy k presvetľovaniu noci. Mimoriadne kontroverzné boli neónové nápisy, ktoré sa začali objavovať v 20-tych rokoch 20-teho storočia. Boli vnímané ako tŕne v oku, tieto svetlá tiež vyvolávali obavy z morálneho úpadku. Z praktického hľadiska existovali aj obavy o neblahý efekt na dopravu. Podobná oponentúra viedla k prvej prijatej legislatíve týkajúcej sa osvetlenia. </Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Spoločnosť</Name>
+                    <Title>Spoločnosť</Title>
+                    <PageList>
+                        <Page>
+                            <Text>S nástupom umelého osvetlenia sme sa stali súčasťou 24-hodinovej spoločnosti. Svetlo máme spojené s nárastom produktivity a zvýšenej kvality života, keďže práca, oddych a cestovanie nie sú viac závislé na ročnom období alebo dennej dobe. Tým sme sa však do istej miery odpútali od nášho prirodzeného životného cyklu dňa a noci s pevnými dobami odpočinku. Dôkazov o neblahom pôsobení tohto vybočenia na naše zdravie pribúda.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Osvetlenie ulíc je často spájané s bezpečnosťou. Myšlienka na vypnutie týchto svetiel v nás prebúdza strach z temnoty. Či však zvýšená úroveň osvetlenia skutočne znižuje kriminalitu je veľmi sporné. Zopár štúdií ukazuje spojitosť medzi osvetlením a kriminalitou, avšak veľké rozdiely v kriminalite medzi jednotlivými mestami nie sú zapríčinené osvetlením. V niektorých prípadoch môže dokonca zvýšená úroveň osvetlenia zhoršiť našu schopnosť vidieť, ak nás toto svetlo oslepuje. </Text>
+                        </Page>
+                        <Page>
+                            <Text>Umelé osvetlenie produkuje náklady. Priame náklady zahŕňajú inštaláciu, prevádzku a údržbu. Nepriame náklady prichádzajú so zdravotnými komplikáciami, ako aj s dopadmi na životné prostredie. Preto by sa umelé osvetlenie nemalo používať bez premyslenia. Umiestnenie, doba prevádzky, intenzita osvetlenia a svetelné spektrum svietidiel - to všetko je potrebné zohľadniť a prispôsobiť skutočným potrebám. To umožní využitie svetla efektívne a udržateľne.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Technológia osvetlenia</Name>
+                    <Title>Technológia osvetlenia</Title>
+                    <PageList>
+                        <Page>
+                            <Text>V súčasnosti máme rôzne zdroje svetla s rôznymi "farbami svetla". Pre verejné osvetlenie sa používajú zelenobiele ortuťové výbojky, žltooranžové sodíkové výbojky a biele LED svietidlá. Farba svetla ovplyvňuje vnímanie a náladu rovnako ako aj vnútorné hodiny. Zvieratá a rastliny reagujú odlišne na jednotlivé farby. Osvetlenie by teda malo byť prispôsobené životnému prostrediu. </Text>
+                        </Page>
+                        <Page>
+                            <Text>Správnymi svietidlami môžeme osvetľovať miesta, ktoré potrebujeme osvetliť a zároveň ponechať ostatné miesta tmavými. Cesty by mali byť osvetlené tak, že cesta a chodník sú osvetlené rovnomerne, ale nesvietia pritom do okna našej spálne, alebo neosvetľujú neďaleké prírodné plochy. Podobne pri osvetlení budovy nepotrebujeme svietiť súčasne aj priamo do neba a širokého okolia. Premyslené osvetlenie je estetické, šetrí energiu a peniaze, je užitočnejšie pre ľudí aj prírodu. </Text>
+                        </Page>
+                        <Page>
+                            <Text>V mnohých obytných oblastiach nie je svetlo potrebné počas celej noci. V skutočnosti, niektoré obce stlmia alebo úplne vypnú svoje osvetlenie po polnoci. Pohybové senzory a LED svietidlá poskytujú veľmi univerzálne riešenie, ktoré sa aktivuje len v prípade potreby a pri tom zachováva krásu noci. </Text>
+                        </Page>
+                    </PageList>
+                </Section>
+            </SectionList>
+        </Section>
+        <Section>
+            <Name>Tipy pre pozorovateľov</Name>
+            <Title>Tipy pre pozorovateľov</Title>
+            <PageList>
+                <Page>
+                    <Text>Táto aplikácia z Vás robí člena celosvetového tímu výskumu osvetlenia. Je to úžasné, ale bezpečnosť predovšetkým! Pre svoje meranie si zvoľte bezpečné miesto. Počas hľadania hviezdy sa neprechádzajte, aby ste o voľačo nezakopli. Nepohybujte sa po cestách, alebo popri priekopách. Je na vašom posúdení, či môžu Vaše deti používať túto aplikáciu samostatne, ale je väčšia zábava pozorovať hviezdy spoločne! Tu je niekoľko rád, ako spraviť merania ešte lepšími.</Text>
+                </Page>
+                <Page>
+                    <Text>Ľudské oči potrebujú asi 30 minút na úplné prispôsobenie sa tme. Doprajte si dostatok času na privyknutie si na úroveň osvetlenia na vašom mieste. Nepostavte sa priamo pod svetelný zdroj, snažte sa ho mať za chrbtom. Takto zmeriate jasnosť oblohy a nie jasnosť svetelného zdroja. Ak je to možné, používajte túto aplikáciu v nočnom móde, aby ste si neoslnili oči, ktoré si už privykli na tmu. </Text>
+                </Page>
+                <Page>
+                    <Text>S každou pozorovanou hviezdou sa zvýši aj presnosť Vášho merania. Je preto dobré merať na tom istom mieste v rozdielnych časoch a dňoch. Každé miesto pridáva nový bod na celosvetovú mapu. Nezáleží, či ste vo veľkom meste, na vidieku, doma alebo na dovolenke. Každé meranie pomáha výskumníkom a záujemcom na celom svete pochopiť rozsah a zmeny v umelom osvetlení. </Text>
+                </Page>
+            </PageList>
+
+        </Section>
+        <Section>
+            <Name>O aplikácií</Name>
+            <Title>O aplikácií</Title>
+            <SectionList>
+                <Section>
+                    <Name>Imprint</Name>
+                    <Title>Imprint</Title>
+                    <PageList>
+                        <Page>
+                            <Text><![CDATA[
+<p><b>Copyright:</b>
+Forschungsverbund Berlin e.V.
+Rudower Chaussee 17
+12489 Berlin
+Tel.: 030 63 92 - 33 30
+E-Mail: info@fv-berlin.de</p>
+
+<p><b>Vývojári:</b>
+interactive scape GmbH
+Köpenicker Str. 48/49
+10179 Berlin
+Tel.: +49 (0)30 69 80 94-15
+E-mail: info@interactive-scape.com</p>
+
+<p>David Wasser, Yalçı Ata
+Cosalux GmbH
+Christian-Pleß-Straße 11
+63069 Offenbach am Main
+Tel.: 069 860072260</p>
+
+<p>verlustdernacht@igb-berlin.de
+globeatnight@noao.edu</p>
+
+<p>SLOVENSKÝ preklad Martin Makuch, Michal Bronček, Slovenský zväz astronómov</p>
+
+<p>- Založené na zdrojovom kóde open source projektu Sky Map 
+<i>http://code.google.com/p/stardroid</i>
+- Využíva 'android-wheel'
+<i>http://code.google.com/p/android-wheel</i>
+- Uses Apache Commons Math (Apache License, Version 2.0, <i>http://www.apache.org/licenses/</i>:
+Copyright 2001-2014 The Apache Software Foundation
+This product includes software developed at
+The Apache Software Foundation (<i>http://www.apache.org/</i>).
+</p>
+
+<p>Version: %version%</p>
+]]></Text>
+                        </Page>
+                        <Page>
+                            <Image>wls_project_info_about_logo_en_</Image>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Sponzorstvo</Name>
+                    <Title>Sponzorstvo</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Táto aplikácia bola vyvinutá s finančným príspevkom rámcového programu "Výskum pre udržateľný rozvoj" (FONA) Spolkového ministerstva vedy a školstva (BMBF) s kódom 033L038A. Poradenstvo poskytol Project Management Jülich / Životné prostredie a udržateľný rozvoj, ochrana klímy. </Text>
+                            <Image>wls_sponsorship_logo_en_</Image>
+                        </Page>
+                    </PageList>
+                </Section>
+            </SectionList>
+        </Section>
+    </SectionList>
+</Information>

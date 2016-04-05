@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Please add  translation_description="" attributes to Strings to assist the translators. -->
+<string name="app_name" translation_description="Application Title">光害調査アプリ</string>
+<string name="ecliptic">黄道</string>
+<string name="zenith">天頂</string>
+<string name="nadir">天底</string>
+<string name="north">北</string>
+<string name="east">東</string>
+<string name="west">西</string>
+<string name="south">南</string>
+<string name="sun">太陽</string>
+<string name="moon">月</string>
+<string name="mercury">水星</string>
+<string name="venus">金星</string>
+<string name="earth">地球</string>
+<string name="mars">火星</string>
+<string name="jupiter">木星</string>
+<string name="saturn">土星</string>
+<string name="uranus">天王星</string>
+<string name="neptune">海王星</string>
+<string name="pluto">冥王星</string>
+<string name="andromeda" translation_description="Name of the Andromeda constellation">アンドロメダ座</string>
+<string name="aquarius" translation_description="Name of the Aquarius constellation">みずがめ座</string>
+<string name="aquila" translation_description="Name of the Aquila constellation">わし座</string>
+<string name="aries" translation_description="Name of the Aries constellation">おひつじ座</string>
+<string name="auriga" translation_description="Name of the Auriga constellation">ぎょしゃ座</string>
+<string name="bootes" translation_description="Name of the Bootes constellation">うしかい座</string>
+<string name="cancer" translation_description="Name of the Cancer constellation">かに座</string>
+<string name="canis_major" translation_description="Name of the Canis Major constellation">おおいぬ座</string>
+<string name="capricornus" translation_description="Name of the Capricornus constellation">やぎ座</string>
+<string name="carina" translation_description="Name of the Carina constellation">りゅうこつ座</string>
+<string name="cassiopeia" translation_description="Name of the Cassiopeia constellation">カシオペヤ座</string>
+<string name="centaurus" translation_description="Name of the Centaurus constellation">ケンタウルス座</string>
+<string name="cetus" translation_description="Name of the Cetus constellation">くじら座</string>
+<string name="crux" translation_description="Name of the Crux constellation">みなみじゅうじ座</string>
+<string name="cygnus" translation_description="Name of the Cygnus constellation">はくちょう座</string>
+<string name="draco" translation_description="Name of the Draco constellation">りゅう座</string>
+<string name="eridanus" translation_description="Name of the Eridanus constellation">エリダヌス座</string>
+<string name="gemini" translation_description="Name of the Gemini constellation">ふたご座</string>
+<string name="grus" translation_description="Name of the Grus constellation">つる座</string>
+<string name="hercules" translation_description="Name of the Hercules constellation">ヘルクレス座</string>
+<string name="hydrus" translation_description="Name of the Hydrus constellation">みずへび座</string>
+<string name="leo" translation_description="Name of the Leo constellation">しし座</string>
+<string name="libra" translation_description="Name of the Libra constellation">てんびん座</string>
+<string name="lupus" translation_description="Name of the Lupus constellation">おおかみ座</string>
+<string name="lyra" translation_description="Name of the Lyra constellation">こと座</string>
+<string name="ophiuchus" translation_description="Name of the Ophiuchus constellation">へびつかい座</string>
+<string name="orion" translation_description="Name of the Orion constellation">オリオン座</string>
+<string name="pavo" translation_description="Name of the Pavo constellation">くじゃく座</string>
+<string name="pegasus" translation_description="Name of the Pegasus constellation">ペガスス座</string>
+<string name="perseus" translation_description="Name of the Perseus constellation">ペルセウス座</string>
+<string name="phoenix" translation_description="Name of the Phoenix constellation">ほうおう座</string>
+<string name="pisces" translation_description="Name of the Pisces constellation">うお座</string>
+<string name="piscis_austrinus" translation_description="Name of the Piscis Austrinus constellation">みなみのうお座</string>
+<string name="puppis" translation_description="Name of the Puppis constellation">とも座</string>
+<string name="sagittarius" translation_description="Name of the Sagittarius constellation">いて座</string>
+<string name="scorpius" translation_description="Name of the Scorpius constellation">さそり座</string>
+<string name="taurus" translation_description="Name of the Taurus constellation">おうし座</string>
+<string name="tucana" translation_description="Name of the Tucana constellation">きょしちょう座</string>
+<string name="ursa_major" translation_description="Name of the Ursa Major constellation">おおぐま座</string>
+<string name="ursa_minor" translation_description="Name of the Ursa Minor constellation">こぐま座</string>
+<string name="vela" translation_description="Name of the Vela constellation">ほ座</string>
+<string name="virgo" translation_description="Name of the Virgo constellation">おとめ座</string>
+<string name="capricorn" translation_description="Name of the Capricorn constellation">やぎ座</string>
+<string name="southern_cross" translation_description="Name of the Southern Cross constellation">南十字星</string>
+<string name="scorpio" translation_description="Name of the Scorpio constellation">さそり座</string>
+<string name="little_dipper" translation_description="Name of the Little Dipper constellation">こぐま座</string>
+<string name="little_bear" translation_description="Name of the Little Bear constellation">こぐま座</string>
+<string name="big_dipper" translation_description="Name of the Big Dipper constellation">北斗七星</string>
+<string name="great_bear" translation_description="Name of the Great Bear constellation">おおぐま座</string>
+<string name="plough" translation_description="Name of the Plough constellation">北斗七星</string>
+<string name="sirius" translation_description="Name of the Star Sirius">シリウス</string>
+<string name="canopus" translation_description="Name of the Star Canopus">カノープス</string>
+<string name="arcturus" translation_description="Name of the Star Arcturus">アルクトゥルス</string>
+<string name="rigel_kentaurus_a" translation_description="Name of the Star Rigel Kentaurus A">リギルケンタウルスA</string>
+<string name="vega" translation_description="Name of the Star Vega">ベガ</string>
+<string name="rigel" translation_description="Name of the Star Rigel">リゲル</string>
+<string name="procyon" translation_description="Name of the Star Procyon">プロキオン</string>
+<string name="betelgeuse" translation_description="Name of the Star Betelgeuse">ベテルギウス</string>
+<string name="achernar" translation_description="Name of the Star Achernar">アケルナル</string>
+<string name="hadar" translation_description="Name of the Star Hadar">ハダル</string>
+<string name="capella" translation_description="Name of the Star Capella">カペラ</string>
+<string name="altair" translation_description="Name of the Star Altair">アルタイル</string>
+<string name="acrux" translation_description="Name of the Star Acrux">アクルックス</string>
+<string name="aldebaran" translation_description="Name of the Star Aldebaran">アルデバラン</string>
+<string name="spica" translation_description="Name of the Star Spica">スピカ</string>
+<string name="antares" translation_description="Name of the Star Antares">アンタレス</string>
+<string name="pollux" translation_description="Name of the Star Pollux">ポルックス</string>
+<string name="fomalhaut" translation_description="Name of the Star Fomalhaut">フォーマルハウト</string>
+<string name="deneb" translation_description="Name of the Star Deneb">デネブ</string>
+<string name="regulus" translation_description="Name of the Star Regulus">レグルス</string>
+<string name="adhara" translation_description="Name of the Star Adhara">アダーラ</string>
+<string name="shaula" translation_description="Name of the Star Shaula">シャウラ</string>
+<string name="alnath" translation_description="Name of the Star Alnath">エルナト</string>
+<string name="alnilam" translation_description="Name of the Star Alnilam">アルニラム</string>
+<string name="alnair" translation_description="Name of the Star Alnair">アルナイル</string>
+<string name="alioth" translation_description="Name of the Star Alioth">アリオト</string>
+<string name="mirphak" translation_description="Name of the Star Mirphak">ミルファク</string>
+<string name="kaus_australis" translation_description="Name of the Star Kaus Australis">カウスアウストラリス</string>
+<string name="dubhe" translation_description="Name of the Star Dubhe">ドゥーベ</string>
+<string name="alkaid" translation_description="Name of the Star Alkaid">アルカイド</string>
+<string name="alhena" translation_description="Name of the Star Alhena">アルヘナ</string>
+<string name="castor" translation_description="Name of the Star Castor">カストル</string>
+<string name="polaris" translation_description="Name of the Star Polaris">ポラリス</string>
+<string name="alphard" translation_description="Name of the Star Alphard">アルファルド</string>
+<string name="hamal" translation_description="Name of the Star Hamal">ハマル</string>
+<string name="algieba" translation_description="Name of the Star Algieba">アルギエバ</string>
+<string name="diphda" translation_description="Name of the Star Diphda">ディフダ</string>
+<string name="nunki" translation_description="Name of the Star Nunki">ヌンキ</string>
+<string name="mirach" translation_description="Name of the Star Mirach">ミラク</string>
+<string name="alpheratz" translation_description="Name of the Star Alpheratz">アルフェラッツ</string>
+<string name="saiph" translation_description="Name of the Star Saiph">サイフ</string>
+<string name="kochab" translation_description="Name of the Star Kochab">コカブ</string>
+<string name="rasalhague" translation_description="Name of the Star Rasalhague">ラスアルハゲ</string>
+<string name="algol" translation_description="Name of the Star Algol">アルゴル</string>
+<string name="denebola" translation_description="Name of the Star Denebola">デネボラ</string>
+<string name="alphekka" translation_description="Name of the Star Alphekka">アルフェッカ</string>
+<string name="etamin" translation_description="Name of the Star Etamin">エルタニン</string>
+<string name="kaus" translation_description="Name of the Star Kaus">カウス</string>
+<string name="shedir" translation_description="Name of the Star Shedir">シェダル</string>
+<string name="caph" translation_description="Name of the Star Caph">カフ</string>
+<string name="izar" translation_description="Name of the Star Izar">イザール</string>
+<string name="merak" translation_description="Name of the Star Merak">メラク</string>
+<string name="enif" translation_description="Name of the Star Enif">エニフ</string>
+<string name="ankaa" translation_description="Name of the Star Ankaa">アンカ</string>
+<string name="phad" translation_description="Name of the Star Phad">フェクダ</string>
+<string name="alderamin" translation_description="Name of the Star Alderamin">アルデラミン</string>
+<string name="scheat" translation_description="Name of the Star Scheat">シェアト</string>
+<string name="markab" translation_description="Name of the Star Markab">マルカブ</string>
+<string name="menkar" translation_description="Name of the Star Menkar">メンカル</string>
+<string name="arneb" translation_description="Name of the Star Arneb">アルネブ</string>
+<string name="unukalhai" translation_description="Name of the Star Unukalhai">ウヌクアルハイ</string>
+<string name="algenib" translation_description="Name of the Star Algenib">アルゲニブ</string>
+<string name="vindemiatrix" translation_description="Name of the Star Vindemiatrix">ビンデミアトリクス</string>
+<string name="alcyone" translation_description="Name of the Star Alcyone">アルシオーネ</string>
+<string name="dog_star" translation_description="Name of the Dog Star (Sirius)">青星</string>
+<string name="north_star" translation_description="Name of the North Star">北極星</string>
+<string name="pole_star" translation_description="Name of the (North) Pole Star">北極星</string>
+
+<!-- PRIVACY DIALOG STUFF -->
+<string name="wls_dialog_privacy_title">利用規約・プライバシーポリシー</string>
+<string name="wls_dialog_privacy_text">ユーザーの観測結果を解析するために、科学者は観測の位置と時刻の情報を必要とします。したがって、このアプリはユーザーの端末からのGPS情報を利用します。</string>
+<string name="wls_dialog_privacy_policy_text">「同意する」を押すことで、ユーザーは利用規約・プライバシーポリシーに同意したこととなります。\n\n?Loss of the Night“\n
+利用規約・プライバシーポリシー\n
+1 はじめに\n
+?Loss of the Night“ をご利用いただきありがとうございます。このアプリを使って、夜間照明の影響をマップ化し理解することを目指した世界的な研究に参加することができます。また、光害について学ぶことができます。情報は、さまざまな分野の研究者が結集したドイツの研究プロジェクト “Loss of the Night” により提供されています。このプロジェクトでは、夜間照明の自然・健康・社会への影響が研究されています。詳細情報は、アプリ内および www.verlustdernacht.de/about-us.html で入手できます。
+すべての観測データは匿名で GLOBE at Night (www.GLOBEatNight.org) のデータベースに送信されます。そこでは夜空の明るさの世界マップの作成に使用されます。このプロジェクトの目標は、夜空の明るさの世界マップを作成し、その経時変化を調べることです。プロジェクトは2006年から始まりましたが、アプリの利用は2013年からです。
+このアプリ “Loss of the Night” は Forschungsverbund Berlin e.V., Rudower Chaussee 17, 12489 Berlin, Germany により提供されています。このアプリ “Loss of the Night” を使うためには、以下の規約を読み、同意することが必要です。もし完全に同意することができない場合は、このアプリを使用することはできません。\n\n
+2 ?Loss of the Night“ の使用\n
+動作要件:このアプリはAndroid 4.0以降で動作します。おそらくAndroid 2.1以降で動作します。解像度mdpi以上が必要です。
+第三者からの課金:観測結果は GLOBE at Night データベースにメールで送られます。このため、インターネットプロバイダなど第三者からの課金が適用される可能性があります。その場合、スマートフォンユーザーの責務となります。
+アップデート:まれに、パッチ、新機能、プラグイン、新バージョン等のために、アップデートが必要となる場合があります。
+18才未満の方:この利用規約に同意すると、ユーザーは18才以上であることを認めたこととなります。18才未満の方は、保護者の同意が必要です。
+屋外での使用:このアプリは夜間屋外での使用向けにデザインされています。夜間に使用する前に、昼間の間に使用予定場所をよく観察し、危険性がないことを確認してください。さらに夜間にもう一度、危険性がないことを確認してください。危険性の例としては、転倒、交通、動物、悪天候、犯罪などが挙げられますが、この限りではありません。アプリを使用する時は、もう一人の大人がそばにつき、危険が起こっていないかを監視し、もし危険がある場合は、アプリ使用者に使用をやめるよう警告を発してください。\n\n
+3 アプリの権限\n
+3.1 正確な位置情報 (GPSとネットワーク基地局)\n
+GPSやネットワーク位置情報源（携帯基地局やWi-Fiなど）を使って、正確な位置情報を取得することをアプリに許可します。これらの位置情報サービスはONにして、端末でアプリがサービスを利用できるようにすることが必要です。アプリはこの位置情報を利用してユーザーの現在地を特定できます。また、これにより電池の消費量が増える可能性があります。\n
+3.2 フルネットワークアクセス\n
+ネットワークソケットの作成と、カスタムネットワークプロトコルの使用をアプリに許可します。インターネットにデータを送信する手段はブラウザやその他のアプリケーションが提供するため、インターネットへのデータ送信のためにこれを許可する必要はありません。\n
+3.3 端末の状態とIDの読み込み\n
+端末の電話機能へのアクセスをアプリに許可します。これにより、電話番号、端末ID、通話中かどうか、通話相手の電話番号をアプリから特定できるようになります。\n
+3.4 アイデンティティ\n
+初めて起動したとき、アプリは匿名ユーザーIDを作成し、観測結果と共に送信します。ユーザー名とメールアドレスの送信をユーザーが許可しない限り、個人情報は送信されません。\n
+3.5 USBストレージの内容の変更または削除、SDカードの内容の変更または削除\n
+USBストレージへの書き込みをアプリに許可します。SDカードへの書き込みをアプリに許可します。\n
+3.6 端末の状態とIDの読み込み\n
+端末の電話機能へのアクセスをアプリに許可します。これにより、電話番号、端末ID、通話中かどうか、通話相手の電話番号をアプリから特定できるようになります。\n
+3.7 システム設定の変更\n
+システムの設定データの変更をアプリに許可します。この許可を悪意のあるアプリに利用されると、システムの設定が破損する恐れがあります。\n\n
+4 プライバシー\n
+観測とマップ化のために、ユーザーの正確な位置情報が必要です。位置情報を取得することを許可しない場合は、ユーザーの観測結果は使用されません。
+それ以外の個人情報は、観測に必要ありません。しかし、年齢と視覚損傷は、夜空の明るさの観測に影響を与えます。したがって、これらの情報は解析に有用です。ユーザーがこれらの情報の送信に同意した場合は、観測データに付加されます。同意しない場合は、観測データはランダムに発生された匿名ID番号と共に送信されます。
+もしユーザーの観測データに何らかの特徴があった場合、我々はメールでユーザーに連絡を取ることを望みます。メールアドレスも個人情報も、第三者に配布されたりマーケティング目的で使用されたりすることはありません。\n\n
+5 保証の排除\n
+このアプリは無料です。集められた観測データは GLOBE at Night (www.globeatnight.org) プロジェクトに提供され、インターネット上で匿名で公開されます。非保証:法律によって許される最大の範囲で、このソフトウェアは「現状のまま」にて提供され、一切の保証がないまま、完全にユーザーの責任において使用されます。
+</string>
+<string name="wls_dialog_privacy_positive">同意する</string>
+<string name="wls_dialog_privacy_negative">同意しない</string>
+
+<!-- iOS does not allow apps to close themselves therefore a 'Decline' button is not feasible. -->
+
+<!-- This button is only active once the checkbox below has been selected. -->
+
+<!-- GPS DIALOG STUFF -->
+<string name="wls_dialog_gps_disabled_title">GPS</string>
+<string name="wls_dialog_gps_disabled_text">GPSが有効ではありません。端末の設定メニューで有効化してください。</string>
+<string name="wls_dialog_gps_disabled_positive">デモモード</string>
+<string name="wls_dialog_gps_disabled_negative">設定メニューへ</string>
+
+<!-- PROGRESS BAR DIALOG STUFF -->
+<string name="wls_dialog_gps_waiting_title">GPS</string>
+<string name="wls_dialog_gps_waiting_message">GPS位置情報を取得しています。\n捕捉衛星数: %1$d\n位置精度: %2$s</string>
+
+<!-- iOS does not provide a means for determining the number of GPS satellites -->
+
+<!-- therefore the message needs to be adapted accordingly -->
+<string name="wls_dialog_gps_waiting_cancel">キャンセル</string>
+
+<!-- MAGNETIC FIELD TOO STRONG DIALOG -->
+<string name="wls_dialog_magnetic_field_title">磁場</string>
+<string name="wls_dialog_magnetic_field_text">周囲の磁場が強すぎ、観測に影響があります。</string>
+<string name="wls_dialog_magnetic_field_negative">キャンセル</string>
+<string name="wls_dialog_magnetic_field_positive">デモモード</string>
+
+<!-- SYSTEM TIME INCORRECT DIALOG -->
+<string name="wls_dialog_system_time_title">端末の時刻</string>
+<string name="wls_dialog_system_time_text">端末の時刻がGPS時刻とずれすぎています。端末の時刻を修正してください。</string>
+<string name="wls_dialog_system_time_negative">設定メニューへ</string>
+<string name="wls_dialog_system_time_positive">デモモード</string>
+
+<!-- CALIBRATE COMPASS DIALOG -->
+<string name="wls_dialog_calibrate_compass_title">コンパスの補正</string>
+<string name="wls_dialog_calibrate_compass_text">コンパスの精度が悪くなっています。補正のため、端末を8の字に動かしてください。精度が十分良くなり次第、自動的に観測を開始します。</string>
+<string name="wls_dialog_calibrate_compass_negative">キャンセル</string>
+<string name="wls_dialog_calibrate_compass_positive">デモモード</string>
+
+<!-- SKY MAP ACTIVITY STUFF -->
+<string name="wls_sky_map_button_invisible">見えない／わからない</string>
+<string name="wls_sky_map_button_search_again">もう一度探す</string>
+<string name="wls_sky_map_button_visible">この星が見える</string>
+<string name="wls_sky_map_button_start_measurement">観測開始</string>
+<string name="wls_sky_map_toast_initializing">仰角45度以上の星を選んでいます...</string>
+<string name="wls_sky_map_toast_press_back_twice">終了するにはもう一度BACKキーを押してください</string>
+<string name="wls_sky_map_toast_no_more_stars_to_choose">観測に使用できる星がもうありません</string>
+<string name="wls_sky_map_toast_choose_star_with_magnitude">次の等級の星を選びました： %s</string>
+<string name="wls_sky_map_toast_please_find_next_star">次の星を見つけてください</string>
+
+<!-- STAR NOT VISIBLE DIALOG STUFF -->
+<string name="wls_star_not_visible_title">この星が見えない</string>
+<string name="wls_star_not_visible_message">「見えない／わからない」が選択されました。理由を選んでください。</string>
+<string name="wls_star_not_visible_object">障害物がある</string>
+<string name="wls_star_not_visible_weather">雲や霧に隠れている</string>
+<string name="wls_star_not_visible_invisible">障害物や雲はないが、見えない</string>
+<string name="wls_star_not_visible_barely_visible">そらし目でしか見えない</string>
+<string name="wls_star_not_visible_unsure">見えているかどうかわからない</string>
+<string name="wls_star_not_visible_button_submit">決定</string>
+<string name="wls_star_visible_button_back">戻る</string>
+
+<!-- STAR VISIBLE DIALOG STUFF -->
+<string name="wls_star_visible_title">この星が見える</string>
+<string name="wls_star_visible_barely_visible">なんとか見える</string>
+<string name="wls_star_visible_visible">はっきり見える</string>
+<string name="wls_star_visible_button_submit">決定</string>
+
+<!-- MEASURE MORE STARS DIALOGS -->
+<string name="wls_dialog_8stars_title">8つの星を観測完了</string>
+<string name="wls_dialog_8stars_message" formatted="false">8つの観測により、夜空の明るさ測定値の統計的な不確定性は約23%になりました。さらに3つ観測すると、約20%になります。続けますか、それとも終了しますか?</string>
+<string name="wls_dialog_8stars_button_option">今後表示しない</string>
+<string name="wls_dialog_8stars_button_negative">終了</string>
+<string name="wls_dialog_8stars_button_positive">さらに3つ観測</string>
+<string name="wls_dialog_11stars_title">11個の星を観測完了</string>
+<string name="wls_dialog_11stars_message" formatted="false">11個の観測により、夜空の明るさ測定値の統計的な不確定性は約20%になりました。さらに3つ観測すると、約17%になります。続けますか、それとも終了しますか?</string>
+<string name="wls_dialog_11stars_button_negative">終了</string>
+<string name="wls_dialog_11stars_button_positive">さらに3つ観測</string>
+<string name="wls_dialog_14stars_title">14個の星を観測完了</string>
+<string name="wls_dialog_14stars_message" formatted="false">14個の観測により、夜空の明るさ測定値の統計的な不確定性は約17%になりました。さらに3つ観測すると、約14%になります。続けますか、それとも終了しますか?</string>
+<string name="wls_dialog_14stars_button_negative">終了</string>
+<string name="wls_dialog_14stars_button_positive">さらに3つ観測</string>
+<string name="wls_dialog_17stars_title">17個の星を観測完了</string>
+<string name="wls_dialog_17stars_message" formatted="false">17個の観測により、夜空の明るさ測定値の統計的な不確定性は約14%になりました。さらに不確定性を下げるために、続けることもできます。メインメニューに戻ることで、いつでも終了できます。</string>
+<string name="wls_dialog_17stars_button_negative">終了</string>
+<string name="wls_dialog_17stars_button_positive">観測を続ける</string>
+
+<!-- CUSTOM DIALOG STUFF -->
+<string name="wls_custom_dialog_positive">同意する</string>
+<string name="wls_custom_dialog_negative">同意しない</string>
+<string name="wls_custom_dialog_neutral">どちらでもない</string>
+
+<!-- TOO BRIGHT ENVIRONMENT DIALOG STUFF -->
+<string name="wls_dialog_too_bright_title">十分に暗くありません</string>
+<string name="wls_dialog_too_bright_text_short">薄明か月光があり、観測に適した時間ではありません</string>
+<string name="wls_dialog_too_bright_text_long">薄明か月光があり、観測に適した時間ではありません。次に観測可能な日付は %1$s です。</string>
+
+<!-- Identical to the above string however mind the different formatting characters required for iOS -->
+<string name="wls_dialog_too_bright_positive">観測する</string>
+<string name="wls_dialog_too_bright_neutral">カレンダーに日付を追加</string>
+<string name="wls_dialog_too_bright_negative">観測をやめる</string>
+
+<!-- TOO BRIGHT ENVIRONMENT DIALOG ADD TO CALENDAR IOS STUFF -->
+
+<!-- on iOS it is not possible to send the user to the calendar app -->
+
+<!-- therefore we implement our own interface for inserting a calendar event -->
+<string name="wls_dialog_too_bright_add_to_calendar_button_negative">いいえ</string>
+<string name="wls_dialog_too_bright_add_to_calendar_button_positive">はい</string>
+<string name="wls_dialog_too_bright_add_to_calendar_button_ok">OK</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text">%@ をカレンダーに追加し、アラームをセットしますか?</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text_success">カレンダーに追加されました</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text_failed">カレンダーに追加できませんでした</string>
+<string name="wls_dialog_too_bright_add_to_calendar_title">カレンダーに追加</string>
+<string name="wls_dialog_too_bright_add_to_calendar_success_title">カレンダーに追加成功</string>
+<string name="wls_dialog_too_bright_add_to_calendar_failed_title">カレンダーに追加失敗</string>
+<string name="wls_dialog_too_bright_add_to_calendar_no_access_title">カレンダーにアクセス不可</string>
+<string name="wls_dialog_too_bright_add_to_calendar_no_access_text">カレンダーにアクセスできません。端末のプライバシー設定を変更してください。</string>
+
+<!-- START MENU ACTIVITY STUFF -->
+<string name="wls_start_menu_title">メインメニュー</string>
+<string name="wls_start_menu_item_projectinfos">プロジェクト情報</string>
+<string name="wls_start_menu_item_me">ユーザー情報</string>
+<string name="wls_start_menu_item_demo">チュートリアル</string>
+<string name="wls_start_menu_item_start_observation">観測を始める</string>
+<string name="wls_start_menu_item_news">ニュース</string>
+<string name="wls_start_menu_item_sqm">SQMデータを送信</string>
+<string name="wls_start_menu_item_to_nightmode">夜間モード</string>
+<string name="wls_start_menu_item_to_daymode">デイモード</string>
+<string name="wls_start_menu_item_feedback">フィードバック</string>
+<string name="wls_start_menu_item_quit">終了</string>
+<string name="wls_start_menu_item_close_menu">メニューを閉じる</string>
+
+<!-- INTRO ACTIVITY STUFF -->
+<string name="wls_info_title">インフォメーション</string>
+<string name="wls_info_headline">光害（ひかりがい）による悪影響は、星空が見えにくくなるだけではありません。光害は、エネルギーとコストの浪費であり、生態系に悪影響を及ぼし、人体の健康をも脅かします。</string>
+<string name="wls_info_text">このアプリを使うことで、研究者があなたの地域の照明環境を理解する助けとなります。それが大都市の中心でも、ほとんど照明のない地方でも、世界中の研究者があなたからの貴重な報告を待っています！\n\nThis app has been developed with the financial support of the Federal Ministry for Research and Education (BMBF) framework programme "Research for Sustainable Development" (FONA) with the support code 033L038A.\nThe project has been advised by Project Management Julich / Environment and Sustainability, Climate Protection.</string>
+<string name="wls_info_button_more_information_text">詳細情報</string>
+<string name="wls_info_button_next_text">次へ</string>
+<string name="wls_info_checkbox_text">今後表示しない</string>
+
+<!-- USAGE ACTIVITY STUFF -->
+<string name="wls_usage_title">使用方法</string>
+<string name="wls_usage_headline">星の見え方は、視力や年齢の違いにより変わります。ユーザー登録を行うことにより、それらの情報を付加し、観測データをより価値のあるものにすることができます。ユーザー登録を行わなくても、匿名で送信することができます。送信されたデータは、オンラインで公開されます。</string>
+<string name="wls_usage_text">ユーザー登録を行わない場合は、ゲストとして続行してください。</string>
+<string name="wls_usage_button_register_now_text">ユーザー登録する</string>
+<string name="wls_usage_button_continue_as_guest_text">ゲストで続行</string>
+<string name="wls_usage_checkbox_text">今後表示しない</string>
+
+<!-- ME ACTIVITY STUFF -->
+<string name="wls_me_title">ユーザー情報</string>
+<string name="wls_me_additional_title">過去の観測データ</string>
+<string name="wls_me_text">ここでは、過去の観測データの確認と、ユーザー情報の確認・修正を行うことができます。</string>
+<string name="wls_me_button_my_measurements">過去の観測データ</string>
+<string name="wls_me_button_user_information">ユーザー情報の確認・修正</string>
+<string name="wls_me_button_settings">設定メニューへ</string>
+
+<!-- USER DATA ACTIVITY STUFF -->
+<string name="wls_user_data_title">ユーザー情報</string>
+<string name="wls_user_data_headline">以下の情報を入力してください。</string>
+<string name="wls_user_data_item_age">年齢</string>
+<string name="wls_user_data_item_no_drawback">裸眼</string>
+<string name="wls_user_data_item_glasses">眼鏡使用</string>
+<string name="wls_user_data_item_lenses">コンタクトレンズ使用</string>
+<string name="wls_user_data_item_laser">目のレーザー治療</string>
+<string name="wls_user_data_item_experience">天体観測の経験</string>
+<string name="wls_user_data_item_experience_none">ほぼ未経験</string>
+<string name="wls_user_data_item_experience_some">いくつかの星や星座を知っている程度</string>
+<string name="wls_user_data_item_experience_amateur">アマチュア天文家</string>
+<string name="wls_user_data_button_save">保存</string>
+<string name="wls_user_data_text">メールアドレスは公開されません。宣伝目的にも使用されません。</string>
+<string name="wls_user_data_name">ユーザー名:</string>
+<string name="wls_user_data_email">E-mail:</string>
+<string name="wls_user_data_button_text">保存</string>
+<string name="wls_user_data_email_not_ok">メールアドレスが有効ではありません</string>
+<string name="wls_user_data_username_not_ok_whitespace">ユーザー名に空白は使えません</string>
+<string name="wls_user_data_username_not_ok_empty">ユーザー名が空欄です</string>
+<string name="wls_user_data_edittext_hint">任意入力</string>
+
+<!-- BAD CONDITIONS DIALOG STUFF -->
+<string name="wls_dialog_bad_conditions_title">別の場所で観測してください</string>
+<string name="wls_dialog_bad_conditions_text">現在地からは、星が見えないようです。別の場所でお試しください。</string>
+<string name="wls_dialog_bad_conditions_button_ok">OK</string>
+
+<!-- NO MORE STARS DIALOG STUFF -->
+
+<!-- Dialog displayed once no more stars are eligible for observation -->
+<string name="wls_dialog_no_more_stars_title">星が見つかりません</string>
+<string name="wls_dialog_no_more_stars_text">観測に適した星が見つかりません。</string>
+<string name="wls_dialog_no_more_stars_button_ok">OK</string>
+
+<!-- FINISHED DIALOG STUFF -->
+<string name="wls_dialog_measurement_finished_title">観測終了。ご協力ありがとうございました。</string>
+<string name="wls_dialog_measurement_finished_text">今回の観測での限界等級は %1$.1f で、その精度は %2$.1f でした（精度は小さいほど良い）。ぜひ別の日にも観測し、同じ結果が得られるかを調べてください。\n\n今晩およそ %3$d 個の星を夜空に見ることができます。私たちの目標は、夜空の明るさが時間とともにどのくらい変化しているかを調べることです。ぜひ同じ場所での観測を繰り返してください。</string>
+
+<!-- Identical to the above string however mind the different formatting characters required for iOS -->
+<string name="wls_dialog_measurement_finished_button_ok">OK</string>
+
+<!-- ME MY MEASURES ACTIVITY STUFF -->
+<string name="wls_me_my_measures_subtitle">過去の観測データ</string>
+<string name="wls_me_my_measures_no_history_subtitle">観測データがありません</string>
+<string name="wls_me_my_measures_list_delete_history">観測データの消去</string>
+<string name="wls_me_my_measures_list_visible">見える</string>
+<string name="wls_me_my_measures_list_not_visible">次の理由で見えない：</string>
+<string name="wls_me_my_measures_list_unnamed">名称なし</string>
+<string name="wls_me_my_sqm_transfers_subtitle">SQMデータ</string>
+<string name="wls_me_my_sqm_transfers_sqm_value">SQM値:</string>
+
+<!-- VISIBILITY REASONS -->
+<string name="wls_visiblity_not_found_reason_obstruction">障害物</string>
+<string name="wls_visiblity_not_found_reason_weather">雲や霧</string>
+<string name="wls_visiblity_not_found_reason_unsure">わからない</string>
+<string name="wls_visiblity_not_found_reason_not_visible">見えない</string>
+<string name="wls_visiblity_not_found_reason_barely_visible">そらし目</string>
+<string name="wls_visiblity_found_reason_barely_visible">なんとか見える</string>
+<string name="wls_visiblity_found_reason_found">見える</string>
+
+<!-- ME MY MEASURES LIST VIEW STUFF -->
+<string name="wls_me_my_measures_list_date">日付</string>
+<string name="wls_me_my_measures_list_number_of_stars_measured">観測した星の数:</string>
+<string name="wls_me_my_measures_list_limiting_magnitude">限界等級:</string>
+<string name="wls_me_my_measures_list_sqm_value">SQM:</string>
+<string name="wls_me_my_measures_list_star_name">星の名前:</string>
+<string name="wls_me_my_measures_list_star_ra">赤経:</string>
+<string name="wls_me_my_measures_list_star_dec">赤緯:</string>
+<string name="wls_me_my_measures_list_star_mag">等級:</string>
+<string name="wls_me_my_measures_list_transmission_status">送信状態:</string>
+<string name="wls_me_my_measures_list_transmission_status_pending">送信待ち</string>
+<string name="wls_me_my_measures_list_transmission_status_sent">送信済み</string>
+<string name="wls_me_my_measures_list_measured_stars">観測した星</string>
+<string name="wls_me_my_measures_list_gpsposition">GPS 位置情報</string>
+<string name="wls_me_my_measures_list_gps_lat">緯度</string>
+<string name="wls_me_my_measures_list_gps_lon">経度</string>
+<string name="wls_me_my_measures_list_time">時刻</string>
+
+<!-- DELETE HISTORY DIALOG STUFF -->
+<string name="wls_dialog_delete_title">観測データの消去</string>
+<string name="wls_dialog_delete_text">過去の観測データを消去しますか?</string>
+<string name="wls_dialog_delete_negative">いいえ</string>
+<string name="wls_dialog_delete_positive">はい</string>
+
+<!-- WEATHER CONDITIONS ACTIVITY STUFF -->
+<string name="wls_weather_conditions_title">空の状態</string>
+<string name="wls_weather_conditions_text">現在の空の状態に最も近いものを一つ選んでください。</string>
+<string name="wls_weather_conditions_button_continue">続ける</string>
+<string name="wls_weather_conditions_button_cancel">キャンセル</string>
+
+<!-- WEATHER CONDITIONS SPINNER STUFF -->
+<string name="wls_weather_conditions_clear">晴れ</string>
+<string name="wls_weather_conditions_partly_cloudy">部分的に曇り</string>
+<string name="wls_weather_conditions_cloudy">曇り</string>
+<string name="wls_weather_conditions_rain">雨</string>
+<string name="wls_weather_conditions_fog">霧／もや</string>
+<string name="wls_weather_conditions_snow">地面に積雪あり</string>
+
+<!-- NEWS ACTIVITY STUFF -->
+<string name="wls_news_title">ニュース</string>
+<string name="wls_news_failed">ニュースがありません。</string>
+<string name="wls_news_no_network">ネットワークが使用できません。</string>
+
+<!-- PROJECT INFO ACTIVITY STUFF -->
+<string name="wls_project_info_main_title">プロジェクト情報</string>
+
+<!-- DO YOU HAVE AN SQM DIALOG -->
+<string name="wls_dialog_have_sqm_title">SQMをお持ちですか?</string>
+<string name="wls_dialog_have_sqm_message">スカイクオリティメーター(SQM) は、夜空の明るさの測定器です。\n\nもしSQMをご使用の場合は、このページから測定値を送信することができます。</string>
+<string name="wls_dialog_have_sqm_button_negative">キャンセル</string>
+<string name="wls_dialog_have_sqm_button_positive">続ける</string>
+
+<!-- SUBMIT SQM ACTIVITY STUFF -->
+<string name="wls_submit_sqm_title">SQMデータを送信</string>
+<string name="wls_submit_sqm_text">スカイクオリティメーター(SQM) は、夜空の明るさの測定器です。\n\nもしSQMをご使用の場合は、このページから測定値を送信することができます。</string>
+<string name="wls_submit_sqm_button_text">送信</string>
+<string name="wls_submit_sqm_decimal">.</string>
+<string name="wls_dialog_submit_sqm_title">SQMデータを送信</string>
+<string name="wls_dialog_submit_sqm_text">データは送信されます。ご協力ありがとうございました。</string>
+<string name="wls_dialog_submit_sqm_button_text">OK</string>
+
+<!-- SQM value is input using a numberpad keyboard on iOS-->
+
+<!-- which do not have an explicit close button  -->
+
+<!-- therefore we need our own -->
+
+<!-- CANCEL MEASUREMENT DIALOG STUFF -->
+<string name="wls_dialog_cancel_measurement_title">観測中断</string>
+<string name="wls_dialog_cancel_measurement_text">まだ十分な数の星を観測していませんが、中断しようとしています。よろしいですか?</string>
+<string name="wls_dialog_cancel_measurement_button_quit">中断する</string>
+<string name="wls_dialog_cancel_measurement_button_continue_measuring">観測を続ける</string>
+
+<!-- DIALOG STUFF FOR "ACTIVE MEASUREMENT" -->
+<string name="wls_dialog_active_measurement_title">観測が完了していません</string>
+<string name="wls_dialog_active_measurement_message">継続中の観測があります。観測を続けますか、それともアプリを終了しますか？</string>
+<string name="wls_dialog_active_measurement_continue_measuring">観測を続ける</string>
+<string name="wls_dialog_active_measurement_quit_app">終了</string>
+
+<!-- PROGRESS BAR DIALOG STUFF -->
+<string name="wls_dialog_progress_bar_title">GPS</string>
+<string name="wls_dialog_progress_bar_message">GPS位置情報を取得しています。</string>
+<string name="wls_dialog_progress_bar_cancel">キャンセル</string>
+
+<!-- CANCELED GPS FIX DIALOG STUFF -->
+<string name="wls_dialog_gps_fix_canceled_title">GPSサーチが中断されました</string>
+<string name="wls_dialog_gps_fix_canceled_message">GPS位置情報がないと、適切な観測データが得られません。\n\nもしこのまま観測を試したい場合は、デモモードを使用してください。</string>
+<string name="wls_dialog_gps_fix_canceled_positive_button">デモモード</string>
+<string name="wls_dialog_gps_fix_canceled_negative_button">観測中断</string>
+
+<!-- ADD TO CALENDAR DIALOG -->
+<string name="wls_dialog_add_to_calendar_title">星の観測</string>
+<string name="wls_dialog_add_to_calendar_message">星の観測に適した時間です。</string>
+
+<!-- SETTINGS -->
+<string name="wls_settings_show_starnames">星の名前を見る</string>
+<string name="wls_settings_show_constellations">星座を見る</string>
+<string name="wls_settings_stars_big_font">星と星座のフォントを大きくする</string>
+<string name="wls_settings_stars_dim">画面を暗くする</string>
+<string name="wls_settings_show_information">開始時にインフォメーションを表示する</string>
+<string name="wls_settings_show_usage">開始時に使用方法を表示する</string>
+<string name="wls_settings_button_save">保存</string>
+
+<!-- GENERAL STUFF -->
+<string name="wls_general_link_to_igb">www.igb-berlin.de</string>
+<string name="wls_general_not_implemented_yet">Not implemented yet!</string>
+
+<!-- RSS FEED LINK -->
+<string name="wls_rss_feed_link">http://lossofthenight.blogspot.com/feeds/posts/default?alt=rss</string>
+
+<!-- FEEDBACK STUFF -->
+<string name="wls_feedback_title">フィードバック</string>
+<string name="wls_feedback_send_email">フィードバックや質問をメールで送る</string>
+<string name="wls_feedback_rate_us">このアプリを評価する</string>
+<string name="wls_feedback_email_chooser_title">メールを送る</string>
+<string name="wls_feedback_email_address">vdn-app@igb-berlin.de</string>
+<string name="wls_feedback_email_subject">Feedback for Loss of the Night</string>
+<string name="wls_feedback_email_text"></string>
+
+<!-- EMAIL COULD NOT BE SENT DIALOG ON IOS -->
+</resources>

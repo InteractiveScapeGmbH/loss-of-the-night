@@ -1,0 +1,3 @@
+﻿# at most 80 characters including spaces
+
+Count stars for science! Help track how light pollution is changing worldwide.

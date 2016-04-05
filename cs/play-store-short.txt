@@ -1,0 +1,3 @@
+﻿# at most 80 characters including spaces
+
+Počítejte hvězdy! Pomůžete tak vědcům sledovat, jak se mění světelné

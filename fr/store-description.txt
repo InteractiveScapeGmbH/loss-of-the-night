@@ -1,0 +1,23 @@
+﻿« Participez à un projet mondial de science participative. » (The Guardian)
+« Découvrez à quel point la pollution lumineuse est néfaste. » (Chandra Clarke, citizensciencecenter.com)
+« Cette application est extrêmement simple d'utilisation et vous pouvez apprendre le nom de plusieurs constellations en l'utilisant! » (Nicholas Fordes, plos.org)
+ 
+L’application Ciel en péril transforme vos yeux en détecteurs lumineux, vous permettant de participer à un projet de science citoyenne et de documenter la luminosité du ciel de n’importe quel endroit sur la planète.
+Dans plusieurs régions du monde, le ciel nocturne est pollué par la lumière artificielle provenant de lampadaires mal conçus. Cette lumière porte ombrage à la beauté des étoiles et altère de façon importante notre environnement naturel. Les scientifiques sont inquiets et croient que la pollution lumineuse pourrait avoir un impact majeur sur les écosystèmes nocturnes. Cependant, ils ont très peu d’informations sur la quantité de lumière artificielle présente dans le monde et sur la façon dont la luminosité du ciel varie avec les années.
+
+Vous pouvez les aider à mesurer la luminosité du ciel en utilisant cette application! Ciel en péril est une adaptation de « Google Sky Map » qui permet de mesurer la visibilité des étoiles avec un instrument très sensible, constant et bien connu : vos yeux! Vous n'avez simplement qu'à lever les yeux au ciel, chercher quelques étoiles et nous dire si vous pouvez les voir! L’utilisation de l'application Ciel en péril est à la fois amusante et éducative et, par les informations scientifiques cruciales que son utilisation permet de recueillir, elle constitue une action concrète de protection de l'environnement. 
+
+À la suite de vos observations, les données seront acheminées de façon anonyme au projet « GLOBE at Night » (http://www.GLOBEatNight.org), où vous pourrez voir vos mesures sur une carte et les comparer à celles effectuées partout autour de la planète. Compter les étoiles est une expérience gratifiante et une superbe activité familiale; vous vous surprendrez d’apprendre le nom des constellations sans effort. L’application Ciel en péril permet aux étudiants de mesurer la pollution lumineuse et la visibilité des étoiles pour leurs propres projets scientifiques et, ce faisant, de rejoindre un réseau global de science participative.
+
+Les mesures les plus importantes pour ce projet proviennent de sites très éclairés où il est difficile de voir beaucoup d’étoiles. Cependant, nous vous encourageons également à utiliser l’application dans des lieux où vous pouvez encore voir la Voie lactée;  si vous êtes suffisamment chanceux pour vivre dans un tel endroit, faites-le savoir aux autres! 
+
+Les satellites observent le sol, et non les étoiles. En comparant la brillance du ciel à la luminosité au sol, vous aiderez la communauté à savoir quelles lampes illuminent le ciel et non les rues. 
+Espérons que dans le futur, les villes sauveront énergie et argent avec des systèmes d’éclairage bien conçus éclairant adéquatement les rues, laissant les chambres à coucher sombres et les cieux à nouveau plein d’étoiles.
+
+Pour plus d’information, incluant des données préliminaires, veuillez consulter le blogue du projet : http://lossofthenight.blogspot.com
+
+Cette application fournit aussi des informations supplémentaires sur l’histoire, l’importance et les conséquences de la lumière artificielle de nuit. Vous êtes invités à prendre contact avec les chercheurs en pollution lumineuse du groupe Verlust der Nacht (http://www.verlustdernacht.de). 
+
+Ce projet a été subventionné par le ministère fédéral de l’Éducation et de la Recherche (Allemagne). 
+
+La traduction française de cette application a été effectuée gracieusement par le groupe de recherche sur la lumière du Cégep de Sherbrooke (Québec, Canada), soit par les enseignants-chercheurs Martin Aubé, Olivier Domingue et Johanne Roby, assistés de leur étudiant Malcolm St. John. (2014)

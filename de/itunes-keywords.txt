@@ -1,0 +1,3 @@
+﻿# at most 100 characters including spaces and commas
+
+Bürgerwissenschaft,Sterne,Lichtverschmutzung,Astronomie,Sternbild,Nacht,Dunkelheit

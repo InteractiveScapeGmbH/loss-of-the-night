@@ -1,0 +1,3 @@
+﻿# at most 100 characters including spaces and commas
+
+citizen science,stars,light pollution,astronomy,constellations,night,dark

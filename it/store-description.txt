@@ -1,0 +1,31 @@
+﻿"Contribuite a un progetto di scienza per i cittadini su scala mondiale." (The Guardian)
+"Scoprite esattamente quanto inquinamento luminoso c'è." (Chandra Clarke, citizensciencecenter.com)
+"L'app non potrebbe essere pi˘ semplice da usare, e potete anche imparare a riconoscere le costellazioni mentre la usate." (Nicholas Fordes, plos.org)
+
+Partecipate a un progetto mondiale di scienza per i cittadini che misura la visibilità delle stelle e l'inquinamento luminoso. Aiutate a creare una base dati per la ricerca sulla salute, l'ambiente e la società dicendo agli scienziati quali stelle vedete dalla vostra posizione.
+
+In molte parti del mondo, il cielo notturno è illuminato dallo spreco di luce artificiale derivante da lampioni non ben progettati. L'inquinamento luminoso che ne deriva rovina la bellezza delle stelle e ha un impatto sull'ambiente naturale.
+
+Ma l'inquinamento luminoso non è solo un problema per l'astronomia. Gli scienziati di tutto il mondo stanno studiando come l'inquinamento luminoso incide sulla salute umana, sulla società e sull'ambiente. Questa app è una versione di Google Sky Map, modificata per consentire la misurazione della visibilità delle stelle senza costosa strumentazione. E' sufficiente guardare verso l'alto, trovare alcune specifiche stelle e dirci se le potete vedere o meno!
+
+Usare l'app di Loss of the Night è divertente, educativo, promuove l'attività scientifica da parte dei cittadini e costituisce un contributo attivo alla protezione dell'ambiente.
+
+L'osservazione delle stelle vi collega all'universo, soprattutto in località senza inquinamento luminoso. Scoprite quante stelle potete vedere, e confrontatevi con altre aree della mappa di Globe at Night. Imparate a conoscere le stelle e le costellazioni, e trovate posti in cui potete ancora vedere la Via Lattea. Se siete cosÏ fortunati da vivere in uno di questi posti, fatelo sapere agli altri! Contare le stelle è un'esperienza interessante anche come attività per le famiglie!
+
+La maggior parte dell'inquinamento luminoso è causato dalla cattiva progettazione dei lampioni, anche a questa si puÚ aggiungere il contributo da aree sovrailluminate. Trovando aree con una buona progettazione dell'illuminazione, aiuterete altre comunità a capire che cosa funziona meglio, a tenere le nostre camere da letto pi˘ al buio e il cielo pieno di stelle. Una corretta progettazione serve poi a risparmiare energia e denaro.
+
+L'app Perdita della Notte consente agli studenti di misurare l'inquinamento luminoso e la visibilità delle stelle per i loro progetti scientifici e allo stesso tempo divenire parte di una rete globale di cittadini-scienziati. Le misurazioni sono trasmesse in forma anonima al database di GLOBE at NIght, un progetto che segue l'andamento dell'inquinamento luminoso dal 2006. GLOBE at Night crea mappe globali della visibilità delle stelle e dell'inquinamento luminoso, che gli scienziati possono utilizzare per analizzare le correlazioni tra l'inquinamento luminoso e la salute, la biodiversità, la qualità della vita e molti altri fattori.
+
+L'app fornisce inoltre alcune informazioni di base sulla storia, l'importanza e le conseguenze della luce artificiale di notte.
+
+Quando fate le vostre osservazioni, potete poi fare riferimento alla seguente tabella per convertire la luminosità della stella pi˘ debole che avete visto in una stima di quante stelle potete osservare dalla vostra posizione:
+
+magnitudo: stelle visibili
+0-1: 2-8
+1-2: 8-25
+2-3: 25-100
+3-4: 100-250
+4-5: 250-800
+5: migliaia
+
+L'app è stata prodotta dal progetto Verlust der Nacht. Potete avere ulteriori informazioni sul progetto all'indirizzo www.verlustdernacht.de, e contattarci dal blog: http://lossofthenight.blogspot.com

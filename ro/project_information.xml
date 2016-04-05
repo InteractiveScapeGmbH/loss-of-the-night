@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?><!-- RO -->
+<!-- NOTE: This is pure XML (not interpreted as a resource file) so you can't use the "\uxxxx" notation for Unicode
+            characters. The file is UTF-8 encoded, so you can just use the appropriate characters. Backslash "\" is not
+            used as an escape character. Only the following characters need to be escaped within the text: &amp; &gt; &lt;
+-->
+<Information xmlns="http://www.interactive-scape.com/wls_project_information">
+    <Title>INFORMAŢII PROIECT</Title>
+    <SectionList>
+        <Section>
+            <Name>Verlust der Nacht</Name>
+            <Title>Reţeaua de cercetare "Verlust der Nacht"</Title>
+            <PageList>
+                <Page>
+                    <Text>Noi asociem lumina cu conceptele pozitive cum ar fi securitate, prosperitate şi modernitate. Cu toate acestea, în timp ce oferă beneficii inestimabile, iluminatul modern are, de asemenea, şi părţi negative. Ştim că lumina, prin ritmul natural al luminii şi întunericului, influenţează comportamentul şi fiziologia aproape a tuturor vietăţilor. Dar modul în care vietăţile din apă şi de pe uscat, în special fiinţele umane, reacţionează la lumina artificială este în mare măsură necunoscut.</Text>
+                </Page>
+                <Page>
+                    <Text>Viaţa fără lumina artificială este greu de imaginat în zilele de astăzi, dar care sunt consecinţele? "Verlust der Nacht" investighează nu numai efectele ecologice, culturale şi socio-economice şi efectele asupra sănătăţii umane, dar, de asemenea, şi motivele pentru creşterea iluminării pe timp de noapte. Acest lucru va contribui la dezvoltarea conceptului de iluminat şi a tehnologiilor durabile pentru a minimiza efectele negative ale luminii artificiale, dar fără a sacrifica niciuna dintre beneficiile majore.</Text>
+                </Page>
+                <Page>
+                    <Text>Reţeaua de cercetare este susţinută financiar de către Federal Ministry for Research and Education (BMBF) în cadrul programului "Research for Sustainable Development" (FONA) şi de către oraşul Berlin, prin Departamentul pentru Economie, Tehnologie şi Cercetare.</Text>
+                </Page>
+                <Page>
+                    <Text>Reţeaua de cercetare este formată din oameni de ştiinţă sociologi şi naturalişti, astronomi şi ingineri din următoarele instituţii şi organizaţii:</Text>
+                    <Image>wls_project_info_logos_</Image>
+                </Page>
+            </PageList>
+        </Section>
+        <Section>
+            <Name>GLOBUL noaptea</Name>
+            <Title>GLOBUL noaptea</Title>
+            <PageList>
+                <Page>
+                    <Text>Sclipirea stelelor mici - Spune-mi unde eşti! Oraşele sunt atât de strălucitoare încât mii de stele nu mai sunt vizibile. Specificarea numărului de stele care sunt vizibile într-un singur loc reprezintă un indicator al poluării luminoase. Din 2006, mii de oameni din întreaga lume au numărat stelele. Globul noaptea (www.GLOBEatNight.org) colectează aceste date şi le ilustrează în hărţi de luminozitate. Acesta este modul în care putem marca poluarea luminoasă.</Text>
+                </Page>
+                <Page>
+                    <Text>Ajută la măsurarea poluării luminoase! Fiecare nou set de date completează harta poluării luminoase. Mai multe măsurători dintr-un loc fac datele mai precise şi o nouă locaţie ajută la extinderea hărţii de luminozitate. Fie în centrul oraşului, fie într-o zonă îndepărtată, totul contează! Având în vedere că aplicaţia funcţionează în întreaga lume sau în mod neconectat, puteţi determina poluarea luminoasă oriunde vă aflaţi, chiar şi în vacanţă!</Text>
+                </Page>
+                <Page>
+                    <Text>Prin compararea datelor din ani diferiţi, putem detecta schimbarea. De aceea, este foarte utilă măsurarea repetată din aceeaşi locaţie. De exemplu, în exteriorul casei tale. Folosind datele ajuţi la colectarea acestora iar noi putem continua pentru a trasa poluarea luminoasă. Aceste date pot fi apoi utilizate în studii viitoare pentru a înţelege efectele iluminării pe timp de noapte asupra, de exemplu, a activităţii economice a unei regiuni, a răspândirii animalelor sălbatice, şi chiar a apariţiei anumitor boli.</Text>
+                </Page>
+            </PageList>
+        </Section>
+        <Section>
+            <Name>Poluarea luminoasă</Name>
+            <Title>Poluarea luminoasă</Title>
+            <SectionList>
+                <Section>
+                    <Name>Ce este poluarea luminoasă?</Name>
+                    <Title>Ce este poluarea luminoasă?</Title>
+                    <PageList>
+                        <Page>
+                            <Text>De la introducerea iluminatului electric nopţile noastre sunt tot mai luminoase. Iluminatul reprezintă 19% din consumul de energie electrică, echivalentul a 1.9 miliarde de tone de CO2. Principalele surse de lumină sunt iluminatul stradal, al clădirilor, şi a panourilor de publicitate. Iluminatul stradal consumă, singur, 114 TWh pe an la nivel mondial. O parte din această lumină rămâne neutilizată, radiind în sus, fără ţintă, spre cer. O reducere a acestei poluări luminoase ar economisi energie şi bani.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Poluarea luminoasă nu consumă doar energie, dar poate afecta multe organisme vii. Chiar şi indicatorii privind problemele de sănătate sunt în creştere. Prin urmare, ar trebui să fie luate contramăsuri în special în zonele rezidenţiale şi ecologice importante. Aceasta nu implică stingerea tuturor luminilor, ci în schimb impune regândirea şi reorganizarea utilizării luminii de către noi. Corpurile de iluminat cu distribuţie exclusiv inferioară (cutt-off), conectarea iluminatului în funcţie de cerere, precum şi utilizarea spectrului corect de lumină ar putea fi o contribuţie majoră la reducerea problemei.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Astronomie</Name>
+                    <Title>Astronomie</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Încă din timpuri preistorice stelele au însoţit oamenii în evoluţia lor: în multe culturi s-au asociat cu zeităţile şi naşterea lor sunt izvoare pentru mituri şi legende. Mai practic, stelele au format temelia noastră pentru navigaţie şi pentru măsurarea timpului. Societăţile moderne se bucură de frumuseţea stelelor şi, prin ele, ni se reaminteşte că suntem doar o mică parte a universului. Dar, pentru mai mult de 70% din populaţia lumii, cerul nopţii este acum prea luminos pentru a vedea Calea Lactee.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Pentru astronomi strălucirea cerului este o problemă majoră. Încă din 1913, Observatorul din Berlin a fost nevoit să se mute la Potsdam, deoarece cerul de deasupra capitalei devenise prea luminos pe durata nopţii. Astăzi, astronomii trebuie să călătorească în zone mai îndepărtate, cum ar fi Tenerife şi Chile pentru a găsi ce a mai rămas din cerul întunecat. Mulţi astronomi amatori nu îşi pot permite acest lux. De asemenea, mulţi oameni în vârstă duc dorul cerului înstelat din copilărie, în timp ce majoritatea copiilor de azi nu sunt niciodată în măsură să se bucure de priveliştea uimitoare a unui cer de noapte veritabil.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Cronobiologie/Sănătate</Name>
+                    <Title>Cronobiologie/Sănătate</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Diverse procese de bază din corpul nostru urmăresc schimbările ritmice de lumină şi întuneric. Acestea includ ritmul somn-veghe, mai multe secreţii de hormoni, iar în cursul zilei temperatura corpului şi ritmul cardiac. Acest ritm al organismului este controlat de un ceas intern, care, la mamifere ca oamenii, poate fi găsit în hipotalamus, parte a mezencefalului.  Toate celulele din corpul nostru sunt sincronizate cu ritmul zi-noapte.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Lumina transmite ceasului nostru interior dacă este zi sau noapte. În întuneric, este produs hormonul melatonină. Acesta îi face pe oameni obosiţi şi pune trupurile noastre la odihnă - emoţiile şi respiraţia se răresc, iar temperatura corpului nostru scade. Dar lumina artificială suprimă producţia de melatonină. În special, lumina albă rece a LED-urilor şi monitoarele de calculator ne ţin treji - ceasul nostru intern este indus în eroare iar ritmul nostru intern devine perturbat aşa că nu putem să dormim mult sau suficient de mult.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Dacă nu se produce suficientă melatonină se poate ajunge la insomnie. De asemenea, sistemul imunitar s-ar putea slăbi în mod semnificativ, deoarece melatonina acţionează împotriva agenţilor patogeni ca un antioxidant şi luptă cu celulele canceroase. Se bănuiesc, de asemenea, relaţii de cauzalitate cu apariţia diabetului sau obezităţii. Astfel, dormind în întuneric este departe de a fi un lux, ci mai degrabă este o parte esenţială a unei vieţi sănătoase.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Ecologie</Name>
+                    <Title>Ecologie</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Multe animale folosesc lumina lunii şi a stelelor pentru orientare, iar lumina artificială poate masca aceste repere luminoase naturale din noapte - cu consecinţe foarte reale. Milioane de păsări mor din cauza coliziunilor cu structurile luminate. Broaştele ţestoase proaspăt eclozate nu migrează în marea sclipitoare, ci spre iluminarea artificială de pe pământ unde se usucă şi mor. Nenumăratele insecte care mor în interiorul corpurilor de iluminat înseamnă ecosisteme lipsite de contribuţia lor vitală ca polenizatori sau sursă de hrană.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Animalele au evoluat pentru a ocupa un loc nu numai în teritoriu, dar, de asemenea, în timpul în care acestea sunt active: multe sunt fie diurne, fie nocturne. În timp ce iluminarea artificială poate prelungi perioada de activitate a animalelor diurne, multe animale nocturne evită lumina. 30% din toate speciile de vertebrate şi 60% din nevertebrate sunt nocturne. Datorită poluării luminoase, acestea îşi pierd habitatul lor de noapte. Acest fenomen are consecinţe neprevăzute pentru biodiversitate.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Modificările duratei zilei sunt cauze importante în schimbarea anotimpurilor. Pe măsură ce zilele devin mai scurte, plantele îşi scutură frunzele, în timp ce animalele depun rezerve de grăsime sau se pregătesc pentru migrarea lor. În cazul în care ziua se prelungeşte cu lumină artificială, organismele sunt prost pregătite pentru iarnă - un dezavantaj care poate fi fatal.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Istorie culturală</Name>
+                    <Title>Istorie culturală</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Lumina artificială indică progres şi prosperitate. Ca urmare a introducerii luminii electrice în anii 1880, oraşe precum Berlin au etalat în mod deliberat modernitatea lor urbană. Cum oraşele au devenit mai luminoase, întunericul a devenit asociat cu subdezvoltarea, sărăcia şi pericolul. Din punct de vedere politic, iluminarea, de asemenea, a fost din ce în ce mai folosită pentru demonstraţii de putere (de exemplu, la Raliul Nürnberg din timpul celui de-al Treilea Reich).</Text>
+                        </Page>
+                        <Page>
+                            <Text>Dar au existat şi voci critice a supra-iluminatului de noapte. Deosebit de controversate au fost reclamele cu neoane, care au început să apară în anii 1910 şi '20. Văzute ca nişte spini în ochi pentru peisaj, astfel de lumini au generat temeri pentru depravare morală şi, mai practic, efect negativ asupra siguranţei traficului. Opoziţii similare au condus la apariţia legiferării iluminatului.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Societate</Name>
+                    <Title>Societate</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Din cauza iluminatului artificial noi trăim acum într-o societate de 24 de ore. Asociem lumina cu creşterea productivităţii şi a calităţii vieţii, iar acum locul de muncă, de agrement şi de călătorie nu mai sunt dependente de anotimp sau de timp. Dar aceasta presupune o anumită detaşare de ciclul natural, de viaţa noastră de zi şi de noapte cu perioade fixe de odihnă. Există tot mai multe dovezi că acest lucru are efecte negative asupra sănătăţii noastre.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Iluminatul stradal este adesea asociat cu securitatea. Ideea de a opri astfel de lumini trezeşte frica de întuneric. Afirmaţia că prin creşterea iluminării se reduce criminalitatea rămâne extrem de controversată. Câteva studii arată corelaţia între iluminat şi criminalitate, precum şi diferenţele foarte mari în rata criminalităţii între diferite oraşe care nu dispun de iluminat corespunzător. În unele cazuri, creşterea nivelului de iluminare poate face de fapt mai rău, dacă luminile sunt orbitoare.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Lumina artificială generează costuri. Costurile directe includ instalarea, operarea şi întreţinerea. Costurile indirecte apar prin efectele asupra sănătăţii şi a mediului. Prin urmare, lumina nu ar trebui să fie folosită fără discernământ. Locul, timpul de operare, intensitatea luminii şi spectrul lămpii trebuie să fie toate luate în considerare şi ajustate pentru a se potrivi cu cerinţele actuale. Acest lucru permite luminii să fie utilizată într-un mod eficient şi durabil.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Tehnologia iluminatului</Name>
+                    <Title>Tehnologia iluminatului</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Astăzi avem diferite surse de lumină, toate cu o altă "culoare". Pentru iluminatul stradal, sunt utilizate albul rece al lămpilor cu vapori de mercur (în curs de eliminare), galbenul lămpilor cu sodiu  sau albul LED-urilor. "Culoarea" luminii influenţează percepţia şi starea de spirit, precum şi ceasul nostru intern. Animalele şi plantele reacţionează diferit la culori. Iluminatul, prin urmare, ar trebui să fie adaptat la mediu.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Cu nişte corpuri de iluminat potrivite putem ilumina zona dorită, păstrând în acelaşi timp alte zone întunecate. Un drum ar trebui să fie iluminat într-un mod în care carosabilul şi trotuarele sunt uniform luminate, dar să nu invadeze ferestrele noastre de la dormitor sau să ilumineze zonele naturale din apropiere. Similar, o clădire iluminată nu trebuie să lumineze cerul şi întreaga zonă din jurul acesteia.</Text>
+                        </Page>
+                        <Page>
+                            <Text>În multe zone rezidenţiale nu este nevoie de lumină de-a lungul întregii nopţi. De fapt, unele comunităţi micşorează sau opresc iluminarea lor după miezul nopţii. Folosind senzori de mişcare, lămpile cu LED-uri pot oferi un iluminat foarte flexibil, care poate funcţiona acolo şi atunci când este necesar, păstrând noaptea frumoasă.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+            </SectionList>
+        </Section>
+        <Section>
+            <Name>Sfaturi pentru observaţii</Name>
+            <Title>Sfaturi pentru observaţii</Title>
+            <PageList>
+                <Page>
+                    <Text>Această aplicaţie vă face participant la cercetarea poluării luminoase la nivel mondial. Aceasta este interesantă, dar pe primul loc este siguranţa! Pentru măsurătorile dumneavoastră, vă rugăm să alegeţi un loc sigur. Nu vă mişcaţi în timp ce căutaţi o stea, ca să nu cădeţi peste ceva. Staţi departe de străzi şi margini. Decideţi-vă dacă copiii pot utiliza aplicaţia pe cont propriu, dar este mult mai distractiv observarea stelelor împreună! Iată câteva sfaturi cum să faceţi măsurătorile dumneavoastră mai bine.</Text>
+                </Page>
+                <Page>
+                    <Text>Ochiul uman are nevoie de aproximativ 30 de minute ca să se adapteze la întuneric. Acordaţi-vă timp suficient pentru a vă obişnui cu intensitatea luminii de la locaţia dumneavoastră. Nu vă poziţionaţi direct sub o sursă de lumină, încercaţi să le păstraţi în spate. În acest fel, puteţi măsura luminozitatea cerului, nu luminozitatea sursei de lumină. Ori de câte ori este posibil, folosiţi aplicaţia în modul de noapte, astfel încât ochii dumneavoastră să se adapteze la întuneric şi să nu fie orbiţi.</Text>
+                </Page>
+                <Page>
+                    <Text>Cu fiecare stea observată va creşte precizia măsurătorilor dumneavoastră. Prin urmare, este bine să se măsoare în acelaşi loc, la diferite momente şi zile. De asemenea, fiecare locaţie adaugă un nou punct la harta lumii. Nu contează dacă sunteţi într-un oraş mare sau la ţară, dacă sunteţi acasă sau în vacanţă. Fiecare măsurătoare ajută cercetătorii şi persoanele interesate din întreaga lume să înţeleagă extinderea şi schimbările generate de iluminarea artificială.</Text>
+                </Page>
+            </PageList>
+
+        </Section>
+        <Section>
+            <Name>Despre</Name>
+            <Title>Despre</Title>
+            <SectionList>
+                <Section>
+                    <Name>Imprimare</Name>
+                    <Title>Imprimare</Title>
+                    <PageList>
+                        <Page>
+                            <Text><![CDATA[
+<p><b>Copyright:</b>
+Forschungsverbund Berlin e.V.Rudower Chaussee 1712489 BerlinTel.: 030 63 92 - 33 30E-Mail: info@fv-berlin.de</p>
+<p><b>Developer:</b>interactive scape GmbHKöpenicker Str. 48/4910179 BerlinTel.: +49 (0)30 69 80 94-15E-mail: info@interactive-scape.com</p><p>David Wasser, Yalçı AtaCosalux GmbHChristian-Pleß-Straße 1163069 Offenbach am MainTel.: 069 860072260</p>
+<p>verlustdernacht@igb-berlin.deglobeatnight@noao.edu</p><p>Varianta în Limba Română este realizată prin amabilitatea prof. Cătălin D. Gălăţanu, de la Universitatea Tehnică "Gh.Asachi" din Iaşi</p>
+<p>- Based on code from the Sky Map open source project <i>http://code.google.com/p/stardroid</i>- Uses 'android-wheel' <i>http://code.google.com/p/android-wheel</i>- Uses Apache Commons Math (Apache License, Version 2.0, <i>http://www.apache.org/licenses/</i>:Copyright 2001-2014 The Apache Software FoundationThis product includes software developed atThe Apache Software Foundation (<i>http://www.apache.org/</i>).</p>
+<p>Version: %version%</p>]]></Text>
+                        </Page>
+                        <Page>
+                            <Image>wls_project_info_about_logo_en_</Image>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Sponsorizare</Name>
+                    <Title>Sponsorizare</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Această aplicaţie a fost dezvoltată cu sprijinul financiar al Federal Ministry for Research and Education (BMBF) din Germania în cadrul programului "Research for Sustainable Development" (FONA) având codul de suport 033L038A. Proiectul a fost avizat de către Managementul de Proiect Jülich / Mediu şi dezvoltare durabilă, protecţia climei</Text>
+                            <Image>wls_sponsorship_logo_en_</Image>
+                        </Page>
+                    </PageList>
+                </Section>
+            </SectionList>
+        </Section>
+    </SectionList>
+</Information>

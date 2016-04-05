@@ -1,0 +1,3 @@
+﻿# at most 100 characters including spaces and commas
+
+cittadini scienziati,stelle,inquinamento luminoso,astronomia,costellazioni,notte,buio

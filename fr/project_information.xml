@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!-- FR -->
+<!-- NOTE: This is pure XML (not interpreted as a resource file) so you can't use the "\uxxxx" notation for Unicode 
+            characters. The file is UTF-8 encoded, so you can just use the appropriate characters. Backslash "\" is not 
+            used as an escape character. Only the following characters need to be escaped within the text: &amp; &gt; &lt; 
+--> 
+<Information xmlns="http://www.interactive-scape.com/wls_project_information">
+    <Title>INFORMATION SUR LE PROJET</Title> 
+    <SectionList> 
+        <Section> 
+            <Name>Verlust der Nacht</Name> 
+            <Title>R&#233;seau de recherche  « "Verlust der Nacht »"</Title> 
+            <PageList> 
+                <Page> 
+                    <Text>Nous associons la lumi&#232;re &#224; des concepts comme la s&#233;curit&#233;, la prosp&#233;rit&#233; et le progr&#232;s. Pourtant, m&#234;me si la lumi&#232;re moderne comporte des b&#233;n&#233;fices inestimables, elle a &#233;galement un c&#244;t&#233; n&#233;faste. Nous savons que la lumi&#232;re, principalement le rythme naturel de clart&#233; et d’obscurit&#233;, influence les comportements et la physiologie de presque tous les &#234;tres vivants. Mais la fa&#231;on dont r&#233;agissent les communaut&#233;s vivant dans l’eau et sur terre, particuli&#232;rement les &#234;tres humains, &#224; la lumi&#232;re artificielle, est largement inconnue.</Text> 
+                </Page> 
+                <Page> 
+                    <Text>La vie sans lumi&#232;re artificielle serait difficile &#224; imaginer aujourd’hui, mais quelles sont les cons&#233;quences de cet &#233;clairage? Le groupe « Verlust der Nacht » &#233;tudie les effets &#233;cologiques, culturels, &#233;conomiques et sociosanitaires de l’&#233;clairage artificiel, de m&#234;me que les raisons pour lesquelles l’&#233;clairage nocturne va constamment en s’accentuant. Ces recherches vont permettre de d&#233;velopper des syst&#232;mes d’&#233;clairage am&#233;lior&#233;s et des technologies durables qui vont minimiser les effets n&#233;gatifs de la lumi&#232;re artificielle, mais sans en sacrifier les  b&#233;n&#233;fices. </Text> 
+                </Page> 
+                <Page> 
+                    <Text>Le r&#233;seau de recherche est financ&#233; par le programme-cadre de « Recherche pour le d&#233;veloppement durable » (FONA) du minist&#232;re f&#233;d&#233;ral de la Recherche et de l’Enseignement (BMBF) et par le d&#233;partement du S&#233;nat pour l’&#233;conomie, la technologie et la recherche de la ville de Berlin.</Text> 
+                </Page> 
+                <Page> 
+                    <Text>Le r&#233;seau de recherche est constitu&#233; de scientifiques en sciences sociales et en environnement, d‘astronomes et d’ing&#233;nieurs des institutions et organismes suivants :</Text> 
+                    <Image>wls_project_info_logos_</Image> 
+                </Page> 
+            </PageList> 
+        </Section> 
+        <Section> 
+            <Name>GLOBE at Night</Name> 
+            <Title>GLOBE at Night</Title> 
+            <PageList> 
+                <Page> 
+                    <Text>Brille, brille petite &#233;toile – et dis-moi o&#249; tu es! Les villes sont si lumineuses que des milliers d’&#233;toiles ne sont plus visibles dans nos cieux. Le nombre d’&#233;toiles visibles &#224; un endroit pr&#233;cis est un indicateur de la pollution lumineuse.  Depuis 2006, des milliers de personnes dans le monde entier ont compt&#233; les &#233;toiles. L’initiative « Globe at Night » (www.GLOBEatNight.org) enregistre ces informations et les int&#232;gre dans des cartes de luminosit&#233;.  La pollution lumineuse peut ainsi &#234;tre cartographi&#233;e.</Text> 
+                </Page> 
+                <Page> 
+                    <Text>Aidez-nous &#224; mesurer la pollution lumineuse! Chaque nouvelle parcelle d’information aide &#224; cartographier la pollution lumineuse. Plusieurs mesures &#224; un m&#234;me endroit rendent les donn&#233;es plus pr&#233;cises et des mesures &#224; de nouvelles positions aident &#224; bonifier davantage la carte de luminosit&#233; mondiale. Que vous soyez en plein centre-ville ou dans un endroit recul&#233;, toutes les mesures comptent! Puisque l’application fonctionne partout dans le monde et m&#234;me hors-ligne, vous pouvez cartographier la pollution lumineuse o&#249; que vous soyez, m&#234;me en vacances!</Text> 
+                </Page> 
+                <Page> 
+                    <Text>En comparant les donn&#233;es de diff&#233;rentes ann&#233;es, nous pouvons d&#233;celer les changements de luminosit&#233;. C’est pourquoi il nous est tr&#232;s utile que des mesures soient prises fr&#233;quemment &#224; un m&#234;me endroit. Par exemple, simplement &#224; l’ext&#233;rieur de votre maison. En utilisant les donn&#233;es que vous nous aidez &#224; amasser, nous pouvons continuer &#224; surveiller la pollution lumineuse. Ces donn&#233;es peuvent ensuite &#234;tre utilis&#233;es dans des recherches scientifiques qui visent la compr&#233;hension de l’effet de la lumi&#232;re nocturne sur, par exemple, les activit&#233;s &#233;conomiques de la r&#233;gion, la distribution des animaux, et m&#234;me l’occurrence de certaines maladies.</Text> 
+                </Page> 
+            </PageList> 
+        </Section> 
+        <Section> 
+            <Name>Pollution lumineuse</Name> 
+            <Title>Pollution lumineuse</Title> 
+            <SectionList> 
+                <Section> 
+                    <Name>Qu’est-ce que la pollution lumineuse?</Name> 
+                    <Title> Qu’est-ce que la pollution lumineuse?</Title> 
+                    <PageList> 
+                        <Page> 
+                            <Text>Depuis l’apparition des lampes &#233;lectriques, nos nuits sont de plus en plus claires. L’&#233;clairage repr&#233;sente 19 % de notre consommation &#233;lectrique, ce qui &#233;quivaut &#224; 1 900 tonnes d’&#233;mission de CO2. Les principales sources de lumi&#232;re sont les lampadaires routiers, l’&#233;clairage des b&#226;timents et les enseignes publicitaires illumin&#233;es. L’&#233;clairage routier consomme &#224; lui seul 114 TWh par ann&#233;e dans le monde. Une partie de cette lumi&#232;re demeure inutilis&#233;e, &#233;clairant le ciel en vain. La r&#233;duction de cette pollution lumineuse permettrait des &#233;conomies d’argent et d’&#233;nergie.</Text> 
+                        </Page> 
+                        <Page> 
+                            <Text>La pollution lumineuse ne fait pas que consommer de l’&#233;nergie, elle peut aussi nuire &#224; plusieurs organismes vivants. Les soup&#231;ons de liens entre la pollution lumineuse et des probl&#232;mes de sant&#233; vont en augmentant. Des mesures pour contrer la pollution lumineuse devraient donc &#234;tre prises particuli&#232;rement dans les r&#233;gions r&#233;sidentielles et &#233;cologiquement importantes. Ces mesures ne visent pas &#224; &#233;teindre toute lumi&#232;re artificielle, mais impliquent plut&#244;t de repenser et de remodeler notre utilisation des syst&#232;mes d’&#233;clairage. Des lampes &#224; « &#224; d&#233;fil&#233; complet », des syst&#232;mes d’&#233;clairage contr&#244;l&#233;s selon la demande, et l’emploi d’appareils offrant un spectre lumineux ad&#233;quat pourraient jouer un r&#244;le majeur dans la diminution du probl&#232;me de pollution lumineuse.</Text> 
+                        </Page> 
+                    </PageList> 
+                </Section> 
+                <Section> 
+                    <Name>Astronomie</Name> 
+                    <Title>Astronomie</Title> 
+                    <PageList> 
+                        <Page> 
+                            <Text>Depuis la pr&#233;histoire, les &#233;toiles ont accompagn&#233; les humains dans leur d&#233;veloppement. Dans plusieurs cultures, elles ont &#233;t&#233; associ&#233;es aux d&#233;it&#233;s et leur naissance a &#233;t&#233; source de mythes et de l&#233;gendes. De fa&#231;on plus prosa&#239;que, les &#233;toiles ont &#233;t&#233; les assises qui nous ont permis de naviguer et de mesurer le temps.  Les soci&#233;t&#233;s modernes appr&#233;cient la beaut&#233; des &#233;toiles et, &#224; travers elles, se rappellent qu’elles ne sont qu’une petite fraction de l’univers. Pour plus de 70 % de la population mondiale, le ciel nocturne est maintenant trop clair pour discerner la Voie lact&#233;e.</Text> 
+                        </Page> 
+                        <Page> 
+                            <Text>Pour les astronomes, la luminosit&#233; du ciel est un probl&#232;me majeur. D&#232;s 1913, l’observatoire de Berlin a &#233;t&#233; forc&#233; de d&#233;m&#233;nager &#224; Potsdam parce que le ciel de la capitale &#233;tait trop lumineux. De nos jours, les astronomes doivent voyager &#224; des endroits encore plus recul&#233;s, comme &#224; l’&#238;le de T&#233;n&#233;rife ou dans des zones peu habit&#233;es du Chili, pour acc&#233;der aux derniers &#238;lots de ciel noir. La plupart des astronomes amateurs ne peuvent se permettre ce luxe. De m&#234;me, plusieurs personnes &#226;g&#233;es sont nostalgiques du ciel &#233;toil&#233; de leur enfance, alors que la plupart des enfants d’aujourd’hui ne pourront jamais s’&#233;merveiller &#224; la vue incroyable d’un magnifique ciel &#233;toil&#233;.</Text> 
+                        </Page> 
+                    </PageList> 
+                </Section> 
+                <Section> 
+                    <Name>Chronobiologie/Sant&#233;</Name> 
+                    <Title>Chronobiologie/Sant&#233;</Title> 
+                    <PageList> 
+                        <Page> 
+                            <Text>Plusieurs processus physiologiques essentiels de notre corps se synchronisent avec le cycle de lumi&#232;re et d’obscurit&#233;. Ces m&#233;canismes incluent le cycle d’&#233;veil et de sommeil, la s&#233;cr&#233;tion de plusieurs hormones, et le cours journalier de variation de la temp&#233;rature corporelle et du battement cardiaque. Ces cycles corporels sont contr&#244;l&#233;s par une horloge interne qui, pour les mammif&#232;res comme les humains, se retrouve dans l’hypothalamus, une partie du dienc&#233;phale. Cette horloge synchronise toutes les cellules de notre corps au rythme journalier de lumi&#232;re et d’obscurit&#233;.</Text> 
+                        </Page> 
+                        <Page> 
+                            <Text>La lumi&#232;re indique &#224; notre horloge interne s’il fait jour ou nuit. &#192; l’obscurit&#233;, l’hormone m&#233;latonine est produite. Elle conduit &#224; la fatigue et pr&#233;pare le corps au repos, le pouls et la respiration ralentissent, la temp&#233;rature corporelle chute. La lumi&#232;re artificielle diminue la s&#233;cr&#233;tion de m&#233;latonine. Notamment, les rayons de lumi&#232;re blancs froids des DELs et des &#233;crans d’ordinateur nous tiennent &#233;veill&#233;s, notre horloge interne recevant des informations erron&#233;es. Notre rythme interne s’en trouve perturb&#233; ce qui conduit &#224; un sommeil de moindre qualit&#233;.</Text> 
+                        </Page> 
+                        <Page> 
+                            <Text>Une personne qui produit trop peu de m&#233;latonine est m&#234;me susceptible de devenir insomniaque. Le syst&#232;me immunitaire peut &#233;galement &#234;tre affaibli de fa&#231;on consid&#233;rable, puisque la m&#233;latonine active les d&#233;fenses du corps contre les pathog&#232;nes et combat le cancer en tant qu’antioxydant. Il existe aussi certains indices reliant le faible taux de m&#233;latonine &#224; l’ob&#233;sit&#233; et au diab&#232;te. Bref, dormir dans le noir complet est loin d’&#234;tre un caprice, il s’agit plut&#244;t d’une part importante d’un mode de vie sain.</Text> 
+                        </Page> 
+                    </PageList> 
+                </Section> 
+                <Section> 
+                    <Name>&#233;cologie</Name> 
+                    <Title>&#233;cologie</Title> 
+                    <PageList> 
+                        <Page> 
+                            <Text>Plusieurs animaux utilisent la lumi&#232;re de la lune et des &#233;toiles pour s’orienter, mais l’&#233;clairage artificiel peut masquer cette lumi&#232;re naturelle, entra&#238;nant des cons&#233;quences bien r&#233;elles. Des millions d’oiseaux meurent &#224; cause d’une collision avec des structures &#233;clair&#233;es. Les tortues fra&#238;chement &#233;closes ne se dirigent pas vers l’oc&#233;an &#233;tincelant, mais vers les lumi&#232;res artificielles de la terre ferme o&#249; elles s&#232;chent et meurent. Le nombre incalculable d’insectes qui meurent autour des lampes sont autant de contributeurs vitaux &#224; la pollinisation et &#224; la cha&#238;ne alimentaire qui sont soustraits des &#233;cosyst&#232;mes.</Text> 
+                        </Page> 
+                        <Page> 
+                            <Text>Les animaux ont &#233;volu&#233; non seulement de mani&#232;re &#224; occuper les niches &#233;cologiques de diff&#233;rents habitats, mais ils se sont &#233;galement adapt&#233;s &#224; une certaine p&#233;riode du jour : plusieurs sont soit diurnes, soit nocturnes. Si la lumi&#232;re artificielle peut &#233;tendre la p&#233;riode d’activit&#233; des animaux diurnes, plusieurs animaux nocturnes vont plut&#244;t &#233;viter la lumi&#232;re. 30 % des vert&#233;br&#233;s et 60 % des invert&#233;br&#233;s sont des esp&#232;ces nocturnes.  &#192; cause de la pollution lumineuse, ces esp&#232;ces perdent leur habitat nocturne, les cons&#233;quences sur la biodiversit&#233; sont encore difficiles &#224; pr&#233;voir.</Text> 
+                        </Page> 
+                        <Page> 
+                            <Text>Le changement de la dur&#233;e du jour est un facteur important dans le d&#233;clenchement des adaptations saisonni&#232;res de la faune et de la flore. Lorsque les jours deviennent plus courts, les plantes perdent leurs feuilles et les animaux se pr&#233;parent &#224; l’hiver en accumulant de la graisse ou en effectuant leur migration. Si la longueur des jours est augment&#233;e par l’&#233;clairage artificiel, certaines esp&#232;ces seront mal pr&#233;par&#233;es pour l’hiver. Dans certains cas, cela peut m&#234;me leur &#234;tre fatal.</Text> 
+                        </Page> 
+                    </PageList> 
+                </Section> 
+                <Section> 
+                    <Name>Histoire culturelle</Name> 
+                    <Title>Histoire culturelle</Title> 
+                    <PageList> 
+                        <Page> 
+                            <Text>La lumi&#232;re artificielle est un symbole de progr&#232;s et de prosp&#233;rit&#233;. Lors de l’apparition des lampes &#233;lectriques au cours des ann&#233;es 1880, les villes comme Berlin ont fait de cet &#233;clairage la d&#233;monstration orgueilleuse de leur modernit&#233; urbaine. Les villes devenant de plus en plus lumineuses, l’obscurit&#233; s’associait maintenant au sous-d&#233;veloppement, au danger et &#224; la pauvret&#233;. Politiquement, l’illumination ostentatoire a &#233;t&#233; utilis&#233;e de plus en plus comme une manifestation de pouvoir de certains &#233;tats (par exemple, au rallye de Nuremberg pendant le Troisi&#232;me Reich).</Text> 
+                        </Page> 
+                        <Page> 
+                            <Text>Certaines personnes ont toutefois d&#233;nonc&#233; le sur&#233;clairage de nos nuits. Les enseignes au n&#233;on, qui sont apparues dans les ann&#233;es 1910 et 1920, ont particuli&#232;rement suscit&#233; la controverse. Ces panneaux lumineux &#233;taient per&#231;us comme des horreurs g&#226;chant le paysage et faisaient craindre l’encouragement &#224; la perversion sociale. De fa&#231;on plus terre-&#224;-terre, on anticipait que leur utilisation entra&#238;nerait des effets n&#233;fastes sur la circulation. Ce sont des critiques de ce genre qui ont conduit aux premi&#232;res l&#233;gislations sur l’&#233;clairage.</Text> 
+                        </Page>
+                    </PageList> 
+                </Section> 
+                <Section> 
+                    <Name>Soci&#233;t&#233;</Name> 
+                    <Title>Soci&#233;t&#233;</Title> 
+                    <PageList> 
+                        <Page> 
+                            <Text>&#192; cause de la lumi&#232;re artificielle, nous vivons maintenant dans une soci&#233;t&#233; active 24 heures par jour. Nous associons la lumi&#232;re avec une augmentation de la productivit&#233; et une meilleure qualit&#233; de vie puisque le travail, le divertissement et le voyage ne d&#233;pendent plus du temps ou des saisons. Mais cet &#233;tat de choses entra&#238;ne une d&#233;synchronisation entre nos activit&#233;s et notre cycle de vie naturel. De plus en plus d’&#233;l&#233;ments indiquent que ces perturbations affectent notre sant&#233;.</Text> 
+                        </Page> 
+                        <Page> 
+                            <Text>L’&#233;clairage public est souvent associ&#233; au sentiment de s&#233;curit&#233;. La perspective d’&#233;teindre les lumi&#232;res &#233;veille chez nous la peur de l’obscurit&#233;. Le lien entre l’augmentation de l’&#233;clairage des rues et la r&#233;duction de la criminalit&#233; demeure pourtant hautement controvers&#233;. En fait, peu d’&#233;tudes montrent une corr&#233;lation entre l’&#233;clairage et la criminalit&#233;, et l’&#233;norme diff&#233;rence entre les taux de criminalit&#233; des diff&#233;rentes villes n’est pas explicable par leur &#233;clairage. Dans certains cas, l’augmentation de l’&#233;clairage peut nuire &#224; la vision nocturne si les lumi&#232;res employ&#233;es sont &#233;blouissantes.</Text> 
+                        </Page> 
+                        <Page> 
+                            <Text>La lumi&#232;re artificielle est co&#251;teuse. Les co&#251;ts directs incluent l’installation, l’exploitation et l’entretien des infrastructures d’&#233;clairage. Les co&#251;ts indirects proviennent de ses effets sur la sant&#233; et l’environnement. Cons&#233;quemment, les syst&#232;mes d’&#233;clairage devraient &#234;tre utilis&#233;s avec discernement. L’emplacement, la p&#233;riode d’utilisation, l’intensit&#233; lumineuse et le spectre d’&#233;mission des lampes devraient &#234;tre consid&#233;r&#233;s et ajust&#233;s selon les besoins r&#233;els d’&#233;clairage. Ces consid&#233;rations permettraient d’utiliser l’&#233;clairage de fa&#231;on efficace et durable.</Text> 
+                        </Page> 
+                    </PageList> 
+                </Section> 
+                <Section> 
+                    <Name>Technologies d’&#233;clairage</Name> 
+                    <Title>Technologies d’&#233;clairage</Title> 
+                    <PageList> 
+                        <Page> 
+                            <Text>De nos jours, nous disposons de sources vari&#233;es de lumi&#232;re, avec chacune leur propre couleur. Dans le cas de l’&#233;clairage routier, les lampes blanches au mercure, les lampes jaunes au sodium &#224; haute pression ou les DELs blanches sont les plus utilis&#233;es. La couleur de la lampe influence notre perception et notre humeur de m&#234;me que notre horloge interne. Les plantes et les animaux r&#233;agissent diff&#233;remment aux diff&#233;rentes longueurs d'onde, c’est-&#224;-dire &#224; la couleur, des lampes artificielles. L’&#233;clairage devrait par cons&#233;quent &#234;tre ajust&#233; en fonction de l’environnement &#233;clair&#233;.</Text> 
+                        </Page> 
+                        <Page> 
+                            <Text>En utilisant la bonne lampe, nous pouvons illuminer la r&#233;gion n&#233;cessaire tout en conservant le reste de l’environnement dans l’obscurit&#233;. Les voies de circulation devraient &#234;tre &#233;clair&#233;es de fa&#231;on &#224; ce que la rue et les trottoirs re&#231;oivent une lumi&#232;re uniforme, sans toutefois envahir les fen&#234;tres de nos chambres &#224; coucher ou les aires naturelles environnantes. De m&#234;me, il n’est pas n&#233;cessaire que l’&#233;clairage d’un b&#226;timent illumine le ciel et tout le voisinage. Un &#233;clairage bien con&#231;u est esth&#233;tique, &#233;conomise argent et &#233;nergie et ne nuit pas aux gens et &#224; la nature.</Text> 
+                        </Page> 
+                        <Page> 
+                            <Text>Dans plusieurs r&#233;gions r&#233;sidentielles, l’&#233;clairage n’est pas requis durant toute la nuit. Dans certains quartiers d’habitation, l’&#233;clairage public est m&#234;me r&#233;duit ou ferm&#233; apr&#232;s minuit. En utilisant des d&#233;tecteurs de mouvement, les lampes DELs peuvent fournir un &#233;clairage sur demande, ce qui permet de conserver de nos belles nuits noires.</Text> 
+                        </Page> 
+                    </PageList> 
+                </Section> 
+            </SectionList> 
+        </Section> 
+        <Section> 
+            <Name>Conseils pour les astronomes </Name> 
+            <Title>Conseils pour les astronomes</Title> 
+            <PageList> 
+                <Page> 
+                    <Text>En utilisant cette application, vous participez &#224; une recherche internationale sur la lumi&#232;re. C’est excitant, mais restons prudents! Lors de vos prises de mesures, choisissez un endroit s&#251;r. Ne vous d&#233;placez pas lorsque vous cherchez les &#233;toiles, vous &#233;viterez ainsi de tr&#233;bucher sur quelque chose. Restez &#224; une distance raisonnable des rues et des foss&#233;s. D&#233;cidez si vos enfants peuvent utiliser l’application par eux-m&#234;mes ou s’ils ont besoin de supervision. Souvenez-vous, l’observation d’&#233;toiles est une activit&#233; encore plus amusante en groupe! Voici quelques conseils pour am&#233;liorer vos mesures.</Text> 
+                </Page> 
+                <Page> 
+                    <Text>L’œil humain n&#233;cessite environ 30 minutes pour s’ajuster &#224; l’obscurit&#233;. Laissez-vous suffisamment de temps pour vous habituer &#224; l’intensit&#233; lumineuse de votre emplacement. Ne vous placez pas directement sous une source de lumi&#232;re, essayez plut&#244;t de lui tourner le dos. De cette fa&#231;on, vous pourrez mesurer la luminosit&#233; du ciel, non celle des lampes qui vous entourent. Autant que possible, utilisez l’application en mode nuit, de fa&#231;on &#224; ce que vos yeux s’ajustent &#224; l’obscurit&#233; et que vous ne soyez pas aveugl&#233; par votre appareil.</Text> 
+                </Page> 
+                <Page> 
+                    <Text>Chaque observation d’&#233;toile augmentera la pr&#233;cision de vos mesures. Cons&#233;quemment, c’est une bonne chose d’utiliser l’application au m&#234;me endroit, mais &#224; diff&#233;rentes heures et &#224; plusieurs jours d’intervalle. &#201;galement, toute nouvelle observation ajoute une donn&#233;e suppl&#233;mentaire &#224; la carte mondiale. Que vous soyez en plein centre-ville ou &#224; la campagne, &#224; la maison ou en voyage, toutes les mesures comptent et aident les chercheurs et les citoyens enthousiastes du monde entier &#224; mieux comprendre les effets de la pollution lumineuse.</Text> 
+                </Page> 
+            </PageList> 
+ 
+        </Section> 
+        <Section> 
+            <Name>&#192; propos</Name> 
+            <Title>&#192; propos</Title> 
+            <SectionList> 
+                <Section> 
+                    <Name>Mentions l&#233;gales</Name> 
+                    <Title>Mentions l&#233;gales</Title> 
+                    <PageList> 
+                        <Page> 
+                            <Text><![CDATA[ 
+<p><b>Copyright:</b> 
+Forschungsverbund Berlin e.V. 
+Rudower Chaussee 17 
+12489 Berlin 
+Tel.: 030 63 92 - 33 30 
+E-Mail: info@fv-berlin.de</p> 
+ 
+<p><b>Developer:</b> 
+interactive scape GmbH
+Köpenicker Str. 48/49
+10179 Berlin
+Tel.: +49 (0)30 69 80 94-15
+E-mail: info@interactive-scape.com
+</p>
+
+<p>David Wasser, Yalçı Ata
+Cosalux GmbH
+Christian-Pleß-Straße 11
+63069 Offenbach am Main
+Tel.: 069 860072260</p>
+ 
+<p>verlustdernacht@igb-berlin.de 
+globeatnight@noao.edu</p> 
+
+<p>La traduction française a été effectuée gracieusement par Olivier Domingue, Johanne Roby, Martin Aubé, Malcolm St. John (Cégep de Sherbrooke) et Romain Clément (IGB Berlin).</p>
+ 
+<p>- Based on code from the Sky Map open source project 
+<i>http://code.google.com/p/stardroid</i> 
+- Uses 'android-wheel' 
+<i>http://code.google.com/p/android-wheel</i>
+- Uses Apache Commons Math (Apache License, Version 2.0, <i>http://www.apache.org/licenses/</i>:
+Copyright 2001-2014 The Apache Software Foundation
+This product includes software developed at
+The Apache Software Foundation (<i>http://www.apache.org/</i>).</p> 
+ 
+<p>Version: %version%</p> 
+]]></Text> 
+                        </Page> 
+                        <Page> 
+                            <Image>wls_project_info_about_logo_en_</Image> 
+                        </Page> 
+                    </PageList> 
+                </Section> 
+                <Section> 
+                    <Name>Soutien financier</Name> 
+                    <Title>Soutien financier</Title> 
+                    <PageList> 
+                        <Page> 
+                            <Text>Cette application a &#233;t&#233; d&#233;velopp&#233;e gr&#226;ce au soutien financier du programme-cadre de « Recherche pour le d&#233;veloppement durable » (FONA) du minist&#232;re f&#233;d&#233;ral de la Recherche et de l’Enseignement (BMBF). Le code de r&#233;f&#233;rence est le 033L038A. Le projet a &#233;t&#233; recommand&#233; par le gestionnaire de projet Jülich/Environnement et d&#233;veloppement durable, Protection du climat.</Text> 
+                            <Image>wls_sponsorship_logo_en_</Image> 
+                        </Page> 
+                    </PageList> 
+                </Section> 
+            </SectionList> 
+        </Section> 
+    </SectionList> 
+</Information>

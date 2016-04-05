@@ -1,0 +1,23 @@
+﻿"Zapojte se do celosvetového projektu obcanské vedy." (The Guardian)
+"Zjistete, jak zlé svetelné znecištení doopravdy je." (Chandra Clarke, citizensciencecenter.com)
+"Používání aplikace už nemuže být jednodušší a naucíte se pri nem i rozpoznat jednotlivá souhvezdí." (Nicholas Fordes, plos.org)
+
+S aplikací Loss of the Night se vaše oci zmení v jasomery, s jejichž pomocí se stanete obcanskými vedci a zjistíte, jak svetlá je vaše nocní obloha! 
+
+V mnoha cástech sveta je nocní obloha prezárena neužitecným svetlem ze špatne navrženého poulicního osvetlení. Hvezdy zanikají v jasu oblohy, který dramaticky mení nocní prírodní prostredí. Vedci se obávají, že svetelné znecištení muže mít velký dopad na nocní ekosystémy; mají ovšem príliš málo informací o tom, jak svetlé je nocní nebe v ruzných cástech sveta a jak se s postupem casu mení jas oblohy. 
+
+Práve jas oblohy mužete pomoci monitorovat s touto aplikací! Aplikace je založena na Google Sky Map a merení provádíte pomocí velmi citlivého, stabilního a prozkoumaného jasomeru: svých ocí! To jediné, co musíte delat, je najít s pomocí aplikace konkrétní hvezdy na obloze a ríci nám, zda jsou viditelné ci ne. Použití aplikace Loss of the Night je nejen zábavná, ale i poucná aktivita, jež zároven produkuje duležité vedecké informace, které nám v budoucnosti mohou pomoci lépe chránit životní prostredí.
+
+Poté, co merení dokoncíte, budou vaše data anonymne odeslána do projektu GLOBE at Night (http://www.GLOBEatNight.org), kde je mužete sledovat na mape a srovnat s dalšími pozorováními z celého sveta. Pocítání hvezd je skvelým zážitkem i rodinnou aktivitou, pri které se naucíte jména hvezd a souhvezdí bez velkého úsilí. Také studenti mohou využít aplikaci k merení jasu oblohy a viditelosti hvezd pro své vlastní výzkumné projekty a zároven být soucástí celosvetové síte obcanské vedy.
+
+Pro projekt jsou nejduležitejšími informacemi merení z lokalit, kde lze spatrit už jenom málo hvezd; vítáme ale i merení z míst, kde je Mlécná dráha stále viditelná. Pokud máte to štestí, že se na takovém míste nacházíte, dejte o nem vedet i ostatním!
+
+Satelity nesledují oblohu, ale pouze povrch Zeme. Srovnáním jasu oblohy s jasem zemského povrchu pomužete obcím a mestum zjistit, jaké typy lamp skutecne osvetlují ulice a nikoliv nebe. Doufejme, že jednou v budoucnosti budou mesta šetrit energií i penezmi, se správne osvetlenými ulicemi, tmavými ložnicemi a nebem opet plným hvezd.
+
+Podrobnejší informace, vcetne detailu z predbežných výsledku, najdete na projektovém blogu: http://lossofthenight.blogspot.com
+
+Neváhejte kontaktovat výzkumníky svetelného znecištení, kterí vytvorili tuto aplikaci, a dozvedet se neco o dalších projektech výzkumné síte Verlust der Nacht(http://www.verlustdernacht.de). Tato aplikace také poskytuje základní informace o historii, významu a dopadech umelého osvetlení v noci.
+
+Tento projekt byl financne podporen nemeckým Spolkovým ministerstvem školství a výzkumu.
+
+Do ceštiny preložili Milada Moudrá a Michal Bareš z Ceské astronomické spolecnosti.

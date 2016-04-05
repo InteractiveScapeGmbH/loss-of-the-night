@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DE -->
+<!-- NOTE: This is pure XML (not interpreted as a resource file) so you can't use the "\uxxxx" notation for Unicode
+            characters. The file is UTF-8 encoded, so you can just use the appropriate characters. Backslash "\" is not
+            used as an escape character. Only the following characters need to be escaped within the text: &amp; &gt; &lt;
+-->
+<Information xmlns="http://www.interactive-scape.com/wls_project_information">
+    <Title>PROJEKTINFORMATION</Title>
+    <SectionList>
+        <Section>
+            <Name>Verlust der Nacht</Name>
+            <Title>Forschungsverbund "Verlust der Nacht"</Title>
+            <PageList>
+                <Page>
+                    <Text>Licht verbinden wir mit positiven Werten wie Sicherheit, Wohlstand und Modernität. Doch was unschätzbare Vorteile bringt, hat auch Schattenseiten. So wissen wir zwar, dass Licht - vor allem der natürliche Rhythmus von Hell und Dunkel -Verhalten und Physiologie fast aller Lebewesen beeinflusst. Doch wie und warum die einzelnen Lebensgemeinschaften im Wasser und an Land und insbesondere der Mensch auf künstliche Lichteinflüsse reagieren, ist weitestgehend unbekannt.</Text>
+                </Page>
+                <Page>
+                    <Text>Ein Leben ohne künstliches Licht ist heute kaum vorstellbar. Daher untersucht das interdisziplinäre Verbundprojekt "Verlust der Nacht" die ökologischen, gesundheitlichen sowie kulturellen und sozioökonomischen Auswirkungen, aber auch die Ursachen für die zunehmende Beleuchtung der Nacht. So sollen Lösungsansätze für moderne Beleuchtungskonzepte und nachhaltige Techniken entstehen, die die negativen Auswirkungen von künstlichem Licht minimieren, ohne auf seine Vorzüge verzichten zu müssen.</Text>
+                </Page>
+                <Page>
+                    <Text>Der Forschungsverbund wird gefördert vom Bundesministerium für Bildung und Forschung (BMBF) im Rahmenprogramm "Forschung für nachhaltige Entwicklungen" (FONA) und von der Stadt Berlin, Senatsverwaltung für Wirtschaft, Technologie und Forschung.</Text>
+                </Page>
+                <Page>
+                    <Text>An dem Forschungsverbund beteiligt sind Sozial- und Naturwissenschaftler, Astronomen und Ingenieure aus folgenden Instituten und Einrichtungen:</Text>
+                    <Image>wls_project_info_logos_</Image>
+                </Page>
+            </PageList>
+        </Section>
+        <Section>
+            <Name>GLOBE at Night</Name>
+            <Title>GLOBE at Night</Title>
+            <PageList>
+                <Page>
+                    <Text>Weißt du wie viel Sternlein stehen? In der Stadt ist so hell, dass tausende von Sternen unsichtbar werden. Die Angabe, wie viele Sterne an einem Ort sichtbar sind gibt Rückschlüsse auf die Lichtverschmutzung. Seit 2006 zählen tausende von interessierten Menschen weltweit die Sterne. Die Daten erhält Globe at Night (www.GLOBEatNight.org), die daraus Helligkeitskarten erstellen. So dokumentieren sie das Ausmaß der Lichtverschmutzung.</Text>
+                </Page>
+                <Page>
+                    <Text>Mit dieser App können auch Sie mithelfen, Lichtverschmutzung zu messen. Jeder Datensatz hilft, die Helligkeitskarte genauer zu machen. Viele Messungen an einem Ort machen den Messwert genauer, aber jeder Ort, an dem gemessen wird, erweitert die Karte. Egal, ob mitten in der Stadt oder in einem abgelegenen Stück Wildnis, jeder Messpunkt zählt! Und da die App weltweit auch ohne Internetverbindung funktioniert, können Sie uns auch gerne Messungen aus dem Urlaub schicken.</Text>
+                </Page>
+                <Page>
+                    <Text>Anhand der Daten, die Sie mithelfen zu erheben, kann der Status Quo der Lichtverschmutzung ermittelt werden. Vergleicht man Daten aus verschiedenen Jahren miteinander, treten Veränderungen zutage. Deshalb können an einem Punkt gerne wiederholt Messungen stattfinden! In weiterführenden Untersuchungen können diese Daten beispielsweise mit Informationen zur Verbreitung von Krankheiten sowie von Tier- und Pflanzenarten in Verbindung gesetzt werden oder mit der wirtschaftlichen Kraft eines Raumes.</Text>
+                </Page>
+            </PageList>
+        </Section>
+        <Section>
+            <Name>Lichtverschmutzung</Name>
+            <Title>Lichtverschmutzung</Title>
+            <SectionList>
+                <Section>
+                    <Name>Lichtverschmutzung</Name>
+                    <Title>Was ist Lichtverschmutzung</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Seit der Einführung des elektrischen Lichts erhellen sich unsere Nächte ständig. Zurzeit wächst die Beleuchtung global um 6%% pro Jahr. Beleuchtung macht 19% des Stromverbrauchs aus, das entspricht 1900 Mill. Tonnen CO2. Die Hauptquellen für Lichtverschmutzung sind Straßen-, Gebäude- und Werbebeleuchtungen. Allein Straßenbeleuchtung verbraucht weltweit 114 TWh pro Jahr. Dabei Licht ungenutzt, das in den Himmel strahlt. Eine Verringerung dieser Lichtverschmutzung würde Energie und Geld sparen.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Lichtverschmutzung verbraucht nicht nur Energie, sondern kann auch vielen Lebewesen schaden. Auch Hinweise auf Gesundheitsschäden mehren sich. In Wohngebieten und ökologisch wichtige Bereichen sollten daher Gegenmaßnahmen ergriffen werden. Das heißt nicht zwangsläufig Licht ausschalten. Viel kann gewonnen werden durch gut designte Lampen, bedarfsgerechte Schaltung und das richtige Lichtspektrum.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Astronomie</Name>
+                    <Title>Astronomie</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Seit Urzeiten begleiten die Sterne am Himmel den Menschen in seiner Entwicklung: Sie sind Sitz von Gottheiten, und um ihre Entstehung ranken sich Sagen. Für Navigation und Zeitmessung bildeten sie die Grundlage. Moderne Gesellschaften genießen die Schönheit der Sterne und werden daran erinnert, dass wir nur ein kleiner Teil des Universums sind. Doch für mehr als 70% der Weltbevölkerung ist der Nachthimmel heute zu hell erleuchtet, um die Milchstraße zu sehen.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Für die Wissenschaft ist die Erhellung des Nachthimmels ein Problem. Bereits 1913 musste die Sternwarte Berlin nach Potsdam umsiedeln, weil Berlin zu hell war. Heute ziehen Astronomen in noch entlegenere Gebiete wie Teneriffa und Chile, um einen dunklen Himmel zu finden. Diesen Luxus können sich viele Hobbyastronomen nicht leisten. Viele ältere Menschen vermissen den Sternenhimmel aus ihrer Kindheit, während die meisten Kinder heute diesen überwältigenden Anblick nie genießen durften.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Gesundheit</Name>
+                    <Title>Chronobiologie/Gesundheit</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Viele Vorgänge im Körper folgen den rhythmischen Veränderungen von Hell und Dunkel. Dazu gehören der Schlaf-Wach-Rhythmus, verschiedene Hormonproduktionen sowie der tägliche Verlauf von Körpertemperatur und Herzschlag. Gesteuert wird dieser Körperrhythmus von einer Inneren Uhr, die bei Säugern wie dem Menschen im Hypothalamus, einem Teil des Zwischenhirns sitzt. Sie synchronisiert alle Zellen unseres Körpers mit dem Tag-Nacht-Rhythmus.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Licht sagt unserer Inneren Uhr, ob Tag oder Nacht ist. In Dunkelheit wird Melatonin gebildet, das uns Menschen müde macht und unseren Körper in einen Ruhezustand versetzt. Herzschlag und Atmung werden langsamer, unsere Körpertemperatur sinkt ab. Künstliches Licht aber unterdrückt die Bildung von Melatonin. Besonders kaltweißes Licht von LEDs und Computermonitoren macht uns wach. Das kann die Innere Uhr aus dem Takt bringen und dafür sorgen, dass wir nicht lang oder tief genug schlafen.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Wird nicht genug Melatonin produziert, führt das zu Schlafstörungen. Es  kann aber auch das Immunsystem schwächen, denn Melatonin aktiviert die Abwehr von Erregern und bekämpft als Antioxidant Krebszellen. Ebenso werden Zusammenhänge mit Übergewicht und Diabetes vermutet. Gesunder Schlaf in Dunkelheit ist also nicht nur Luxus, sondern wichtig für ein gesundes Leben.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Ökologie</Name>
+                    <Title>Ökologie</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Viele Tiere nutzen das Licht von Mond und Sternen als Orientierung. Künstliches Licht überstrahlt dieses jedoch, wodurch viele Tiere irritiert werden. Millionen Vögel sterben jährlich durch Kollisionen mit beleuchteten Strukturen oder kreisen stundenlang im Lichtstrahl von Skybeamern. Frischgeschlüpfte Schildkröten wandern nicht ins Meer, sondern ins erleuchtete Inland, wo sie vertrocknen. Insekten, die an Lampen sterben, fehlen im Ökosystem als Bestäuber oder Nahrung.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Tiere haben sich evolutionär nicht nur ihre räumliche Nische zum Leben gesucht, sondern auch ihre zeitliche: sie sind entweder tag- oder nachtaktiv. Während künstliches Licht die Aktivitätszeit tagaktiver Tiere verlängern kann, meiden viele nachtaktive Tiere das Licht. 30%% aller Wirbeltiere und 60%% aller Wirbellosen sind nachtaktiv. Durch Lichtverschmutzung verlieren sie den Lebensraum Nacht, mit ungeahnten Folgen für die Biodiversität.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Veränderungen in der Tageslänge sind eine wichtige Information über den Wechsel der Jahreszeiten. Werden die Tage kürzer, legen Tiere sich Fettreserven an oder bereiten die Wanderung in den Süden vor. Pflanzen werfen ihre Blätter ab. Wird der Tag durch künstliches Licht verlängert, bereiten sich Lebewesen nicht ausreichend auf den Winter vor - ein Nachteil, der tödlich sein kann.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Kulturgeschichte</Name>
+                    <Title>Kulturgeschichte</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Licht steht für Fortschritt und Wohlstand. Nach der Einführung des elektrischen Lichts in den 1880er Jahren wurden Städte wie Berlin bewusst in Szene gesetzt, um ihre urbane Modernität zu betonen. Dunkelheit hingegen wurde mit (ländlicher) Rückständigkeit, Armut, Gefahr und Verbrechen verbunden, umso stärker, je heller die Städte wurden. Lichtinszenierungen wurden auch vermehrt für Machtdemonstrationen eingesetzt (z.B. Nürnberger Reichsparteitag).</Text>
+                        </Page>
+                        <Page>
+                            <Text>Art und Ausmaß der Beleuchtung wurden schon früh kritisch gesehen. Man fürchtete die sittliche Verrohung, aber auch Gefahren für den Straßenverkehr (Blendung). Besonders umstritten war die Leuchtreklame, die in den 1910er und 20er Jahren von Heimatschützern als "Verschandelung" des Stadtbildes attackiert wurde. So kam es zu ersten Regelwerken gegen den unkoordinierten Lichterwettstreit.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Gesellschaft</Name>
+                    <Title>Gesellschaft</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Dank künstlicher Beleuchtung leben wir heute in einer 24-Stunden-Gesellschaft. Dies wird mit einer erhöhte Produktivität und höherer Lebensqualität in Verbindung gebracht, da Arbeit, Freizeit und Fortbewegung nicht mehr vom Sonnentag abhängig sind. Dadurch koppeln wir uns aber vom natürlichen Tag-Nacht-Rhythmus mit seinen festen Ruhezeiten ab. Es mehren sich Hinweise, dass dies negative Effekte auf Gesundheit und Lebensqualität hat.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Straßenbeleuchtung wird oft mit Sicherheit in Verbindung gebracht. Die Idee, Beleuchtung abzuschalten, weckt Ängste vor Überfällen. Ob vermehrte Beleuchtung aber wirklich die Kriminalität senkt, ist stark umstritten. Viele Studien zeigen hier keinen Zusammenhang. Auch heißt mehr Licht nicht unbedingt besser sehen; grelles Licht kann eher blenden.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Künstliches Licht bedeutet Kosten. Direkte Kosten entstehen durch Installation, Betrieb und Wartung. Indirekte Kosten entstehen durch gesundheitliche und ökologische Schäden. Daher sollte Licht nicht wahllos eingesetzt werden, sondern Ort, Betriebszeit, Lichtstärke, Spektrum der Lampe sollten durchdacht und den aktuellen Anforderungen werden. So kann Licht effizienter und kostengünstiger genutzt werden.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Lichttechnik</Name>
+                    <Title>Lichttechnik</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Heute verfügen wir über verschiedene Leuchtmittel, die sich in Spektrum und "Lichtfarbe" unterscheiden. Im der Straßenbeleuchtung werden zumeist kaltweise Quecksilberdampflampen, gelbe Natriumdampflampen und kalt- oder warmweiße LEDs eingesetzt. Die "Farbe" des Lichts beeinflußt unsere Wahrnehmung und Stimmung, aber auch unsere Innere Uhr. Auch Tiere und Pflanzen reagieren unterschiedlich auf Farben. Die Lichtfarbe sollte sich also nach dem Ort der Beleuchtung richten.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Mit der richtigen Lampe lässt sich Licht auf die Bereiche bündeln, die beleuchtet werden müssen, während die Umgebung dunkel bleibt. Eine Straße sollte so beleuchtet werde, dass Fahrbahn und Fußweg beleuchtet sind, nicht aber die angrenzenden Häuser. Auch die Beleuchtung von Denkmälern sollte nicht die ganze Umgebung erhellen. Geschickte Ausleuchtung ist ästhetischer, spart Energie und Geld, und ist angenehmer für die Anwohner.</Text>
+                        </Page>
+                        <Page>
+                            <Text>In vielen Wohngebieten wird Licht nicht die ganze Nacht benötigt, da nach Mitternacht nur noch selten Fußgänger unterwegs sind. Manche Orte schalten daher nach Mitternacht ab oder dimmen die Lampen. Wo sporadisch auch spät Verkehr ist helfen LEDs, die sich flexibel ein- und ausschalten. Verbunden mit einem Bewegungsmelder erzeugen sie Licht nur dann, wenn es benötigt wird - die restliche Zeit wird die Dunkelheit erhalten.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+            </SectionList>
+        </Section>
+        <Section>
+            <Name>Tipps für Sternengucker</Name>
+            <Title>Tipps für Sternengucker</Title>
+            <PageList>
+                <Page>
+                    <Text>Mit dieser App können Sie aktiv Teil der weltweiten Forschung werden. Aber Sicherheit geht vor! Wählen Sie sich daher einen sicheren Ort für Ihre Messungen. Bleiben Sie auf der Stelle stehen, wenn Sie einen Stern suchen, damit Sie nicht im Dunklen stolpern. Halten Sie bitte Abstand von Straßen und Kanten. Entscheiden Sie selbst, ob Ihr Kind die App alleine benutzen darf, aber mehr Spaß macht es, wenn Sie gemeinsam die Sterne messen! Auf den folgenden Seiten noch ein paar Tipps, wie Sie Ihre Messwerte verbessern können.</Text>
+                </Page>
+                <Page>
+                    <Text>Unsere Augen benötigen bis zu 30 Minuten, um sich an Dunkelheit anzupassen. Lassen Sie sich deshalb Zeit, um sich an die Lichtverhältnisse in ihrer Umgebung zu gewöhnen. Stellen Sie sich nicht direkt unter eine Lichtquelle, sondern am besten mit dem Rücken dazu. So messen Sie die Himmelshelligkeit, nicht die Lampenhelligkeit. Benutzen Sie die App wenn möglich im Night Mode. So passen sich die Augen besser an die Dunkelheit an und Sie werden nicht geblendet.</Text>
+                </Page>
+                <Page>
+                    <Text>Mit jedem Stern wird die Messung an einem Ort genauer, deshalb messen Sie auch ruhig an verschiedenen Tagen und Zeiten. Außerdem ergänzt jeder Ort, den Sie messen, unsere Weltkarte um einen Punkt. Egal ob in der Stadt oder auf dem Land, egal ob zuhause oder im Urlaub, jede Messung hilft Wissenschaftlern und Interessierten weltweit, die Verbreitung und Veränderung der künstlichen Beleuchtung besser zu verstehen.</Text>
+                </Page>
+            </PageList>
+        </Section>
+        <Section>
+            <Name>Über</Name>
+            <Title>Über</Title>
+                <SectionList>
+                    <Section>
+                        <Name>Impressum</Name>
+                        <Title>Impressum</Title>
+	                    <PageList>
+	                        <Page>
+	                            <Text><![CDATA[
+<p><b>Urheberrecht:</b>
+Forschungsverbund Berlin e.V.
+Rudower Chaussee 17
+12489 Berlin
+Tel.: 030 63 92 - 33 30
+E-Mail: info@fv-berlin.de</p>
+
+<p><b>Entwickler:</b>
+interactive scape GmbH
+Köpenicker Str. 48/49
+10179 Berlin
+Tel.: +49 (0)30 69 80 94-15
+E-Mail: info@interactive-scape.com</p>
+
+<p>David Wasser, Yalçı Ata
+Cosalux GmbH
+Christian-Pleß-Straße 11
+63069 Offenbach am Main
+Tel.: 069 860072260</p>
+
+<p>verlustdernacht@igb-berlin.de<br/>
+globeatnight@noao.edu</p>
+
+<p>- Basiert auf Code vom Sky Map Open Source Projekt
+<i>http://code.google.com/p/stardroid</i>
+- Nutzt 'android-wheel'
+<i>http://code.google.com/p/android-wheel</i>
+- Uses Apache Commons Math (Apache License, Version 2.0, <i>http://www.apache.org/licenses/</i>:
+Copyright 2001-2014 The Apache Software Foundation
+This product includes software developed at
+The Apache Software Foundation (<i>http://www.apache.org/</i>).
+</p>
+
+<p>Version: %version%</p>
+]]></Text>
+	                        </Page>
+	                        <Page>
+		                        <Image>wls_project_info_about_logo_de_</Image>
+                            </Page>
+	                    </PageList>
+                    </Section>
+                    <Section>
+	                    <Name>Förderung</Name>
+                        <Title>Förderung</Title>
+                        <PageList>
+                            <Page>
+                                <Text>Diese App wurde vom Bundesministerium für Bildung und Forschung (BMBF) im Rahmenprogramm "Forschung für nachhaltige Entwicklungen" (FONA) unter dem Förderkennzeichen 033L038A gefördert. Projektbegleitung: Projektträger Jülich / Geschäftsbereich Nachhaltigkeit und Klima</Text>
+                                <Image>wls_sponsorship_logo_de_</Image>
+                            </Page>
+                        </PageList>
+                    </Section>
+                </SectionList>
+        </Section>
+    </SectionList>
+</Information>

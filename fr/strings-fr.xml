@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Please add  translation_description="" attributes to Strings to assist the translators. -->
+<string name="app_name" translation_description="Nom de l\'application">Ciel en péril</string>
+<string name="ecliptic">Écliptique</string>
+<string name="zenith">ZÉNITH</string>
+<string name="nadir">NADIR</string>
+<string name="north">NORD</string>
+<string name="east">EST</string>
+<string name="west">OUEST</string>
+<string name="south">SUD</string>
+<string name="sun">Soleil</string>
+<string name="moon">Lune</string>
+<string name="mercury">Mercure</string>
+<string name="venus">Vénus</string>
+<string name="earth">Terre</string>
+<string name="mars">Mars</string>
+<string name="jupiter">Jupiter</string>
+<string name="saturn">Saturne</string>
+<string name="uranus">Uranus</string>
+<string name="neptune">Neptune</string>
+<string name="pluto">Pluton</string>
+<string name="andromeda" translation_description="Name of the Andromeda constellation">Andromède</string>
+<string name="aquarius" translation_description="Name of the Aquarius constellation">Verseau</string>
+<string name="aquila" translation_description="Name of the Aquila constellation">Aigle</string>
+<string name="aries" translation_description="Name of the Aries constellation">Bélier</string>
+<string name="auriga" translation_description="Name of the Auriga constellation">Cocher</string>
+<string name="bootes" translation_description="Name of the Bootes constellation">Bouvier</string>
+<string name="cancer" translation_description="Name of the Cancer constellation">Cancer</string>
+<string name="canis_major" translation_description="Name of the Canis Major constellation">Grand Chien</string>
+<string name="capricornus" translation_description="Name of the Capricornus constellation">Capricorne</string>
+<string name="carina" translation_description="Name of the Carina constellation">Carène</string>
+<string name="cassiopeia" translation_description="Name of the Cassiopeia constellation">Cassiopée</string>
+<string name="centaurus" translation_description="Name of the Centaurus constellation">Centaure</string>
+<string name="cetus" translation_description="Name of the Cetus constellation">Baleine</string>
+<string name="crux" translation_description="Name of the Crux constellation">Croix du Sud</string>
+<string name="cygnus" translation_description="Name of the Cygnus constellation">Cygne</string>
+<string name="draco" translation_description="Name of the Draco constellation">Dragon</string>
+<string name="eridanus" translation_description="Name of the Eridanus constellation">Éridan</string>
+<string name="gemini" translation_description="Name of the Gemini constellation">Gémeaux</string>
+<string name="grus" translation_description="Name of the Grus constellation">Grue</string>
+<string name="hercules" translation_description="Name of the Hercules constellation">Hercule</string>
+<string name="hydrus" translation_description="Name of the Hydrus constellation">Hydre mâle</string>
+<string name="leo" translation_description="Name of the Leo constellation">Lion</string>
+<string name="libra" translation_description="Name of the Libra constellation">Balance</string>
+<string name="lupus" translation_description="Name of the Lupus constellation">Loup</string>
+<string name="lyra" translation_description="Name of the Lyra constellation">Lyre</string>
+<string name="ophiuchus" translation_description="Name of the Ophiuchus constellation">Serpentaire</string>
+<string name="orion" translation_description="Name of the Orion constellation">Orion</string>
+<string name="pavo" translation_description="Name of the Pavo constellation">Paon</string>
+<string name="pegasus" translation_description="Name of the Pegasus constellation">Pégase</string>
+<string name="perseus" translation_description="Name of the Perseus constellation">Persée</string>
+<string name="phoenix" translation_description="Name of the Phoenix constellation">Phénix</string>
+<string name="pisces" translation_description="Name of the Pisces constellation">Poissons</string>
+<string name="piscis_austrinus" translation_description="Name of the Piscis Austrinus constellation">Poisson austral</string>
+<string name="puppis" translation_description="Name of the Puppis constellation">Poupe</string>
+<string name="sagittarius" translation_description="Name of the Sagittarius constellation">Sagittaire</string>
+<string name="scorpius" translation_description="Name of the Scorpius constellation">Scorpion</string>
+<string name="taurus" translation_description="Name of the Taurus constellation">Taureau</string>
+<string name="tucana" translation_description="Name of the Tucana constellation">Toucan</string>
+<string name="ursa_major" translation_description="Name of the Ursa Major constellation">Grande Ourse</string>
+<string name="ursa_minor" translation_description="Name of the Ursa Minor constellation">Petite Ourse</string>
+<string name="vela" translation_description="Name of the Vela constellation">Voiles</string>
+<string name="virgo" translation_description="Name of the Virgo constellation">Vierge</string>
+<string name="capricorn" translation_description="Name of the Capricorn constellation">Capricorne</string>
+<string name="southern_cross" translation_description="Name of the Southern Cross constellation">Croix du Sud</string>
+<string name="scorpio" translation_description="Name of the Scorpio constellation">Scorpion</string>
+<string name="little_dipper" translation_description="Name of the Little Dipper constellation">Petite Ourse</string>
+<string name="little_bear" translation_description="Name of the Little Bear constellation">Petite Ourse</string>
+<string name="big_dipper" translation_description="Name of the Big Dipper constellation">Grande Ourse</string>
+<string name="great_bear" translation_description="Name of the Great Bear constellation">Grande Ourse</string>
+<string name="plough" translation_description="Name of the Plough constellation">Grande Ourse</string>
+<string name="sirius" translation_description="Name of the Star Sirius">Sirius</string>
+<string name="canopus" translation_description="Name of the Star Canopus">Canopus</string>
+<string name="arcturus" translation_description="Name of the Star Arcturus">Arcturus</string>
+<string name="rigel_kentaurus_a" translation_description="Name of the Star Rigel Kentaurus A">Rigel Kentaurus A</string>
+<string name="vega" translation_description="Name of the Star Vega">Véga</string>
+<string name="rigel" translation_description="Name of the Star Rigel">Rigel</string>
+<string name="procyon" translation_description="Name of the Star Procyon">Procyon</string>
+<string name="betelgeuse" translation_description="Name of the Star Betelgeuse">Bételgeuse</string>
+<string name="achernar" translation_description="Name of the Star Achernar">Achernar</string>
+<string name="hadar" translation_description="Name of the Star Hadar">Hadar</string>
+<string name="capella" translation_description="Name of the Star Capella">Capella</string>
+<string name="altair" translation_description="Name of the Star Altair">Altaïr</string>
+<string name="acrux" translation_description="Name of the Star Acrux">Acrux</string>
+<string name="aldebaran" translation_description="Name of the Star Aldebaran">Aldébaran</string>
+<string name="spica" translation_description="Name of the Star Spica">Spica</string>
+<string name="antares" translation_description="Name of the Star Antares">Antarès</string>
+<string name="pollux" translation_description="Name of the Star Pollux">Pollux</string>
+<string name="fomalhaut" translation_description="Name of the Star Fomalhaut">Fomalhaut</string>
+<string name="deneb" translation_description="Name of the Star Deneb">Deneb</string>
+<string name="regulus" translation_description="Name of the Star Regulus">Regulus</string>
+<string name="adhara" translation_description="Name of the Star Adhara">Adhara</string>
+<string name="shaula" translation_description="Name of the Star Shaula">Shaula</string>
+<string name="alnath" translation_description="Name of the Star Alnath">Alnath</string>
+<string name="alnilam" translation_description="Name of the Star Alnilam">Alnilam</string>
+<string name="alnair" translation_description="Name of the Star Alnair">Alnair</string>
+<string name="alioth" translation_description="Name of the Star Alioth">Alioth</string>
+<string name="mirphak" translation_description="Name of the Star Mirphak">Mirphak</string>
+<string name="kaus_australis" translation_description="Name of the Star Kaus Australis">Kaus Australis</string>
+<string name="dubhe" translation_description="Name of the Star Dubhe">Dubhe</string>
+<string name="alkaid" translation_description="Name of the Star Alkaid">Alkaïd</string>
+<string name="alhena" translation_description="Name of the Star Alhena">Alhena</string>
+<string name="castor" translation_description="Name of the Star Castor">Castor</string>
+<string name="polaris" translation_description="Name of the Star Polaris">Étoile polaire</string>
+<string name="alphard" translation_description="Name of the Star Alphard">Alphard</string>
+<string name="hamal" translation_description="Name of the Star Hamal">Hamal</string>
+<string name="algieba" translation_description="Name of the Star Algieba">Algieba</string>
+<string name="diphda" translation_description="Name of the Star Diphda">Diphda</string>
+<string name="nunki" translation_description="Name of the Star Nunki">Nunki</string>
+<string name="mirach" translation_description="Name of the Star Mirach">Mirach</string>
+<string name="alpheratz" translation_description="Name of the Star Alpheratz">Alpheratz</string>
+<string name="saiph" translation_description="Name of the Star Saiph">Saiph</string>
+<string name="kochab" translation_description="Name of the Star Kochab">Kochab</string>
+<string name="rasalhague" translation_description="Name of the Star Rasalhague">Rasalhague</string>
+<string name="algol" translation_description="Name of the Star Algol">Algol</string>
+<string name="denebola" translation_description="Name of the Star Denebola">Denebola</string>
+<string name="alphekka" translation_description="Name of the Star Alphekka">Alphekka</string>
+<string name="etamin" translation_description="Name of the Star Etamin">Etamin</string>
+<string name="kaus" translation_description="Name of the Star Kaus">Kaus</string>
+<string name="shedir" translation_description="Name of the Star Shedir">Shedir</string>
+<string name="caph" translation_description="Name of the Star Caph">Caph</string>
+<string name="izar" translation_description="Name of the Star Izar">Izar</string>
+<string name="merak" translation_description="Name of the Star Merak">Merak</string>
+<string name="enif" translation_description="Name of the Star Enif">Enif</string>
+<string name="ankaa" translation_description="Name of the Star Ankaa">Ankaa</string>
+<string name="phad" translation_description="Name of the Star Phad">Phad</string>
+<string name="alderamin" translation_description="Name of the Star Alderamin">Alderamin</string>
+<string name="scheat" translation_description="Name of the Star Scheat">Scheat</string>
+<string name="markab" translation_description="Name of the Star Markab">Markab</string>
+<string name="menkar" translation_description="Name of the Star Menkar">Menkar</string>
+<string name="arneb" translation_description="Name of the Star Arneb">Arneb</string>
+<string name="unukalhai" translation_description="Name of the Star Unukalhai">Unukalhai</string>
+<string name="algenib" translation_description="Name of the Star Algenib">Algenib</string>
+<string name="vindemiatrix" translation_description="Name of the Star Vindemiatrix">Vindemiatrix</string>
+<string name="alcyone" translation_description="Name of the Star Alcyone">Alcyone</string>
+<string name="dog_star" translation_description="Name of the Dog Star (Sirius)">Étoile du Chien</string>
+<string name="north_star" translation_description="Name of the North Star">Étoile du Nord</string>
+<string name="pole_star" translation_description="Name of the (North) Pole Star">Étoile polaire</string>
+
+<!-- PRIVACY DIALOG STUFF -->
+<string name="wls_dialog_privacy_title">Conditions d’utilisation  et politique de confidentialité</string>
+<string name="wls_dialog_privacy_text">Les scientifiques ont besoin de connaître votre position et l’heure à laquelle vous effectuez vos mesures afin de les interpréter. C’est pourquoi cette application a besoin d’accéder au GPS de votre appareil afin de transmettre la position exacte de vos observations.</string>
+<string name="wls_dialog_privacy_policy_text">En appuyant sur accepter, vous déclarez que vous comprenez notre politique de confidentialité et nos conditions d’utilisation, et que vous êtes d\'accord avec celles-ci.\n\n„Loss of the Night“\n
+	<!-- DO NOT TRANSLATE TERMS AND CONDITIONS -->
+	Politiques d’utilisation et de confidentialité\n
+1. Introduction\n
+Merci d’utiliser l’application „Ciel en péril“. En employant cette application, vous prenez part à un projet de recherche international qui vise à cartographier la pollution lumineuse et à comprendre ses effets. De plus, cette application vous renseignera sur la lumière artificielle et ses effets. Les informations que vous y trouverez proviennent du réseau de recherche interdisciplinaire “Ciel en péril” basé en Allemagne. Les chercheurs de ce réseau étudient les effets de l’illumination artificielle nocturne sur l’environnement, la santé et la société. Plus d’informations sur le sujet peuvent être trouvées à l’adresse www.verlustdernacht.de/about-us.html.
+Toutes les observations recueillies seront envoyées électroniquement et de façon anonyme à la banque de données Globe at Night (www.GLOBEatNight.org). Elles y seront utilisées pour compiler une carte mondiale d’illumination du ciel et étudier son évolution au cours du temps. Des prises de mesures ont été faites depuis 2006, mais l’utilisation de l’application pour recueillir des données n’a débuté qu’en 2013.
+L’application “Ciel en péril” est rendue accessible par le Forschungsverbund Berlin e.V., Rudower Chaussee 17, 12489 Berlin, Allemagne. Pour utiliser l’application “ Ciel en péril”, vous devez lire attentivement les conditions d’utilisation suivantes et les accepter. Vous acceptez ces conditions lorsque vous appuyez sur « Accepter » ou lorsque vous utilisez l’application. Si vous n’acceptez pas toutes les conditions d’utilisation, vous ne pouvez pas utiliser cette application.\n\n
+2. Utilisation de l’application „Ciel en péril“ \n
+Configuration minimale requise : cette application a été conçue pour être utilisée avec le système d’exploitation Android 4.0 ou des versions plus récentes. Il fonctionne probablement sur les versions d’Android 2.1 et supérieures. La résolution minimale requise est mdpi.
+Frais de tierce partie : les mesures prises par l’application sont transmises par courriel (email) à la base de données Globe at Night. Pour ces envois, des frais provenant de tierces parties, par exemple de fournisseurs de service Internet ou de téléphonie mobile, peuvent s’appliquer. Ces frais sont assumés par la personne utilisatrice du téléphone intelligent (Smart phone) et sont sous sa responsabilité.
+Mises à jour : à l’occasion, des mises à jour peuvent être nécessaires pour de nouvelles fonctions, extensions ou versions du logiciel.
+Personnes mineures : en acceptant les politiques d’utilisations, vous confirmez que vous êtes majeur (18 ans ou plus). Pour les personnes d’âge mineur, le consentement des deux parents est nécessaire pour utiliser l’application.\n
+Utilisation extérieure : l’application est conçue pour être utilisée de nuit, à l’extérieur. Avant d’utiliser cette application, vous devez examiner de jour l’emplacement où vous souhaitez effectuer vos observations pour détecter des risques éventuels. Avant votre prise de mesure de nuit, examinez à nouveau le site pour détecter toute menace qui pourrait s’être ajoutée. Les risques potentiels incluent, mais ne se limitent pas à, des anfractuosités ou des objets pouvant causer des collisions ou des chutes, la circulation de véhicules, des attaques animales, des intempéries ou des risques reliés à la criminalité. Un deuxième adulte doit être présent lors de l’utilisation de l’application de façon à détecter toute nouvelle menace qui pourrait apparaître et à avertir la personne utilisant l’application afin qu’elle cesse ses activités et se mette hors de danger.\n\n
+3. Autorisation en lien avec l’application\n
+3.1 Précision de la localisation (GPS ou via le système réseau)\n
+Permet à l’application d’obtenir votre emplacement précis en utilisant le système de positionnement global (Global Positioning System – GPS) ou votre positionnement réseau par l’entremise des tours de réception de téléphonie mobile ou des systèmes sans fil (wifi). Ces options de localisation doivent être activées et disponibles dans votre région pour permettre à votre appareil de les utiliser. L’application peut utiliser ces services pour déterminer votre position, ce qui peut causer l’utilisation d’énergie supplémentaire de la pile d’alimentation de votre appareil.\n
+3.2 Accès complet au réseau\n
+Permet à l’application de créer une connexion réseau et d’utiliser des protocoles réseau personnalisés. Le navigateur ainsi que d’autres applications rendent possible l’envoi de données par Internet. Cette permission n’est pas requise pour envoyer des données par Internet.\n
+3.3 Lire les fonctionnalités du téléphone et les identifiants\n
+Permet à l’application d’accéder aux fonctionnalités de l’appareil téléphonique. L’application peut déterminer le numéro de téléphone et l’identifiant de l’appareil même lorsqu’un appel est en cours.\n
+3.4 Identifiant\n
+Au démarrage, l’application générera un numéro d’identifiant anonyme qui sera transmis avec les mesures. Aucune donnée personnelle ne sera acheminée à moins que vous nous autorisiez à transmettre votre numéro d’identifiant et votre adresse courriel.\n 
+3.5 Modifier ou supprimer le contenu de votre périphérique de stockage USB, modifier ou supprimer le contenu de votre carte SD. \n
+Permet à l’application d’écrire sur votre clé USB. Permet à l’application d’écrire sur votre carte SD.\n
+3.6 Modifier les paramètres système\n
+Permettre à l’application de modifier les données de paramètre du système. Des applications malveillantes peuvent corrompre la configuration du système.\n\n
+4. Protection des données\n
+Votre localisation précise est requise afin de permettre la prise de mesure et la compilation des données servant à construire la carte de pollution lumineuse. Si vous n’acceptez pas de transmettre votre emplacement, vos mesures ne pourront pas être utilisées.
+Aucune information personnelle supplémentaire n’est requise pour la prise de mesure. Cependant, votre âge ou une éventuelle déficience visuelle peuvent influencer votre capacité à évaluer la luminosité du ciel. Conséquemment, ces informations sont utiles pour l’analyse des mesures. Si vous acceptez de transmettre ces données, elles seront conservées de manière anonyme dans chacun des ensembles de mesures. Si vous refusez de fournir ces informations, les mesures seront conservées avec un numéro d’identifiant anonyme généré au hasard.
+Si nous remarquions quelque chose de particulier dans vos mesures, nous pourrions vouloir vous contacter par courriel (email). Ni votre adresse courriel (email) ni aucune information personnelle ne seront distribuées à une tierce partie ou utilisées à des fins de publicité.\n\n
+5. Exclusion de garantie\n
+Cette application est fournie gratuitement. Les mesures recueillies seront utilisées dans le projet international de science collaborative GLOBEatNight (www.globeatnight.org) et seront rendues disponibles sur internet en préservant votre anonymat. Aucune garantie : DANS LA MESURE MAXIMALE AUTORISéE PAR LA LOI : LE LOGICIEL EST FOURNI“AS IS” ET UTILISÉ À VOS PROPRES RISQUES ET PÉRILS, SANS AUCUNE GARANTIE QUELLE QU’ELLE SOIT.
+</string>
+<string name="wls_dialog_privacy_positive">Accepter</string>
+<string name="wls_dialog_privacy_negative">Refuser</string>
+
+<!-- iOS does not allow apps to close themselves therefore a 'Decline' button is not feasible. -->
+
+<!-- This button is only active once the checkbox below has been selected. -->
+
+<!-- GPS DIALOG STUFF -->
+<string name="wls_dialog_gps_disabled_title">GPS</string>
+<string name="wls_dialog_gps_disabled_text">Votre GPS n\'est pas activé. Merci de l\'activer dans les réglages de votre appareil pour continuer.</string>
+<string name="wls_dialog_gps_disabled_positive">Démo</string>
+<string name="wls_dialog_gps_disabled_negative">Aller aux "Réglages"</string>
+
+<!-- PROGRESS BAR DIALOG STUFF -->
+<string name="wls_dialog_gps_waiting_title">GPS</string>
+<string name="wls_dialog_gps_waiting_message">Recherche de votre position actuelle. \nVisible Satellites: %1$d\nAccuracy: %2$s</string>
+
+<!-- iOS does not provide a means for determining the number of GPS satellites -->
+
+<!-- therefore the message needs to be adapted accordingly -->
+<string name="wls_dialog_gps_waiting_cancel">Annuler</string>
+
+<!-- MAGNETIC FIELD TOO STRONG DIALOG -->
+<string name="wls_dialog_magnetic_field_title">CHAMP MAGNÉTIQUE</string>
+<string name="wls_dialog_magnetic_field_text">Le champ magnétique environnant est trop fort et interfère avec les mesures.</string>
+<string name="wls_dialog_magnetic_field_negative">Annuler</string>
+<string name="wls_dialog_magnetic_field_positive">Démo</string>
+
+<!-- SYSTEM TIME INCORRECT DIALOG -->
+<string name="wls_dialog_system_time_title">HEURE DU SYSTÈME</string>
+<string name="wls_dialog_system_time_text">L\'heure du système diffère de façon trop importante de celle du GPS. Merci de corriger l\'heure du système.</string>
+<string name="wls_dialog_system_time_negative">Aller aux "Réglages"</string>
+<string name="wls_dialog_system_time_positive">Démo</string>
+
+<!-- CALIBRATE COMPASS DIALOG -->
+<string name="wls_dialog_calibrate_compass_title">CALIBRAGE DE LA BOUSSOLE</string>
+<string name="wls_dialog_calibrate_compass_text">La précision de la boussole est trop faible. Pour calibrer la boussole, déplacer votre téléphone mobile en un mouvement décrivant le chiffre "8". L\'observation des étoiles débutera aussitôt qu\'une précision suffisante de la boussole sera atteinte.</string>
+<string name="wls_dialog_calibrate_compass_negative">Annuler</string>
+<string name="wls_dialog_calibrate_compass_positive">Démo</string>
+
+<!-- SKY MAP ACTIVITY STUFF -->
+<string name="wls_sky_map_button_invisible">Non visible ou incertain</string>
+<string name="wls_sky_map_button_search_again">Chercher à nouveau</string>
+<string name="wls_sky_map_button_visible">L’étoile est visible</string>
+<string name="wls_sky_map_button_start_measurement">Commencer à observer les étoiles</string>
+<string name="wls_sky_map_toast_initializing">Localisation de toutes les étoiles &gt; 45 degrés au-dessus de l’horizon...</string>
+<string name="wls_sky_map_toast_press_back_twice">Appuyer sur BACK à nouveau pour sortir</string>
+<string name="wls_sky_map_toast_no_more_stars_to_choose">Il n’y a plus d’étoiles à sélectionner!</string>
+<string name="wls_sky_map_toast_choose_star_with_magnitude">Sélectionner l’étoile avec l’intensité%s</string>
+<string name="wls_sky_map_toast_please_find_next_star">Trouver l’étoile suivante s’il vous plaît</string>
+
+<!-- STAR NOT VISIBLE DIALOG STUFF -->
+<string name="wls_star_not_visible_title">ÉTOILE NON VISIBLE</string>
+<string name="wls_star_not_visible_message">Vous avez choisi l\'option "Non visible ou visibilité incertaine". Merci de nous dire quelle en est la raison.</string>
+<string name="wls_star_not_visible_object">Un objet cache l\'étoile</string>
+<string name="wls_star_not_visible_weather">Les nuages bloquent la vue</string>
+<string name="wls_star_not_visible_invisible">L’étoile n’est pas visible</string>
+<string name="wls_star_not_visible_barely_visible">Visible uniquement du coin de l\'oeil, en vision périphérique</string>
+<string name="wls_star_not_visible_unsure">Je ne suis pas sur de la voir</string>
+<string name="wls_star_not_visible_button_submit">Soumettre</string>
+<string name="wls_star_visible_button_back">Retour</string>
+
+<!-- STAR VISIBLE DIALOG STUFF -->
+<string name="wls_star_visible_title">ÉTOILE VISIBLE</string>
+<string name="wls_star_visible_barely_visible">L\'étoile est à peine visible</string>
+<string name="wls_star_visible_visible">L\'étoile est clairement visible</string>
+<string name="wls_star_visible_button_submit">Soumettre</string>
+
+<!-- MEASURE MORE STARS DIALOGS -->
+<string name="wls_dialog_8stars_title">Vous avez mesuré 8 étoiles!</string>
+<string name="wls_dialog_8stars_message" formatted="false">Avec l\'observation de 8 étoiles, vos mesures de la luminosité du ciel ont une incertitude statistique d\'environ 23 %. Voulez-vous quitter l\'application maintenant ou préférez-vous mesurer 3 étoiles supplémentaires pour réduire l\'incertitude à environ 20 %?</string>
+<string name="wls_dialog_8stars_button_option">Ne plus montrer ce message</string>
+<string name="wls_dialog_8stars_button_negative">Quitter</string>
+<string name="wls_dialog_8stars_button_positive">Mesurer 3 étoiles supplémentaires</string>
+<string name="wls_dialog_11stars_title">Vous avez mesuré 11 étoiles!</string>
+<string name="wls_dialog_11stars_message" formatted="false">Avec l\'observation de 11 étoiles, vos mesures de la luminosité du ciel ont une incertitude statistique d\'environ 20 %. Voulez-vous quitter  l\'application maintenant ou préférez-vous mesurer 3 étoiles supplémentaires pour réduire l\'incertitude à environ 17 %?</string>
+<string name="wls_dialog_11stars_button_negative">Quitter</string>
+<string name="wls_dialog_11stars_button_positive">Mesurer 3 étoiles supplémentaires</string>
+<string name="wls_dialog_14stars_title">Vous avez mesuré 14 étoiles!</string>
+<string name="wls_dialog_14stars_message" formatted="false">Avec l\'observation de 14 étoiles, vos mesures de la luminosité du ciel ont une incertitude statistique d\'environ 17 %. Voulez-vous quitter  l\'application maintenant ou préférez-vous mesurer 3 étoiles supplémentaires pour réduire l\'incertitude à environ 14 %?</string>
+<string name="wls_dialog_14stars_button_negative">Quitter</string>
+<string name="wls_dialog_14stars_button_positive">Mesurer 3 étoiles supplémentaires</string>
+<string name="wls_dialog_17stars_title">Vous avez mesuré 17 étoiles!</string>
+<string name="wls_dialog_17stars_message" formatted="false">Avec l\'observation de 17 étoiles, vos mesures de la luminosité du ciel ont une incertitude statistique d\'environ 14 %. Voulez-vous quitter  l\'application maintenant ou voulez-vous continuer pour réduire encore davantage l\'incertitude statistique?  Si vous continuez, vous pouvez quitter à tout moment en allant au menu principal.</string>
+<string name="wls_dialog_17stars_button_negative">Quitter</string>
+<string name="wls_dialog_17stars_button_positive">Continuer</string>
+
+<!-- CUSTOM DIALOG STUFF -->
+<string name="wls_custom_dialog_positive">Accepter</string>
+<string name="wls_custom_dialog_negative">Refuser</string>
+<string name="wls_custom_dialog_neutral">Neutre</string>
+
+<!-- TOO BRIGHT ENVIRONMENT DIALOG STUFF -->
+<string name="wls_dialog_too_bright_title">Il ne fait pas assez sombre</string>
+<string name="wls_dialog_too_bright_text_short">C\'est le crépuscule ou la Lune est présente. Ce n\'est pas le meilleur temps pour la prise de mesures.</string>
+<string name="wls_dialog_too_bright_text_long">C\'est le crépuscule ou la Lune est présente. Ce n\'est pas le meilleur temps pour la prise de mesures. La prochaine date d\'observation possible est le %1$s.</string>
+
+<!-- Identical to the above string however mind the different formatting characters required for iOS -->
+<string name="wls_dialog_too_bright_positive">Mesurer quand même</string>
+<string name="wls_dialog_too_bright_neutral">Mettre la date à mon calendrier</string>
+<string name="wls_dialog_too_bright_negative">Annuler les mesures</string>
+
+<!-- TOO BRIGHT ENVIRONMENT DIALOG ADD TO CALENDAR IOS STUFF -->
+
+<!-- on iOS it is not possible to send the user to the calendar app -->
+
+<!-- therefore we implement our own interface for inserting a calendar event -->
+<string name="wls_dialog_too_bright_add_to_calendar_button_negative">Non</string>
+<string name="wls_dialog_too_bright_add_to_calendar_button_positive">Oui</string>
+<string name="wls_dialog_too_bright_add_to_calendar_button_ok">OK</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text">Voulez-vous ajouter %@ à votre calendrier et régler une alarme pour cet événement?</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text_success">Ajouté avec succès au calendrier</string>
+<string name="wls_dialog_too_bright_add_to_calendar_text_failed">L\'ajout au calendrier a échoué</string>
+<string name="wls_dialog_too_bright_add_to_calendar_title">Ajouter l\'événement au calendrier</string>
+<string name="wls_dialog_too_bright_add_to_calendar_success_title">L\'ajout de l\'événement au calendrier est réussi</string>
+<string name="wls_dialog_too_bright_add_to_calendar_failed_title">L\'ajout de l\'événement au calendrier a échoué</string>
+<string name="wls_dialog_too_bright_add_to_calendar_no_access_title">Calendrier inaccessible</string>
+<string name="wls_dialog_too_bright_add_to_calendar_no_access_text">Calendrier inaccessible! Autoriser l\'accès à l\'aide du menu de réglage des paramètres de confidentialité de votre téléphone.</string>
+
+<!-- START MENU ACTIVITY STUFF -->
+<string name="wls_start_menu_title">MENU PRINCIPAL</string>
+<string name="wls_start_menu_item_projectinfos">Information sur le projet</string>
+<string name="wls_start_menu_item_me">Données utilisateur</string>
+<string name="wls_start_menu_item_demo">Didacticiel</string>
+<string name="wls_start_menu_item_start_observation">Débuter l\'observation d\'étoiles</string>
+<string name="wls_start_menu_item_news">Nouvelles</string>
+<string name="wls_start_menu_item_sqm">Transmettre les données du SQM</string>
+<string name="wls_start_menu_item_to_nightmode">Mode nuit</string>
+<string name="wls_start_menu_item_to_daymode">Mode jour</string>
+<string name="wls_start_menu_item_feedback">Commentaires</string>
+<string name="wls_start_menu_item_quit">Quitter</string>
+<string name="wls_start_menu_item_close_menu">Fermer le menu</string>
+
+<!-- INTRO ACTIVITY STUFF -->
+<string name="wls_info_title">INFORMATION</string>
+<string name="wls_info_headline">La pollution lumineuse ne nuit pas seulement à l’observation des étoiles; elle constitue aussi un gaspillage de ressources financières et énergétiques, en plus de menacer la vie sauvage. Certaines études indiquent même que l’éclairage artificiel pourrait affecter la santé humaine.</string>
+<string name="wls_info_text">En utilisant cette application, vous aidez les scientifiques à connaître l’empreinte lumineuse de votre région. Que vous soyez au milieu d’une grande ville ou loin des lumières artificielles, des chercheurs du monde entier attendent votre précieuse contribution!\n\nCette application a été développée grâce au support financier du programme-cadre de « Recherche pour le développement durable » (FONA) du ministère fédéral de la Recherche et de l’Enseignement (BMBF). Le code de référence est le 033L038A. Le projet a été recommandé par le gestionnaire de projet Jülich/Environnement et développement durable, Protection du climat.</string>
+<string name="wls_info_button_more_information_text">Plus d’informations</string>
+<string name="wls_info_button_next_text">Suivant</string>
+<string name="wls_info_checkbox_text">Ne plus montrer</string>
+
+<!-- USAGE ACTIVITY STUFF -->
+<string name="wls_usage_title">UTILISER</string>
+<string name="wls_usage_headline">La capacité des gens à bien voir les étoiles dépend de leur vue et de leur âge. Si vous vous enregistrez, vous pouvez fournir ces informations avec un nom d’utilisateur et votre adresse courriel (email), rendant les données plus utiles pour la recherche. Autrement, les données seront transmises avec un identifiant anonyme, mais sans votre nom ni informations personnelles. Ce projet est une initiative de recherche en science participative. Par conséquent, vos données anonymes seront publiquement accessibles en ligne.</string>
+<string name="wls_usage_text">Si vous préférez vous enregistrer plus tard ou pas du tout, vous êtes invités à continuer en tant qu\'invité.</string>
+<string name="wls_usage_button_register_now_text">S’enregistrer maintenant</string>
+<string name="wls_usage_button_continue_as_guest_text">Continuer en tant qu’invité</string>
+<string name="wls_usage_checkbox_text">Ne plus afficher</string>
+
+<!-- ME ACTIVITY STUFF -->
+<string name="wls_me_title">DONNEES UTILISATEUR</string>
+<string name="wls_me_additional_title">MES MESURES</string>
+<string name="wls_me_text">Sur cet écran, vous pouvez voir vos précédentes mesures, consulter vos informations utilisateur et les changer.</string>
+<string name="wls_me_button_my_measurements">Mes mesures</string>
+<string name="wls_me_button_user_information">Informations utilisateur</string>
+<string name="wls_me_button_settings">Réglages</string>
+
+<!-- USER DATA ACTIVITY STUFF -->
+<string name="wls_user_data_title">INFORMATIONS UTILISATEUR</string>
+<string name="wls_user_data_headline">Merci de fournir les informations suivantes :</string>
+<string name="wls_user_data_item_age">Âge</string>
+<string name="wls_user_data_item_no_drawback">Pas de déficience visuelle</string>
+<string name="wls_user_data_item_glasses">Lunettes</string>
+<string name="wls_user_data_item_lenses">Lentilles de contact</string>
+<string name="wls_user_data_item_laser">Chirurgie oculaire au laser</string>
+<string name="wls_user_data_item_experience">Expérience en observation d\'étoiles</string>
+<string name="wls_user_data_item_experience_none">Pas ou peu d\'expérience</string>
+<string name="wls_user_data_item_experience_some">Je connais plusieurs étoiles et constellations</string>
+<string name="wls_user_data_item_experience_amateur">Astronome amateur</string>
+<string name="wls_user_data_button_save">Enregistrer</string>
+<string name="wls_user_data_text">Votre courriel (email) ne sera ni rendu public ni utilisé à des fins publicitaires.</string>
+<string name="wls_user_data_name">Nom d’utilisateur:</string>
+<string name="wls_user_data_email">Courriel (email):</string>
+<string name="wls_user_data_button_text">Enregistrer</string>
+<string name="wls_user_data_email_not_ok">Courriel (email) non valide!</string>
+<string name="wls_user_data_username_not_ok_whitespace">Le nom d’utilisateur contient des espaces</string>
+<string name="wls_user_data_username_not_ok_empty">Le nom d’utilisateur est vide</string>
+<string name="wls_user_data_edittext_hint">optionel</string>
+
+<!-- BAD CONDITIONS DIALOG STUFF -->
+<string name="wls_dialog_bad_conditions_title">Merci d’essayer un autre emplacement</string>
+<string name="wls_dialog_bad_conditions_text">Il ne semble pas possible d’apercevoir d’étoiles depuis votre emplacement. Veuillez chercher un emplacement plus approprié et essayer à nouveau.</string>
+<string name="wls_dialog_bad_conditions_button_ok">OK</string>
+
+<!-- NO MORE STARS DIALOG STUFF -->
+
+<!-- Dialog displayed once no more stars are eligible for observation -->
+<string name="wls_dialog_no_more_stars_title">Aucune étoile détectée</string>
+<string name="wls_dialog_no_more_stars_text">Aucune étoile à observer détectée </string>
+<string name="wls_dialog_no_more_stars_button_ok">OK</string>
+
+<!-- FINISHED DIALOG STUFF -->
+<string name="wls_dialog_measurement_finished_title">Merci pour vos mesures!</string>
+<string name="wls_dialog_measurement_finished_text">Vos observations correspondent à une amplitude de %1$.1f à l\'oeil nu, et elles sont cohérentes sur une gamme d\'environ %2$.1f (plus petite est la valeur, mieux c\'est). Essayer à nouveau une autre nuit et voyer si vous obtenez le même résultat!\n\nCette nuit vous pouvez voir environ %3$d des étoiles dans le ciel.\n\nNotre objectif est de documenter les changements de luminosité du ciel dans le temps; merci de prendre d\'autres mesures à partir de ce même emplacement dans le futur.</string>
+
+<!-- Identical to the above string however mind the different formatting characters required for iOS -->
+<string name="wls_dialog_measurement_finished_button_ok">OK</string>
+
+<!-- ME MY MEASURES ACTIVITY STUFF -->
+<string name="wls_me_my_measures_subtitle">Mes mesures</string>
+<string name="wls_me_my_measures_no_history_subtitle">Pas d’historique</string>
+<string name="wls_me_my_measures_list_delete_history">Supprimer l’historique</string>
+<string name="wls_me_my_measures_list_visible">visible</string>
+<string name="wls_me_my_measures_list_not_visible">n’a pas été trouvée à cause de</string>
+<string name="wls_me_my_measures_list_unnamed">Sans nom</string>
+<string name="wls_me_my_sqm_transfers_subtitle">Mes mesures SQM</string>
+<string name="wls_me_my_sqm_transfers_sqm_value">Valeur SQM:</string>
+
+<!-- VISIBILITY REASONS -->
+<string name="wls_visiblity_not_found_reason_obstruction">obstruction</string>
+<string name="wls_visiblity_not_found_reason_weather">conditions météorologiques</string>
+<string name="wls_visiblity_not_found_reason_unsure">incertain</string>
+<string name="wls_visiblity_not_found_reason_not_visible">non visible</string>
+<string name="wls_visiblity_not_found_reason_barely_visible">visible du coin de l\'oeil, en vision périphérique</string>
+<string name="wls_visiblity_found_reason_barely_visible">à peine visible</string>
+<string name="wls_visiblity_found_reason_found">trouvé</string>
+
+<!-- ME MY MEASURES LIST VIEW STUFF -->
+<string name="wls_me_my_measures_list_date">Date</string>
+<string name="wls_me_my_measures_list_number_of_stars_measured">Nombre d’étoiles observées :</string>
+<string name="wls_me_my_measures_list_limiting_magnitude">Grandeur limitante</string>
+<string name="wls_me_my_measures_list_sqm_value">SQM:</string>
+<string name="wls_me_my_measures_list_star_name">Nom de l\'étoile:</string>
+<string name="wls_me_my_measures_list_star_ra">RA</string>
+<string name="wls_me_my_measures_list_star_dec">DEC</string>
+<string name="wls_me_my_measures_list_star_mag">Mag</string>
+<string name="wls_me_my_measures_list_transmission_status">État de la transmission</string>
+<string name="wls_me_my_measures_list_transmission_status_pending">en attente</string>
+<string name="wls_me_my_measures_list_transmission_status_sent">envoyé avec succès</string>
+<string name="wls_me_my_measures_list_measured_stars">Étoiles</string>
+<string name="wls_me_my_measures_list_gpsposition">Position GPS</string>
+<string name="wls_me_my_measures_list_gps_lat">Latitude</string>
+<string name="wls_me_my_measures_list_gps_lon">Longitude</string>
+<string name="wls_me_my_measures_list_time">Heure</string>
+
+<!-- DELETE HISTORY DIALOG STUFF -->
+<string name="wls_dialog_delete_title">Supprimer l’historique</string>
+<string name="wls_dialog_delete_text">Voulez-vous vraiment supprimer l’historique?</string>
+<string name="wls_dialog_delete_negative">Non</string>
+<string name="wls_dialog_delete_positive">Oui</string>
+
+<!-- WEATHER CONDITIONS ACTIVITY STUFF -->
+<string name="wls_weather_conditions_title">CONDITIONS MéTéO</string>
+<string name="wls_weather_conditions_text">Veuillez sélectionner les conditions météo qui décrivent le mieux le temps qu’il fait maintenant.</string>
+<string name="wls_weather_conditions_button_continue">Continuer</string>
+<string name="wls_weather_conditions_button_cancel">Annuler</string>
+
+<!-- WEATHER CONDITIONS SPINNER STUFF -->
+<string name="wls_weather_conditions_clear">Clair</string>
+<string name="wls_weather_conditions_partly_cloudy">Partiellement nuageux</string>
+<string name="wls_weather_conditions_cloudy">Nuageux</string>
+<string name="wls_weather_conditions_rain">Pluie</string>
+<string name="wls_weather_conditions_fog">Brouillard</string>
+<string name="wls_weather_conditions_snow">Neige au sol</string>
+
+<!-- NEWS ACTIVITY STUFF -->
+<string name="wls_news_title">NOUVELLES</string>
+<string name="wls_news_failed">N’a pas pu récupérer de nouvelles.</string>
+<string name="wls_news_no_network">Pas de réseau disponible. Réessayer plus tard.</string>
+
+<!-- PROJECT INFO ACTIVITY STUFF -->
+<string name="wls_project_info_main_title">INFORMATION PROJET</string>
+
+<!-- DO YOU HAVE AN SQM DIALOG -->
+<string name="wls_dialog_have_sqm_title">Est-ce que vous avez un SQM?</string>
+<string name="wls_dialog_have_sqm_message">Le Sky Quality Meter (SQM) est un outil servant à mesurer la luminance du ciel nocturne.\n\nSi vous avez un SQM, vous pouvez utiliser cette page afin d’envoyer les données vers notre serveur.</string>
+<string name="wls_dialog_have_sqm_button_negative">Annuler</string>
+<string name="wls_dialog_have_sqm_button_positive">Continuer</string>
+
+<!-- SUBMIT SQM ACTIVITY STUFF -->
+<string name="wls_submit_sqm_title">TRANSMETTRE LES DONNéES DU SQM</string>
+<string name="wls_submit_sqm_text">Le Sky Quality Meter (SQM) est un outil servant à mesurer la luminance du ciel nocturne.\n\nSi vous avez un SQM, vous pouvez utiliser cette page afin d’envoyer les données vers notre serveur.</string>
+<string name="wls_submit_sqm_button_text">Transmettre</string>
+<string name="wls_submit_sqm_decimal">.</string>
+<string name="wls_dialog_submit_sqm_title">Transmettre SQM</string>
+<string name="wls_dialog_submit_sqm_text">Merci. Les données vont être envoyées.</string>
+<string name="wls_dialog_submit_sqm_button_text">OK</string>
+
+<!-- SQM value is input using a numberpad keyboard on iOS-->
+
+<!-- which do not have an explicit close button  -->
+
+<!-- therefore we need our own -->
+
+<!-- CANCEL MEASUREMENT DIALOG STUFF -->
+<string name="wls_dialog_cancel_measurement_title">Annuler la mesure</string>
+<string name="wls_dialog_cancel_measurement_text">Vous êtes sur le point d’annuler vos mesures avant d’avoir mesuré suffisamment d’étoiles pour avoir un ensemble de données utilisable. Êtes-vous certain?</string>
+<string name="wls_dialog_cancel_measurement_button_quit">Quitter</string>
+<string name="wls_dialog_cancel_measurement_button_continue_measuring">Continuer la mesure</string>
+
+<!-- DIALOG STUFF FOR "ACTIVE MEASUREMENT" -->
+<string name="wls_dialog_active_measurement_title">Mesure interrompue</string>
+<string name="wls_dialog_active_measurement_message">Vous n’avez pas terminé la mesure en cours. Vous pouvez continuer de mesurer les étoiles ou quitter l’application.</string>
+<string name="wls_dialog_active_measurement_continue_measuring">Continuer à mesurer</string>
+<string name="wls_dialog_active_measurement_quit_app">Quitter</string>
+
+<!-- PROGRESS BAR DIALOG STUFF -->
+<string name="wls_dialog_progress_bar_title">GPS</string>
+<string name="wls_dialog_progress_bar_message">Recherche de votre emplacement actuel.</string>
+<string name="wls_dialog_progress_bar_cancel">Annuler</string>
+
+<!-- CANCELED GPS FIX DIALOG STUFF -->
+<string name="wls_dialog_gps_fix_canceled_title">Recherche GPS interrompue</string>
+<string name="wls_dialog_gps_fix_canceled_message">Votre mesure ne peut pas être correctement évaluée sans connaître votre emplacement exact.\n\nSi vous voulez seulement essayer la recherche d’étoiles, vous pouvez utiliser le mode "Démo".</string>
+<string name="wls_dialog_gps_fix_canceled_positive_button">Démo</string>
+<string name="wls_dialog_gps_fix_canceled_negative_button">Annuler la mesure</string>
+
+<!-- ADD TO CALENDAR DIALOG -->
+<string name="wls_dialog_add_to_calendar_title">Observation d\'étoiles</string>
+<string name="wls_dialog_add_to_calendar_message">C\'est le moment idéal pour mesurer la brillance des étoiles.</string>
+
+<!-- SETTINGS -->
+<string name="wls_settings_show_starnames">Voir le nom des étoiles</string>
+<string name="wls_settings_show_constellations">Voir les constellations</string>
+<string name="wls_settings_stars_big_font">Augmenter la taille de la police pour le nom des étoiles et des constellations</string>
+<string name="wls_settings_stars_dim">Diminution de l\'intensité de l\'écran pour l\'observation d\'étoiles</string>
+<string name="wls_settings_show_information">Montrer le menu d\'information au démarrage</string>
+<string name="wls_settings_show_usage">Montrer le menu d\'utilisation au démarrage</string>
+<string name="wls_settings_button_save">Enregistrer</string>
+
+<!-- GENERAL STUFF -->
+<string name="wls_general_link_to_igb">www.igb-berlin.de</string>
+<string name="wls_general_not_implemented_yet">Non encore couvert par l’application!</string>
+
+<!-- RSS FEED LINK -->
+<string name="wls_rss_feed_link">http://lossofthenight.blogspot.com/feeds/posts/default?alt=rss</string>
+
+<!-- FEEDBACK STUFF -->
+<string name="wls_feedback_title">COMMENTAIRES</string>
+<string name="wls_feedback_send_email">Envoyer vos commentaires ou vos questions par courriel (email)</string>
+<string name="wls_feedback_rate_us">Évaluer cette application</string>
+<string name="wls_feedback_email_chooser_title">Envoyer le courriel (emai)</string>
+<string name="wls_feedback_email_address">vdn-app@igb-berlin.de</string>
+<string name="wls_feedback_email_subject">Commentaires pour Ciel en péril</string>
+<string name="wls_feedback_email_text"></string>
+
+<!-- EMAIL COULD NOT BE SENT DIALOG ON IOS -->
+</resources>

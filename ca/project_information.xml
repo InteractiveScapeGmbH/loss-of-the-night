@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- NOTE: This is pure XML (not interpreted as a resource file) so you can't use the "\uxxxx" notation for Unicode
+            characters. The file is UTF-8 encoded, so you can just use the appropriate characters. Backslash "\" is not
+            used as an escape character. Only the following characters need to be escaped within the text: &amp; &gt; &lt;
+-->
+<Information xmlns="http://www.interactive-scape.com/wls_project_information">
+    <Title>INFORMACIÓ DEL PROJECTE</Title>
+    <SectionList>
+        <Section>
+            <Name>Pèrdua de la Nit</Name>
+            <Title>Xarxa d'Investigació "Pèrdua de la Nit"</Title>
+            <PageList>
+                <Page>
+                    <Text>Solem associar amb la llum conceptes positius, com la seguretat, la prosperitat i la modernitat. No obstant això, alhora que proporciona beneficis incalculables, la il·luminació moderna també té el seu costat negatiu. Sabem que la llum, sobretot mitjançant el ritme natural de llum i foscor, influeix en el comportament i la fisiologia de gairebé tots els éssers vius. Però, com i per què cada espècie, els humans en particular, reaccionen a la llum artificial és encara en gran part desconeguda.</Text>
+                </Page>
+                <Page>
+                    <Text>La vida sense llum artificial seria difícil d'imaginar avui en dia, però quines són les conseqüències? "Pèrdua de la Nit" investiga no només els efectes ecològics, cultural, socioeconòmics i els efectes sobre la salut humana, sinó també les raons per l'augment de la il·luminació a la nit. Això ajudarà a desenvolupar millors conceptes d'il·luminació i tecnologies sostenibles per reduir al mínim els efectes negatius de la llum artificial, però sense renunciar a cap de les principals avantatges.</Text>
+                </Page>
+                <Page>
+                    <Text>La xarxa de recerca està finançada pel Ministeri Federal d'Educació i Recerca (BMBF) amb el programa marc "Investigació per al Desenvolupament Sostenible" (FONA) i per la ciutat de Berlín, Departament d'Economia, Tecnologia i Recerca.</Text>
+                </Page>
+                <Page>
+                    <Text>La xarxa de recerca està formada per científics, astrònoms i enginyers d'àmbits socials i naturals de les següents institucions i organitzacions:</Text>
+                    <Image>wls_project_info_logos_</Image>
+                </Page>
+            </PageList>
+        </Section>
+        <Section>
+            <Name>GLOBE at Night</Name>
+            <Title>GLOBE at Night</Title>
+            <PageList>
+                <Page>
+                    <Text>Twinkle twinkle little star - tell me where you are! Les ciutats són tan brillants que milers d'estrelles ja no són visibles. Especificar el nombre d'estrelles que són visibles en un lloc és un indicador de la contaminació lumínica. Des de 2006, milers de persones de tot el món han comptat les estrelles. Globe at Night (www.GLOBEatNight.org) recull aquestes dades, que es tradueixen en els mapes de brillantor de cel. Així és com podem avaluar la contaminació lumínica.</Text>
+                </Page>
+                <Page>
+                    <Text>Ajuda a mesurar la contaminació lumínica! Cada nova dada ajuda a avaluar la contaminació lumínica. L'obtenció de moltes dades des d'un lloc permeten que els resultats siguin més precisos i mesures des d'una nova ubicació ajuden a ampliar els mapes de brillantor de cel. Ja sigui al centre de la ciutat o en una àrea remota, tot compta! Atès que aquesta aplicació funciona a tot el món i fins i tot sense connexió a Internet podem avaluar la contaminació lumínica siguem on siguem, fins i tot de vacances!</Text>
+                </Page>
+                <Page>
+                    <Text>En comparar les dades de diferents anys podem detectar els canvis. És per això que és molt útil prendre mesures freqüentment en un mateix lloc. Per exemple, fora de casa. Utilitzant les mesures obtingudes ens permeten estudiar l'evolució de la contaminació lumínica. Aquestes dades poden ser utilitzades en futurs estudis per entendre els efectes de la il·luminació en horari nocturn, per exemple, l'activitat econòmica d'una regió, la distribució de les espècies animals i fins i tot l'aparició de certes malalties.</Text>
+                </Page>
+            </PageList>
+        </Section>
+        <Section>
+            <Name>Contaminació Lumínica</Name>
+            <Title>Contaminació Lumínica</Title>
+            <SectionList>
+                <Section>
+                    <Name>Què és la contaminació lumínica?</Name>
+                    <Title>Què és la contaminació lumínica?</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Des de la introducció de la llum elèctrica les nostres nits són cada vegada més brillants. La il·luminació representa el 19% del consum elèctric, el que equival a 1900 milions de tones de CO2. Les principals fonts de llum són l'enllumenat dels carrers, els edificis, i la publicitat exterior. Només l'enllumenat públic consumeix 114 TWh l'any a tot el món. Part d'aquesta llum no s'utilitza, projectant-se sense rumb cap al cel. Una reducció de la contaminació lumínica permetria un estalvi d'energia i diners.</Text>
+                        </Page>
+                        <Page>
+                            <Text>La contaminació lumínica no només consumeix energia, sinó que pot afectar molts organismes vius. Fins i tot estan apareixent alguns indicis de problemes de salut. Per tant, les mesures s'han d'obtenir especialment a les zones residencials i d'importància ecològica. L'objectiu no és apagar tota la llum, sinó que es tracta de repensar i remodelar el nostre ús de la llum. Làmpades sense pèrdues de llum, sistemes de control d'il·luminació segons demanda i la utilització del correcte espectre de llum poden ser contribucions importants per a minimitzar el problema.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Astronomia</Name>
+                    <Title>Astronomia</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Des de temps prehistòrics les estrelles han acompanyat els éssers humans en la seva evolució: en moltes cultures han estat comparades amb deïtats i el seu origen forma part dels mites i llegendes. A la pràctica, les estrelles han estat la base per a la nostra la navegació marítima i per a la mesura del temps. Les societats modernes gaudeixen de la bellesa de les estrelles i, a través d'elles, se'ls recorda que estem en un petit racó de l'Univers. Però per més del 70% de la població mundial, el cel nocturn és ara massa brillant per veure la Via Làctia.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Per als astrònoms la brillantor del cel és un problema important. Per exemple ja el 1913, l'Observatori de Berlín es va veure obligat a traslladar-se a Potsdam, atès que el cel nocturn sobre la capital era massa brillant. Avui en dia els astrònoms han de viatjar a les zones més remotes per trobar un cel fosc. Però molts astrònoms aficionats no es poden permetre aquest luxe. També moltes persones grans veuen com es perd el cel estrellat de la seva infància, mentre que la majoria dels nens d'avui no són capaços de gaudir de la increïble visió d'un cel nocturn real.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Cronobiologia/Salut</Name>
+                    <Title>Cronobiologia/Salut</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Diversos processos bàsics del nostre cos segueixen els canvis rítmics de llum i foscor. Aquests inclouen el ritme son-vigília, la producció de diverses hormones i el cicle diari de la temperatura corporal i del ritme cardíac. Aquest ritme del cos està controlat per un rellotge intern, que en els mamífers com els humans es pot trobar a l'hipotàlem, una part del cervell mitjà. Aquest sincronitza totes les cèl·lules del nostre cos amb el ritme dia-nit.</Text>
+                        </Page>
+                        <Page>
+                            <Text>La llum li diu al nostre rellotge intern si és de dia o de nit. En la foscor, es produeix l'hormona melatonina. Aquesta fa que una persona se senti cansada i posa el cos a descansar - el batec del cor i la respiració s'alenteixen, i la nostra temperatura corporal baixa. Però la llum artificial suprimeix la producció de la melatonina. En particular, la llum blanca freda dels LED i pantalles d'ordinador ens manté desperts - el nostre rellotge intern rep senyals equivocades i el nostre ritme intern es veu pertorbat pel que podríem no ser capaços de dormir el temps necessari o amb la profunditat de son adequada .</Text>
+                        </Page>
+                        <Page>
+                            <Text>Si no es produeix suficient melatonina pot provocar insomni. També podria debilitar significativament el sistema immunològic ja que la melatonina activa les defenses enfront a agents patògens com un antioxidant i lluita contra les cèl·lules cancerígenes. També se sospita de connexions d'aquest fet amb la diabetis i l'obesitat. Per tant, dormir en un lloc fosc està lluny de ser un luxe, sinó que és una part essencial per a una vida saludable.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Ecologia</Name>
+                    <Title>Ecologia</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Molts animals utilitzen la llum de la lluna i de les estrelles per orientar-se, però la llum artificial eclipsa la llum natural de la nit - amb conseqüències molt evidents. Milions d'aus moren a causa de col·lisions amb estructures il·luminades. Les tortugues recent nascudes no migren cap a la immensitat del mar, sinó cap la il luminació artificial interior, on s'assequen i moren. La innombrable quantitat d'insectes que moren en els llums significa que l'ecosistema perd el seu paper vital com pol·linitzadors o font d'alimentació.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Els animals van evolucionar per ocupar no només un espai concret, sinó també l'hora del dia a la que es troben actius: molts són o bé diürns o bé nocturns. Mentre que la il·luminació artificial pot estendre el període d'activitat dels animals diürns, molts animals nocturns han d'evitar la llum. Un 30% de totes les espècies de vertebrats i un 60% dels invertebrats són nocturns. Amb la contaminació lumínica perden el seu hàbitat nocturn, un problema amb conseqüències encara imprevistes per a la biodiversitat.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Els canvis en la durada del dia són elements claus derivats del canvi d'estacions. A mesura que els dies es fan més curts, les plantes perden les fulles mentre que els animals preparen les seves reserves de greix o bé la seva migració. Si el dia s'estén per la llum artificial, els organismes estan mal preparats per a l'hivern - un desavantatge que pot resultar fatal.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Elements Culturals</Name>
+                    <Title>Elements Culturals</Title>
+                    <PageList>
+                        <Page>
+                            <Text>La llum artificial indica el progrés i la prosperitat. Després de la introducció de la llum elèctrica a la dècada de 1880, ciutats com Berlín presumien deliberadament de la modernitat urbana. A mesura que les ciutats són cada vegada més lluminoses, la foscor ha arribat a associar-se amb el subdesenvolupament, la pobresa, i el perill. Políticament, la il·luminació també s'utilitza cada vegada més com una exhibició de poder (per exemple, al Ral·li de Nuremberg durant el Tercer Reich).</Text>
+                        </Page>
+                        <Page>
+                            <Text>Però també hi va haver veus crítiques de la sobre-il·luminació de la nit. Particularment polèmiques van ser les llums de neó que van aparèixer en la dècada de 1910 i 1920. Vistes com una monstruositat en el paisatge, aquestes llums també van impulsar els temors de la depravació moral i, de manera més pràctica, el seu efecte sobre el trànsit. Una oposició similar va conduir a la primera llei de la il·luminació.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Societat</Name>
+                    <Title>Societat</Title>
+                    <PageList>
+                        <Page>
+                            <Text>A causa de la il·luminació artificial ara vivim en una societat de 24 hores. Associem a la llum una major productivitat i una millor qualitat de vida ja que ara el treball, l'oci i els viatges ja no depenen de les estacions o de l'hora. Però això implica un certa pèrdua del nostre cicle de vida natural de dia i nit amb períodes fixes de descans. Cada vegada hi ha més evidències que això té efectes negatius en la nostra salut.</Text>
+                        </Page>
+                        <Page>
+                            <Text>L'enllumenat públic està sovint associat amb la seguretat. La idea d'apagar algunes llums desperta la por a la foscor. El tema de si l'augment de la il·luminació redueix la delinqüència segueix sent molt controvertida. Són pocs els estudis que mostren una correlació entre la il·luminació i el crim, i les grans diferències en la taxa de delinqüència entre diferents ciutats no són degudes a la il·luminació. En alguns casos, l'augment dels nivells de llum en realitat pot fer que ens hi veiem pitjor ja que ens enlluernen.</Text>
+                        </Page>
+                        <Page>
+                            <Text>La llum artificial genera una despesa econòmica. Les despeses directes inclouen la instal·lació, operació i manteniment. Mentre que els indirectes sorgeixen en l'àmbit de la salut i del medi ambient. Per tant, la llum no s'ha d'utilitzar de manera indiscriminada. La ubicació, temps de funcionament, la intensitat de la llum i l'espectre de la llum han de ser considerats i s'han d'ajustar per adaptar-se a les necessitats reals. Això permet que la llum sigui utilitzada d'una manera eficient i sostenible.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Tecnologia de la Il·luminació</Name>
+                    <Title>Tecnologia de la Il·luminació</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Avui comptem amb diverses fonts de llum, totes amb un diferent "color". Per a l'enllumenat públic, les làmpades blanques de vapor de mercuri, les làmpades de sodi de color groc, i els LEDs blancs són els més utilitzats. El "color" de la llum influeix en la nostra percepció i l'estat d'ànim, així com en el nostre rellotge intern. Els animals i plantes reaccionen de manera diferent als colors. La il·luminació, per tant, ha de ser l'adequada per al medi ambient.</Text>
+                        </Page>
+                        <Page>
+                            <Text>Amb les làmpades adequades podem il·luminar l'àrea que necessitem mantenint les altres àrees fosques. Un carrer ha d'estar il·luminada de manera que la calçada i la vorera s'il·luminin de manera uniforme, però sense il·luminar les finestres de les cases o il·luminar els espais naturals propers. De la mateixa manera, per il·luminar un edifici no cal il·luminar el cel i tota la zona que l'envolta. La il·luminació intel·ligent és estètica, estalvia energia i diners, i és més útil per a les persones i la natura.</Text>
+                        </Page>
+                        <Page>
+                            <Text>En moltes zones residencials, la llum no és necessària en tota la nit. De fet, algunes comunitats atenuen o apaguen la il·luminació després de la mitjanit. Utilitzant detectors de moviment, les llums LED poden proporcionar una il·luminació molt flexible que pot encendre's quan sigui necessària, preservant la bellesa de la nit.</Text>
+                        </Page>
+                    </PageList>
+                </Section>
+            </SectionList>
+        </Section>
+        <Section>
+            <Name>Consells pels observadors</Name>
+            <Title>Consells pels observadors</Title>
+            <PageList>
+                <Page>
+                    <Text>Aquesta aplicació forma part d'una investigació a nivell mundial sobre la llum. Això és molt interessant, però la seguretat és el primer! Per les seves mesures, escolliu si us plau un lloc segur. No es mogui durant la recerca d'una estrella, per evitar que no ensopegui o impacti amb alguna cosa. Mantingui's allunyat dels carrers i de desnivells. Decideixi vostè mateix si els seus fills poden utilitzar l'aplicació pel seu compte, però és més divertit observar les estrelles junts! Heus aquí alguns consells de com fer millor les seves mesures.</Text>
+                </Page>
+                <Page>
+                    <Text>Els ulls humans necessiten uns 30 minuts per adaptar-se a la foscor. Prengui suficient temps per acostumar-se a la intensitat de la llum en la seva ubicació. No es col·loqui directament sota una font de llum, és millor tractar de mantenir-la a la seva esquena. D'aquesta manera, es pot mesurar la brillantor del cel i no la brillantor de la font de llum. Sempre que sigui possible, feu servir l'aplicació en el mode nit, perquè els vostres ulls puguin adaptar-se a la foscor i no quedar enlluernats.</Text>
+                </Page>
+                <Page>
+                    <Text>Amb cada estel que observi augmentarà la precisió dels mesuraments. Per tant el millor és mesurar en el mateix lloc en diferents moments i dies. A més, cada ubicació nova afegeix un nou punt al nostre mapa del món. No importa si esteu en una gran ciutat o al camp, si vostè està a casa o de vacances. Cada mesura d'ajuda als investigadors i persones interessades en la matèria del món sencer, a comprendre l'abast i l'evolució de la il·luminació artificial.</Text>
+                </Page>
+            </PageList>
+
+        </Section>
+        <Section>
+            <Name>Quant a</Name>
+            <Title>Quant a</Title>
+            <SectionList>
+                <Section>
+                    <Name>Imprint</Name>
+                    <Title>Imprint</Title>
+                    <PageList>
+                        <Page>
+                            <Text><![CDATA[
+<p><b>Copyright:</b>Forschungsverbund Berlin e.V.Rudower Chaussee 1712489 BerlinTel.: 030 63 92 - 33 30E-Mail: info@fv-berlin.de</p>
+<p><b>Desenvolupador:</b>interactive scape GmbHKöpenicker Str. 48/4910179 BerlinTel.: +49 (0)30 69 80 94-15E-Mail: info@interactive-scape.com</p><p>David Wasser, Yalçı Ata
+Cosalux GmbH
+Christian-Pleß-Straße 11
+63069 Offenbach am Main
+Tel.: 069 860072260</p><p>verlustdernacht@igb-berlin.deglobeatnight@noao.edu</p>
+<p>CATALÀ. La traducció ha estat realitzada per Salvador J. Ribas, Parc Astronòmic Montsec.</p>
+<p>- Basat en codi procedent de The Sky Map open source project <i>http://code.google.com/p/stardroid</i>- Uses 'android-wheel' <i>http://code.google.com/p/android-wheel</i>
+- Uses Apache Commons Math (Apache License, Version 2.0, <i>http://www.apache.org/licenses/</i>:
+Copyright 2001-2014 The Apache Software Foundation
+This product includes software developed at
+The Apache Software Foundation (<i>http://www.apache.org/</i>).
+</p>
+<p>Versió: %version%</p>]]></Text>
+                        </Page>
+                        <Page>
+                            <Image>wls_project_info_about_logo_en_</Image>
+                        </Page>
+                    </PageList>
+                </Section>
+                <Section>
+                    <Name>Sponsors</Name>
+                    <Title>Sponsors</Title>
+                    <PageList>
+                        <Page>
+                            <Text>Aquesta aplicació ha estat desenvolupada amb el suport econòmic del Ministeri Federal d'Educació i Investigació (BMBF) amb el programa marc "Investigació per al Desenvolupament Sostenible" (FONA), amb el codi de projecte 033L038A. El proyecte ha estat supervisat per la Direcció de Projectes Jülich / Medi Ambient i Sostenibilitat, Protecció del Clima</Text>
+                            <Image>wls_sponsorship_logo_en_</Image>
+                        </Page>
+                    </PageList>
+                </Section>
+            </SectionList>
+        </Section>
+    </SectionList>
+</Information>
