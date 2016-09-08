@@ -149,11 +149,11 @@ Thank you very much for using the „Loss of the Night“ App. With this app, yo
 All collected data will be sent anonymously electronically to the database of Globe at Night (www.GLOBEatNight.org). Here it will be used to compile worldwide maps of sky brightness. The goal of this citizen science projects is to globally map the nocturnal illumination of the sky and its change over time. Measurements have been collected since 2006, but the app-based research started in 2013.
 The app “Loss of the Night” is provided by the Forschungsverbund Berlin e.V., Rudower Chaussee 17, 12489 Berlin, Germany. To use the app “Loss of the Night” you need to read the following terms and conditions carefully and accept them. If you do not accept them completely, you are not allowed to use this app.\n\n
 2 Usages of the „Loss of the Night“ App\n
-Basic requirements: The app can be used on devices running android 4.0 or higher. The required resolution is mdpi or higher.
+Basic requirements: The app can be used on devices running iOS or Android 4.0 or higher (in some cases, the app works on earlier android versions). The required resolution is mdpi or higher.
 Third-party charges: Measurements are transmitted as email to the Globe at Night database. For this, charges by third parties, e.g. internet or mobile service provider might apply. Any such charges are the responsibility of the smart phone user.
 Updates: Infrequently, software updates might be necessary for patches, new functions, plug-ins or new software versions.
-Underaged persons: When accepting these terms and conditions you confirm that you are 18 years or older. For under aged users, the consent of both parents is necessary.\n
-Outdoor use: The app is designed to be used outdoors at night. Before using the app at night you must examine the intended use area during daytime to ensure there are no potential hazards, and re-examine the area for potential hazards at night. Potential hazards could include, but are not limited to, tripping, traffic, animals, severe weather, and crime. A second adult must be present for the duration of app use, in order to watch for the development of any new hazards during app use, and alert the user to halt app use in the case that a potential hazard exists.\n\n
+Underaged persons: When accepting these terms and conditions you confirm that you are 18 years or older. For under aged users, the consent of all parents is necessary.\n
+Outdoor use: The app is designed to be used outdoors at night. Before using the app at night you must examine the intended use area during daytime to ensure there are no potential hazards, and re-examine the area for potential hazards at night. Potential hazards could include, but are not limited to, tripping, traffic, animals, severe weather, and crime. A second adult must be present for the duration of app use, in order to watch for the development of any new hazards during app use, and alert the user to halt app use in the case that a potential hazard exists or develops.\n\n
 3 Authorisation of the app\n
 3.1 Precise location (GPS and network-based)\n
 Allows the app to get your precise location using the Global Positioning System (GPS) or network location sources such as mobile towers and Wi-Fi. These location services must be turned on and available to your device for the app to use them. Apps may use this to determine where you are, and may consume additional battery power.\n
@@ -170,9 +170,11 @@ Allows the app to modify the system\'s settings data. Malicious apps may corrupt
 4 Privacy\n
 For the measurements and for compiling the maps on brightness, your precise location is needed. Without your permission to transmit your location, your measurements cannot be used.
 No further personal information is needed for the measurements. However, age or visual impairments can influence the ability to evaluate sky brightness. Therefore these information are helpful in the analysis of the measurements. If the user agrees to submit these data, they will be stored anonymously with each data set. If the user does not agree to submit this information, measurements will be stored with a randomly generated, anonymous ID-number.
-If we notice something peculiar about your measurements we may like to contact you via email. Neither the email-address nor any personal information will be distributed to a third party nor used for marketing purposes.\n\n
-5 Disclaimer of warranty\n
-This app is provided free of charge. The collected measurements will be part of the international citizien science project GLOBEatNight (www.globeatnight.org) and will be available anonymously on the internet. No Warranties: TO THE MAXIMUM EXTENT PERMITTED BY LAW: THE SOFTWARE, IS  PROVIDED “AS IS” AND USED AT YOUR SOLE RISK WITH NO WARRANTIES WHATSOEVER.
+A single "thank you" message is generally sent to users that register their emails. In unusual cases we may also contact you via email if we notice something peculiar about your measurements or have reason to contact users in a particular region. Neither the email-address nor any personal information will be distributed to a third party nor used for marketing purposes.\n\n
+5 Data policy\n
+The collected measurements will be part of the international citizien science project Globe at Night (www.globeatnight.org), and will be made freely available anonymously on the Internet under the terms of the Open Data Commons Open Database License (ODbL) at My Sky at Night (www.myskyatnight.com). \n\n
+6 Disclaimer of warranty\n
+This app is provided free of charge. No Warranties: TO THE MAXIMUM EXTENT PERMITTED BY LAW: THE SOFTWARE, IS  PROVIDED “AS IS” AND USED AT YOUR SOLE RISK WITH NO WARRANTIES WHATSOEVER.
 </string>
 <string name="wls_dialog_privacy_positive">Accept</string>
 <string name="wls_dialog_privacy_negative">Decline</string>
